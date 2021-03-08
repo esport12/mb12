@@ -1,21 +1,62 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgyukle.com/2019/01/03/1oXOM.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgyukle.com/2019/01/03/1ojVy.png" group-title="SPORT TV 4",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" group-title="SPORT TV5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEGUNDOS-LINKS" tvg-logo="" ,[B][COLOR lime]=====SEGUNDOS-LINKS=====[/B][/COLOR]
-https://
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8?per
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8?per
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 3 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8?per
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/yqvvvx1433963709.png" group-title="BTSPORTHD ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8?per
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<channels>
+<channel>
+<name>[COLOR lime][B][/COLOR][/B][COLOR yellow][B]PORTUGAL /ESPORTES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/VA9C2Do.jpg</thumbnail>
+<fanart>https://i.imgur.com/pDDFBlw.jpg</fanart>
+<externallink>===KGXFNM332SXROS33AXZVME3LOGTVFBDZCGZROOLZ6CXFNBL36CZEGCL36CZEGUT46GYNOF3L2WXNMOB54WSROO33GGZVMTL5EW2BNUL2OGX4OBT46SXIHTD4IH2BN</externallink>
+<info></info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<channels>
+<channel>
+<name>[COLOR lime][B][/COLOR][/B][COLOR yellow][B]BRASIL/ESPORTES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/VA9C2Do.jpg</thumbnail>
+<fanart>https://i.imgur.com/pDDFBlw.jpg</fanart>
+<externallink>=A3SWZFMSTY2SXROS33AXZVME3LOGTVFBDZCGZROOLZ6CXFNBL36CZEGCL36CZEGUT46GYNOF3L2WXNMOB54WSROO33GGZVMTL5EW2BNUL2OGX4OBT46SXIHTD4IH2BN</externallink>
+<info></info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<channels>
+<channel>
+<name>[COLOR lime][B][/COLOR][/B][COLOR yellow][B]MUNDIAL/ESPORTES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/VA9C2Do.jpg</thumbnail>
+<fanart>https://i.imgur.com/pDDFBlw.jpg</fanart>
+<externallink>====Q2NGNTLIHZ5NQ346SZVMJT46WTVMULYGWXYOUD4SWX4NJTLEW2BNUL2OGX4MS332C3ROQL26SXIHTD4IH2BN</externallink>
+<info></info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<channels>
+<channel>
+<name>[COLOR lime][B][/COLOR][/B][COLOR yellow][B]MUNDIAL-M3U/ESPORTES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/VA9C2Do.jpg</thumbnail>
+<fanart>https://i.imgur.com/pDDFBlw.jpg</fanart>
+<externallink>===IEZMOVD4SHMNOPZ5CGZ5FN33GGXYNJTYKG2NOBD46SXIHTD4IH2BN</externallink>
+<info></info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<channels>
+<channel>
+<name>[COLOR lime][B][/COLOR][/B][COLOR yellow][B]ALTERNADOS/ESPORTES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/VA9C2Do.jpg</thumbnail>
+<fanart>https://i.imgur.com/pDDFBlw.jpg</fanart>
+<externallink>===KXKRMU2VOHZMKPZ5CGZ5FN33GGXYNJTYKG2NOBD46SXIHTD4IH2BN</externallink>
+<info></info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<channels>
+<channel>
+<name>[COLOR lime][B][/COLOR][/B][COLOR yellow][B]YouTube/ESPORTES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/VA9C2Do.jpg</thumbnail>
+<fanart>https://i.imgur.com/pDDFBlw.jpg</fanart>
+<externallink>===IURNKZLUQTIVOPZ5CGZ5FN33GGXYNJTYKG2NOBD46SXIHTD4IH2BN</externallink>
+<info></info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
