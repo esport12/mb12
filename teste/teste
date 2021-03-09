@@ -1,132 +1,191 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩  PORTUGAL SPORT  ۩๑๑۩๑๑۩" tvg-logo="" group-title="PORTUGAL",۩๑๑۩๑๑۩  PORTUGAL SPORT  ۩๑๑۩๑๑۩
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1313.m3u8
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11" tvg-logo="" group-title="PORTUGAL",PT: CANAL 11
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/23691.m3u8
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11 HD" tvg-logo="" group-title="PORTUGAL",PT: CANAL 11 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/23692.m3u8
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11 FHD" tvg-logo="" group-title="PORTUGAL",PT: CANAL 11 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/16311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT PT: BENFICA TV 1 FHD" tvg-logo="" group-title="FULL LIVE SPORT",SPORT PT: BENFICA TV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/6782.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT PT: SPORT TV   FHD" tvg-logo="" group-title="FULL LIVE SPORT",SPORT PT: SPORT TV   FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/6789.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT PT: SPORT TV 1 FHD" tvg-logo="" group-title="FULL LIVE SPORT",SPORT PT: SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/6788.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT PT: SPORT TV 2 FHD" tvg-logo="" group-title="FULL LIVE SPORT",SPORT PT: SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/6787.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT PT: SPORT TV 3 FHD" tvg-logo="" group-title="FULL LIVE SPORT",SPORT PT: SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/6786.m3u8
-#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SPORT PT: SPORT TV 4 FHD" tvg-logo="" group-title="FULL LIVE SPORT",SPORT PT: SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/6785.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT PT: SPORT TV 5 FHD" tvg-logo="" group-title="FULL LIVE SPORT",SPORT PT: SPORT TV 5 FHD
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV+" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV+
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7628.m3u8
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV+ HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV+ HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/14901.m3u8
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV+  FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV+  FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1073.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7638.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 (extra1)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 (extra1)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/56571.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7637.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1148.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD (extra1)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 FHD (extra1)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/70681.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7636.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2  (extra1)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2  (extra1)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/56572.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7635.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/67661.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 UHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2 UHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1149.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7634.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7633.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1150.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7632.m3u8
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/88652.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1152.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7630.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/7629.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1154.m3u8
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV NBA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/67662.m3u8
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV NBA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/88653.m3u8
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV NBA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/16627.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sport 1" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sport 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/14600.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sport 1 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sport 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/21434.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports 1 FHD VIP" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 1 FHD VIP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/13628.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sport 2 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sport 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/21435.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sport 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sport 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/14599.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 FHD VIP" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 2 FHD VIP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/13627.m3u8
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: Eleven Sport 3" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sport 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/21436.m3u8
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: Eleven Sport 3 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sport 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/14598.m3u8
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: Eleven Sports 3 FHD VIP" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 3 FHD VIP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/13626.m3u8
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: Eleven Sports 4" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/70244.m3u8
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: Eleven Sports 4 FHD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/13625.m3u8
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: Eleven Sport 5 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sport 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/14596.m3u8
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: Eleven Sports 5 FHD VIP" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 5 FHD VIP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/13624.m3u8
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: Eleven Sport 6" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sport 6
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/88902.m3u8
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: Eleven Sport 6 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sport 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/14595.m3u8
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: Eleven Sports 6 FHD VIP" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 6 FHD VIP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/13623.m3u8
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="PORTUGAL",PT: SPORTING TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1155.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV SD" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/14582.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV HD" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/24128.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD (NOS)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV FHD (NOS)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/24129.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD (MEO)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV FHD (MEO)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/24130.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1085.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV UHD" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV UHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/14581.m3u8
-#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT: Motorvision" tvg-logo="" group-title="PORTUGAL",PT: Motorvision
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/66.m3u8
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT  FHD" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT  FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/24126.m3u8
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/24127.m3u8
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/67659.m3u8
-#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/14322.m3u8
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT: PFC" tvg-logo="" group-title="PORTUGAL",PT: PFC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptv.re-stream.tv:7711/live/Elias/12345/1136.m3u8
+#EXTINF:-1,PT: RTP 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165230.m3u8
+#EXTINF:-1,PT: RTP 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165231.m3u8
+#EXTINF:-1,PT: RTP 3 FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165232.m3u8
+#EXTINF:-1,PT: Real Madrid TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165233.m3u8
+#EXTINF:-1,PT: RTP AÇORES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165234.m3u8
+#EXTINF:-1,PT: RTP MEMÓRIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165235.m3u8
+#EXTINF:-1,PT: RTP ÁFRICA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165236.m3u8
+#EXTINF:-1,PT: Panda
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165237.m3u8
+#EXTINF:-1,PT: PORTO CANAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165238.m3u8
+#EXTINF:-1,PT: Panda Biggs
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165239.m3u8
+#EXTINF:-1,PT: MOTORVISION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165240.m3u8
+#EXTINF:-1,PT: PFC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165241.m3u8
+#EXTINF:-1,PT: SPORTING TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165242.m3u8
+#EXTINF:-1,PT: SPORT TV 1 FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165243.m3u8
+#EXTINF:-1,PT: SPORT TV 2 FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165244.m3u8
+#EXTINF:-1,PT: SPORT TV 3 FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165245.m3u8
+#EXTINF:-1,PT: SPORT TV 4 FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165246.m3u8
+#EXTINF:-1,PT: SPORT TV 5 FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165247.m3u8
+#EXTINF:-1,PT: EuroNews
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165248.m3u8
+#EXTINF:-1,PT: SYFY FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165249.m3u8
+#EXTINF:-1,PT: SIC RADICAL FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165250.m3u8
+#EXTINF:-1,PT: SIC MULHER
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165251.m3u8
+#EXTINF:-1,PT: SIC NOTICIAS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165252.m3u8
+#EXTINF:-1,PT: Sic
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165253.m3u8
+#EXTINF:-1,PT: SIC Caras HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165254.m3u8
+#EXTINF:-1,PT: SIC Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165255.m3u8
+#EXTINF:-1,PT: TLC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165256.m3u8
+#EXTINF:-1,PT: TVI REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165257.m3u8
+#EXTINF:-1,PT: TOROS TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165258.m3u8
+#EXTINF:-1,PT: TV Globo NOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165259.m3u8
+#EXTINF:-1,PT: TV GLOBO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165260.m3u8
+#EXTINF:-1,PT: TV RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165261.m3u8
+#EXTINF:-1,PT: TV CINE ACTION FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165262.m3u8
+#EXTINF:-1,PT: TV CINE EDITION FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165263.m3u8
+#EXTINF:-1,PT: TV CINE Emotion  FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165264.m3u8
+#EXTINF:-1,PT: TV CINE TOP  FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165265.m3u8
+#EXTINF:-1,PT: TVI
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165266.m3u8
+#EXTINF:-1,PT: TVI 24
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165267.m3u8
+#EXTINF:-1,PT: TVCseries FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165268.m3u8
+#EXTINF:-1,PT: Travel Channel
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165269.m3u8
+#EXTINF:-1,PT: VH1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165270.m3u8
+#EXTINF:-1,PT: ZAP VIVA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165271.m3u8
+#EXTINF:-1,PT: NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165272.m3u8
+#EXTINF:-1,PT: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165273.m3u8
+#EXTINF:-1,PT: TVI FICCAO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165274.m3u8
+#EXTINF:-1,PT: CANAL 11 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165275.m3u8
+#EXTINF:-1,PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/167763.m3u8
+#EXTINF:-1,PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/167764.m3u8
+#EXTINF:-1,PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/167765.m3u8
+#EXTINF:-1,PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/167766.m3u8
+#EXTINF:-1,PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/167767.m3u8
+#EXTINF:-1,PT: SPORT TV + HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/167768.m3u8
+#EXTINF:-1,PT: CRIME + INVESTIGACAO FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165187.m3u8
+#EXTINF:-1,PT: 24 Kitchen FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165188.m3u8
+#EXTINF:-1,PT: A BOLA TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165189.m3u8
+#EXTINF:-1,PT: AMC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165190.m3u8
+#EXTINF:-1,PT: AXN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165191.m3u8
+#EXTINF:-1,PT: AXN Black
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165192.m3u8
+#EXTINF:-1,PT: AXN WHITE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165193.m3u8
+#EXTINF:-1,PT: BABY TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165194.m3u8
+#EXTINF:-1,PT: BENFICA TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165195.m3u8
+#EXTINF:-1,PT: Benfica TV FullHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165196.m3u8
+#EXTINF:-1,PT: CM TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165197.m3u8
+#EXTINF:-1,PT: CAÇA & PESCA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165198.m3u8
+#EXTINF:-1,PT: CANAL Q
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165199.m3u8
+#EXTINF:-1,PT: CANAL PANDA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165200.m3u8
+#EXTINF:-1,PT: Casa e Cozinha FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165201.m3u8
+#EXTINF:-1,PT: Cartoon Network
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165202.m3u8
+#EXTINF:-1,PT: CANAL HISTORIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165203.m3u8
+#EXTINF:-1,PT: CINEMUNDO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165204.m3u8
+#EXTINF:-1,PT: CBS Reality
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165205.m3u8
+#EXTINF:-1,PT: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165206.m3u8
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165207.m3u8
+#EXTINF:-1,PT: Discovery HD Showcase
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165208.m3u8
+#EXTINF:-1,PT: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165209.m3u8
+#EXTINF:-1,PT: EUROSPORT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165210.m3u8
+#EXTINF:-1,PT: Eurosport 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165211.m3u8
+#EXTINF:-1,PT: E! Entertainment
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165212.m3u8
+#EXTINF:-1,PT: FOX TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165213.m3u8
+#EXTINF:-1,PT: FOX MOVIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165214.m3u8
+#EXTINF:-1,PT: FOX CRIME
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165215.m3u8
+#EXTINF:-1,PT: FOX LIFE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165216.m3u8
+#EXTINF:-1,PT: Fox Comedy
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165217.m3u8
+#EXTINF:-1,PT: Food Network
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165218.m3u8
+#EXTINF:-1,PT: Fuel TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165219.m3u8
+#EXTINF:-1,PT: ODISSEIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165220.m3u8
+#EXTINF:-1,PT: MOV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165221.m3u8
+#EXTINF:-1,PT: JimJam
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165222.m3u8
+#EXTINF:-1,PT: Kombat Sporm3u8
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165223.m3u8
+#EXTINF:-1,PT: Mtv Portuga
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165224.m3u8
+#EXTINF:-1,PT: Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165225.m3u8
+#EXTINF:-1,PT: MOTORVISION TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165226.m3u8
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165227.m3u8
+#EXTINF:-1,PT: NBA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165228.m3u8
+#EXTINF:-1,PT: NICKELODEON
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tvmedia2.com:8080/Majdi1/Majdi1/165229.m3u8
