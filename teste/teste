@@ -2,7 +2,7 @@
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <channels>
 <channel>
-<title>[COLOR lime][I][B][COLOR red]»»[/COLOR] Brasil 1 iptv[/I][/B][/COLOR]</title>
+<name>[COLOR lime][I][B][COLOR red]»»[/COLOR] Brasil 1 iptv[/I][/B][/COLOR]</name>
 <link> http: // ignorame </link>
 <thumbnail>https://i.imgur.com/RoOx92U.jpg </thumbnail>
 <fanart>https://i.imgur.com/el8Ntlk.jpg</fanart>
@@ -12,7 +12,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR lime][I][B][COLOR red]»»[/COLOR] Brasil 2 iptv[/I][/B][/COLOR]</title>
+<name>[COLOR lime][I][B][COLOR red]»»[/COLOR] Brasil 2 iptv[/I][/B][/COLOR]</name>
 <link> http: // ignorame </link>
 <thumbnail>https://i.imgur.com/RoOx92U.jpg</thumbnail>
 <fanart>https://i.imgur.com/el8Ntlk.jpg</fanart>
@@ -22,7 +22,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR lime][I][B][COLOR red]»»[/COLOR] Brasil 3 iptv[/I][/B][/COLOR]</title>
+<name>[COLOR lime][I][B][COLOR red]»»[/COLOR] Brasil 3 iptv[/I][/B][/COLOR]</name>
 <link> http: // ignorame </link>
 <thumbnail>https://i.imgur.com/RoOx92U.jpg</thumbnail>
 <fanart>https://i.imgur.com/el8Ntlk.jpg</fanart>
@@ -32,7 +32,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR lime][I][B][COLOR red]»»[/COLOR] Brasil Desporto [/I][/B][/COLOR]</title>
+<name>[COLOR lime][I][B][COLOR red]»»[/COLOR] Brasil Desporto [/I][/B][/COLOR]</name>
 <link>http: // ignorame </link>
 <thumbnail>https://i.imgur.com/2NkOOaM.jpg </thumbnail>
 <fanart>https://i.imgur.com/el8Ntlk.jpg</fanart>
@@ -41,3 +41,5 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 </channels>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  
+
+
