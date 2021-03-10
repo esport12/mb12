@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
+<channels>
+<channel>
 <name>[COLOR yellow][B] A Casa do Terror [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b5fac0e80d632f29edb47ba240432cb3f7872d9&amp</link>
 <thumbnail>https://lacraiatorrent.com/imagens/a-casa-do-terror-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -775,20 +776,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF0R9nx8gtne6tdhVt4lMxXXVvE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/twinEKprf10jYwO5RrriRG9Itnb.jpg</fanart>
 <info>Chris Redfield (Kevin Dorman) pede a ajuda do agente do governo Leon S. Kennedy (Matthew Mercer) e de uma professora do Instituto Alexander de Biotecnologia para deter um comerciante que pretendia espalhar um vírus mortal em Nova York como vingança. A história segue os eventos de Resident Evil 6 e apresenta Leon S. Kennedy em uma cena montado em uma Ducati XDiavel.[6] A Capcom afirmou que, apesar de ser chamado de reboot, ainda é apenas uma sequência. Eles estavam realmente se referindo ao novo tom do filme.</info>
-</info>
+</channel>
+</channels>
 
-<item>
-<name>[COLOR yellow][B]  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:&amp</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<name>[COLOR yellow][B]  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:&amp</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
