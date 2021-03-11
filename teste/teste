@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<title>[COLOR yellow][B] O Natal dos Coopers [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] O Natal dos Coopers [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92ab90f9194da329c85af59c87f3f42c5261099f&amp</link>
 <thumbnail>https://www.thepiratefilmestorrent.me/wp-content/uploads/2016/05/o-natal-dos-coopers-bluray-255x358.jpg</thumbnail>
 <fanart>https://leituranarede.com/wp-content/uploads/2017/12/Leitura-na-rede-O-natal-dos-coopers-4.png</fanart>
@@ -12,7 +12,7 @@
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Hooking Up  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Hooking Up  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F737C265ABF22541000D3241190CFF933B6ADE60&amp</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/y5QXP7qdwtPRiZy6cQTjRoaTXuW.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/paramount-3500144592-Full-Image_GalleryCover-en-US-1583305570093._UY500_UX667_RI_V7y5UJMK7tuRjmzPXwTejBZBziApPPe87_TTW_.jpg</fanart>
@@ -22,7 +22,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Porky’s [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Porky’s [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CAC99A6FFBF18CB692183C8892EC0504072B213E&amp</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51KYR16FW5L.jpg</thumbnail>
 <fanart>https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/share_link_image_large/public/screenshots/csm-movie/porkys-movie-screenshot-2.jpg?itok=7I60cx2-</fanart>
@@ -32,7 +32,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Porky’s 2 – O Dia Seguinte [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Porky’s 2 – O Dia Seguinte [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52325E0DB8688B5D8D2E655A36D491E012AC556C&amp</link>
 <thumbnail>https://wolverdonfilmes.net/wp-content/uploads/2020/05/Porky%E2%80%99s-2-%E2%80%93-O-Dia-Seguinte-TorrentS-241x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w500/xM9ZDrfMQZlz9PLnfipA96xXsMx.jpg</fanart>
@@ -42,7 +42,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Porky's 3 – Porky's Contra-Ataca [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Porky's 3 – Porky's Contra-Ataca [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CFB8E12BE4F7E69E8E5A14ED605A6A4E6ACF6E1&amp</link>
 <thumbnail>https://wolverdonfilmes.net/wp-content/uploads/2017/01/Trilogia-Porkys-Torrents-241x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w500/j3iu5WTp5kvQAb5ypS7GoKG82DC.jpg</fanart>
@@ -52,7 +52,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Luccas Neto em: O Mapa do Tesouro  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Luccas Neto em: O Mapa do Tesouro  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1fb881538e2aa79a6121058f9a67ca864df941d&amp</link>
 <thumbnail>https://i.imgur.com/ibvMUGm.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/tWG9oq2BzP0/maxresdefault.jpg</fanart>
@@ -62,7 +62,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Teste de Paternidade  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Teste de Paternidade  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77d709c029537c9804bbab90ebf8238a8378a942&amp</link>
 <thumbnail>https://abutretorrents.com/imagens/teste-de-paternidade-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://aodisseia.com/wp-content/uploads/2020/09/teste-de-paternidade-2-e1601485342242.jpg</fanart>
@@ -72,7 +72,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] A Casa de Praia  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] A Casa de Praia  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28f1e510bde869b5fff5c0573eeaa8e551bf147d&amp</link>
 <thumbnail>https://abutretorrents.com/imagens/a-casa-de-praia-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://aodisseia.com/wp-content/uploads/2020/07/A-Barraca-do-Beijo-2-1-1024x683.jpg</fanart>
@@ -82,7 +82,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Imagine Só! [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Imagine Só! [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81a3ee402724cdceb4ffc31b0150bdbf9de4267d&amp</link>
 <thumbnail>https://abutretorrents.com/imagens/imagine-so-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://s2.glbimg.com/em4ldULhpdpGe6Ee7TiUFnuRu6o=/s.glbimg.com/og/rg/f/original/2014/04/04/imagine.jpg</fanart>
@@ -92,7 +92,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] A Pequena Suíça - La pequeña Suiza [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] A Pequena Suíça - La pequeña Suiza [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DD44CF641B34F48E97E10BE30AC40F3AF3670AF&amp</link>
 <thumbnail>https://abutretorrents.com/imagens/a-pequena-suica-la-peque%C3%B1a-suiza-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-kijeO3YVOoM/XtmYskqbeHI/AAAAAAAAYvE/f4rkSDD_mxgl9ONNss6Arnpm3X0ThBO0gCK4BGAsYHg/w1200-h630-p-k-no-nu/Netflix-A-Pequena-Suica-La-Pequena-Suiza-The-Little-Switzerland.jpg</fanart>
@@ -102,7 +102,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B]  Esqueceram de Mim - Home Alone [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B]  Esqueceram de Mim - Home Alone [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E65EE5712C6045D794A19C10682D1CB3F51F6C47&amp</link>
 <thumbnail>https://abutretorrents.com/imagens/esqueceram-de-mim-home-alone-download-torrent-1990-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-GN7s0tqrZI4/XPgWGxL23SI/AAAAAAABCmI/SAa_MsAyPu4w8WuPmFznvcgks3K0SHIcwCLcBGAs/s1600/00%2B-%2BEsqueceram%2Bde%2BMim%2B%2528Home%2BAlone%252C%2B1990%2529.jpg</fanart>
@@ -112,7 +112,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B]  Home Alone 2: Lost in New York [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B]  Home Alone 2: Lost in New York [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77817cf060ab17fdc1be8cc638e34b5aa075908e&amp</link>
 <thumbnail>https://i.imgur.com/fM9hh1z.jpg</thumbnail>
 <fanart>https://www.ourgoldenage.com.au/film/phh-home-alone-2/GAC-Home%20Alone%202.jpg</fanart>
@@ -122,7 +122,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Home Alone 3 (1997)  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Home Alone 3 (1997)  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9C9004103ADBBA0D83894E0165BA3E43E624397&amp</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51XH55CECML._AC_SY445_.jpg</thumbnail>
 <fanart>https://a.ltrbxd.com/resized/sm/upload/3k/ca/ji/do/home%20alone%203-1200-1200-675-675-crop-000000.jpg?k=bd080c2a7b</fanart>
@@ -132,7 +132,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B]  Pai do Ano  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B]  Pai do Ano  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a25f6d37595aa9309db26e44cbb76f8d79b33034&amp</link>
 <thumbnail>https://3.bp.blogspot.com/-h_3itY0siio/W1NRJsMxUxI/AAAAAAAAORM/0liyUclba4I1LHV97N7eug9GXeDrojg5gCLcBGAs/s1600/Pai%2Bdo%2BAno%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
 <fanart>https://interprete.me/wp-content/uploads/2018/07/pai-do-ano-filme-netflix-filho-realidade-virtual-videogame-oculos.jpg</fanart>
@@ -142,7 +142,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Paul Blart: Mall Cop  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Paul Blart: Mall Cop  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4d2dce4309c96f1f41f8219c116ad9290e8814d&amp</link>
 <thumbnail>https://ondeeubaixo.net/imagens/seguranca-de-shopping-paul-blart-mall-cop-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.pluggedin.com/wp-content/uploads/2019/12/paul-blart-mall-cop-2-review-image.jpg</fanart>
@@ -152,7 +152,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B] Paul Blart: Mall Cop 2  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B] Paul Blart: Mall Cop 2  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5949F21BC0B948274F8D87B7EBCBFC94DE226A7B&amp</link>
 <thumbnail>https://ondeeubaixo.net/imagens/seguranca-de-shopping-2-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://rogermooresmovienation.files.wordpress.com/2015/04/b2.jpg</fanart>
@@ -162,7 +162,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 <channels>
 <channel>
-<title>[COLOR yellow][B]  Zookeeper [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
+<name>[COLOR yellow][B]  Zookeeper [/COLOR][/B][COLOR lime][B][/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6beb296ca3382f153a51248a983df01aeffc7c96&amp</link>
 <thumbnail>https://ondeeubaixo.net/imagens/o-zelador-animal-zookeeper-download-torrent-2011-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/Movies/2011/B005SH5K7I_Zookeeper_UXSY1._V145020188_SX1080_.jpg</fanart>
