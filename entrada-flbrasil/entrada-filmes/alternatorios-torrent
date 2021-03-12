@@ -1,8 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/isfhoWF9vnvqweEul2wtY4YBP2v.jpg" group-title="FILMES", Magnatas do Crime (2020)[COLOR yello][I][B][COLOR lime]»»[COLOR yello] Flashbrasil[/I][/B][/COLOR] 
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:141231A789FFEA164E061F53BACFF896A90A83CF&amp 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71HUOz-uQVL.jpg" group-title="FILMES", A Cabana (2017)[COLOR yello][I][B][COLOR lime]»»[COLOR yello] Flashbrasil[/I][/B][/COLOR]  
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1A60C486490503BD35D109F77E38C692D1CD65C&amp
-#EXTINF:-1 tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/12105538/1002443202.jpg" group-title="FILMES", 
-Interestelar (2014)[COLOR yello][I][B][COLOR lime]»»[COLOR yello] Flashbrasil[/I][/B][/COLOR]  
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC3EE9395349AD9A0B6EF13E1520511A6B9EE2B2&amp
+
