@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/isfhoWF9vnvqweEul2wtY4YBP2v.jpg" group-title="FILMES", Magnatas do Crime (2020)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR] 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/isfhoWF9vnvqweEul2wtY4YBP2v.jpg" group-title="FILMES", Magnatas do Crime (2020)[COLOR yello][I][B][COLOR lime]»»[COLOR yello] Flashbrasil[/I][/B][/COLOR] 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:141231A789FFEA164E061F53BACFF896A90A83CF&amp 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71HUOz-uQVL.jpg" group-title="FILMES", A Cabana (2017)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR] 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71HUOz-uQVL.jpg" group-title="FILMES", A Cabana (2017)[COLOR yello][I][B][COLOR lime]»»[COLOR yello] Flashbrasil[/I][/B][/COLOR] 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1A60C486490503BD35D109F77E38C692D1CD65C &amp
-#EXTINF:-1 tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/12105538/1002443202.jpg" group-title="FILMES", Interestelar (2014)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR] 
+#EXTINF:-1 tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/12105538/1002443202.jpg" group-title="FILMES", Interestelar (2014)[COLOR yello][I][B][COLOR lime]»»[COLOR yello] Flashbrasil[/I][/B][/COLOR] 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC3EE9395349AD9A0B6EF13E1520511A6B9EE2B2&amp 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/k2GdEZ3fBvXjMm6wgNx4Ynya8b8.jpg" group-title="FILMES", O Lutador (2006)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR] 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/k2GdEZ3fBvXjMm6wgNx4Ynya8b8.jpg" group-title="FILMES", O Lutador (2006)[COLOR yello][I][B][COLOR lime]»»[COLOR yello] Flashbrasil[/I][/B][/COLOR] 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7E1DDDC9DB1ADF37BDCD12A1E6BDC28667798D3&amp 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="FILMES", Pantera Negra (2018)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR] 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="FILMES", Pantera Negra (2018)[COLOR yello][I][B][COLOR lime]»»[COLOR yello] Flashbrasil[/I][/B][/COLOR] 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9101880558927856C51504031A93A8445C9A60B0&amp 
 
