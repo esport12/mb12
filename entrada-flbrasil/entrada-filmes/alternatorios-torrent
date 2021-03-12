@@ -1,11 +1,35 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/pVN1aoCUjIIITYaCPSt9SmmDVOy.jpg" group-title="FILMES",Ataque a Bushwick [COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bcae2569f79cfa55ab38757589ce0cc06e0a954&amp
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/cjFObrOXLc4kOMktboywpsJZFTp.jpg" group-title="FILMES",O Habitante do Infinito[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:566191d51fc52432095e867b6e3994f02da52362&amp
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w342/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg" group-title="FILMES",Mortal [COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fda5121e58d1585dd927fbe6e08885e4b68353e6&&amp
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/koSXYpWf1rU9MsR6zLS0DpoEF4C.jpg" group-title="FILMES",Mazinger Z: Infinity[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6079b21806092d2d174673bb0e017d4c73a2ffba&amp
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/7ucfWMr5WfgpzW4umBZWTpynqDe.jpg" group-title="FILMES", O Cobrador de Dívidas[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:026c1e1587d6e19fd5c13fe61e681638fc4375df&amp
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/vXbFxXIs3zc1Ng5gXgszeYktQUO.jpg" group-title="FILMES",Na Teia da Aranha[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a73901e3806041c3456316eabd33b3464fcdf859&amp
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/kHCLd46CjHugOuKKAiRPMb2mLUm.jpg" group-title="FILMES",Leve-Me [COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f386f347b54e362cc2385e1317805a790255998&amp
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/zYOtHuKob0p34ueqcg1nXfpYIz4.jpg" group-title="FILMES",Nu [COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bed44b5d70296831337b5b5b392e6b748d7d43f&amp
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/hebqC4MMvZN2wG1by1kaIDgvoXC.jpg" group-title="FILMES",Thi Mai – Rumo ao Vietnã[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:118e2802ce0ad77725fb10a9de9446b554a3ccdf&amp
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/hLlXeouWlQgpYKbnM5ssA9ELF1v.jpg" group-title="FILMES",Deidra e Laney Assaltam um Trem[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1bcd52add379f1279d1c8757d72f90d0187008f&amp
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/9dXv3LweveiyjBenMspDMx5I0ne.jpg" group-title="FILMES",Uma Viagem para a Espanha[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5782d21983dc4579987a4b3cbe8d0c7b807ddfc&amp
+#EXTINF:0 tvg-logo="" group-title="FILMES",A Escalada [COLOR yello][I][B][COLOR lime]»»[/COLOR] Flashbrasil[/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08674f1e48358e0f8526b00645b287396adc1e53&amp
 #EXTINF:-1 tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/12105538/1002443202.jpg" group-title="FILMES", Interestelar (2014)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flasbrasil[/I][/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC3EE9395349AD9A0B6EF13E1520511A6B9EE2B2&amp 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/k2GdEZ3fBvXjMm6wgNx4Ynya8b8.jpg" group-title="FILMES", O Lutador (2006)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flasbrasil[/I][/B][/COLOR] 
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7E1DDDC9DB1ADF37BDCD12A1E6BDC28667798D3&amp 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1B8302C5E59B36671858F9BF0A7049093E25A22F&amp 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xI8LD4.jpg" group-title="FILMES", O Lutador (2006)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flasbrasil[/I][/B][/COLOR] 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F79A6CB6A2BDF921A79BB93A4E0480C57E865EC8&amp 
 #EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/procurada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="FILMES",Procurada (2020)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flasbrasil[/I][/B][/COLOR] 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:887c42682b42ed5ff3bd31b1206d36477f7556ad&amp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/isfhoWF9vnvqweEul2wtY4YBP2v.jpg" group-title="FILMES", Magnatas do Crime (2020)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flasbrasil[/I][/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:141231A789FFEA164E061F53BACFF896A90A83CF&amp 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26c3aac596db4ff650e93cc0fb4c924256273798&amp 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71HUOz-uQVL.jpg" group-title="FILMES", A Cabana (2017)[COLOR yello][I][B][COLOR lime]»»[/COLOR] Flasbrasil[/I][/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1A60C486490503BD35D109F77E38C692D1CD65C&amp 
