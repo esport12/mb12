@@ -1,0 +1,841 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 1" tvg-logo="" group-title="20 - PORTUGAL",PT:RTP 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 2" tvg-logo="" group-title="20 - PORTUGAL",PT:RTP 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 3" tvg-logo="" group-title="20 - PORTUGAL",PT:RTP 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP MEMORIA" tvg-logo="" group-title="20 - PORTUGAL",PT:RTP MEMORIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP MADEIRA" tvg-logo="" group-title="20 - PORTUGAL",PT:RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP INTER" tvg-logo="" group-title="20 - PORTUGAL",PT:RTP INTER
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP AFRICA" tvg-logo="" group-title="20 - PORTUGAL",PT:RTP AFRICA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP ACORES" tvg-logo="" group-title="20 - PORTUGAL",PT:RTP ACORES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SIC" tvg-logo="" group-title="20 - PORTUGAL",PT:SIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SIC RADICAL" tvg-logo="" group-title="20 - PORTUGAL",PT:SIC RADICAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SIC NOTICIAS" tvg-logo="" group-title="20 - PORTUGAL",PT:SIC NOTICIAS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SIC MULHER" tvg-logo="" group-title="20 - PORTUGAL",PT:SIC MULHER
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SIC KIDS" tvg-logo="" group-title="20 - PORTUGAL",PT:SIC KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SIC CARAS" tvg-logo="" group-title="20 - PORTUGAL",PT:SIC CARAS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVI" tvg-logo="" group-title="20 - PORTUGAL",PT:TVI
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVI24" tvg-logo="" group-title="20 - PORTUGAL",PT:TVI24
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVI REALITY" tvg-logo="" group-title="20 - PORTUGAL",PT:TVI REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVI FICCAO" tvg-logo="" group-title="20 - PORTUGAL",PT:TVI FICCAO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVCINE TOP" tvg-logo="" group-title="20 - PORTUGAL",PT:TVCINE TOP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVCINE EDITION" tvg-logo="" group-title="20 - PORTUGAL",PT:TVCINE EDITION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVCINE EMOTION" tvg-logo="" group-title="20 - PORTUGAL",PT:TVCINE EMOTION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVCINE ACTION 4" tvg-logo="" group-title="20 - PORTUGAL",PT:TVCINE ACTION 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:HOLLYWOOD" tvg-logo="" group-title="20 - PORTUGAL",PT:HOLLYWOOD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:FOX MOVIES" tvg-logo="" group-title="20 - PORTUGAL",PT:FOX MOVIES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:FOX COMEDY" tvg-logo="" group-title="20 - PORTUGAL",PT:FOX COMEDY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CINEMUNDO" tvg-logo="" group-title="20 - PORTUGAL",PT:CINEMUNDO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:AMC" tvg-logo="" group-title="20 - PORTUGAL",PT:AMC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:HISTORIA" tvg-logo="" group-title="20 - PORTUGAL",PT:HISTORIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Canal Q" tvg-logo="" group-title="20 - PORTUGAL",PT:Canal Q
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CBS REALITY" tvg-logo="" group-title="20 - PORTUGAL",PT:CBS REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:BLAZE" tvg-logo="" group-title="20 - PORTUGAL",PT:BLAZE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:E! ENTERTAINMENT" tvg-logo="" group-title="20 - PORTUGAL",PT:E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:BBC ENTERTAINMENT" tvg-logo="" group-title="20 - PORTUGAL",PT:BBC ENTERTAINMENT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 1" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 2" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 3" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 4" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 5" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV +" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV +
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:BTV 1" tvg-logo="" group-title="20 - PORTUGAL",PT:BTV 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Kombat Sport" tvg-logo="" group-title="20 - PORTUGAL",PT:Kombat Sport
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTING TV" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTING TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:MUTV" tvg-logo="" group-title="20 - PORTUGAL",PT:MUTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:FUEL TV" tvg-logo="" group-title="20 - PORTUGAL",PT:FUEL TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:MOTORVISION" tvg-logo="" group-title="20 - PORTUGAL",PT:MOTORVISION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:EUROSPORT 2" tvg-logo="" group-title="20 - PORTUGAL",PT:EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:EUROSPORT" tvg-logo="" group-title="20 - PORTUGAL",PT:EUROSPORT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:ABOLA TV" tvg-logo="" group-title="20 - PORTUGAL",PT:ABOLA TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:REAL MADRID TV" tvg-logo="" group-title="20 - PORTUGAL",PT:REAL MADRID TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:PORTO CANAL" tvg-logo="" group-title="20 - PORTUGAL",PT:PORTO CANAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:PFC" tvg-logo="" group-title="20 - PORTUGAL",PT:PFC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TV RECORD" tvg-logo="" group-title="20 - PORTUGAL",PT:TV RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Red Bull TV" tvg-logo="" group-title="20 - PORTUGAL",PT:Red Bull TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TV GALICIA" tvg-logo="" group-title="20 - PORTUGAL",PT:TV GALICIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TLC" tvg-logo="" group-title="20 - PORTUGAL",PT:TLC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RECORD NEWS" tvg-logo="" group-title="20 - PORTUGAL",PT:RECORD NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:PANDA BIGGS" tvg-logo="" group-title="20 - PORTUGAL",PT:PANDA BIGGS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:NICKELODEON" tvg-logo="" group-title="20 - PORTUGAL",PT:NICKELODEON
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:JIM JAM" tvg-logo="" group-title="20 - PORTUGAL",PT:JIM JAM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:DISNEY JUNIOR" tvg-logo="" group-title="20 - PORTUGAL",PT:DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:DISNEY CHANNEL" tvg-logo="" group-title="20 - PORTUGAL",PT:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:BABY TV" tvg-logo="" group-title="20 - PORTUGAL",PT:BABY TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CANAL PANDA" tvg-logo="" group-title="20 - PORTUGAL",PT:CANAL PANDA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CARTOON NETWORK" tvg-logo="" group-title="20 - PORTUGAL",PT:CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:ODISSEIA" tvg-logo="" group-title="20 - PORTUGAL",PT:ODISSEIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:NAT GEO WILD" tvg-logo="" group-title="20 - PORTUGAL",PT:NAT GEO WILD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:DISCOVERY" tvg-logo="" group-title="20 - PORTUGAL",PT:DISCOVERY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:FASHION" tvg-logo="" group-title="20 - PORTUGAL",PT:FASHION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:GLOBO PREMIUM" tvg-logo="" group-title="20 - PORTUGAL",PT:GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:GLOBO" tvg-logo="" group-title="20 - PORTUGAL",PT:GLOBO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:BR: Globo SP" tvg-logo="" group-title="20 - PORTUGAL",PT:BR: Globo SP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:EURONEWS" tvg-logo="" group-title="20 - PORTUGAL",PT:EURONEWS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CNN" tvg-logo="" group-title="20 - PORTUGAL",PT:CNN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CMTV" tvg-logo="" group-title="20 - PORTUGAL",PT:CMTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CAPELA DE FATIMA" tvg-logo="" group-title="20 - PORTUGAL",PT:CAPELA DE FATIMA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CANÇAO NOVA" tvg-logo="" group-title="20 - PORTUGAL",PT:CANÇAO NOVA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CAÇAVISION" tvg-logo="" group-title="20 - PORTUGAL",PT:CAÇAVISION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CAÇA E PESCA" tvg-logo="" group-title="20 - PORTUGAL",PT:CAÇA E PESCA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:ALJAZEERA" tvg-logo="" group-title="20 - PORTUGAL",PT:ALJAZEERA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:MEZZO" tvg-logo="" group-title="20 - PORTUGAL",PT:MEZZO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:VH1" tvg-logo="" group-title="20 - PORTUGAL",PT:VH1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TRACE Toca" tvg-logo="" group-title="20 - PORTUGAL",PT:TRACE Toca
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:MTV PORTUGAL" tvg-logo="" group-title="20 - PORTUGAL",PT:MTV PORTUGAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:AFRO MUSIC" tvg-logo="" group-title="20 - PORTUGAL",PT:AFRO MUSIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:MCM POP" tvg-logo="" group-title="20 - PORTUGAL",PT:MCM POP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 2 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:RTP 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SIC HD" tvg-logo="" group-title="20 - PORTUGAL",PT:SIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVI HD" tvg-logo="" group-title="20 - PORTUGAL",PT:TVI HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV  +  HD" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORT TV  +  HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Sporting TV HD" tvg-logo="" group-title="20 - PORTUGAL",PT:Sporting TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:CMTV HD" tvg-logo="" group-title="20 - PORTUGAL",PT:CMTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTV NBA" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTV NBA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SYFY HD" tvg-logo="" group-title="20 - PORTUGAL",PT:SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:NAT GEO HD" tvg-logo="" group-title="20 - PORTUGAL",PT:NAT GEO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SIC Radical HD" tvg-logo="" group-title="20 - PORTUGAL",PT:SIC Radical HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TRAVEL CHANNEL HD" tvg-logo="" group-title="20 - PORTUGAL",PT:TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:FOX LIFE HD" tvg-logo="" group-title="20 - PORTUGAL",PT:FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:FOX HD" tvg-logo="" group-title="20 - PORTUGAL",PT:FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:fox comedy HD" tvg-logo="" group-title="20 - PORTUGAL",PT:fox comedy HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:FOX CRIME HD" tvg-logo="" group-title="20 - PORTUGAL",PT:FOX CRIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVCINE TOP HD" tvg-logo="" group-title="20 - PORTUGAL",PT:TVCINE TOP HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVCINE EDITION HD" tvg-logo="" group-title="20 - PORTUGAL",PT:TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVCINE EMOTION HD" tvg-logo="" group-title="20 - PORTUGAL",PT:TVCINE EMOTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:TVCINE ACTION HD" tvg-logo="" group-title="20 - PORTUGAL",PT:TVCINE ACTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 1 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 2 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 3 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 4 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTTV 5 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:SPORTTV 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:BTV 1 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:BTV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sports 1 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sports 2 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sports 3 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sports 4 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sports 5 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:Eleven Sports 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sports 6 HD" tvg-logo="" group-title="20 - PORTUGAL",PT:Eleven Sports 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:AXN HD" tvg-logo="" group-title="20 - PORTUGAL",PT:AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:AXN WHITE HD" tvg-logo="" group-title="20 - PORTUGAL",PT:AXN WHITE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:RedLight HD" tvg-logo="" group-title="20 - PORTUGAL",PT:RedLight HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/29706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  BABY TV | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://themediaboxx.com/wp-content/uploads/2019/09/BabyTV-1.png" group-title="20 - PORTUGAL",PT_1:  BABY TV | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  BENFICA TV | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/337a4bea977e149abee6402270b21ea6.png" group-title="20 - PORTUGAL",PT_1:  BENFICA TV | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  BIGGS | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/32d0c65116d849bf4fcf02e657479708.png" group-title="20 - PORTUGAL",PT_1:  BIGGS | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  BLOOMBERG | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/6eba7b7e30c11206b5d92b1800008312.png" group-title="20 - PORTUGAL",PT_1:  BLOOMBERG | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  CACA E PESCA | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/68bdc441ef2f7bc42ebe35b11aea16d9.png" group-title="20 - PORTUGAL",PT_1:  CACA E PESCA | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  CANAL 11 | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/d72169e3d06216c9e50a3631381fa59b.png" group-title="20 - PORTUGAL",PT_1:  CANAL 11 | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  CANAL Q | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/63eeddadf273d23d03e516b64fe5fbe8.png" group-title="20 - PORTUGAL",PT_1:  CANAL Q | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  CANCAO NOVA SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a75308cbccd200b635138952b056e749.jpg" group-title="20 - PORTUGAL",PT_1:  CANCAO NOVA SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  CARTOON NETWORK | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/30eaddef9fe0585bafe564ff5fef72f7.png" group-title="20 - PORTUGAL",PT_1:  CARTOON NETWORK | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  CBS REALITY | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a663a79a5488f99aed3da06427d74be5.jpg" group-title="20 - PORTUGAL",PT_1:  CBS REALITY | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  CMTV | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/e9c4b0a5ca06da0f44d2daf05d1b4970.png" group-title="20 - PORTUGAL",PT_1:  CMTV | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  CRIME & INVESTIGATION | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/38cb3e2c577970e0c85e1d8b8d2a0e81.jpg" group-title="20 - PORTUGAL",PT_1:  CRIME & INVESTIGATION | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  DISCOVERY CHANNEL | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a128f2f0cf8c97ab2de3b3e055c1ab1d.jpg" group-title="20 - PORTUGAL",PT_1:  DISCOVERY CHANNEL | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  DISNEY CHANNEL | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/68143f6b3f35d03c67169f1e0fcedb63.png" group-title="20 - PORTUGAL",PT_1:  DISNEY CHANNEL | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  DISNEY JUNIOR | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/25816670970928e2f72c00c583ec9e10.jpg" group-title="20 - PORTUGAL",PT_1:  DISNEY JUNIOR | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  DOG TV | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/44cb2c433c88338fa689cb00958d39dc.jpg" group-title="20 - PORTUGAL",PT_1:  DOG TV | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  E! ENTERTAINMENT | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/6d8542f275042c3567523b0b08d7786d.jpg" group-title="20 - PORTUGAL",PT_1:  E! ENTERTAINMENT | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  ELEVEN SPORTS 1 | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/616d90c71dd812dbdb676021479abe80.png" group-title="20 - PORTUGAL",PT_1:  ELEVEN SPORTS 1 | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  ELEVEN SPORTS 2 | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/3a9596a8e96e526eafa6c330adfc76ec.png" group-title="20 - PORTUGAL",PT_1:  ELEVEN SPORTS 2 | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  ELEVEN SPORTS 3 | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/68e4158b95f071e38de3dc8fc1fe21a5.png" group-title="20 - PORTUGAL",PT_1:  ELEVEN SPORTS 3 | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  ELEVEN SPORTS 4 | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/9b9431ae686b90c739aa20f05a7206dc.jpg" group-title="20 - PORTUGAL",PT_1:  ELEVEN SPORTS 4 | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  ELEVEN SPORTS 5 | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="20 - PORTUGAL",PT_1:  ELEVEN SPORTS 5 | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  ELEVEN SPORTS 6 | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="20 - PORTUGAL",PT_1:  ELEVEN SPORTS 6 | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  EUROSPORT 2 | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/586606d7dd1686b738dc8543e8f95b4f.png" group-title="20 - PORTUGAL",PT_1:  EUROSPORT 2 | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  EUROSPORT | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a40a94e7b4c01db752fd22f4b1fc4a25.png" group-title="20 - PORTUGAL",PT_1:  EUROSPORT | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  FASHION TV | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/1345d4502b682b6b4aff81a05196a788.png" group-title="20 - PORTUGAL",PT_1:  FASHION TV | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  FIGHT NETWORK | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/d32acee4a6d4dda2a612faf179ffc7f8.jpg" group-title="20 - PORTUGAL",PT_1:  FIGHT NETWORK | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  FOOD NETWORK | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/c9d7ea5b19ab073865a756f603dd39fb.png" group-title="20 - PORTUGAL",PT_1:  FOOD NETWORK | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  FOX Comedy | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/c52db0f5675bf273a243353611ff6dad.png" group-title="20 - PORTUGAL",PT_1:  FOX Comedy | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  FOX CRIME | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/0ce371b522990ea84e6ffdf4dd8ade46.png" group-title="20 - PORTUGAL",PT_1:  FOX CRIME | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  FOX LIFE | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/2aab657e14c17181a4b130801c382e74.png" group-title="20 - PORTUGAL",PT_1:  FOX LIFE | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  FOX MOVIES | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/b67fe29ac4beb0bc8372b0e015e5f7b8.png" group-title="20 - PORTUGAL",PT_1:  FOX MOVIES | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT NEWS | FOX News SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/0969a8027ff96740d2ebd909deeef6aa.jpg" group-title="20 - PORTUGAL",PT NEWS | FOX News SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  FOX TV | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/42aa1d1563adaf37f3c4b5cf58be2e44.png" group-title="20 - PORTUGAL",PT_1:  FOX TV | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR NEWS | FRANCE 24 | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/8a6a603d1d350f7f4e31ec97bf594c4c.png" group-title="20 - PORTUGAL",FR NEWS | FRANCE 24 | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  FUEL TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/94fc4d764e2d444b2998f25542d49eae.jpg" group-title="20 - PORTUGAL",PT_1:  FUEL TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  GLOBO PORTUGAL | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/50539c03925c2ef97f4ecdab89d6769c.jpg" group-title="20 - PORTUGAL",PT_1:  GLOBO PORTUGAL | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  GLOBO PREMIUM | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/b4761cfce8203320a4f40908187c3c0b.png" group-title="20 - PORTUGAL",PT_1:  GLOBO PREMIUM | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  HISTORIA | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/154c0a1ed4b44dd697be35203fb8a30e.jpg" group-title="20 - PORTUGAL",PT_1:  HISTORIA | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  HOLLYWOOD | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/3b997d9762eabd6a0ffc0e256bc53170.png" group-title="20 - PORTUGAL",PT_1:  HOLLYWOOD | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  INVESTIGATION DISCOVERY (ID) | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/e00a346a1e80c3d33bbb82d4fd74b31e.png" group-title="20 - PORTUGAL",PT_1:  INVESTIGATION DISCOVERY (ID) | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  JIMJAM | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/815c344b9ab563a87cc8f50442dee482.jpg" group-title="20 - PORTUGAL",PT_1:  JIMJAM | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  KOMBAT SPORT | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/53c1df10e89d153e1e8f430a61fbac79.png" group-title="20 - PORTUGAL",PT_1:  KOMBAT SPORT | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  MCM POP | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/5f853f675a247e97615d88a3719189f5.jpg" group-title="20 - PORTUGAL",PT_1:  MCM POP | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  MEZZO | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/d61203c570e64ddaf37917e7eed9c7c0.jpg" group-title="20 - PORTUGAL",PT_1:  MEZZO | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  MOTORVISION | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/d2b967d9a61c9f69c32657787293940e.png" group-title="20 - PORTUGAL",PT_1:  MOTORVISION | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  MTV | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/957abf45241c5d44668c88fd65b92d5c.png" group-title="20 - PORTUGAL",PT_1:  MTV | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  MVM | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a79af109262804eb542198a2947f258c.png" group-title="20 - PORTUGAL",PT_1:  MVM | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  NATGEO WILD | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/0086da95d0a4819dbbbb4e4459cc51db.jpg" group-title="20 - PORTUGAL",PT_1:  NATGEO WILD | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  NATIONAL GEOGRAPHIC HD | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a01300f5bfefae75e83a91b6dfb34c83.png" group-title="20 - PORTUGAL",PT_1:  NATIONAL GEOGRAPHIC HD | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  NICK JR. | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/d19cffaab44b601809b1fc05bda1f75d.png" group-title="20 - PORTUGAL",PT_1:  NICK JR. | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  NICKELODEON | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/e957b60906d478e91ce42028c3ae3131.png" group-title="20 - PORTUGAL",PT_1:  NICKELODEON | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  NOS STUDIOS | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/776e6ecff8862fdafe8cbfed73483e74.png" group-title="20 - PORTUGAL",PT_1:  NOS STUDIOS | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  ODISSEIA | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/5bb6a6abbccb3bf872484ba0bb2e5f9e.jpg" group-title="20 - PORTUGAL",PT_1:  ODISSEIA | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  PANDA | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/b8dd084759f78ebdc5927ec1ed3f82c0.jpg" group-title="20 - PORTUGAL",PT_1:  PANDA | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  PFC | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/3f8a2d5b65df9d3774ef0b59026c1f8f.jpg" group-title="20 - PORTUGAL",PT_1:  PFC | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  PORTO CANAL | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/b4476115a486821ef608058987404c1a.png" group-title="20 - PORTUGAL",PT_1:  PORTO CANAL | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  REAL MADRID TV | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/f2b1efc63ea4ca5b404fb3a228767cb6.jpg" group-title="20 - PORTUGAL",PT_1:  REAL MADRID TV | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  RTP 2 | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/50ca60ec4520a287408e93691a7318c6.png" group-title="20 - PORTUGAL",PT_1:  RTP 2 | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  RTP ACORES | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/215452b7f78f94b0d07e1111b7fac62d.jpeg" group-title="20 - PORTUGAL",PT_1:  RTP ACORES | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  RTP MADEIRA | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/f71cf81c9b7f37488aec230514ee9dc8.jpg" group-title="20 - PORTUGAL",PT_1:  RTP MADEIRA | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  RTP MEMORIA | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a90f534ffd7f6d4a86542fe03709f4dc.png" group-title="20 - PORTUGAL",PT_1:  RTP MEMORIA | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SIC CARAS | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/b2d08757f9d3d5c66275a2b0e74c8625.png" group-title="20 - PORTUGAL",PT_1:  SIC CARAS | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SIC KIDS | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/32635a3053c122a73f6e46bcb5ed71bc.png" group-title="20 - PORTUGAL",PT_1:  SIC KIDS | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SIC MULHER | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/dd289654e1c46b76e62f9be7a5bc5bbd.png" group-title="20 - PORTUGAL",PT_1:  SIC MULHER | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT NEWS | SIC NOTICIAS | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/0105a695385c2b2e92016b59c99aea5f.png" group-title="20 - PORTUGAL",PT NEWS | SIC NOTICIAS | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SIC RADICAL | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/ccafa5801c08d328cac9a34315f147f6.png" group-title="20 - PORTUGAL",PT_1:  SIC RADICAL | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SIC | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://upload.wikimedia.org/wikipedia/en/5/51/Logo_SIC_2018.png" group-title="20 - PORTUGAL",PT_1:  SIC | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SPORT TV 1 | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/3c6db2a20987debe98903798cb151df6.png" group-title="20 - PORTUGAL",PT_1:  SPORT TV 1 | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SPORT TV 2 | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/d27352f4c76da66f0f15acd071bddc1a.png" group-title="20 - PORTUGAL",PT_1:  SPORT TV 2 | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SPORT TV 3 | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/6a5a71f5cd193c693d2713aa74937d4b.png" group-title="20 - PORTUGAL",PT_1:  SPORT TV 3 | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SPORT TV 5 | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/84e91ba1111b7191ffc51b296e4e939b.png" group-title="20 - PORTUGAL",PT_1:  SPORT TV 5 | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SPORT TV+ | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/4221c8e771abba93b74f65d5ed53508d.png" group-title="20 - PORTUGAL",PT_1:  SPORT TV+ | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SPORTING  TV | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a2873bbecb2115412eb572102945d479.png" group-title="20 - PORTUGAL",PT_1:  SPORTING  TV | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SPORTING TV | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a2873bbecb2115412eb572102945d479.png" group-title="20 - PORTUGAL",PT_1:  SPORTING TV | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  SYFY | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/fb60c0f882445490d6e9c71df76c6c9b.png" group-title="20 - PORTUGAL",PT_1:  SYFY | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TLC | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/c505131d8fdb45acd1a0b803e5674587.jpg" group-title="20 - PORTUGAL",PT_1:  TLC | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TOROS TV | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/ffc41a1266bf4e973274be6bac59c6db.png" group-title="20 - PORTUGAL",PT_1:  TOROS TV | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TRAVEL CHANNEL | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/f69086aac1f3d05e4384f82ff670dd9d.png" group-title="20 - PORTUGAL",PT_1:  TRAVEL CHANNEL | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TV FATIMA UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/a193c0b9144e407bfeb59a62999d8da5.png" group-title="20 - PORTUGAL",PT_1:  TV FATIMA UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TV GLOBO | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/93235d65fab8967a0cbc5938a91d3c3a.png" group-title="20 - PORTUGAL",PT_1:  TV GLOBO | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TV RECORD | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/d93cd0e4c9e250233ef32d4adfc62413.jpg" group-title="20 - PORTUGAL",PT_1:  TV RECORD | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TV Series | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/db5e7bf40f69597725c4a1bbfa7e5ef1.jpg" group-title="20 - PORTUGAL",PT_1:  TV Series | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TVCINE 1 | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/8e2757e5b2216e9d9ece8ed6b6ff9d85.png" group-title="20 - PORTUGAL",PT_1:  TVCINE 1 | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TVCINE 2 | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/0b894d696a2bed21cb4f0fe13c566b37.png" group-title="20 - PORTUGAL",PT_1:  TVCINE 2 | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TVCINE 3 | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/1d4e72e913e819c11bf63e1c6b579525.png" group-title="20 - PORTUGAL",PT_1:  TVCINE 3 | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TVCINE 4 | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/aff6b132fe993a86922cf325a98ac815.png" group-title="20 - PORTUGAL",PT_1:  TVCINE 4 | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TVI 24 | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/d3b5cabce6e0e24c1e9222c0f8830c49.jpg" group-title="20 - PORTUGAL",PT_1:  TVI 24 | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TVI FICCAO | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/7f9b49942618272e754145d614b9ebdb.jpg" group-title="20 - PORTUGAL",PT_1:  TVI FICCAO | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TVI REALITY | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/5625cc1588a7ac7f8736b765d4db4a61.jpg" group-title="20 - PORTUGAL",PT_1:  TVI REALITY | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  TVI | UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="20 - PORTUGAL",PT_1:  TVI | UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  VH1 | SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/e99f43c53efb10b369a9b152c86fe88d.png" group-title="20 - PORTUGAL",PT_1:  VH1 | SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT_1:  ZAP VIVA | HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://superestable.online:8080/images/27ad700ebac58ec7152c8d8826bd950d.png" group-title="20 - PORTUGAL",PT_1:  ZAP VIVA | HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/34177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="♠♠♠Generalistas♠♠♠" tvg-logo="" group-title="20 - PORTUGAL",♠♠♠Generalistas♠♠♠
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/rtp1.png" group-title="20 - PORTUGAL",PT2: 1RTP 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP 1 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PT/rtp1hd.png" group-title="20 - PORTUGAL",PT2: 1RTP 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP 1 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/rtp1.png" group-title="20 - PORTUGAL",PT2: 1RTP 1 ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/rtp-2.png" group-title="20 - PORTUGAL",PT2: 1RTP 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PT/rtp2hd.png" group-title="20 - PORTUGAL",PT2: 1RTP 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP 2 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/rtp-2.png" group-title="20 - PORTUGAL",PT2: 1RTP 2 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic.png" group-title="20 - PORTUGAL",PT2: 1SIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic-hd.png" group-title="20 - PORTUGAL",PT2: 1SIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC FULL HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1SIC FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/tvi.png" group-title="20 - PORTUGAL",PT2: 1TVI
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/tvi.png" group-title="20 - PORTUGAL",PT2: 1TVI HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/tvi.png" group-title="20 - PORTUGAL",PT2: 1TVI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC NOTICIAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic-noticias.png" group-title="20 - PORTUGAL",PT2: 1SIC NOTICIAS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC NOTICIAS FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic-hd.png" group-title="20 - PORTUGAL",PT2: 1SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI 24" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/tvi24.png" group-title="20 - PORTUGAL",PT2: 1TVI 24
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI 24 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/tvi24.png" group-title="20 - PORTUGAL",PT2: 1TVI 24 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI 24 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/tvi24.png" group-title="20 - PORTUGAL",PT2: 1TVI 24 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CMTV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/cmtv.png" group-title="20 - PORTUGAL",PT2: 1CMTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CMTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/cmtv-hd.png" group-title="20 - PORTUGAL",PT2: 1CMTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CMTV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/cmtv-hd.png" group-title="20 - PORTUGAL",PT2: 1CMTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/rtp-3.png" group-title="20 - PORTUGAL",PT2: 1RTP 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1PORTO CANAL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/porto-canal.png" group-title="20 - PORTUGAL",PT2: 1PORTO CANAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1PORTO CANAL HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1PORTO CANAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI FICCAO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/tvificcao.png" group-title="20 - PORTUGAL",PT2: 1TVI FICCAO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI FICCAO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/tvificcao.png" group-title="20 - PORTUGAL",PT2: 1TVI FICCAO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC MULHER" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic-mulher.png" group-title="20 - PORTUGAL",PT2: 1SIC MULHER
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC MULHER ᶠᴴᴰ" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1SIC MULHER ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC RADICAL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic-radical.png" group-title="20 - PORTUGAL",PT2: 1SIC RADICAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC RADICAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic-radical-hd.png" group-title="20 - PORTUGAL",PT2: 1SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC CARAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic-caras.png" group-title="20 - PORTUGAL",PT2: 1SIC CARAS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC CARAS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic-caras-hd.png" group-title="20 - PORTUGAL",PT2: 1SIC CARAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI REALITY MOSAICO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="20 - PORTUGAL",PT2: 1TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI REALITY CAMARA 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="20 - PORTUGAL",PT2: 1TVI REALITY CAMARA 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI REALITY CAMARA 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="20 - PORTUGAL",PT2: 1TVI REALITY CAMARA 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI REALITY CAMARA 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="20 - PORTUGAL",PT2: 1TVI REALITY CAMARA 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI REALITY CAMARA 4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="20 - PORTUGAL",PT2: 1TVI REALITY CAMARA 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV   ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV   ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv1.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv1-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 1 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv1-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 1 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv2.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv2-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORTV 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv2-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv3.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv3-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORTV 3 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv3-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORTV 3 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv4.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv4.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORTV 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv4-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORTV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 5" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv5.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv5-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORTV 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sport-tv5-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORTV 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORT TV NBA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/nba-tv.png" group-title="20 - PORTUGAL",PT2: 1SPORT TV NBA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1BTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/btv-hd.png" group-title="20 - PORTUGAL",PT2: 1BTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1BTV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/btv-hd.png" group-title="20 - PORTUGAL",PT2: 1BTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORTING TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sporting-tv.png" group-title="20 - PORTUGAL",PT2: 1SPORTING TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORTING TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sporting-tv-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORTING TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SPORTING TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sporting-tv-hd.png" group-title="20 - PORTUGAL",PT2: 1SPORTING TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-1.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN  1  HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-1.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN  1  HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-1.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-2.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN  2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-2.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN  2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-2.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-3.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-3.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-3.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN 4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-4.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN SPORTS 4 HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN SPORTS 5" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN SPORTS 5 HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN 6" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eleven-6.png" group-title="20 - PORTUGAL",PT2: 1ELEVEN 6
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ELEVEN SPORTS 6 HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1A BOLA TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/abolatv.png" group-title="20 - PORTUGAL",PT2: 1A BOLA TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Eurosport 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eurosport-hd.png" group-title="20 - PORTUGAL",PT2: 1Eurosport 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1EUROSPORT 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eurosport-hd.png" group-title="20 - PORTUGAL",PT2: 1EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1EUROSPORT 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/eurosport-2.png" group-title="20 - PORTUGAL",PT2: 1EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Eurosport 2 FHD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1Eurosport 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FUEL TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/fuel-tv.png" group-title="20 - PORTUGAL",PT2: 1FUEL TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1KOMBAT SPORT" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/kombat-sport.png" group-title="20 - PORTUGAL",PT2: 1KOMBAT SPORT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1MOTORVISION" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PT/motorvision.png" group-title="20 - PORTUGAL",PT2: 1MOTORVISION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1PFC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/pfc.png" group-title="20 - PORTUGAL",PT2: 1PFC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CANAL NOS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/canalnos/logo-white.png" group-title="20 - PORTUGAL",PT2: 1CANAL NOS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE TOP" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-top.png" group-title="20 - PORTUGAL",PT2: 1TVCINE TOP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE TOP HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-top-hd.png" group-title="20 - PORTUGAL",PT2: 1TVCINE TOP HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE TOP ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-top-hd.png" group-title="20 - PORTUGAL",PT2: 1TVCINE TOP ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE EDITION" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-edition.png" group-title="20 - PORTUGAL",PT2: 1TVCINE EDITION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE EDITION HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-top-hd.png" group-title="20 - PORTUGAL",PT2: 1TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE EDITION ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-edition-hd.png" group-title="20 - PORTUGAL",PT2: 1TVCINE EDITION ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE EMOTION" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-emotion.png" group-title="20 - PORTUGAL",PT2: 1TVCINE EMOTION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE EMOTION HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-emotion-hd.png" group-title="20 - PORTUGAL",PT2: 1TVCINE EMOTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE EMOTION ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-emotion-hd.png" group-title="20 - PORTUGAL",PT2: 1TVCINE EMOTION ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE ACTION" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-action.png" group-title="20 - PORTUGAL",PT2: 1TVCINE ACTION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE ACTION HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-action-hd.png" group-title="20 - PORTUGAL",PT2: 1TVCINE ACTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVCINE ACTION ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tvcine-action-hd.png" group-title="20 - PORTUGAL",PT2: 1TVCINE ACTION ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1AMC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/amc-hd.png" group-title="20 - PORTUGAL",PT2: 1AMC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1AMC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/amc-hd.png" group-title="20 - PORTUGAL",PT2: 1AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37811.m3u8
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="PT2: 1AMC ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/amc-hd.png" group-title="20 - PORTUGAL",PT2: 1AMC ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CINEMUNDO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/cinemundo.png" group-title="20 - PORTUGAL",PT2: 1CINEMUNDO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CINEMUNDO FHD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX MOVIES" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/fox-movies-hd.png" group-title="20 - PORTUGAL",PT2: 1FOX MOVIES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX MOVIES FHD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1FOX MOVIES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1HOLLYWOOD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/hollywood.png" group-title="20 - PORTUGAL",PT2: 1HOLLYWOOD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37817.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="PT2: 1HOLLYWOOD HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/hollywood-hd.png" group-title="20 - PORTUGAL",PT2: 1HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1HOLLYWOOD ᶠᴴᴰ" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1HOLLYWOOD ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Eurochannel" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1Eurochannel
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37820.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="PT2: 1AXN" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/axn-hd.png" group-title="20 - PORTUGAL",PT2: 1AXN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1AXN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/axn-hd.png" group-title="20 - PORTUGAL",PT2: 1AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37822.m3u8
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="PT2: 1AXN ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/axn-hd.png" group-title="20 - PORTUGAL",PT2: 1AXN ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1AXN MOVIES" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/axn-movies-hd.png" group-title="20 - PORTUGAL",PT2: 1AXN MOVIES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1AXN Movies HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/axn-movies-hd.png" group-title="20 - PORTUGAL",PT2: 1AXN Movies HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1AXN MOVIES ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/axn-movies-hd.png" group-title="20 - PORTUGAL",PT2: 1AXN MOVIES ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1AXN WHITE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/axn-white-hd.png" group-title="20 - PORTUGAL",PT2: 1AXN WHITE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1AXN WHITE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/axn-white-hd.png" group-title="20 - PORTUGAL",PT2: 1AXN WHITE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37828.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="PT2: 1AXN WHITE ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/axn-white-hd.png" group-title="20 - PORTUGAL",PT2: 1AXN WHITE ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX ᶠᴴᴰ" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1FOX ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX COMEDY" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/fox-comedy.png" group-title="20 - PORTUGAL",PT2: 1FOX COMEDY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX COMEDY HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1FOX COMEDY HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX COMEDY ᶠᴴᴰ" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1FOX COMEDY ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX CRIME HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/fox-crime-hd.png" group-title="20 - PORTUGAL",PT2: 1FOX CRIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX CRIME ᶠᴴᴰ" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1FOX CRIME ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX LIFE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/fox-life-hd.png" group-title="20 - PORTUGAL",PT2: 1FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOX LIFE ᶠᴴᴰ" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1FOX LIFE ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SYfY" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/syfy.png" group-title="20 - PORTUGAL",PT2: 1SYfY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37839.m3u8
+#EXTINF:-1 tvg-id="SYFY FHD" tvg-name="PT2: 1SYFY FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/syfy-hd.png" group-title="20 - PORTUGAL",PT2: 1SYFY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1BABY TV" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1BABY TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1PANDA BIGGS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/biggs.png" group-title="20 - PORTUGAL",PT2: 1PANDA BIGGS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1PANDA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/panda.png" group-title="20 - PORTUGAL",PT2: 1PANDA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CARTOON NETWORK" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/cartoon-network.png" group-title="20 - PORTUGAL",PT2: 1CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1DISNEY CHANNEL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/disney-channel.png" group-title="20 - PORTUGAL",PT2: 1DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Bloomberg" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/bloomberg.png" group-title="20 - PORTUGAL",PT2: 1Bloomberg
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1DISNEY JUNIOR" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/disney-junior.png" group-title="20 - PORTUGAL",PT2: 1DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1JIM JAM" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/jimjam.png" group-title="20 - PORTUGAL",PT2: 1JIM JAM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1NICKELODEON" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/nickelodeon.png" group-title="20 - PORTUGAL",PT2: 1NICKELODEON
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Nick Jr" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1Nick Jr
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/sic-k.png" group-title="20 - PORTUGAL",PT2: 1SIC K
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SIC K HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1SIC K HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1DISCOVERY CHANNEL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/discovery-channel.png" group-title="20 - PORTUGAL",PT2: 1DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1DISCOVERY CHANNEL ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/discovery-channel-hd.png" group-title="20 - PORTUGAL",PT2: 1DISCOVERY CHANNEL ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CRIME   INVESTIGATION" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/crime_investigation.png" group-title="20 - PORTUGAL",PT2: 1CRIME   INVESTIGATION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ID Investigation Discovery FHD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1ID Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1NATIONAL GEOGRAPHIC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PT/natgeohd.png" group-title="20 - PORTUGAL",PT2: 1NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37857.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="PT2: 1NAT GEO WILD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/nat-geo-wild.png" group-title="20 - PORTUGAL",PT2: 1NAT GEO WILD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1NAT GEO ᶠᴴᴰ" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1NAT GEO ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1HISTORIA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/historia.png" group-title="20 - PORTUGAL",PT2: 1HISTORIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1BLAZE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/blaze.png" group-title="20 - PORTUGAL",PT2: 1BLAZE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1E! ENTERTAINMENT" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/e-entertainment.png" group-title="20 - PORTUGAL",PT2: 1E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TLC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tlc.png" group-title="20 - PORTUGAL",PT2: 1TLC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1DOG TV HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1DOG TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Cacavision" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/cacavision.png" group-title="20 - PORTUGAL",PT2: 1Cacavision
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CACA E PESCA HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1CACA E PESCA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TOROS TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/toros-tv.png" group-title="20 - PORTUGAL",PT2: 1TOROS TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FASHION TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/ftv.png" group-title="20 - PORTUGAL",PT2: 1FASHION TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 124 KITCHEN FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/24kitchen.png" group-title="20 - PORTUGAL",PT2: 124 KITCHEN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 124 KITCHEN ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/24kitchen.png" group-title="20 - PORTUGAL",PT2: 124 KITCHEN ᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FOOD NETWORK HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TRAVEL CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/travel-channel-hd.png" group-title="20 - PORTUGAL",PT2: 1TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ODISSEIA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/odisseia.png" group-title="20 - PORTUGAL",PT2: 1ODISSEIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1FATIMA TV HD" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1FATIMA TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CANCAO NOVA" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1AFRO MUSIC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/afromusicchannel.png" group-title="20 - PORTUGAL",PT2: 1AFRO MUSIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1MCM POP" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/mcm-pop.png" group-title="20 - PORTUGAL",PT2: 1MCM POP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1MCM TOP" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1MCM TOP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TRACE URBAN" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/trace-urban-hd.png" group-title="20 - PORTUGAL",PT2: 1TRACE URBAN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1MTV PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/mtv-portugal-hd.png" group-title="20 - PORTUGAL",PT2: 1MTV PORTUGAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37880.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="PT2: 1VH1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/vh1.png" group-title="20 - PORTUGAL",PT2: 1VH1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVE Internacional" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PTS/tveinternacional.png" group-title="20 - PORTUGAL",PT2: 1TVE Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TV5 MONDE EUROPE" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1TV5 MONDE EUROPE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TV RECORD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tv-record.png" group-title="20 - PORTUGAL",PT2: 1TV RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TV Galicia" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/tv-galicia.png" group-title="20 - PORTUGAL",PT2: 1TV Galicia
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1GLOBO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/globo.png" group-title="20 - PORTUGAL",PT2: 1GLOBO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1GLOBO FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/globo-hd.png" group-title="20 - PORTUGAL",PT2: 1GLOBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1GLOBO NOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/globo-now.png" group-title="20 - PORTUGAL",PT2: 1GLOBO NOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Record News" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1Record News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Regioes TV" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1Regioes TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP Acores" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/rtp-acores.png" group-title="20 - PORTUGAL",PT2: 1RTP Acores
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP Africa" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1RTP Africa
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP Madeira" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/rtp-madeira.png" group-title="20 - PORTUGAL",PT2: 1RTP Madeira
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CANAL Q" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PT/canalq.png" group-title="20 - PORTUGAL",PT2: 1CANAL Q
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CNN" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1CNN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1BBC WORLD NEWS" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1BBC Entertainment" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1BBC Entertainment
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Euro News" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1Euro News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ZAP Viva FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="20 - PORTUGAL",PT2: 1ZAP Viva FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TV Series" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1TV Series
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TRACE TOCA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/trace-toca.png" group-title="20 - PORTUGAL",PT2: 1TRACE TOCA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TPA INTERNACIONAL" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1SKY NEWS" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1SKY NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1RTP Memoria" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/rtp-memoria.png" group-title="20 - PORTUGAL",PT2: 1RTP Memoria
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1QYOU" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1QYOU
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1MVM" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1MVM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37906.m3u8
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="PT2: 1MEZZO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/mezzo.png" group-title="20 - PORTUGAL",PT2: 1MEZZO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1KURIAKOS TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/kuriakos.png" group-title="20 - PORTUGAL",PT2: 1KURIAKOS TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1KURIAKOS KIDS" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1KURIAKOS KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1DW" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1DW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1CBS Reality" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/cbs-reality.png" group-title="20 - PORTUGAL",PT2: 1CBS Reality
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1BOOMERANG" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1BOOMERANG
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1TVI Reality" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PT/tvireality.png" group-title="20 - PORTUGAL",PT2: 1TVI Reality
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1ARTV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://live-tv-channels.org/pt-data/uploads/logo/canal_parlamento_por.png" group-title="20 - PORTUGAL",PT2: 1ARTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1NBA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/PT/nba.png" group-title="20 - PORTUGAL",PT2: 1NBA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Canal 11 LOW" tvg-logo="" group-title="20 - PORTUGAL",PT2: 1Canal 11 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="20 - PORTUGAL",Canal 11 ʰᵈ ᴴ²⁶⁵
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT2: 1Canal 11 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meuapk.ddns.net/LOGOS/MEO-Lista-de-Canais-MEO/c-11.png" group-title="20 - PORTUGAL",PT2: 1Canal 11 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lloc1.site:8080/live/Nalaman2c/6xWTUhfy46/37918.m3u8
