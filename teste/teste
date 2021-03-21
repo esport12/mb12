@@ -1,153 +1,476 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
+#EXTINF:-1tvg-id=""tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------"tvg-logo="https://i.imgur.com/DZfGQwI.jpg"group-title="-------@by_flecha_negra--------",--------------@by_flecha_negra--------LISTA GRATIS-----------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR NO UM ABRAÇO
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ DESPORTO ▆ ▅ ▄ ▂" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/desporto.png" group-title="Portugal",▂ ▄ ▅ ▆ DESPORTO ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52264.m3u8
-#EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="SPORT TV + ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV%2B_nos.png" group-title="Portugal",SPORT TV + ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52265.m3u8
-#EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="SPORT TV + ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV%2B_nos.png" group-title="Portugal",SPORT TV + ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52266.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV +" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV%2B_nos.png" group-title="Portugal",SPORT TV +
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52267.m3u8
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV1_HD_nos.png" group-title="Portugal",SPORT TV 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52268.m3u8
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV1_HD_nos.png" group-title="Portugal",SPORT TV 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52269.m3u8
-#EXTINF:-1 tvg-id="SPTV" tvg-name="SPORT TV 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV1_nos.png" group-title="Portugal",SPORT TV 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52270.m3u8
-#EXTINF:-1 tvg-id="SPTV" tvg-name="SPORT TV 1 * Net Fraca" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV1_nos.png" group-title="Portugal",SPORT TV 1 * Net Fraca
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/57847.m3u8
-#EXTINF:-1 tvg-id="SPORTV2HD(LOWBITRATE)" tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV2_HD.png" group-title="Portugal",SPORT TV 2 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52271.m3u8
-#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV2_HD.png" group-title="Portugal",SPORT TV 2 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52272.m3u8
-#EXTINF:-1 tvg-id="SPTV2" tvg-name="SPORT TV 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV2_nos.png" group-title="Portugal",SPORT TV 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52273.m3u8
-#EXTINF:-1 tvg-id="SPORTV3HD(LOWBITRATE)" tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV3_HD.png" group-title="Portugal",SPORT TV 3 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52274.m3u8
-#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV3_HD.png" group-title="Portugal",SPORT TV 3 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52275.m3u8
-#EXTINF:-1 tvg-id="SPTV3" tvg-name="SPORT TV 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV3_nos.png" group-title="Portugal",SPORT TV 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52276.m3u8
-#EXTINF:-1 tvg-id="SPORTV4HD(LOWBITRATE)" tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV4_HD.png" group-title="Portugal",SPORT TV 4 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52277.m3u8
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV4_HD.png" group-title="Portugal",SPORT TV 4 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52278.m3u8
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV4.png" group-title="Portugal",SPORT TV 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52279.m3u8
-#EXTINF:-1 tvg-id="SPORTV5HD(LOWBITRATE)" tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV5_HD.png" group-title="Portugal",SPORT TV 5 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52280.m3u8
-#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV5_HD.png" group-title="Portugal",SPORT TV 5 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52281.m3u8
-#EXTINF:-1 tvg-id="SPTV5" tvg-name="SPORT TV 5" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV5_nos.png" group-title="Portugal",SPORT TV 5
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52282.m3u8
-#EXTINF:-1 tvg-id="SportTVNBAHD" tvg-name="SPORT TV NBA ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORT_TV_NBA_nos.png" group-title="Portugal",SPORT TV NBA ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52283.m3u8
-#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="EL SPORTS 1 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E1_nos.png" group-title="Portugal",EL SPORTS 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52284.m3u8
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="EL SPORTS 1 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E1_nos.png" group-title="Portugal",EL SPORTS 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52285.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="EL SPORTS 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E1_nos.png" group-title="Portugal",EL SPORTS 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52286.m3u8
-#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="EL SPORTS 2 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E2_nos.png" group-title="Portugal",EL SPORTS 2 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52287.m3u8
-#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="EL SPORTS 2 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E2_nos.png" group-title="Portugal",EL SPORTS 2 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52288.m3u8
-#EXTINF:-1 tvg-id="elevensports2LB" tvg-name="EL SPORTS 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E2_nos.png" group-title="Portugal",EL SPORTS 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52289.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORTS 3 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E3_nos.png" group-title="Portugal",ELEVEN SPORTS 3 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52290.m3u8
-#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="ELEVEN SPORTS 3 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E3_nos.png" group-title="Portugal",ELEVEN SPORTS 3 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52291.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="ELEVEN SPORTS 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E3_nos.png" group-title="Portugal",ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52292.m3u8
-#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="ELEVEN SPORTS 4 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E4_nos.png" group-title="Portugal",ELEVEN SPORTS 4 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52293.m3u8
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E4_nos.png" group-title="Portugal",ELEVEN SPORTS 4 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52294.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="ELEVEN SPORTS 4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E4_nos.png" group-title="Portugal",ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52295.m3u8
-#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="ELEVEN SPORTS 5 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E5_meo.png" group-title="Portugal",ELEVEN SPORTS 5 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52296.m3u8
-#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E5_meo.png" group-title="Portugal",ELEVEN SPORTS 5 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52297.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="ELEVEN SPORTS 5" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E5_meo.png" group-title="Portugal",ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52298.m3u8
-#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="ELEVEN SPORTS 6 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E6_nos.png" group-title="Portugal",ELEVEN SPORTS 6 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52299.m3u8
-#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6 ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E6_nos.png" group-title="Portugal",ELEVEN SPORTS 6 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52300.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="ELEVEN SPORTS 6" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/E6_nos.png" group-title="Portugal",ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52301.m3u8
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/CANAL_11_nos.png" group-title="Portugal",CANAL 11 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52302.m3u8
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/CANAL_11_nos.png" group-title="Portugal",CANAL 11
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/57767.m3u8
-#EXTINF:-1 tvg-id="ABolaTV2" tvg-name="A BOLA TV ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/A_BOLA_TV_meo.png" group-title="Portugal",A BOLA TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52303.m3u8
-#EXTINF:-1 tvg-id="ABolaTV2" tvg-name="A BOLA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/A_BOLA_TV_meo.png" group-title="Portugal",A BOLA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52304.m3u8
-#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="BTV TV ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/BTV_HD_nos.png" group-title="Portugal",BTV TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52305.m3u8
-#EXTINF:-1 tvg-id="BENFICATV1HD(LOWBITRATE)" tvg-name="BTV TV ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/BTV_HD_nos.png" group-title="Portugal",BTV TV ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52306.m3u8
-#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/BTV_HD_nos.png" group-title="Portugal",BTV TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52307.m3u8
-#EXTINF:-1 tvg-id="BTV HD1" tvg-name="BTV *Net Fraca" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/BTV_1_nos.png" group-title="Portugal",BTV *Net Fraca
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/57992.m3u8
-#EXTINF:-1 tvg-id="PORTOCANALHD" tvg-name="PORTO CANAL ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/PORTO_CANAL_nos.png" group-title="Portugal",PORTO CANAL ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52308.m3u8
-#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANAL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/PORTO_CANAL_nos.png" group-title="Portugal",PORTO CANAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52309.m3u8
-#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TV ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORTING_TV_nos.png" group-title="Portugal",SPORTING TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52310.m3u8
-#EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="SPORTING TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/SPORTING_TV_nos.png" group-title="Portugal",SPORTING TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52311.m3u8
-#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/EUROSPORT1_HD.png" group-title="Portugal",EUROSPORT 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52312.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="EUROSPORT 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/EUROSPORT_1_nos.png" group-title="Portugal",EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52313.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2 ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/EUROSPORT_2_nos.png" group-title="Portugal",EUROSPORT 2 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/57765.m3u8
-#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="FIGHT NETWORK" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/FIGHT_NETWORK_HD.png" group-title="Portugal",FIGHT NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/57764.m3u8
-#EXTINF:-1 tvg-id="Red Bull TV HD" tvg-name="REDBULL TV ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/RedBull_TV.jpg" group-title="Portugal",REDBULL TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/57754.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/EUROSPORT_2_nos.png" group-title="Portugal",EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOTO GP ᶠᴴᴰ (Italia)" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/MotoGP.png" group-title="Portugal",MOTO GP ᶠᴴᴰ (Italia)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/58446.m3u8
-#EXTINF:-1 tvg-id="movistar.formula.1.es" tvg-name="M.FORMULA 1 ᶠᴴᴰ (Espanha)" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/m.formula1.png" group-title="Portugal",M.FORMULA 1 ᶠᴴᴰ (Espanha)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52315.m3u8
-#EXTINF:-1 tvg-id="m..formula.1.uhd.es" tvg-name="M.FORMULA 1 (Espanha)" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/m.formula1.png" group-title="Portugal",M.FORMULA 1 (Espanha)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 ᴴᴰ (Italia)" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/sport_F1.png" group-title="Portugal",SKY SPORT F1 ᴴᴰ (Italia)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/92714.m3u8
-#EXTINF:-1 tvg-id="NBATVHD" tvg-name="NBA TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/NBA_TV_meo.png" group-title="Portugal",NBA TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52317.m3u8
-#EXTINF:-1 tvg-id="Caça Vision" tvg-name="CACAVISION" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/CACAVISION_meo.png" group-title="Portugal",CACAVISION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52318.m3u8
-#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="CAZA y PESCA ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/CASA_E_PESCA_nos.png" group-title="Portugal",CAZA y PESCA ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52319.m3u8
-#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="CAZA Y PESCA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/CASA_E_PESCA_nos.png" group-title="Portugal",CAZA Y PESCA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52320.m3u8
-#EXTINF:-1 tvg-id="TOUROS TV HD" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/TOROS_TV_nos.png" group-title="Portugal",TOROS TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52321.m3u8
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="TOROS TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/TOROS_TV_nos.png" group-title="Portugal",TOROS TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WWE ᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/wwe-icon.png" group-title="Portugal",WWE ᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52323.m3u8
-#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/KOMBATE_SPORT_meo.png" group-title="Portugal",KOMBAT SPORT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52324.m3u8
-#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="MOTORVISION ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/MOTOSVISION_nos.png" group-title="Portugal",MOTORVISION ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52325.m3u8
-#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="MOTORVISION" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/MOTOSVISION_nos.png" group-title="Portugal",MOTORVISION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52326.m3u8
-#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="FIGHT NETWORK ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/FIGHT_NETWORK_HD.png" group-title="Portugal",FIGHT NETWORK ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52329.m3u8
-#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="FUEL TV ᶠᴴᴰ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/FUEL_TV_nos.png" group-title="Portugal",FUEL TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52327.m3u8
-#EXTINF:-1 tvg-id="Ext_Spt" tvg-name="FUEL TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/FUEL_TV_nos.png" group-title="Portugal",FUEL TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52328.m3u8
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://mymovies2hd.ddns.net/Picons/PFC_nos.png" group-title="Portugal",PFC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://newstudio.ddns.net:8080/live/wF8SHT92mh/Pse1zFELbb/52330.m3u8
+#EXTINF:-1 tvg-id="RTP 1 HD" tvg-name="RTP 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL",RTP 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26427.m3u8
+#EXTINF:-1 tvg-id="RTP 2 HD" tvg-name="RTP 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/RTP_2_HD.png" group-title="PORTUGAL",RTP 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26430.m3u8
+#EXTINF:-1 tvg-id="SIC HD" tvg-name="SIC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="PORTUGAL",SIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26433.m3u8
+#EXTINF:-1 tvg-id="TVI HD" tvg-name="TVI HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="PORTUGAL",TVI HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26436.m3u8
+#EXTINF:-1 tvg-id="CMTV HD" tvg-name="CMTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="PORTUGAL",CMTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26439.m3u8
+#EXTINF:-1 tvg-id="TVI 24 HD" tvg-name="TVI 24 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="PORTUGAL",TVI 24 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26441.m3u8
+#EXTINF:-1 tvg-id="RTP 3 HD" tvg-name="RTP 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/rtp3.png" group-title="PORTUGAL",RTP 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26443.m3u8
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS HD" tvg-name="SIC NOTICIAS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sicnoticias.png" group-title="PORTUGAL",SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26445.m3u8
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/EURONEWS.png" group-title="PORTUGAL",EURONEWS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26446.m3u8
+#EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-name="TVI FICCAO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvificcao.png" group-title="PORTUGAL",TVI FICCAO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26539.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="PORTUGAL",TVI REALITY HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26540.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 1" tvg-name="TVI REALITY  CAM1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="PORTUGAL",TVI REALITY  CAM1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26542.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 2" tvg-name="TVI REALITY CAM2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="PORTUGAL",TVI REALITY CAM2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26543.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 3" tvg-name="TVI REALITY CAM3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="PORTUGAL",TVI REALITY CAM3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26544.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 4" tvg-name="TVI REALITY CAM4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="PORTUGAL",TVI REALITY CAM4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26545.m3u8
+#EXTINF:-1 tvg-id="GLOBO HD" tvg-name="TV GLOBO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/tv_globo_pt.jpg" group-title="PORTUGAL",TV GLOBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26548.m3u8
+#EXTINF:-1 tvg-id="GLOBO NOW" tvg-name="TV GLOBO NOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/globo.png" group-title="PORTUGAL",TV GLOBO NOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26549.m3u8
+#EXTINF:-1 tvg-id="GLOBO NOW HD" tvg-name="TV GLOBO NOW HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/globo.png" group-title="PORTUGAL",TV GLOBO NOW HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26550.m3u8
+#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="TV RECORD HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvrecord.png" group-title="PORTUGAL",TV RECORD HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26552.m3u8
+#EXTINF:-1 tvg-id="SIC CARAS HD" tvg-name="SIC CARAS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/siccaras.png" group-title="PORTUGAL",SIC CARAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26554.m3u8
+#EXTINF:-1 tvg-id="SIC MULHER HD" tvg-name="SIC MULHER HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="PORTUGAL",SIC MULHER HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26556.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC RADICAL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sicradical.png" group-title="PORTUGAL",SIC RADICAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26558.m3u8
+#EXTINF:-1 tvg-id="PORTO CANAL HD" tvg-name="PORTO CANAL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.topstb.info/logo/PORTUGAL/PORTOCANAL.png" group-title="PORTUGAL",PORTO CANAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26569.m3u8
+#EXTINF:-1 tvg-id="RTP AÇORES" tvg-name="RTP Acores" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/rtpacores.png" group-title="PORTUGAL",RTP Acores
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26577.m3u8
+#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="RTP Africa" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/rtpafrica.png" group-title="PORTUGAL",RTP Africa
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26578.m3u8
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP MADEIRA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/rtpmadeira.png" group-title="PORTUGAL",RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26579.m3u8
+#EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-name="RTP Memoria" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/rtpmemoria.png" group-title="PORTUGAL",RTP Memoria
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26580.m3u8
+#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/CANAL_11.png" group-title="PORTUGAL",CANAL 11 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26448.m3u8
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="BOLA TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="PORTUGAL",BOLA TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26449.m3u8
+#EXTINF:-1 tvg-id="A BOLA HD" tvg-name="A BOLA TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="PORTUGAL",A BOLA TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26450.m3u8
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="PORTUGAL",BTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26508.m3u8
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="PORTUGAL",BTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26509.m3u8
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="PORTUGAL",BTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26510.m3u8
+#EXTINF:-1 tvg-id="SPORTING TV HD" tvg-name="SPORTING TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="PORTUGAL",SPORTING TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26512.m3u8
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="SPORT TV +" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/SPORT_TV_+_HD.png" group-title="PORTUGAL",SPORT TV +
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26451.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="PORTUGAL",SPORT TV 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26491.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="PORTUGAL",SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26492.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="PORTUGAL",SPORT TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26494.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="PORTUGAL",SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26495.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="PORTUGAL",SPORT TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26497.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="PORTUGAL",SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26498.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="SPORT TV 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="PORTUGAL",SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26499.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="PORTUGAL",SPORT TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26500.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="PORTUGAL",SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26501.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="SPORT TV 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="PORTUGAL",SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26502.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="PORTUGAL",SPORT TV 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26503.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="PORTUGAL",SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26504.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="SPORT TV 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="PORTUGAL",SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26505.m3u8
+#EXTINF:-1 tvg-id="SPORT TV NBA" tvg-name="SPORT TV NBA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/large.jpg" group-title="PORTUGAL",SPORT TV NBA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26506.m3u8
+#EXTINF:-1 tvg-id="SPORT TV NBA HD" tvg-name="SPORT TV NBA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/large.jpg" group-title="PORTUGAL",SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26507.m3u8
+#EXTINF:-1 tvg-id="SPORT TV NBA" tvg-name="NBA TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sportvnbatv.png" group-title="PORTUGAL",NBA TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26601.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26513.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 HD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26514.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 FHD" tvg-name="ELEVEN SPORTS 1 H265" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 H265
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26515.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports2.png" group-title="PORTUGAL",ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26516.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 HD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26517.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 FHD" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26518.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports3.png" group-title="PORTUGAL",ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26519.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26520.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="ELEVEN SPORTS 4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports4.png" group-title="PORTUGAL",ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26522.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="ELEVEN SPORTS 5" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports5.png" group-title="PORTUGAL",ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26523.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26524.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="ELEVEN SPORTS 6" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports6.png" group-title="PORTUGAL",ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26525.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports6.png" group-title="PORTUGAL",ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26526.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.topstb.info/logo/PORTUGAL/EUROSPORT1.png" group-title="PORTUGAL",EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26595.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.topstb.info/logo/PORTUGAL/EUROSPORT2.png" group-title="PORTUGAL",EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26597.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.topstb.info/logo/PORTUGAL/PFC.png" group-title="PORTUGAL",PFC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26600.m3u8
+#EXTINF:-1 tvg-id="TOROS TV" tvg-name="TOROS TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/torostv.png" group-title="PORTUGAL",TOROS TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26604.m3u8
+#EXTINF:-1 tvg-id="MOTORVISION HD" tvg-name="MOTORVISION TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/motorvisiontv.png" group-title="PORTUGAL",MOTORVISION TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26606.m3u8
+#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TVCINE TOP HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/TVCINE_TOP_HD.png" group-title="PORTUGAL",TVCINE TOP HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26454.m3u8
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITION HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/TVCINE_EDITION_HD.png" group-title="PORTUGAL",TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26456.m3u8
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCINE EMOTION" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/TVCINE_EMOTION_HD.png" group-title="PORTUGAL",TVCINE EMOTION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26458.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE ACTION" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/TVCINE_ACTION_HD.png" group-title="PORTUGAL",TVCINE ACTION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26460.m3u8
+#EXTINF:-1 tvg-id="NOS STUDIOS HD" tvg-name="NOS STUDIOS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL",NOS STUDIOS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26462.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood_hd.jpg" group-title="PORTUGAL",HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26464.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="PORTUGAL",FOX MOVIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26466.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO HD" tvg-name="CINEMUNDO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/cinemundo.png" group-title="PORTUGAL",CINEMUNDO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26468.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="PORTUGAL",AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26470.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/axn_pt.jpg" group-title="PORTUGAL",AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26473.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/axnwhite.png" group-title="PORTUGAL",AXN WHITE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26475.m3u8
+#EXTINF:-1 tvg-id="AXN MOVIES HD" tvg-name="AXN MOVIES HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_pt.jpg" group-title="PORTUGAL",AXN MOVIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26476.m3u8
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="PORTUGAL",SYFY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26480.m3u8
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="PORTUGAL",SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26481.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="PORTUGAL",FOX
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26482.m3u8
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="PORTUGAL",FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26483.m3u8
+#EXTINF:-1 tvg-id="FOX CRIME HD" tvg-name="FOX CRIME HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/foxcrime.png" group-title="PORTUGAL",FOX CRIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26485.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX COMEDY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/foxcomedy.png" group-title="PORTUGAL",FOX COMEDY HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26487.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/foxlife.png" group-title="PORTUGAL",FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26489.m3u8
+#EXTINF:-1 tvg-id="CAÇA E PESCA HD" tvg-name="Caça & Pesca HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/cacaepesca.png" group-title="PORTUGAL",Caça & Pesca HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPO PEQUENO TV HD" tvg-logo="" group-title="PORTUGAL",CAMPO PEQUENO TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26609.m3u8
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="Kombat Sport" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/kombatsport.png" group-title="PORTUGAL",Kombat Sport
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26610.m3u8
+#EXTINF:-1 tvg-id="FIGHT NETWORK HD" tvg-name="Fight Network HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/fightnetwork.png" group-title="PORTUGAL",Fight Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FightBox HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/fightbox.png" group-title="PORTUGAL",FightBox HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="PORTUGAL",WWE NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26613.m3u8
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/babytv.png" group-title="PORTUGAL",BABY TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="" group-title="PORTUGAL",Nick Junior
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JIM JAM" tvg-logo="" group-title="PORTUGAL",JIM JAM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26529.m3u8
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/canal_panda_pt.jpg" group-title="PORTUGAL",CANAL PANDA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26531.m3u8
+#EXTINF:-1 tvg-id="SIC K HD" tvg-name="SIC K HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://92.222.68.42/nacional/1_0_1_1CD_68_53_FFFF0000_0_0_0.png" group-title="PORTUGAL",SIC K HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26533.m3u8
+#EXTINF:-1 tvg-id="BIGGS HD" tvg-name="PANDA BIGGS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://92.222.68.42/picons/1_0_1_788_45_36_FFFF0000_0_0_0.png" group-title="PORTUGAL",PANDA BIGGS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26534.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_pt.jpg" group-title="PORTUGAL",DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26535.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/disneychannel.png" group-title="PORTUGAL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26536.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON  NETWORK" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://92.222.68.42/picons/1_0_1_266_29_36_FFFF0000_0_0_0.png" group-title="PORTUGAL",CARTOON  NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26537.m3u8
+#EXTINF:-1 tvg-id="CBS REALITY" tvg-name="CBS REALITY" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality_eu.jpg" group-title="PORTUGAL",CBS REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="PORTUGAL",TLC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA COZINHA HD" tvg-logo="" group-title="PORTUGAL",CASA COZINHA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN HD" tvg-logo="" group-title="PORTUGAL",24 KITCHEN HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title="PORTUGAL",FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="" group-title="PORTUGAL",E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT HD" tvg-logo="" group-title="PORTUGAL",E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGAL",TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Q" tvg-logo="" group-title="PORTUGAL",CANAL Q
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="" group-title="PORTUGAL",BLAZE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blaze HD" tvg-logo="" group-title="PORTUGAL",Blaze HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR TV" tvg-logo="" group-title="PORTUGAL",AR TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="" group-title="PORTUGAL",CGTN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Local visão HD" tvg-logo="" group-title="PORTUGAL",Local visão HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26575.m3u8
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/450px-National_Geographic_Channel.svg.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="PORTUGAL",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic wild HD" tvg-logo="" group-title="PORTUGAL",National Geographic wild HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery HD" tvg-logo="" group-title="PORTUGAL",ID Investigation Discovery HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA HD" tvg-logo="" group-title="PORTUGAL",ODISSEIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26589.m3u8
+#EXTINF:-1 tvg-id="HISTÓRIA HD" tvg-name="HISTORIA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/canal_de_historia.jpg" group-title="PORTUGAL",HISTORIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigacao" tvg-logo="" group-title="PORTUGAL",Crime Investigacao
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="" group-title="PORTUGAL",FASHION TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26593.m3u8
+#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="Cacavision" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/cacavision.png" group-title="PORTUGAL",Cacavision
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GINX" tvg-logo="" group-title="PORTUGAL",GINX
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUEL" tvg-logo="" group-title="PORTUGAL",FUEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV HD" tvg-logo="" group-title="PORTUGAL",FUEL TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",AFRO MUSIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26614.m3u8
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1" tvg-logo="" group-title="PORTUGAL",VH1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="" group-title="PORTUGAL",Trace Toca
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="PORTUGAL",Trace Urban
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL HD" tvg-logo="" group-title="PORTUGAL",MTV PORTUGAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="" group-title="PORTUGAL",MTV LIVE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="PORTUGAL",MCM Pop
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="" group-title="PORTUGAL",Mezzo Live
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cancão Nova" tvg-logo="" group-title="PORTUGAL",Cancão Nova
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MVM" tvg-logo="" group-title="PORTUGAL",MVM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26624.m3u8
+#EXTINF:-1 tvg-id="ZAPVIVA HD" tvg-name="ZAP VIVA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://92.222.68.42/nacional/1_0_1_53C_2F_36_CE40000_0_0_0.png" group-title="PORTUGAL",ZAP VIVA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS TV" tvg-logo="" group-title="PORTUGAL",KURIAKOS TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos tv Kids HD" tvg-logo="" group-title="PORTUGAL",Kuriakos tv Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull" tvg-logo="" group-title="PORTUGAL",Red Bull
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="" group-title="PORTUGAL",BBC Entertainment
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26630.m3u8
+#EXTINF:-1 tvg-id="CANAL 180" tvg-name="CANAL 180" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://92.222.68.42/picons/1_0_1_70A_44_36_FFFF0000_0_0_0.png" group-title="PORTUGAL",CANAL 180
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QYOU" tvg-logo="" group-title="PORTUGAL",QYOU
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT Doc" tvg-logo="" group-title="PORTUGAL",RT Doc
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="PORTUGAL",NHK World Japan
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Galicia HD" tvg-logo="" group-title="PORTUGAL",TV Galicia HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC News" tvg-logo="" group-title="PORTUGAL",TVC News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC CABO VERDE" tvg-logo="" group-title="PORTUGAL",TVC CABO VERDE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR International" tvg-logo="" group-title="PORTUGAL",TVR International
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TPA INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="" group-title="PORTUGAL",DOG TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S + HD" tvg-logo="" group-title="PORTUGAL",S + HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="" group-title="PORTUGAL",Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="" group-title="PORTUGAL",BOOMERANG
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26643.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1  LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="PORTUGAL LOW",RTP 1  LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC LOW" tvg-logo="" group-title="PORTUGAL LOW",SIC LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26825.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI  LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="PORTUGAL LOW",TVI  LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26826.m3u8
+#EXTINF:-1 tvg-id="CMTV HD" tvg-name="CMTV LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="PORTUGAL LOW",CMTV LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26827.m3u8
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="PORTUGAL LOW",TVI 24 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher LOW" tvg-logo="" group-title="PORTUGAL LOW",SIC Mulher LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS LOW" tvg-logo="" group-title="PORTUGAL LOW",SIC NOTICIAS LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26830.m3u8
+#EXTINF:-1 tvg-id="RTP 3 LOW" tvg-name="RTP 3 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/rtp3.png" group-title="PORTUGAL LOW",RTP 3 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26831.m3u8
+#EXTINF:-1 tvg-id="A BOLA LOW" tvg-name="A Bola TV LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="PORTUGAL LOW",A Bola TV LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26832.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="PORTUGAL LOW",SPORT TV 1 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26833.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2 LOW" tvg-name="SPORT TV 2 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="PORTUGAL LOW",SPORT TV 2 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26834.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3 LOW" tvg-name="SPORT TV 3 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="PORTUGAL LOW",SPORT TV 3 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BENFICA TV LOW" tvg-logo="" group-title="PORTUGAL LOW",BENFICA TV LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cine TOP LOW" tvg-logo="" group-title="PORTUGAL LOW",TV Cine TOP LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cine Edition LOW" tvg-logo="" group-title="PORTUGAL LOW",TV Cine Edition LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cine Emotion LOW" tvg-logo="" group-title="PORTUGAL LOW",TV Cine Emotion LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26839.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION LOW" tvg-name="TVCINE ACTION LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvcineaction.png" group-title="PORTUGAL LOW",TVCINE ACTION LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26840.m3u8
+#EXTINF:-1 tvg-id="NOS STUDIOS LOW" tvg-name="NOS STUDIOS LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/nosstudios.png" group-title="PORTUGAL LOW",NOS STUDIOS LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26841.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD LOW" tvg-name="HOLLYWOOD LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood.jpg" group-title="PORTUGAL LOW",HOLLYWOOD LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26842.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO LOW" tvg-name="CINEMUNDO LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/cinemundo.png" group-title="PORTUGAL LOW",CINEMUNDO LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26843.m3u8
+#EXTINF:-1 tvg-id="AXN LOW" tvg-name="AXN LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/axn_pt.jpg" group-title="PORTUGAL LOW",AXN LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26844.m3u8
+#EXTINF:-1 tvg-id="FOX LOW" tvg-name="FOX LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="PORTUGAL LOW",FOX LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA LOW" tvg-logo="" group-title="PORTUGAL LOW",CANAL PANDA LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO LOW" tvg-logo="" group-title="PORTUGAL LOW",GLOBO LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26847.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 LOW" tvg-name="ELEVEN SPORTS 1 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports1.png" group-title="PORTUGAL LOW",ELEVEN SPORTS 1 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26848.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 LOW" tvg-name="ELEVEN SPORTS 2 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports2.png" group-title="PORTUGAL LOW",ELEVEN SPORTS 2 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE LOW" tvg-logo="" group-title="PORTUGAL LOW",AXN WHITE LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES LOW" tvg-logo="" group-title="PORTUGAL LOW",AXN MOVIES LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26851.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES LOW" tvg-name="FOX MOVIES LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="PORTUGAL LOW",FOX MOVIES LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26852.m3u8
+#EXTINF:-1 tvg-id="FOX CRIME LOW" tvg-name="FOX CRIME LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/foxcrime.png" group-title="PORTUGAL LOW",FOX CRIME LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26853.m3u8
+#EXTINF:-1 tvg-id="SPORT TV+ LOW" tvg-name="SPORT TV + LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="PORTUGAL LOW",SPORT TV + LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National geographic LOW" tvg-logo="" group-title="PORTUGAL LOW",National geographic LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26855.m3u8
+#EXTINF:-1 tvg-id="RTP 2 LOW" tvg-name="RTP 2 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="PORTUGAL LOW",RTP 2 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Geographic wild  LOW" tvg-logo="" group-title="PORTUGAL LOW",Geographic wild  LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA LOW" tvg-logo="" group-title="PORTUGAL LOW",ODISSEIA LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26858.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.topstb.info/logo/PORTUGAL/EUROSPORT1.png" group-title="PORTUGAL LOW",EUROSPORT 1 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26859.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 2 LOW" tvg-name="EUROSPORT 2 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.topstb.info/logo/PORTUGAL/EUROSPORT2.png" group-title="PORTUGAL LOW",EUROSPORT 2 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26860.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/elevensports3.png" group-title="PORTUGAL LOW",ELEVEN SPORTS 3 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior LOW" tvg-logo="" group-title="PORTUGAL LOW",Nick Junior LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26862.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_pt.jpg" group-title="PORTUGAL LOW",DISNEY JUNIOR LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26863.m3u8
+#EXTINF:-1 tvg-id="SIC K LOW" tvg-name="SIC K  LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://92.222.68.42/nacional/1_0_1_1CD_68_53_FFFF0000_0_0_0.png" group-title="PORTUGAL LOW",SIC K  LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL LOW" tvg-logo="" group-title="PORTUGAL LOW",DISNEY CHANNEL LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE LOW" tvg-logo="" group-title="PORTUGAL LOW",BLAZE LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26866.m3u8
+#EXTINF:-1 tvg-id="SYFY LOW" tvg-name="SYFY LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="PORTUGAL LOW",SYFY LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26867.m3u8
+#EXTINF:-1 tvg-id="BIGGS LOW" tvg-name="PANDA BIGGS LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://92.222.68.42/picons/1_0_1_788_45_36_FFFF0000_0_0_0.png" group-title="PORTUGAL LOW",PANDA BIGGS LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26868.m3u8
+#EXTINF:-1 tvg-id="PORTO CANAL LOW" tvg-name="PORTO CANAL LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.topstb.info/logo/PORTUGAL/PORTOCANAL.png" group-title="PORTUGAL LOW",PORTO CANAL LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26869.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY LOW" tvg-name="FOX COMEDY LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/foxcomedy.png" group-title="PORTUGAL LOW",FOX COMEDY LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26870.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4 LOW" tvg-name="SPORT TV 4 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="PORTUGAL LOW",SPORT TV 4 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26871.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 5 LOW" tvg-name="SPORT TV 5 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="PORTUGAL LOW",SPORT TV 5 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26872.m3u8
+#EXTINF:-1 tvg-id="HISTÓRIA LOW" tvg-name="HISTORIA LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://www.tv-logo.com/pt-data/uploads/images/logo/canal_de_historia.jpg" group-title="PORTUGAL LOW",HISTORIA LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RECORD LOW" tvg-logo="" group-title="PORTUGAL LOW",TV RECORD LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26874.m3u8
+#EXTINF:-1 tvg-id="TVI FICÇÃO LOW" tvg-name="TVI FICCAO LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvificcao.png" group-title="PORTUGAL LOW",TVI FICCAO LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26875.m3u8
+#EXTINF:-1 tvg-id="SPORTING TV LOW" tvg-name="SPORTING TV LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="PORTUGAL LOW",SPORTING TV LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26876.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY LOW" tvg-name="TVI REALITY LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="PORTUGAL LOW",TVI REALITY LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS LOW" tvg-logo="" group-title="PORTUGAL LOW",SIC CARAS LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery LOW" tvg-logo="" group-title="PORTUGAL LOW",ID Investigation Discovery LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA COZINHA LOW" tvg-logo="" group-title="PORTUGAL LOW",CASA COZINHA LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK  LOW" tvg-logo="" group-title="PORTUGAL LOW",FOOD NETWORK  LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26881.m3u8
+#EXTINF:-1 tvg-id="CANAL 11 LOW" tvg-name="CANAL 11 LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/canal11.png" group-title="PORTUGAL LOW",CANAL 11 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26882.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE LOW" tvg-name="FOX LIFE LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/foxlife.png" group-title="PORTUGAL LOW",FOX LIFE LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26883.m3u8
+#EXTINF:-1 tvg-id="ZAPVIVA LOW" tvg-name="ZAP VIVA LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://92.222.68.42/nacional/1_0_1_53C_2F_36_CE40000_0_0_0.png" group-title="PORTUGAL LOW",ZAP VIVA LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26884.m3u8
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-name="RTP INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26885.m3u8
+#EXTINF:-1 tvg-id="TVSéries" tvg-name="TV SÉRIES LOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://logosandepg.selfip.com/LOGOS/PT/tvseries.png" group-title="PORTUGAL LOW",TV SÉRIES LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN LOW" tvg-logo="" group-title="PORTUGAL LOW",24 KITCHEN LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT LOW" tvg-logo="" group-title="PORTUGAL LOW",E! ENTERTAINMENT LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC LOW" tvg-logo="" group-title="PORTUGAL LOW",TLC LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Afro music LOW" tvg-logo="" group-title="PORTUGAL LOW",Afro music LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 LOW" tvg-logo="" group-title="PORTUGAL LOW",VH1 LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace urban LOW" tvg-logo="" group-title="PORTUGAL LOW",Trace urban LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL LOW" tvg-logo="" group-title="PORTUGAL LOW",MTV PORTUGAL LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM POP LOW" tvg-logo="" group-title="PORTUGAL LOW",MCM POP LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUEL LOW" tvg-logo="" group-title="PORTUGAL LOW",FUEL LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL LOW" tvg-logo="" group-title="PORTUGAL LOW",SIC RADICAL LOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HD" tvg-logo="" group-title="PORTUGAL",NETFLIX HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/26490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL" tvg-logo="" group-title="PORTUGAL",DISNEY MARVEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/27194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY +" tvg-logo="" group-title="PORTUGAL",DISNEY +
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/27195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR" tvg-logo="" group-title="PORTUGAL",DISNEY PIXAR
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://hp-team.com:8080/live/soeiro/soeiro/27196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY STAR WARS" tvg-logo="" group-title="PORTUGAL",DISNEY STAR WARS
