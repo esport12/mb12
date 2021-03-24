@@ -1,0 +1,23 @@
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil[/I][/B][/COLOR]</title>
+<link>$doregex[@by_flecha_negra]</link>
+<regex>
+<name>@by_flecha_negra</name>
+<listrepeat><![CDATA[
+<title>[@by_flecha_negra]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[@by_flecha_negra]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>http://e.advd.cyou:80/get.php?username=nicolau2020&amp;password=nicolau2020&amp;type=m3u_plus&amp;output=m3u8</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<agent>VLC/3.0.0-git</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[@by_flecha_negra]')<expres>
+<page></page>
+</regex>
+</item>
