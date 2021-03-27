@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
 http://rec2.distv.net:80/clemente/clemente/113
@@ -355,3 +356,6 @@ http://rec2.distv.net:80/clemente/clemente/243
 http://rec2.distv.net:80/clemente/clemente/244
 #EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO" tvg-logo="" group-title="CANAIS LOCAIS",CARIOCÃO
 http://rec2.distv.net:80/clemente/clemente/4
+=======
+
+>>>>>>> 76b1f68fc0d511a70f084b7b86d9dd77fd5f9d42
