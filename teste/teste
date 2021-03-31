@@ -6,7 +6,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f94401f0e53e879d03
 #EXTINF:0 tvg-logo="http://megatorrentshd.net/wp-content/uploads/2021/01/capa-Zona-de-Combate-hd-filmes-200x300.jpg" group-title="FILMES",Zona de Combate[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JCZI7GXZXARW4TKOHSUOEJL52UMJ2U7A&amp
 #EXTINF:0 tvg-logo="http://megatorrentshd.net/wp-content/uploads/2021/02/capa-Monster-Hunter-hd-filmes-200x300.jpg" group-title="FILMES",Monster Hunter[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:magnet:?xt=urn:btih:5730dc09f510038de225e9e0ad9321361232a629&amp
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5730dc09f510038de225e9e0ad9321361232a629&amp
 #EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/godzilla_vs_kong_2021/medium-cover.jpg" group-title="FILMES",Godzilla x Kong[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8D3C4677CF4F7F12A0DDFBFE00214C48C7712624&amp
 #EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/King_Kong_2005/medium-cover.jpg" group-title="FILMES",King Kong[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
