@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====BRASIL=====[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PORT| RTP 1 HD" tvg-logo="" group-title="PORTUGAL",PORT| RTP 1 HD
 http://iptv.pandaiptv.co:8080/live/Flor/Flor2020/57084.ts|user-agent=GoPlayer
