@@ -1,65 +1,955 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====BRASIL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="CANAIS BR ESPORTES ESPECIAIS",TNT SPORTS.
-http://e.advd.cyou:80/Joselito/Joselito/191177
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE JOGO-1" tvg-logo="https://4.bp.blogspot.com/-ifgCyQRF7xw/W_XF-J8Ai_I/AAAAAAABftQ/26F6AOdaok4bU7RF1IM-0pKdwaVE4Z22gCLcBGAs/s1600/%2521%2521%2BFedera%25C3%25A7%25C3%25A3o_Catarinense_de_Futebol_HD.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CATARINENSE JOGO-1
-http://e.advd.cyou:80/Joselito/Joselito/191180
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE JOGO 2" tvg-logo="https://4.bp.blogspot.com/-ifgCyQRF7xw/W_XF-J8Ai_I/AAAAAAABftQ/26F6AOdaok4bU7RF1IM-0pKdwaVE4Z22gCLcBGAs/s1600/%2521%2521%2BFedera%25C3%25A7%25C3%25A3o_Catarinense_de_Futebol_HD.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CATARINENSE JOGO 2
-http://e.advd.cyou:80/Joselito/Joselito/191181
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE JOGO 5" tvg-logo="https://4.bp.blogspot.com/-ifgCyQRF7xw/W_XF-J8Ai_I/AAAAAAABftQ/26F6AOdaok4bU7RF1IM-0pKdwaVE4Z22gCLcBGAs/s1600/%2521%2521%2BFedera%25C3%25A7%25C3%25A3o_Catarinense_de_Futebol_HD.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CATARINENSE JOGO 5
-http://e.advd.cyou:80/Joselito/Joselito/191182
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE JOGO 3" tvg-logo="https://4.bp.blogspot.com/-ifgCyQRF7xw/W_XF-J8Ai_I/AAAAAAABftQ/26F6AOdaok4bU7RF1IM-0pKdwaVE4Z22gCLcBGAs/s1600/%2521%2521%2BFedera%25C3%25A7%25C3%25A3o_Catarinense_de_Futebol_HD.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CATARINENSE JOGO 3
-http://e.advd.cyou:80/Joselito/Joselito/191183
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE JOGO 4" tvg-logo="https://4.bp.blogspot.com/-ifgCyQRF7xw/W_XF-J8Ai_I/AAAAAAABftQ/26F6AOdaok4bU7RF1IM-0pKdwaVE4Z22gCLcBGAs/s1600/%2521%2521%2BFedera%25C3%25A7%25C3%25A3o_Catarinense_de_Futebol_HD.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CATARINENSE JOGO 4
-http://e.advd.cyou:80/Joselito/Joselito/191184
-#EXTINF:-1 tvg-id="" tvg-name="BR: COPA DO NORDESTE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: COPA DO NORDESTE 1 HD
-http://e.advd.cyou:80/Joselito/Joselito/191219
-#EXTINF:-1 tvg-id="" tvg-name="BR: COPA DO NORDESTE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: COPA DO NORDESTE 2 HD
-http://e.advd.cyou:80/Joselito/Joselito/191220
-#EXTINF:-1 tvg-id="" tvg-name="BR: CAMPEONATO BAIANO 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2f/Baiano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: CAMPEONATO BAIANO 2021
-http://e.advd.cyou:80/Joselito/Joselito/191221
-#EXTINF:-1 tvg-id="" tvg-name="BR: CAMPEONATO BAIANO 2021 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2f/Baiano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: CAMPEONATO BAIANO 2021 2
-http://e.advd.cyou:80/Joselito/Joselito/191222
-#EXTINF:-1 tvg-id="" tvg-name="BR: CAMPEONATO SERGIPANO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Sergipano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: CAMPEONATO SERGIPANO HD
-http://e.advd.cyou:80/Joselito/Joselito/191223
-#EXTINF:-1 tvg-id="" tvg-name="SERGIPANO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Sergipano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",SERGIPANO 2
-http://e.advd.cyou:80/Joselito/Joselito/191230
-#EXTINF:-1 tvg-id="" tvg-name="SERGIPANO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Sergipano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",SERGIPANO 1
-http://e.advd.cyou:80/Joselito/Joselito/191231
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Carioca_2020_FERJ.jpg" group-title="CANAIS BR ESPORTES ESPECIAIS",CARIOCA 3
-http://e.advd.cyou:80/Joselito/Joselito/191232
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Carioca_2020_FERJ.jpg" group-title="CANAIS BR ESPORTES ESPECIAIS",CARIOCA 2
-http://e.advd.cyou:80/Joselito/Joselito/191233
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Carioca_2020_FERJ.jpg" group-title="CANAIS BR ESPORTES ESPECIAIS",CARIOCA 1
-http://e.advd.cyou:80/Joselito/Joselito/191234
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 1
-http://e.advd.cyou:80/Joselito/Joselito/185189
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 2
-http://e.advd.cyou:80/Joselito/Joselito/185190
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 3
-http://e.advd.cyou:80/Joselito/Joselito/185191
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 4
-http://e.advd.cyou:80/Joselito/Joselito/185192
-#EXTINF:-1 tvg-id="" tvg-name="Live: Libertadores 01 (Sport.TV)" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png" group-title="CANAIS BR ESPORTES ESPECIAIS",Live: Libertadores 01 (Sport.TV)
-http://e.advd.cyou:80/Joselito/Joselito/185213
-#EXTINF:-1 tvg-id="" tvg-name="Live: Libertadores 02 (Sport.TV)" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png" group-title="CANAIS BR ESPORTES ESPECIAIS",Live: Libertadores 02 (Sport.TV)
-http://e.advd.cyou:80/Joselito/Joselito/185214
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 7 SD
-http://e.advd.cyou:80/Joselito/Joselito/185228
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD." tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere Clubes HD.
-http://e.advd.cyou:80/Joselito/Joselito/185230
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes SD." tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere Clubes SD.
-http://e.advd.cyou:80/Joselito/Joselito/185231
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 2 HD.
-http://e.advd.cyou:80/Joselito/Joselito/185236
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 2 SD.
-http://e.advd.cyou:80/Joselito/Joselito/185237
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 3 HD.
-http://e.advd.cyou:80/Joselito/Joselito/185238
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 3 SD.
-http://e.advd.cyou:80/Joselito/Joselito/185239
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SPORTV HD.
-http://e.advd.cyou:80/Joselito/Joselito/185240
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV SD.
-http://e.advd.cyou:80/Joselito/Joselito/185241
+#EXTINF:-1 tvg-id="" tvg-name="PORTUGAL" tvg-logo="https://i.imgur.com/kHCPLqz.jpg[/img]" group-title="PORTUGAL",PORTUGAL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/79926.m3u8
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: RTP 1" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c766e112de79c244fdaed0ed34ca5e12.jpg" group-title="PORTUGAL",PT: RTP 1
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66572.m3u8
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: RTP 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/2bd0e7ea12b5dbafc8da362dd3ac8c35.png" group-title="PORTUGAL",PT: RTP 1 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71700.m3u8
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: RTP 1 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/2bd0e7ea12b5dbafc8da362dd3ac8c35.png" group-title="PORTUGAL",PT: RTP 1 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66573.m3u8
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="PT: RTP 2" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/93363bed82ffd44b13b26dc2a380ac13.png" group-title="PORTUGAL",PT: RTP 2
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66574.m3u8
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="PT: RTP 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTP2.png" group-title="PORTUGAL",PT: RTP 2 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71702.m3u8
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="PT: RTP 2 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/93363bed82ffd44b13b26dc2a380ac13.png" group-title="PORTUGAL",PT: RTP 2 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66575.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/8cd3ac70db7ac318cf9a0e01333940a4.png" group-title="PORTUGAL",PT: SIC
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66576.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SIC.png" group-title="PORTUGAL",PT: SIC ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71708.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SIC.png" group-title="PORTUGAL",PT: SIC ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66577.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="PORTUGAL",PT: TVI
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66578.m3u8
+#EXTINF:-1 tvg-id="TVID" tvg-name="PT: TVI  ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="PORTUGAL",PT: TVI  ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71734.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="PORTUGAL",PT: TVI ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66579.m3u8
+#EXTINF:-1 tvg-id="TVID" tvg-name="PT: TVI ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="PORTUGAL",PT: TVI ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71738.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="PT: CMTV" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e9c4b0a5ca06da0f44d2daf05d1b4970.png" group-title="PORTUGAL",PT: CMTV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66581.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="PT: CMTV ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e9c4b0a5ca06da0f44d2daf05d1b4970.png" group-title="PORTUGAL",PT: CMTV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66582.m3u8
+#EXTINF:-1 tvg-id="TVI24" tvg-name="PT: TVI 24" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/f49d5861c0b01322fe34f97e05574335.png" group-title="PORTUGAL",PT: TVI 24
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66583.m3u8
+#EXTINF:-1 tvg-id="TVI24" tvg-name="PT: TVI 24 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/f49d5861c0b01322fe34f97e05574335.png" group-title="PORTUGAL",PT: TVI 24 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71735.m3u8
+#EXTINF:-1 tvg-id="TVI24" tvg-name="PT: TVI 24 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/f49d5861c0b01322fe34f97e05574335.png" group-title="PORTUGAL",PT: TVI 24 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66584.m3u8
+#EXTINF:-1 tvg-id="SICNHd" tvg-name="PT: SIC NOTICIAS" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SICN.png" group-title="PORTUGAL",PT: SIC NOTICIAS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66585.m3u8
+#EXTINF:-1 tvg-id="SICNHd" tvg-name="PT: SIC NOTICIAS ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SICN.png" group-title="PORTUGAL",PT: SIC NOTICIAS ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71706.m3u8
+#EXTINF:-1 tvg-id="SICNHd" tvg-name="PT: SIC NOTICIAS ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SICN.png" group-title="PORTUGAL",PT: SIC NOTICIAS ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66586.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="PT: RTP 3" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTP3.png" group-title="PORTUGAL",PT: RTP 3
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66587.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="PT: RTP 3 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/989f24b42f52e82fba50e319ed528b5e.png" group-title="PORTUGAL",PT: RTP 3 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71703.m3u8
+#EXTINF:-1 tvg-id="PORTOhd" tvg-name="PT: PORTO CANAL" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/PORTOHD.png" group-title="PORTUGAL",PT: PORTO CANAL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66588.m3u8
+#EXTINF:-1 tvg-id="PORTOhd" tvg-name="PT: PORTO CANAL ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/PORTOHD.png" group-title="PORTUGAL",PT: PORTO CANAL ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66589.m3u8
+#EXTINF:-1 tvg-id="SICMhd" tvg-name="PT: SIC MULHER" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/76a6b14b04d919aa849c5135ddd408b8.png" group-title="PORTUGAL",PT: SIC MULHER
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66607.m3u8
+#EXTINF:-1 tvg-id="SICMhd" tvg-name="PT: SIC MULHER ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/76a6b14b04d919aa849c5135ddd408b8.png" group-title="PORTUGAL",PT: SIC MULHER ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66608.m3u8
+#EXTINF:-1 tvg-id="SICCARAShd" tvg-name="PT: SIC CARAS" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4c11e492e1cbfe2fb7fb3557b64399a7.png" group-title="PORTUGAL",PT: SIC CARAS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66609.m3u8
+#EXTINF:-1 tvg-id="SICCARAShd" tvg-name="PT: SIC CARAS ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SICCARAS.png" group-title="PORTUGAL",PT: SIC CARAS ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71704.m3u8
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="PT: SIC CARAS ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SICCARAS.png" group-title="PORTUGAL",PT: SIC CARAS ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66610.m3u8
+#EXTINF:-1 tvg-id="SICR" tvg-name="PT: SIC RADICAL" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a449f80a8351ff1e6933a22302459faf.png" group-title="PORTUGAL",PT: SIC RADICAL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66611.m3u8
+#EXTINF:-1 tvg-id="SICRhd" tvg-name="PT: SIC RADICAL ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a449f80a8351ff1e6933a22302459faf.png" group-title="PORTUGAL",PT: SIC RADICAL ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66612.m3u8
+#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="PT: TVI FICCAO" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/631c808089c88dc8f2eb171cfe671267.jpg" group-title="PORTUGAL",PT: TVI FICCAO
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66598.m3u8
+#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="PT: TVI FICCAO ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/631c808089c88dc8f2eb171cfe671267.jpg" group-title="PORTUGAL",PT: TVI FICCAO ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66599.m3u8
+#EXTINF:-1 tvg-id="TVIReality" tvg-name="PT: TVI REALITY" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/97f175f2bf7c0bf6cf55bd63434da4cd.png" group-title="PORTUGAL",PT: TVI REALITY
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66600.m3u8
+#EXTINF:-1 tvg-id="TVIReality" tvg-name="PT: TVI REALITY ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/97f175f2bf7c0bf6cf55bd63434da4cd.png" group-title="PORTUGAL",PT: TVI REALITY ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71737.m3u8
+#EXTINF:-1 tvg-id="TVIReality" tvg-name="PT: TVI REALITY FHD" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVIREAL.png" group-title="PORTUGAL",PT: TVI REALITY FHD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66601.m3u8
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality -Mosaico" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/97f175f2bf7c0bf6cf55bd63434da4cd.png" group-title="PORTUGAL",PT: TVI Reality -Mosaico
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66602.m3u8
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality - Cãmera 1" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVIREAL.png" group-title="PORTUGAL",PT: TVI Reality - Cãmera 1
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66603.m3u8
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality - Cãmera 2" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/97f175f2bf7c0bf6cf55bd63434da4cd.png" group-title="PORTUGAL",PT: TVI Reality - Cãmera 2
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66604.m3u8
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality - Cãmera 3" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVIREAL.png" group-title="PORTUGAL",PT: TVI Reality - Cãmera 3
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66605.m3u8
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality - Cãmera 4" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVIREAL.png" group-title="PORTUGAL",PT: TVI Reality - Cãmera 4
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66606.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-name="PT: RECORD NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Record-news.jpg/revision/latest/scale-to-width-down/340?cb=20120916104700" group-title="PORTUGAL",PT: RECORD NEWS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66592.m3u8
+#EXTINF:-1 tvg-id="RegioesTV.pt" tvg-name="PT: Regiões TV" tvg-logo="https://www.gestluz.pt/files/pages/609_1.png" group-title="PORTUGAL",PT: Regiões TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66593.m3u8
+#EXTINF:-1 tvg-id="Artv.pt" tvg-name="PT: ARTV" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/PARLA.png" group-title="PORTUGAL",PT: ARTV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66594.m3u8
+#EXTINF:-1 tvg-id="RTP Açores" tvg-name="PT: RTP ACORES" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTPACO.png" group-title="PORTUGAL",PT: RTP ACORES
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66613.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira" tvg-name="PT: RTP MADEIRA" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTPMAD.png" group-title="PORTUGAL",PT: RTP MADEIRA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66614.m3u8
+#EXTINF:-1 tvg-id="RTPM" tvg-name="PT: RTP MEMORIA" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTPM.png" group-title="PORTUGAL",PT: RTP MEMORIA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66615.m3u8
+#EXTINF:-1 tvg-id="RTPA" tvg-name="PT: RTP AFRICA" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTPA.png" group-title="PORTUGAL",PT: RTP AFRICA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66616.m3u8
+#EXTINF:-1 tvg-id="CanaljQ" tvg-name="PT: CANAL Q" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CanalQB.png" group-title="PORTUGAL",PT: CANAL Q
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66617.m3u8
+#EXTINF:-1 tvg-id="TV Record HD" tvg-name="PT: TV RECORD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/25e20053ed7a0b71110207f5481bbe96.png" group-title="PORTUGAL",PT: TV RECORD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66618.m3u8
+#EXTINF:-1 tvg-id="TV Record HD" tvg-name="PT: TV RECORD ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVR.png" group-title="PORTUGAL",PT: TV RECORD ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66619.m3u8
+#EXTINF:-1 tvg-id="GLObbO" tvg-name="PT: GLOBO" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/ea1fd55ac0c6c229f5368aec5cf43e0b.jpg" group-title="PORTUGAL",PT: GLOBO
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66620.m3u8
+#EXTINF:-1 tvg-id="GLObbO" tvg-name="PT: GLOBO ʰᵈ ᴴ²⁶⁵" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_globo_pt.jpg" group-title="PORTUGAL",PT: GLOBO ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71691.m3u8
+#EXTINF:-1 tvg-id="GLObbO" tvg-name="PT: GLOBO ᶠʰᵈ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_globo_pt.jpg" group-title="PORTUGAL",PT: GLOBO ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66621.m3u8
+#EXTINF:-1 tvg-id="TVGLOBO" tvg-name="PT: GLOBO NOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/cc9bfa56118477d91d3ab8ff4aa5e9a6.png" group-title="PORTUGAL",PT: GLOBO NOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66622.m3u8
+#EXTINF:-1 tvg-id="TVGLOBO" tvg-name="PT: GLOBO NOW ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/GLOBONOWHD.png" group-title="PORTUGAL",PT: GLOBO NOW ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66623.m3u8
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="PT: Canal NOS" tvg-logo="data:image/jpeg;base64,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" group-title="PORTUGAL",PT: Canal NOS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66624.m3u8
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="PT: A BOLA TV" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1fcf43c6c27679f0d602f7f87a37bcd3.png" group-title="PORTUGAL",PT: A BOLA TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66590.m3u8
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="PT: A BOLA ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1fcf43c6c27679f0d602f7f87a37bcd3.png" group-title="PORTUGAL",PT: A BOLA ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71656.m3u8
+#EXTINF:-1 tvg-id="ABolaTV" tvg-name="PT: BOLA TV ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/296ad57421f55de47b1fa338393dcdab.png" group-title="PORTUGAL",PT: BOLA TV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66591.m3u8
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="PT: Canal 11" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b364f186efb7d1e1af5768715d7a2fea.png" group-title="PORTUGAL",PT: Canal 11
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66679.m3u8
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="PT: CANAL 11 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CANAL11HD.png" group-title="PORTUGAL",PT: CANAL 11 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71668.m3u8
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT: CANAL 11 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b364f186efb7d1e1af5768715d7a2fea.png" group-title="PORTUGAL",PT: CANAL 11 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66680.m3u8
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="PT: SPORT TV +" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1fb8c8119d33bb9c95f3d80f7b7f3250.png" group-title="PORTUGAL",PT: SPORT TV +
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66684.m3u8
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="PT: SPORT TV + ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1fb8c8119d33bb9c95f3d80f7b7f3250.png" group-title="PORTUGAL",PT: SPORT TV + ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71710.m3u8
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="PT: SPORT TV + ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1fb8c8119d33bb9c95f3d80f7b7f3250.png" group-title="PORTUGAL",PT: SPORT TV + ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66685.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="PT: SPORT TV 1 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b0ad0c9b67f0dae3434da067a7ed72a6.png" group-title="PORTUGAL",PT: SPORT TV 1 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/87381.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="PT: SPORT TV 1 4K ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1107c1fdff2425001e56e2a9819fe8cd.png" group-title="PORTUGAL",PT: SPORT TV 1 4K ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71711.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="PT: SPORT TV 1 ᴴᴰ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1107c1fdff2425001e56e2a9819fe8cd.png" group-title="PORTUGAL",PT: SPORT TV 1 ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66687.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="PT: SPORT TV 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1107c1fdff2425001e56e2a9819fe8cd.png" group-title="PORTUGAL",PT: SPORT TV 1 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71712.m3u8
+#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-name="SPORT TV 1 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1107c1fdff2425001e56e2a9819fe8cd.png" group-title="PORTUGAL",SPORT TV 1 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86911.m3u8
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/16a4d6f7ab0aa4c9aeec82fd93eb95b5.png" group-title="PORTUGAL",PT: SPORT TV 2 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66689.m3u8
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="PT: SPORT TV 2 ᴴᴰ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/86d8c60a9eda097bffd5cf53f4dfdfb6.png" group-title="PORTUGAL",PT: SPORT TV 2 ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66690.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="PT: SPORT TV 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/86d8c60a9eda097bffd5cf53f4dfdfb6.png" group-title="PORTUGAL",PT: SPORT TV 2 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71715.m3u8
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="PT: SPORT TV 2 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/86d8c60a9eda097bffd5cf53f4dfdfb6.png" group-title="PORTUGAL",PT: SPORT TV 2 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/79664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/86d8c60a9eda097bffd5cf53f4dfdfb6.png" group-title="PORTUGAL",PT: SPORT TV 2 ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71716.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="PT: SPORT TV 3 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/16a4d6f7ab0aa4c9aeec82fd93eb95b5.png" group-title="PORTUGAL",PT: SPORT TV 3 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66692.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="PT: SPORT TV 3 ᴴᴰ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/d8b10dce4a1c4c5a60b29e27d06d6e4f.png" group-title="PORTUGAL",PT: SPORT TV 3 ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66693.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="PT: SPORT TV 3 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/d8b10dce4a1c4c5a60b29e27d06d6e4f.png" group-title="PORTUGAL",PT: SPORT TV 3 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71717.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV KJ3 FULL HD" tvg-name="PT: SPORT TV 3 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/d8b10dce4a1c4c5a60b29e27d06d6e4f.png" group-title="PORTUGAL",PT: SPORT TV 3 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66694.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="PT: SPORT TV 3 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/d8b10dce4a1c4c5a60b29e27d06d6e4f.png" group-title="PORTUGAL",PT: SPORT TV 3 ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71718.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="PT: SPORT TV 4 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/846fba7251852f545fee7cb30d05196a.png" group-title="PORTUGAL",PT: SPORT TV 4 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66695.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="PT: SPORT TV 4 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/362343368188b8127cb1703c8510efe5.png" group-title="PORTUGAL",PT: SPORT TV 4 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71719.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="PT: SPORT TV 4 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/362343368188b8127cb1703c8510efe5.png" group-title="PORTUGAL",PT: SPORT TV 4 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66696.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="PT: SPORT TV 5 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/3b75390c0bf905052fa316a33fe0a68f.png" group-title="PORTUGAL",PT: SPORT TV 5 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66697.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="PT: SPORT TV 5 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a3187e16e68ccc5c1c42640e1315553b.png" group-title="PORTUGAL",PT: SPORT TV 5 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71720.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="PT: SPORT TV 5 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a3187e16e68ccc5c1c42640e1315553b.png" group-title="PORTUGAL",PT: SPORT TV 5 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66698.m3u8
+#EXTINF:-1 tvg-id="NBA TV HD-POR" tvg-name="PT: SPORT TV NBA" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/747f9ff7ba9a8bfb41800546012b2b76.png" group-title="PORTUGAL",PT: SPORT TV NBA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66681.m3u8
+#EXTINF:-1 tvg-id="NBA TV HD-POR" tvg-name="PT: SPORT TV NBA ʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/ba7f1655f66760472888c4a50737c368.jpg" group-title="PORTUGAL",PT: SPORT TV NBA ʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66682.m3u8
+#EXTINF:-1 tvg-id="SPORTVnba" tvg-name="PT: SPORT TV NBA ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/ba7f1655f66760472888c4a50737c368.jpg" group-title="PORTUGAL",PT: SPORT TV NBA ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71721.m3u8
+#EXTINF:-1 tvg-id="NBA TV HD-POR" tvg-name="PT: SPORT TV NBA ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/ba7f1655f66760472888c4a50737c368.jpg" group-title="PORTUGAL",PT: SPORT TV NBA ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66683.m3u8
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="PT: BTV SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/5bfc7246c17bce5fa0d9a88a84dc8b27.png" group-title="PORTUGAL",PT: BTV SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66717.m3u8
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="PT: BTV ᴴᴰ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e4abae8d3c594f059640c5b4a2deba9d.png" group-title="PORTUGAL",PT: BTV ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66718.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: BENFICA TV ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e4abae8d3c594f059640c5b4a2deba9d.png" group-title="PORTUGAL",PT: BENFICA TV ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71665.m3u8
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="PT: BTV ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e4abae8d3c594f059640c5b4a2deba9d.png" group-title="PORTUGAL",PT: BTV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66719.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: BENFICA TV ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e4abae8d3c594f059640c5b4a2deba9d.png" group-title="PORTUGAL",PT: BENFICA TV ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71666.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: BENFICA TV 4K ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e4abae8d3c594f059640c5b4a2deba9d.png" group-title="PORTUGAL",PT: BENFICA TV 4K ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71664.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/6fb9f7992cbc95376516261fa9cf8dee.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66699.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="PT: ELEVEN SPORTS 1 ᴴᴰ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/6fb9f7992cbc95376516261fa9cf8dee.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66700.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="PT: ELEVEN SPORTS 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/6fb9f7992cbc95376516261fa9cf8dee.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71674.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="PT: ELEVEN SPORTS 1 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/6fb9f7992cbc95376516261fa9cf8dee.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66701.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="PT: ELEVEN SPORTS 1 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/6fb9f7992cbc95376516261fa9cf8dee.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71675.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e3ab66f29ec15e56efaf2d7a93586ab0.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66702.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="ELEVEN SPORTS 2 ᴴᴰ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e3ab66f29ec15e56efaf2d7a93586ab0.png" group-title="PORTUGAL",ELEVEN SPORTS 2 ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/79665.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: ELEVEN SPORTS 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e3ab66f29ec15e56efaf2d7a93586ab0.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71677.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="ELEVEN SPORTS 2 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e3ab66f29ec15e56efaf2d7a93586ab0.png" group-title="PORTUGAL",ELEVEN SPORTS 2 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86820.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: ELEVEN SPORTS 2 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e3ab66f29ec15e56efaf2d7a93586ab0.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71678.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/d58942c81728294edf216a1331333a80.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66705.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="PT: ELEVEN SPORTS 3 ᴴᴰ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/d58942c81728294edf216a1331333a80.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66706.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="PT: ELEVEN SPORTS 3  ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/d58942c81728294edf216a1331333a80.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3  ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71679.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="PT: ELEVEN SPORTS 3 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP3HD.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66707.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="PT: ELEVEN SPORTS 3  ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/d58942c81728294edf216a1331333a80.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3  ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71680.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="PT: ELEVEN SPORTS 4 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/78e4a6328e3bff2bf11fe99d5a80b54b.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66708.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="PT: ELEVEN SPORTS 4 ᴴᴰ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/78e4a6328e3bff2bf11fe99d5a80b54b.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66709.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="PT: ELEVEN SPORTS 4 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/78e4a6328e3bff2bf11fe99d5a80b54b.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66710.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/8ecf55311907996dc8a7bb24ae0e52ea.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66711.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="PT: ELEVEN SPORTS 5 ᴴᴰ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/8ecf55311907996dc8a7bb24ae0e52ea.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66712.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="PT: ELEVEN SPORTS 5 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP5HD.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66713.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="PT: ELEVEN SPORTS 6 SD" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP6HD.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66714.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="PT: ELEVEN SPORTS 6 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP6HD.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66715.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="PT: ELEVEN SPORTS 6 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP6HD.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66716.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="PT: SPORTING TV" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPORTINGTV.png" group-title="PORTUGAL",PT: SPORTING TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66720.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="PT: SPORTING TV 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/00bde32a25f226e7df2e57ae27d98460.png" group-title="PORTUGAL",PT: SPORTING TV 1 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71722.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="PT: SPORTING TV ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPORTINGTV.png" group-title="PORTUGAL",PT: SPORTING TV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66721.m3u8
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="PT: EUROSPORT 1" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/8a716bc871d1e0b95af1832d7aef3e28.jpg" group-title="PORTUGAL",PT: EUROSPORT 1
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66722.m3u8
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="PT: EUROSPORT 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/732b6b0a7332c780360b2c125059ff09.png" group-title="PORTUGAL",PT: EUROSPORT 1 ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71681.m3u8
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="PT: EUROSPORT 1 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/732b6b0a7332c780360b2c125059ff09.png" group-title="PORTUGAL",PT: EUROSPORT 1 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66723.m3u8
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="PT: EUROSPORT 2" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c6d728119dd6ad03fad380e00eb4cc13.png" group-title="PORTUGAL",PT: EUROSPORT 2
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66724.m3u8
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="PT: EUROSPORT 2 ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c6d728119dd6ad03fad380e00eb4cc13.png" group-title="PORTUGAL",PT: EUROSPORT 2 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66725.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PT: PFC" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/PFC.png" group-title="PORTUGAL",PT: PFC
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66726.m3u8
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="PT: KOMBAT SPORT" tvg-logo="https://www.telecom.pt/SiteCollectionImages/media/comunicados/2016/maio/kombat-sport-chega-ao-meo.png" group-title="PORTUGAL",PT: KOMBAT SPORT
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66727.m3u8
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="PT: REAL MADRID TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/real_madrid_tv_english.jpg" group-title="PORTUGAL",PT: REAL MADRID TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66728.m3u8
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="PT: MOTORVISION" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/MOTORVISIONHD.png" group-title="PORTUGAL",PT: MOTORVISION
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66729.m3u8
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="PT: MOTORVISION ʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/62e9840cca720645e6058c3b8b06cd6f.jpg" group-title="PORTUGAL",PT: MOTORVISION ʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66730.m3u8
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="PT: MOTORVISION ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/62e9840cca720645e6058c3b8b06cd6f.jpg" group-title="PORTUGAL",PT: MOTORVISION ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66731.m3u8
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="PT: MOTO GP ᴵᵀ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUCD5icd2e0xvQHEaEWmvBSYpZWD01MfC0tA&usqp=CAU" group-title="PORTUGAL",PT: MOTO GP ᴵᵀ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66732.m3u8
+#EXTINF:-1 tvg-id="Fuel Tv" tvg-name="PT: FUEL TV" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FUELHD.png" group-title="PORTUGAL",PT: FUEL TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66733.m3u8
+#EXTINF:-1 tvg-id="Fuel Tv" tvg-name="PT: FUEL TV ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/73833be62848948077a291e3bfd9345a.jpg" group-title="PORTUGAL",PT: FUEL TV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66734.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: REDBULL TV ᶠʰᵈ" tvg-logo="https://kodi-addons.club/data/59/5993004c1e567a6a6910229d17a22779.png" group-title="PORTUGAL",PT: REDBULL TV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: WWE ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/1021cf8b526927b4d6503a8324134a22.jpg" group-title="PORTUGAL",PT: WWE ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: UFC ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/ef5f4eed338a8730c772fa4a630d34f9.jpg" group-title="PORTUGAL",PT: UFC ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66737.m3u8
+#EXTINF:-1 tvg-id="TVCg1" tvg-name="PT: TV CINE TOP" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/34a6e45028ba947b4a8c10969aedef60.png" group-title="PORTUGAL",PT: TV CINE TOP
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66643.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="PT: TVCINE TOP ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineTop.png" group-title="PORTUGAL",PT: TVCINE TOP ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71732.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="PT: TV CINE TOP ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineTop.png" group-title="PORTUGAL",PT: TV CINE TOP ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66644.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="PT: TVCINE TOP ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineTop.png" group-title="PORTUGAL",PT: TVCINE TOP ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71733.m3u8
+#EXTINF:-1 tvg-id="TVC3" tvg-name="PT: TV CINE EDITION" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/905b47c8004975f80dba05985652b1e3.png" group-title="PORTUGAL",PT: TV CINE EDITION
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66645.m3u8
+#EXTINF:-1 tvg-id="TVCg2" tvg-name="PT: TVCINE EDITION ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineEdition.png" group-title="PORTUGAL",PT: TVCINE EDITION ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71728.m3u8
+#EXTINF:-1 tvg-id="TVC2" tvg-name="PT: TV CINE EDITION ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineEdition.png" group-title="PORTUGAL",PT: TV CINE EDITION ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66646.m3u8
+#EXTINF:-1 tvg-id="TVC2" tvg-name="PT: TVCINE EDITION ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineEdition.png" group-title="PORTUGAL",PT: TVCINE EDITION ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71729.m3u8
+#EXTINF:-1 tvg-id="TVCg3" tvg-name="PT: TV CINE EMOTION" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/608cab64cd7b9c519bd6e697109209ae.png" group-title="PORTUGAL",PT: TV CINE EMOTION
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66647.m3u8
+#EXTINF:-1 tvg-id="TVC3" tvg-name="PT: TVCINE EMOTION ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineEmotion.png" group-title="PORTUGAL",PT: TVCINE EMOTION ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71730.m3u8
+#EXTINF:-1 tvg-id="TVC3" tvg-name="PT: TV CINE EMOTION ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineEmotion.png" group-title="PORTUGAL",PT: TV CINE EMOTION ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66648.m3u8
+#EXTINF:-1 tvg-id="TVC3" tvg-name="PT: TVCINE EMOTION ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineEmotion.png" group-title="PORTUGAL",PT: TVCINE EMOTION ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71731.m3u8
+#EXTINF:-1 tvg-id="TVC4" tvg-name="PT: TV CINE ACTION" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineAction.png" group-title="PORTUGAL",PT: TV CINE ACTION
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66649.m3u8
+#EXTINF:-1 tvg-id="TVC4" tvg-name="PT: TVCINE ACTION ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineAction.png" group-title="PORTUGAL",PT: TVCINE ACTION ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71726.m3u8
+#EXTINF:-1 tvg-id="TVC4" tvg-name="PT: TV CINE ACTION ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineAction.png" group-title="PORTUGAL",PT: TV CINE ACTION ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66650.m3u8
+#EXTINF:-1 tvg-id="TVC4" tvg-name="PT: TVCINE ACTION ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineAction.png" group-title="PORTUGAL",PT: TVCINE ACTION ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71727.m3u8
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="PT: NOS STUDIOS" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="PORTUGAL",PT: NOS STUDIOS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66651.m3u8
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="PT: NOS STUDIOS ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="PORTUGAL",PT: NOS STUDIOS ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71698.m3u8
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="PT: NOS STUDIOS ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="PORTUGAL",PT: NOS STUDIOS ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66652.m3u8
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="PT: HOLLYWOOD" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/HOLLY.png" group-title="PORTUGAL",PT: HOLLYWOOD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66653.m3u8
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="PT: HOLLYWOOD ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/HOLLYHD.png" group-title="PORTUGAL",PT: HOLLYWOOD ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71693.m3u8
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="PT: HOLLYWOOD ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/HOLLYHD.png" group-title="PORTUGAL",PT: HOLLYWOOD ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66654.m3u8
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="PT: HOLLYWOOD ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/HOLLYHD.png" group-title="PORTUGAL",PT: HOLLYWOOD ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71694.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AXN.png" group-title="PORTUGAL",PT: AXN
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66655.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AXN.png" group-title="PORTUGAL",PT: AXN ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71662.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AXN.png" group-title="PORTUGAL",PT: AXN ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66656.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AXN.png" group-title="PORTUGAL",PT: AXN ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71663.m3u8
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="PT: AXN WHITE" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SET.png" group-title="PORTUGAL",PT: AXN WHITE
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66657.m3u8
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="PT: AXN WHITE ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/8c52684db8f49511e9b44471716bf164.png" group-title="PORTUGAL",PT: AXN WHITE ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71660.m3u8
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="PT: AXN WHITE ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SET.png" group-title="PORTUGAL",PT: AXN WHITE ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66658.m3u8
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="PT: AXN WHITE ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/8c52684db8f49511e9b44471716bf164.png" group-title="PORTUGAL",PT: AXN WHITE ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71661.m3u8
+#EXTINF:-1 tvg-id="AXN Black (PT)" tvg-name="PT: AXN MOVIES" tvg-logo="http://images.wikia.com/logopedia/images/3/36/AXN_Movies_2012_logo.jpg" group-title="PORTUGAL",PT: AXN MOVIES
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66659.m3u8
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="PT: AXN MOVIES ʰᵈ ᴴ²⁶⁵" tvg-logo="http://images.wikia.com/logopedia/images/3/36/AXN_Movies_2012_logo.jpg" group-title="PORTUGAL",PT: AXN MOVIES ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71658.m3u8
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="PT: AXN MOVIES ᶠʰᵈ" tvg-logo="http://images.wikia.com/logopedia/images/3/36/AXN_Movies_2012_logo.jpg" group-title="PORTUGAL",PT: AXN MOVIES ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66660.m3u8
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="PT: AXN MOVIES ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4fb26eeba06e40cf1da7b303c61a4ba3.jpg" group-title="PORTUGAL",PT: AXN MOVIES ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71659.m3u8
+#EXTINF:-1 tvg-id="FOXHD" tvg-name="PT: FOX" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOX.png" group-title="PORTUGAL",PT: FOX
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66661.m3u8
+#EXTINF:-1 tvg-id="FOXHD" tvg-name="PT: FOX ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOX.png" group-title="PORTUGAL",PT: FOX ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71688.m3u8
+#EXTINF:-1 tvg-id="FOXHD" tvg-name="PT: FOX ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOX.png" group-title="PORTUGAL",PT: FOX ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66662.m3u8
+#EXTINF:-1 tvg-id="FOXHD" tvg-name="PT: FOX ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOX.png" group-title="PORTUGAL",PT: FOX ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71689.m3u8
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="PT: FOX MOVIES" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXMOVIES.png" group-title="PORTUGAL",PT: FOX MOVIES
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66663.m3u8
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="PT: FOX MOVIES ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXMOVIES.png" group-title="PORTUGAL",PT: FOX MOVIES ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71686.m3u8
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="PT: FOX MOVIES ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXMOVIES.png" group-title="PORTUGAL",PT: FOX MOVIES ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66664.m3u8
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="PT: FOX MOVIES ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXMOVIES.png" group-title="PORTUGAL",PT: FOX MOVIES ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71687.m3u8
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="PT: FOX CRIME" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXCRIME.png" group-title="PORTUGAL",PT: FOX CRIME
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66665.m3u8
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="PT: FOX CRIME ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXCRIME.png" group-title="PORTUGAL",PT: FOX CRIME ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71683.m3u8
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="PT: FOX CRIME ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXCRIME.png" group-title="PORTUGAL",PT: FOX CRIME ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66666.m3u8
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="PT: FOX CRIME ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXCRIME.png" group-title="PORTUGAL",PT: FOX CRIME ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71684.m3u8
+#EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="PT: FOX COMEDY" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FX.png" group-title="PORTUGAL",PT: FOX COMEDY
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66667.m3u8
+#EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="PT: FOX COMEDY ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FX.png" group-title="PORTUGAL",PT: FOX COMEDY ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71682.m3u8
+#EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="PT: FOX COMEDY ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="PORTUGAL",PT: FOX COMEDY ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66668.m3u8
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="PT: FOX LIFE" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXLIFE.png" group-title="PORTUGAL",PT: FOX LIFE
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66669.m3u8
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="PT: FOX LIFE ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXLIFE.png" group-title="PORTUGAL",PT: FOX LIFE ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66670.m3u8
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="PT: FOX LIFE ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXLIFE.png" group-title="PORTUGAL",PT: FOX LIFE ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71685.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="PT: CINEMUNDO" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="PORTUGAL",PT: CINEMUNDO
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66671.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="PT: CINEMUNDO ʰᵈ ᴴ²⁶⁵" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="PORTUGAL",PT: CINEMUNDO ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71670.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="PT: CINEMUNDO ᶠʰᵈ" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="PORTUGAL",PT: CINEMUNDO ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66672.m3u8
+#EXTINF:-1 tvg-id="SYFYHD" tvg-name="PT: SYFY" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SYFY.png" group-title="PORTUGAL",PT: SYFY
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66673.m3u8
+#EXTINF:-1 tvg-id="SYFYHD" tvg-name="PT: SYFY ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SYFY.png" group-title="PORTUGAL",PT: SYFY ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66674.m3u8
+#EXTINF:-1 tvg-id="SYFYHD" tvg-name="PT: SYFY ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SYFY.png" group-title="PORTUGAL",PT: SYFY ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71723.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="PT: AMC" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AMC.png" group-title="PORTUGAL",PT: AMC
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66675.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="PT: AMC ʰᵈ ᴴ²⁶⁵" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="PORTUGAL",PT: AMC ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71657.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="PT: AMC ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AMC.png" group-title="PORTUGAL",PT: AMC ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Van Damme" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/88df1c279ce687ab848b1dd7d600e5ef.png" group-title="PORTUGAL",Van Damme
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHARLIE CHAPLIN 24h" tvg-logo="https://i.imgur.com/Hwutzil.jpg[/img]" group-title="PORTUGAL",CHARLIE CHAPLIN 24h
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/80319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eddie Murphy 24h" tvg-logo="https://i.imgur.com/JeqxDfH.jpg[/img]" group-title="PORTUGAL",Eddie Murphy 24h
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/76029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jim Carrey 24h" tvg-logo="https://i.imgur.com/8e26eJ5.jpg[/img]" group-title="PORTUGAL",Jim Carrey 24h
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/76030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Denzel Washington 24h" tvg-logo="https://i.imgur.com/tebiYaZ.jpg[/img]" group-title="PORTUGAL",Denzel Washington 24h
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/76032.m3u8
+#EXTINF:-1 tvg-id="PANDA" tvg-name="PT: CANAL PANDA" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/PANDA.png" group-title="PORTUGAL",PT: CANAL PANDA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY + " tvg-logo="https://i.imgur.com/LUxGoRU.jpg[/img]" group-title="PORTUGAL",DISNEY + 
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/81076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY STAR WARS " tvg-logo="https://i.imgur.com/Cl935D5.jpg[/img]" group-title="PORTUGAL",DISNEY STAR WARS 
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/81073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL" tvg-logo="https://i.imgur.com/b8hqogl.jpg[/img]" group-title="PORTUGAL",DISNEY MARVEL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/81074.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/5baf89b156616dfa077b8368d3eb83d4.png" group-title="PORTUGAL",PT: DISNEY CHANNEL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66627.m3u8
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="PT: DISNEY JUNIOR" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DISNEYJUNIOR.png" group-title="PORTUGAL",PT: DISNEY JUNIOR
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66628.m3u8
+#EXTINF:-1 tvg-id="Nicke" tvg-name="PT: NICKELODEON" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/Nicke.png" group-title="PORTUGAL",PT: NICKELODEON
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66629.m3u8
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="PT: BABY TV" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BABYTV.png" group-title="PORTUGAL",PT: BABY TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66630.m3u8
+#EXTINF:-1 tvg-id="Nickeju" tvg-name="PT: NICK JR" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NICKJR.png" group-title="PORTUGAL",PT: NICK JR
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66631.m3u8
+#EXTINF:-1 tvg-id="CART" tvg-name="PT: CARTOON NETWORK" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CART.png" group-title="PORTUGAL",PT: CARTOON NETWORK
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66632.m3u8
+#EXTINF:-1 tvg-id="dummy010" tvg-name="PT: KURIAKOS KIDS ᴴᴰ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/05ad1060b11abe78c4958ca305b2d168.png" group-title="PORTUGAL",PT: KURIAKOS KIDS ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66633.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="PT: Kuriakos TV" tvg-logo="https://tvtolive.com/wp-content/uploads/Kuriakos-TV-tvtolive.com_.jpg" group-title="PORTUGAL",PT: Kuriakos TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66634.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="PT: KURIAKOS TV ᶠʰᵈ" tvg-logo="https://tvtolive.com/wp-content/uploads/Kuriakos-TV-tvtolive.com_.jpg" group-title="PORTUGAL",PT: KURIAKOS TV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66635.m3u8
+#EXTINF:-1 tvg-id="JimJam" tvg-name="PT: JIM JAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVimT6bF7qAFBD16eJ-8di-Q3BJEcVMXo_pPhY93opscyd5EU3" group-title="PORTUGAL",PT: JIM JAM
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66636.m3u8
+#EXTINF:-1 tvg-id="Biggs" tvg-name="PT: BIGGS" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/PANDABIGGS.png" group-title="PORTUGAL",PT: BIGGS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66637.m3u8
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="PT: SIC K" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SICKHD.png" group-title="PORTUGAL",PT: SIC K
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66638.m3u8
+#EXTINF:-1 tvg-id="SIC K" tvg-name="PT: SIC K ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SICKHD.png" group-title="PORTUGAL",PT: SIC K ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66639.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="PT: BOOMERANG" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c8aab7470030453a758a3cbe29f27658.jpg" group-title="PORTUGAL",PT: BOOMERANG
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66640.m3u8
+#EXTINF:-1 tvg-id="Tiji.pt" tvg-name="PT: TIJI" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tiji.jpg" group-title="PORTUGAL",PT: TIJI
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DARTACÃO" tvg-logo="https://i.imgur.com/Lt9tFod.jpg[/img]" group-title="PORTUGAL",DARTACÃO
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY" tvg-logo="https://i.imgur.com/V2F9CEw.jpg[/img]" group-title="PORTUGAL",TOM E JERRY
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS 24h" tvg-logo="https://i.imgur.com/8gsHkwE.jpg[/img]" group-title="PORTUGAL",SIMPSONS 24h
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/79855.m3u8
+#EXTINF:-1 tvg-id="CaçaePesca" tvg-name="PT: CACA E PESCA" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CACAPESCA.png" group-title="PORTUGAL",PT: CACA E PESCA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66738.m3u8
+#EXTINF:-1 tvg-id="CaçaePesca" tvg-name="PT: CACA E PESCA ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CACAPESCA.png" group-title="PORTUGAL",PT: CACA E PESCA ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66739.m3u8
+#EXTINF:-1 tvg-id="CaçaVision" tvg-name="PT: CACAVISION" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cacavision.jpg" group-title="PORTUGAL",PT: CACAVISION
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66740.m3u8
+#EXTINF:-1 tvg-id="S+ HD" tvg-name="PT: S+ ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/dc3af6cd717b8e2aea5169944dbda405.jpg" group-title="PORTUGAL",PT: S+ ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FTV" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ME8WoOGgmgXE204rAW8KWAAAAA&pid=Api&P=0&w=173&h=168" group-title="PORTUGAL",PT: FTV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66744.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: GINX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.3H_9QHc5813MAnGojPC2vwHaDU&pid=Api&P=0&w=495&h=223" group-title="PORTUGAL",PT: GINX
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66745.m3u8
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="PT: TOROS TV" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BOISHD.png" group-title="PORTUGAL",PT: TOROS TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66746.m3u8
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="PT: TOROS TV ᶠʰᵈ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/toros_tv.jpg" group-title="PORTUGAL",PT: TOROS TV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO TV ᶠʰᵈ" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.19JmqsUKPoCv-TDV9YwfCAAAAA&pid=Api&P=0&w=297&h=169" group-title="PORTUGAL",PT: CAMPO PEQUENO TV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66748.m3u8
+#EXTINF:-1 tvg-id="CI" tvg-name="PT: CRIME INVESTIGATION" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CRIMEINV.png" group-title="PORTUGAL",PT: CRIME INVESTIGATION
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66749.m3u8
+#EXTINF:-1 tvg-id="EENTERHD" tvg-name="PT: E! ENTERTAINEMENT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/EENTER.png" group-title="PORTUGAL",PT: E! ENTERTAINEMENT
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66750.m3u8
+#EXTINF:-1 tvg-id="EENTERHD" tvg-name="PT: E! ENTERTAINMENT ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/EENTER.png" group-title="PORTUGAL",PT: E! ENTERTAINMENT ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66751.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="PT: TLC" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TLC.png" group-title="PORTUGAL",PT: TLC
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66752.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/Discovery.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66753.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="PT:  DISCOVERY CHANNEL ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DISCOVERYHD.png" group-title="PORTUGAL",PT:  DISCOVERY CHANNEL ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66754.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="PT: DISCOVERY CHANNEL ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DISCOVERYHD.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71672.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="PT: Discovery Turbo HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_max.jpg" group-title="PORTUGAL",PT: Discovery Turbo HD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66755.m3u8
+#EXTINF:-1 tvg-id="ID" tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/InvestigationDiscovery.png" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66756.m3u8
+#EXTINF:-1 tvg-id="NGC33" tvg-name="PT: NATIONAL GEOGRAPHIC ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NGCHD.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71697.m3u8
+#EXTINF:-1 tvg-id="ID" tvg-name="PT: ID INVESTIGATION DISCOVERY ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/InvestigationDiscovery.png" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71695.m3u8
+#EXTINF:-1 tvg-id="NGC" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NGCHD.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66757.m3u8
+#EXTINF:-1 tvg-id="NGC" tvg-name="PT: NATIONAL GEOGRAPHIC ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NGCHD.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66758.m3u8
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="PT: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NGCWILD.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66759.m3u8
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="PT: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NGCHD.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD HD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66760.m3u8
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="PT: NATIONAL GEOGRAPHIC WILD ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NGCWILD.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71696.m3u8
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="PT: NATIONAL GEOGRAPHIC WILD ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NGCWILD.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66761.m3u8
+#EXTINF:-1 tvg-id="DogTV" tvg-name="PT: DOG TV ᴴᴰ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dog_tv_il.jpg" group-title="PORTUGAL",PT: DOG TV ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66762.m3u8
+#EXTINF:-1 tvg-id="cbsreal" tvg-name="PT: CBS REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-FuGmbDLBxj8SMIc6mTTAIuZhTIL2pHIDXtvjgLjaGinCGTp" group-title="PORTUGAL",PT: CBS REALITY
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66763.m3u8
+#EXTINF:-1 tvg-id="BBCEntertainment.nl" tvg-name="PT: BBC ENTERTAINEMENT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BBCP.png" group-title="PORTUGAL",PT: BBC ENTERTAINEMENT
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66764.m3u8
+#EXTINF:-1 tvg-id="BBCW" tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BBCW.png" group-title="PORTUGAL",PT: BBC WORLD NEWS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66765.m3u8
+#EXTINF:-1 tvg-id="CASA E COZINH" tvg-name="PT: CASA E COZINHA" tvg-logo="https://voxpoptv.files.wordpress.com/2020/04/casa-e-cozinha-e1586014847747.jpg?w=592" group-title="PORTUGAL",PT: CASA E COZINHA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66596.m3u8
+#EXTINF:-1 tvg-id="CASA E COZINH" tvg-name="PT: CASA COZINHA ʰᵈ ᴴ²⁶⁵" tvg-logo="https://voxpoptv.files.wordpress.com/2020/04/casa-e-cozinha-e1586014847747.jpg?w=592" group-title="PORTUGAL",PT: CASA COZINHA ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71669.m3u8
+#EXTINF:-1 tvg-id="CASA E COZINH" tvg-name="PT: CASA E COZINHA fhd" tvg-logo="https://voxpoptv.files.wordpress.com/2020/04/casa-e-cozinha-e1586014847747.jpg?w=592" group-title="PORTUGAL",PT: CASA E COZINHA fhd
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66597.m3u8
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="PT: 24 KITCHEN ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/24KITCHENHD.png" group-title="PORTUGAL",PT: 24 KITCHEN ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66766.m3u8
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="PT: 24 KITCHEN ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/24KITCHENHD.png" group-title="PORTUGAL",PT: 24 KITCHEN ᶠʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71655.m3u8
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="PT: FOOD NETWORK" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOODNETWORKHD.png" group-title="PORTUGAL",PT: FOOD NETWORK
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66767.m3u8
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="PT: FOOD NETWORK ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOODNETWORKHD.png" group-title="PORTUGAL",PT: FOOD NETWORK ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66768.m3u8
+#EXTINF:-1 tvg-id="THE Q YOU" tvg-name="PT: QYOU" tvg-logo="https://qyoumedia.com/wp-content/uploads/2019/04/logo_site.png" group-title="PORTUGAL",PT: QYOU
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66769.m3u8
+#EXTINF:-1 tvg-id="Canal180.pt" tvg-name="PT: Canal 180" tvg-logo="https://www.dinheirovivo.pt/wp-content/uploads/2015/10/ng3291261.jpg" group-title="PORTUGAL",PT: Canal 180
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66770.m3u8
+#EXTINF:-1 tvg-id="Canal180.pt" tvg-name="PT: CANAL 180 HD" tvg-logo="https://www.dinheirovivo.pt/wp-content/uploads/2015/10/ng3291261.jpg" group-title="PORTUGAL",PT: CANAL 180 HD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66771.m3u8
+#EXTINF:-1 tvg-id="dummy012" tvg-name="PT: FATIMA TV ᶠʰᵈ" tvg-logo="https://www.wtvision.com/wp-content/uploads/Fatima-tv-2.jpg" group-title="PORTUGAL",PT: FATIMA TV ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66772.m3u8
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="PT: CANCAO NOVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_cancao_nova_pt.jpg" group-title="PORTUGAL",PT: CANCAO NOVA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66773.m3u8
+#EXTINF:-1 tvg-id="AbE" tvg-name="PT: BLAZE" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BLAZE.png" group-title="PORTUGAL",PT: BLAZE
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66774.m3u8
+#EXTINF:-1 tvg-id="AbE" tvg-name="PT: BLAZE ᶠʰᵈ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/the_blaze_tv_us.jpg" group-title="PORTUGAL",PT: BLAZE ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66775.m3u8
+#EXTINF:-1 tvg-id="ARTV" tvg-name="PT: ARTE" tvg-logo="https://4.bp.blogspot.com/-Y4YWCzGWZ4s/TljR5KOLe-I/AAAAAAAAAZc/2J1YP2ILzqA/s1600/Arte.png" group-title="PORTUGAL",PT: ARTE
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66776.m3u8
+#EXTINF:-1 tvg-id="Localvisão" tvg-name="PT: LOCALVISAO TV ᴴᴰ" tvg-logo="https://yt3.ggpht.com/a/AGF-l78c_-r6z4773Fz67yjmII_Hfr7mrWr0pA-7Bw=s288-c-k-c0xffffffff-no-rj-mo" group-title="PORTUGAL",PT: LOCALVISAO TV ᴴᴰ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66777.m3u8
+#EXTINF:-1 tvg-id="HIST" tvg-name="PT: HISTORIA" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/883f629b9ddb1c7038c82064f3aefd82.png" group-title="PORTUGAL",PT: HISTORIA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66778.m3u8
+#EXTINF:-1 tvg-id="HIST" tvg-name="PT: HISTORIA ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/HIST.png" group-title="PORTUGAL",PT: HISTORIA ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66779.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="PT: ODISSEIA" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/ODIS.png" group-title="PORTUGAL",PT: ODISSEIA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66780.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="PT: ODISSEIA ʰᵈ ᴴ²⁶⁵" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/odisseia.jpg" group-title="PORTUGAL",PT: ODISSEIA ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71699.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="PT: ODISSEIA ᶠʰᵈ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/odisseia.jpg" group-title="PORTUGAL",PT: ODISSEIA ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66781.m3u8
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/travel_channel_th.jpg" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66782.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="PT: TRAVEL CHANNEL ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TRAVELHD.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""-----MUSICA-----"" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.N77EAKedXCBHHD1mRKfrlgHaE7&pid=Api&P=0&w=260&h=174" group-title="PORTUGAL","-----MUSICA-----"
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRMANDADE HIP HOP CHANNEL" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/f4e72bc32f2c636059d5f3ba44323921.jpg" group-title="PORTUGAL",IRMANDADE HIP HOP CHANNEL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/81098.m3u8
+#EXTINF:-1 tvg-id="Afro Music" tvg-name="PT: AFRO MUSIC" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AFROMUSIC.png" group-title="PORTUGAL",PT: AFRO MUSIC
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66785.m3u8
+#EXTINF:-1 tvg-id="iConcerts" tvg-name="PT: I CONCERTS ᶠʰᵈ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXFuV6fswlVtEobIweSucDoDqU4shsf0CbJg&usqp=CAU" group-title="PORTUGAL",PT: I CONCERTS ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66786.m3u8
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="PT: MCM POP" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/MCMPOP.png" group-title="PORTUGAL",PT: MCM POP
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66787.m3u8
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="PT: MCM TOP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mcm_top.jpg" group-title="PORTUGAL",PT: MCM TOP
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66788.m3u8
+#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="PT: MTV PORTUGAL" tvg-logo="https://www.fragrantica.com.br/mdimg/dizajneri/o.2508.jpg" group-title="PORTUGAL",PT: MTV PORTUGAL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66789.m3u8
+#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="PT: MTV PORTUGAL ᶠʰᵈ" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/88eaac40b27c1b47df9a3f7b7d71e3e3.jpg" group-title="PORTUGAL",PT: MTV PORTUGAL ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66790.m3u8
+#EXTINF:-1 tvg-id="mtv live" tvg-name="PT: MTV LIVE ᶠʰᵈ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_live_hd_au.jpg" group-title="PORTUGAL",PT: MTV LIVE ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66791.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: CLUBBING TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/clubbing_tv.jpg" group-title="PORTUGAL",PT: CLUBBING TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66792.m3u8
+#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="PT: MEZZO" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/MEZZO.png" group-title="PORTUGAL",PT: MEZZO
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66793.m3u8
+#EXTINF:-1 tvg-id="Trnace toca" tvg-name="PT: TRACE TOCA" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/Trace_Toca.png" group-title="PORTUGAL",PT: TRACE TOCA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66794.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="PT: TRACE URBAN" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TRACEURBANHD.png" group-title="PORTUGAL",PT: TRACE URBAN
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66795.m3u8
+#EXTINF:-1 tvg-id="Trace TV" tvg-name="PT: TRACE BRAZUCA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace-brazuca-fr.png" group-title="PORTUGAL",PT: TRACE BRAZUCA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66796.m3u8
+#EXTINF:-1 tvg-id="VH1.pt" tvg-name="PT: VH1" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/VH1.png" group-title="PORTUGAL",PT: VH1
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66797.m3u8
+#EXTINF:-1 tvg-id="M6" tvg-name="PT: M6 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/M6-tv-logo.png" group-title="PORTUGAL",PT: M6 ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66798.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="PT: RTP INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCUcCX0KrEGWArKzT5qHtjuqrxtW3VkI3bEq78U5WDCBf4hf6P" group-title="PORTUGAL",PT: RTP INTERNACIONAL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66800.m3u8
+#EXTINF:-1 tvg-id="TVEi" tvg-name="PT: TVE INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrenEu_CYSsOSwonhQjgP7by2-pGGDy9AWUhQhQ4yRxuqTxxca" group-title="PORTUGAL",PT: TVE INTERNACIONAL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66801.m3u8
+#EXTINF:-1 tvg-id="TpaInternational.pt" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="https://4.bp.blogspot.com/-tGTOVryKaY0/V87SxESby8I/AAAAAAAAMvE/q9msBZFbxJU2aHbNigR4qj4evJblMzcNgCLcB/s200/tpa-inter.jpg" group-title="PORTUGAL",PT: TPA INTERNACIONAL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66802.m3u8
+#EXTINF:-1 tvg-id="TcvInternational.pt" tvg-name="PT: TCV INTERNACIONAL" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.L9lcmYIClVjvwhtyFr6AlgHaD6&pid=Api&P=0&w=381&h=202" group-title="PORTUGAL",PT: TCV INTERNACIONAL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66803.m3u8
+#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="PT: DEUTSCHE WELLE" tvg-logo="https://store-images.s-microsoft.com/image/apps.62958.13510798882847734.609b942e-5f7e-4832-b3ec-c7632c16aa51.b8dfdc10-e174-4e07-81a7-9727a884f9e8?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg" group-title="PORTUGAL",PT: DEUTSCHE WELLE
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66804.m3u8
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="PT: EURONEWS" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/EURON.png" group-title="PORTUGAL",PT: EURONEWS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66805.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-name="PT: TV5 MONDE" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.5gMoBB7EQgjGk_6Nc7dS1wHaHa&pid=Api&P=0&w=300&h=300" group-title="PORTUGAL",PT: TV5 MONDE
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66806.m3u8
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="PT: TV GALICIA" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="PORTUGAL",PT: TV GALICIA
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66807.m3u8
+#EXTINF:-1 tvg-id="France 24" tvg-name="PT: FRANCE 24" tvg-logo="https://main.mzmediahost.com/wp-content/uploads/2015/10/Logos_FRANCE24_RVB_2013.svg_.png" group-title="PORTUGAL",PT: FRANCE 24
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SKY NEWS" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SKYN.png" group-title="PORTUGAL",PT: SKY NEWS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66809.m3u8
+#EXTINF:-1 tvg-id="TV24.ch" tvg-name="PT: TVE 24H" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.bMy6PKrh4lKRKs8cAuU0oAAAAA&pid=Api&P=0&w=300&h=300" group-title="PORTUGAL",PT: TVE 24H
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66810.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="PT: CNN" tvg-logo="https://www.gregoryfca.com/wp-content/uploads/2015/08/results-CNN-300x168.jpg" group-title="PORTUGAL",PT: CNN
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66811.m3u8
+#EXTINF:-1 tvg-id="Bloomberg (I)" tvg-name="PT: BLOOMBERG" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABuAG4DASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAUBBv/EAC0QAAICAgAFAgQGAwAAAAAAAAABAgMEEQUSEyExQXEUIjLRI1GRocHwQmHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5kOLTsg514dsory49/4L3xGt4EsquLlytJxb097/wCgbARrl1KoT1rmSeiQAAAAAABnxcr4my+PJy9KfLve9mgAAAAAA4fDJZqxJLFrqceZ95PvvS/2PkXBsmtKStjNdRS/Pa+xfj4PEMat11X0xi3vxv8AgsfDJLCurVildc05Tl2XZ7AjK6+2ePiY8+n+EpTnrbS0SrsyMTNrovt61dqfLJrTTJ3YNu6bcexQvrgovfiSFGHfLKWTl2RnOC1CMPCApoeXxFTuhkdCtS1CKW/1K7M/I+AtUpct9NihKUfX+6L1hZeNKccO6Cqk98s19PseT4XL4GVMbFK2c1KU5eoFWTPOxXVc8hTdj04OPypss5srEz6IW5Duhc2mmtaZozcWeRClQlFdOak9nuVizuysa2Lio1Ntp+X4AwYlWRdkZcarujDqvckttvbLa827FWTVkNWTpScZfnvxv9UShg5lFt1tF1adk2+WS7NfcnRw58l7yp9S25ak16ewGKWdJUq5Z7d3npcny+xfdk5N2Zjwx7OmrqlLT7pedssji58IRpjfSoR7KfL82vYuniTlxGnI5o8kIcrXq33+4GWTypZEcGvJacI807Wu7/u0UZ9+bhThX8S5JralrTfubczHbzIW498Ksjl+mX+SOXxGu6eTGM7Vdao7koLtHv4A+jAAAAAAAAAAAAAAABRfh4+TJSuqUmvXbT/Y9x8SjG30a1Fvy97f7lwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/Z" group-title="PORTUGAL",PT: BLOOMBERG
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66812.m3u8
+#EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CNBC EUROPE" tvg-logo="data:image/png;base64,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" group-title="PORTUGAL",CNBC EUROPE
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 1+1" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYUAAACBCAMAAAAYG1bYAAAAOVBMVEXHACX////HACP+9/nFABD66ezHAB7++vvFAA3ZeoLRRFfnpq7FABfEAADvy8355OjGABvuwsfmoavW746jAAAB+ElEQVR4nO3cS1LDMBBF0ecQEgKE3/4XC60VSANVdahzxylF7mN7ZiU7enk7dvR8Pk1u4HR+nl/29r5hBJfXhQvb8P+hEAoVhVAIhYpCKIRCRSEUQqGiEAqhUFEIhVCoKIRCKFQUQiEUKgqhEAoVhVAIhYpCKIRCRSEUQqGiEAqhUFEIhVCoKIRCKFQUQiEUKgqhEAoVhVAIhYpCKIRCRSEUQqF6NIXTfPNbeDSFDTPY9izMb2FJ4Trd54LC5/Sqx+1rwwzWFJ6mO14vs1tYUfi4X6abvw9O84vev6/TI/g571FY+O0uhR3vxIU37f1jfrNvL/9WYWG2O6JwUKgoUKgoUAiFEQUKoTCiQCEURhQohMKIAoVQGFGgEAojChRCYUSBQiiMKFAIhREFCqEwokAhFEYUKITCiAKFUBhRoBAKIwoUQmFEgUIojChQCIURBQqhMPK9865v/88/x+yq1+9/++3//GinLysr52As3LRft/mDMB7pHIyVGaw8uXveB++3+Qf3kc6E2TXZPbVQ2HqFjxCFDlHoEIUOUegQhQ5R6BCFDlHoEIUOUegQhQ5R6BCFDlHoEIUOUegQhQ5R6BCFDlHoEIUOUegQhQ5R6BCFDlHoEIUOUegQhQ5R6BCFDlHoEIUOUegQhQ5R6BCFDlHoEIUOUfjrF6kCgVsOlDUsAAAAAElFTkSuQmCC" group-title="PORTUGAL",PT: 1+1
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Al Jazeera" tvg-logo="https://2.bp.blogspot.com/-bttVRrlfX4E/TljR3hn3n3I/AAAAAAAAAZI/Cyo9bpXFJe4/s1600/Al+Jazeera.png" group-title="PORTUGAL",PT: Al Jazeera
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66815.m3u8
+#EXTINF:-1 tvg-id="CubavisionInt.cu" tvg-name="PT: Cubavisiðn Internacional" tvg-logo="https://2.bp.blogspot.com/-0psQXd-hSr4/WKi0SfuOJAI/AAAAAAAAFpQ/apL-dikp1pAtnZmjm99tQ6gvG7dgPJrvwCLcB/s1600/CGTN.png" group-title="PORTUGAL",PT: Cubavisiðn Internacional
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BNT World" tvg-logo="https://3.bp.blogspot.com/-nStXPTaCjuc/TljR9QcFVoI/AAAAAAAAAaY/ZokR8t6BK8A/s1600/BNT+World.png" group-title="PORTUGAL",PT: BNT World
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BVN" tvg-logo="https://3.bp.blogspot.com/-QmtbB-S4u3U/TljR-k1S59I/AAAAAAAAAao/tlZQQ3h9zlE/s1600/BVN.png" group-title="PORTUGAL",PT: BVN
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66818.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="PT: CCTV4" tvg-logo="https://3.bp.blogspot.com/-c75_asOq_bQ/VSeneV6dUuI/AAAAAAAAEx0/VAaWC1nGRgI/s1600/CCTV%2B4.PNG" group-title="PORTUGAL",PT: CCTV4
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CGTN" tvg-logo="https://2.bp.blogspot.com/-0psQXd-hSr4/WKi0SfuOJAI/AAAAAAAAFpQ/apL-dikp1pAtnZmjm99tQ6gvG7dgPJrvwCLcB/s1600/CGTN.png" group-title="PORTUGAL",PT: CGTN
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: KBS World HD" tvg-logo="https://4.bp.blogspot.com/-t3l9zQgZ4nc/UReU3_KLYrI/AAAAAAAADk0/tbkwQN5mBsQ/s1600/KBS+World.png" group-title="PORTUGAL",PT: KBS World HD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66821.m3u8
+#EXTINF:-1 tvg-id="MTV.pt" tvg-name="PT: MVM" tvg-logo="https://1.bp.blogspot.com/-dezh9SkmrXY/WB8td1va8HI/AAAAAAAAFVo/zQ2JblzTAKkgLLGE90x1r67dWfYRQd3PgCLcB/s1600/MVM.png" group-title="PORTUGAL",PT: MVM
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66822.m3u8
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="PT: NHK World TV" tvg-logo="https://2.bp.blogspot.com/-mbz9iYc88Pc/TljSb0U9A9I/AAAAAAAAAhE/zP5Dt5tL1Ig/s1600/NHK+World.png" group-title="PORTUGAL",PT: NHK World TV
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66823.m3u8
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="PT: Phoenix CNE" tvg-logo="https://4.bp.blogspot.com/-ff6T2m1FmQo/TljSeYnPZmI/AAAAAAAAAhs/ZO5UVy9kC7E/s1600/Phoenix+CNE.png" group-title="PORTUGAL",PT: Phoenix CNE
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66824.m3u8
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="PT: Phoenix InfoNews" tvg-logo="https://1.bp.blogspot.com/-03SUT0jzPSs/TljSeoW8PdI/AAAAAAAAAhw/sZ5hpqtqjhI/s1600/Phoenix+InfoNews+Channel.png" group-title="PORTUGAL",PT: Phoenix InfoNews
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RT" tvg-logo="https://3.bp.blogspot.com/-WvIkIl85ldI/TljSjhh-1UI/AAAAAAAAAi4/XGoWPTmaBIM/s1600/RT.png" group-title="PORTUGAL",PT: RT
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTL" tvg-logo="https://2.bp.blogspot.com/-E7-vehuAfFo/TljSj-jrn0I/AAAAAAAAAi8/mc-Vg-RhX_Y/s1600/RTL.png" group-title="PORTUGAL",PT: RTL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTR-Planeta" tvg-logo="https://3.bp.blogspot.com/-WvIkIl85ldI/TljSjhh-1UI/AAAAAAAAAi4/XGoWPTmaBIM/s1600/RT.png" group-title="PORTUGAL",PT: RTR-Planeta
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66828.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="PT: Rai News 24" tvg-logo="https://4.bp.blogspot.com/-ZZGCzcbmnlg/TljSh9WiIYI/AAAAAAAAAig/7r8CNrWnTAw/s1600/Rai+News.png" group-title="PORTUGAL",PT: Rai News 24
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66829.m3u8
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="PT: Super RTL" tvg-logo="https://3.bp.blogspot.com/-kIS_gftj2xo/TljSt89xx9I/AAAAAAAAAlM/qxIl0qi0uXs/s1600/Super+RTL.png" group-title="PORTUGAL",PT: Super RTL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVR International" tvg-logo="https://3.bp.blogspot.com/-8ulq0soc2hw/WDrqLkBzWpI/AAAAAAAAFhs/vIQDwB22VEUTHvXToCmNfoTzRTPxJgSmgCLcB/s1600/TVR%2BInternational%2Blogo.png" group-title="PORTUGAL",PT: TVR International
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66831.m3u8
+#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA ᴴᴰ local" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/ZAPVIVAHD.png" group-title="PORTUGAL",PT: ZAP VIVA ᴴᴰ local
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66832.m3u8
+#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/ZAPVIVAHD.png" group-title="PORTUGAL",PT: ZAP VIVA ʰᵈ ᴴ²⁶⁵
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/71739.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="PT: FIGHT NETWORK ᶠʰᵈ" tvg-logo="https://www.bing.com/th?id=AMMS_4d8a34dc2597a57a0c18fa98721b4f52&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&cdv=1&pid=16.1" group-title="PORTUGAL",PT: FIGHT NETWORK ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES ᶠʰᵈ" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/10/canais-tv-cine.jpg" group-title="PORTUGAL",PT: TV SERIES ᶠʰᵈ
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-ig_pBlylwT8F8zG_zgfUTGIiBjnMgBD7xA&usqp=CAU" group-title="PORTUGAL",PT: TVI internacional
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66835.m3u8
+#EXTINF:-1 tvg-id="CEURCHD" tvg-name="PT: EUROCHANNEL" tvg-logo="https://www.cableman.ru/sites/default/files/eurochannel_0.jpg?1527331141" group-title="PORTUGAL",PT: EUROCHANNEL
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TCV Cabo Verde" tvg-logo="http://www.rtc.cv/tcvdirecto/images/logo_tcv.jpg" group-title="PORTUGAL",PT: TCV Cabo Verde
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX News" tvg-logo="https://rudermanfoundation.org/wp-content/uploads/2018/06/foxnews.png" group-title="PORTUGAL",PT: FOX News
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Channel 1 Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/599px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="PORTUGAL",PT: Channel 1 Russia
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66839.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: RT DOCUMENTARIOS" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.WAb9vvWiF3c3Q_zCUXkb5QAAAA&pid=Api&P=0&w=234&h=196" group-title="PORTUGAL",PT: RT DOCUMENTARIOS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/66743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 1 SD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",S.TV 1 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 1 HD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",S.TV 1 HD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 2 SD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",S.TV 2 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 2 HD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",S.TV 2 HD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 3 SD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",S.TV 3 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 4 SD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",S.TV 4 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 5 SD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",S.TV 5 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SLB SD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",SLB SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SLB HD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",SLB HD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E.1 SD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",E.1 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E.1 HD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",E.1 HD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E.2 SD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",E.2 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E.2 HD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",E.2 HD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E.3 SD" tvg-logo="https://i.imgur.com/b7Eq4w7.jpg[/img]" group-title="GROUND ZERO",E.3 SD
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/85546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Renascença" tvg-logo="data:image/jpeg;base64,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" group-title="Rádios de portugal",Renascença
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/48164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cidade fm" tvg-logo="https://cdn-profiles.tunein.com/s16650/images/logoq.jpg?t=152882" group-title="Rádios de portugal",Cidade fm
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Do Concelho De Mafra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s83942q.png" group-title="Rádios de portugal",Radio Do Concelho De Mafra
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Amália" tvg-logo="https://cdn-radiotime-logos.tunein.com/s113888q.png" group-title="Rádios de portugal",Rádio Amália
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7293.m3u8
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s48677q.png" group-title="Rádios de portugal",Iris FM
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MFM" tvg-logo="https://cdn-profiles.tunein.com/s135683/images/logoq.png?t=155904" group-title="Rádios de portugal",MFM
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M80 Rádio" tvg-logo="https://cdn-profiles.tunein.com/s81784/images/logoq.jpg" group-title="Rádios de portugal",M80 Rádio
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7296.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1 Madeira" tvg-logo="https://cdn-profiles.tunein.com/s55164/images/logoq.png?t=155723" group-title="Rádios de portugal",Antena 1 Madeira
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7297.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-logo="https://cdn-profiles.tunein.com/s8592/images/logoq.png?t=155723" group-title="Rádios de portugal",Antena 1
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RFM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s18720q.png" group-title="Rádios de portugal",RFM
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Comercial" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16084g.png" group-title="Rádios de portugal",Radio Comercial
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7326.m3u8
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Orbital FM" tvg-logo="https://radioportugal.net/sites/default/files/radio/logos/logo-radio-orbital_0.jpg" group-title="Rádios de portugal",Orbital FM
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7327.m3u8
+#EXTINF:-1 tvg-id="Markiza.sk" tvg-name="Mais Kizomba" tvg-logo="https://radioportugal.net/sites/default/files/styles/116_x_116/public/radio/logos/logo-mais-kizomba_0.png?itok=bmqu5Tc_" group-title="Rádios de portugal",Mais Kizomba
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Log%C3%B3tipo_da_Mega_Hits.png/200px-Log%C3%B3tipo_da_Mega_Hits.png" group-title="Rádios de portugal",MEGA HITS
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nove3cinco (Povoa De Lanhoso)" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/nove3cinco-povoa-de-lanhoso.png" group-title="Rádios de portugal",Radio Nove3cinco (Povoa De Lanhoso)
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="80s RFM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/rfm-80.png" group-title="Rádios de portugal",80s RFM
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Oceano Pacífico RFM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/oceano-pacifico-rfm.png" group-title="Rádios de portugal", Oceano Pacífico RFM
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7553.m3u8
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super FM (Almada)" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/super.png" group-title="Rádios de portugal",Super FM (Almada)
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Antena Minho (Braga)" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/antena-minho.png" group-title="Rádios de portugal", Antena Minho (Braga)
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/7555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Kids✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/8f36edf53c8dfc03faa8f2e731418544.png" group-title="Exclusivos ✬Play✬",Play ✬Kids✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Disney✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/5b2f841b819912d92d18ac4b7b329fb8.png" group-title="Exclusivos ✬Play✬",Play ✬Disney✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬DreamWorks✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/59194e7616741580fc4746ed40de0c63.png" group-title="Exclusivos ✬Play✬",Play ✬DreamWorks✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Pixar✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/583c9bc21ff74b8e9bab3fe76810247b.png" group-title="Exclusivos ✬Play✬",Play ✬Pixar✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Luccas Neto✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/add4c872c777b734ed08724efbbc3a3e.png" group-title="Exclusivos ✬Play✬",Play ✬Luccas Neto✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Artista da Semana✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/9656727b143068a8a2bfade4064336f4.png" group-title="Exclusivos ✬Play✬",Play ✬Artista da Semana✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Oscars✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/2b30afe5fa2da3db1766ba9efaa9be76.png" group-title="Exclusivos ✬Play✬",Play ✬Oscars✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/87395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Estreias✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a1330c8070514a89d8d46bb689997c43.png" group-title="Exclusivos ✬Play✬",Play ✬Estreias✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Pandemic✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/7c207597033e8c9c86cf6455df599a5f.png" group-title="Exclusivos ✬Play✬",Play ✬Pandemic✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Cinema✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4870f9d3a6299578edcc3e6c954baeba.png" group-title="Exclusivos ✬Play✬",Play ✬Cinema✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Action✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e8038f5be1e91fa3a29dbbe8a9525e1e.png" group-title="Exclusivos ✬Play✬",Play ✬Action✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Comédias✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4b89ce04fc067fb0e77996a42d833591.png" group-title="Exclusivos ✬Play✬",Play ✬Comédias✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Drama Romance✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/0223567c922dd9bd0bae90b1cab0e14a.png" group-title="Exclusivos ✬Play✬",Play ✬Drama Romance✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Musicais, Dança✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b9b17e9c757fa96970ee3c285b2e2c62.png" group-title="Exclusivos ✬Play✬",Play ✬Musicais, Dança✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Western✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b6868c7730b68aa2ca6a95bcd362faa1.png" group-title="Exclusivos ✬Play✬",Play ✬Western✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬True Stories✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/35cb241113c0078970c2d2ffc93800c7.png" group-title="Exclusivos ✬Play✬",Play ✬True Stories✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Remember✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/0bf8552af4c7667b40b43a45d5c2bb03.png" group-title="Exclusivos ✬Play✬",Play ✬Remember✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Terror✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/6d72909d7e1686b7abec40a51fe420f9.png" group-title="Exclusivos ✬Play✬",Play ✬Terror✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬OPTO✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/2760879a4af7fac9c1c1bb7b5d173f53.png" group-title="Exclusivos ✬Play✬",Play ✬OPTO✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Ficção e Fantasia✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4509f128c16e67b5484d6401bdb8eea9.png" group-title="Exclusivos ✬Play✬",Play ✬Ficção e Fantasia✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Marvel✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/f8d9fe959b6a6447a6602bebf24a1ca6.png" group-title="Exclusivos ✬Play✬",Play ✬Marvel✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Marvel 2✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/f8d9fe959b6a6447a6602bebf24a1ca6.png" group-title="Exclusivos ✬Play✬",Play ✬Marvel 2✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬DC Comics✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e8b476feb1975fe37a5a10be11d3554b.png" group-title="Exclusivos ✬Play✬",Play ✬DC Comics✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Sagas e Trilogias✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/43f2f5e85c164e6f756278723e41ac03.png" group-title="Exclusivos ✬Play✬",Play ✬Sagas e Trilogias✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Live Performances✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/44f8213a6817e1bbc1a302252f675e2a.png" group-title="Exclusivos ✬Play✬",Play ✬Live Performances✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Best Music✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/8444e6750320d0368ce472ac88ad2a27.png" group-title="Exclusivos ✬Play✬",Play ✬Best Music✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Music 80s 90s✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/aec3905133c6df4ff49f9621e640e70f.png" group-title="Exclusivos ✬Play✬",Play ✬Music 80s 90s✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Tomorrowland✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/67138cded617d75dab95438a05893801.png" group-title="Exclusivos ✬Play✬",Play ✬Tomorrowland✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Dj´s✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c4cff89de8e6aa9e1e6b86fe8abd0aba.png" group-title="Exclusivos ✬Play✬",Play ✬Dj´s✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Concerts✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b180f4812357e2840045c11f4b4ee3cf.png" group-title="Exclusivos ✬Play✬",Play ✬Concerts✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬The Voice✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/0b7700256b4120207cc2e1837c2036d3.png" group-title="Exclusivos ✬Play✬",Play ✬The Voice✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬4 Fun✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/bf6ebdc0f9063c7f00e0a5d933117826.png" group-title="Exclusivos ✬Play✬",Play ✬4 Fun✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play ✬Stand-Up Comedy✬" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/6826f6c8e03e455537e775b6e010571f.png" group-title="Exclusivos ✬Play✬",Play ✬Stand-Up Comedy✬
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/ba3bfb7767ce0289c761eb3fbf81d610.png" group-title="Exclusivos ✬Play✬",HBO
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/170b1d363bd8516fbf3a3eb05d4faff6.png" group-title="Exclusivos ✬Play✬",Netflix
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/86794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="Canais Low",PT: RTP 1 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/0f9cf647af77e0b76497a98fa7fedaa4.png" group-title="Canais Low",PT: RTP 2 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/8cd3ac70db7ac318cf9a0e01333940a4.png" group-title="Canais Low",PT: SIC LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="Canais Low",PT: TVI LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Noticias LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b48779474d5782a22c822a838f5d3cf0.png" group-title="Canais Low",PT: SIC Noticias LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a868185365d061d707f29f4ed967143e.png" group-title="Canais Low",PT: RTP 3 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c2977ded200dace0fe90fcef47e1bbd2.png" group-title="Canais Low",PT: RTP AFRICA LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/967cf70730e31739aefcfb7b0e1dde8b.png" group-title="Canais Low",PT: RTP MEMORIA LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/f3592b9ca2b19b4ee2fb3b17e0ca5c48.png" group-title="Canais Low",PT: SIC CARAS LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c17b946dd8f4446237ccf1b9f8412466.png" group-title="Canais Low",PT: TVI 24 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/7675b713c2212d1c162c96ddce3d4750.png" group-title="Canais Low",PT: TV RECORD LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Globo LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4822f410294f76aa3d37ed55b76d06b8.png" group-title="Canais Low",PT: Globo LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NOW LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4822f410294f76aa3d37ed55b76d06b8.png" group-title="Canais Low",PT: GLOBO NOW LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/13f64578414544b6e9a7a48846773cc2.png" group-title="Canais Low",PT: SIC Mulher LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical  LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/9c2a277800ce90a7130b9dd6f2f5aee5.png" group-title="Canais Low",PT: SIC Radical  LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficcao LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/206d8d732b55d1155d8c8ea37a35ca19.png" group-title="Canais Low",PT: TVI Ficcao LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/85e050e42317858a0142a41dd2eeb667.png" group-title="Canais Low",PT: TVI REALITY LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/d468c5af208f9d6216065c39d1304507.png" group-title="Canais Low",PT: A BOLA TV LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 LOW" tvg-logo="https://sportguide.live/images/stations/a1787.png" group-title="Canais Low",PT: Canal 11 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c2bf4f132e4f362b3b61d676debeaca7.png" group-title="Canais Low",PT: BTV LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/075a3e36a0a52dcbc568c05788e8a713.jpg" group-title="Canais Low",PT: SPORT TV NBA LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV+ LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/3e3c1b67c3c7bcca818824b8a1c4c0e8.png" group-title="Canais Low",PT: Sport TV+ LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="Canais Low",PT: Sport TV 1 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4d6947a967135a98291a0f61d0321604.png" group-title="Canais Low",PT: Sport TV 2 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/3a142ac1e17bb05cfd22f643e2d62da6.png" group-title="Canais Low",PT: Sport TV 3 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/3c71a17866a47a476f8b1d5259947326.png" group-title="Canais Low",PT: Sport TV 4 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/2ed61a48d3a44284c49cd0fbe821f0ff.png" group-title="Canais Low",PT: Sport TV 5 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e035984660e1f89f808fd1d734c9b6d2.png" group-title="Canais Low",PT: Eleven Sports 1 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/f387624df552cea2f369918c5e1e12bc.png" group-title="Canais Low",PT: Eleven Sports 2 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/66c39afdd163bb712d4d366b1d90639c.png" group-title="Canais Low",PT: Eleven Sports 3 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/0d877ff0b2315a466b1588a35a7eaaac.png" group-title="Canais Low",PT: Eleven Sports 4 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/db69b33582f74f8982a962fe823ad2aa.png" group-title="Canais Low",PT: Eleven Sports 5 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 LOW" tvg-logo="" group-title="Canais Low",PT: ELEVEN SPORTS 6 LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="Canais Low",PT: PFC LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c1fd58a3c81f79156ce3b2162f0b4404.png" group-title="Canais Low",PT: PORTO CANAL LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/ad15872f385942b8c2b35bed18de56ed.png" group-title="Canais Low",PT: TVCine Top LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4a372ac8be68b86d51306bfd5e841904.png" group-title="Canais Low",PT: TVCine Edition LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/7645010735b4e49eeb6952f35a87e8a6.png" group-title="Canais Low",PT: TVCine Emotion LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/6754c2679ba5248985448241b814dc19.png" group-title="Canais Low",PT: TVCine Action LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/7dcfe5ca33eb30d57666c10d277095aa.png" group-title="Canais Low",PT: Hollywood LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/042dba4d2faaa29cd2fa4c0125416d25.PNG" group-title="Canais Low",PT: AXN LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/562a5a0800e8c99a2bfd2dc71581a3e3.png" group-title="Canais Low",PT: AXN White LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/9b1954ef5b98e226f2a624d020fb18e9.png" group-title="Canais Low",PT: AXN MOVIES LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cinemundo LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/9f78fd81b42175fda2739411708cb745.png" group-title="Canais Low",PT: Cinemundo LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC LOW" tvg-logo="" group-title="Canais Low",PT: AMC LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b11a317fcd6d654f577595e63a562dd0.png" group-title="Canais Low",PT: Fox LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Life LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/77f0bdf1d5736829e8a1c345633f6554.png" group-title="Canais Low",PT: Fox Life LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Movies LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a0cf68d6097c7222680915147aa5690b.png" group-title="Canais Low",PT: Fox Movies LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Crime LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/de69e139bf26ee761ad9bdfbc7bae287.png" group-title="Canais Low",PT: Fox Crime LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/f48d84c70da0625916132d6c3a90d889.png" group-title="Canais Low",PT: FOX COMEDY LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/cded3d0d7919c42153133b5d0d149cbf.png" group-title="Canais Low",PT: CARTOON NETWORK LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b11cc9ad84502b27a63fa7a8d813ef6a.png" group-title="Canais Low",PT: NICKELODEON LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/582ba55eb08260bf08fe9d0e30f5bcb0.png" group-title="Canais Low",PT: PANDA LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4d2492514a128376814acd33445ec464.png" group-title="Canais Low",PT: BIGGS LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/156f7191783572b5d5738ef0835ae7ae.png" group-title="Canais Low",PT: JIM JAM LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/23f7adcffda04234527b4461310e401b.png" group-title="Canais Low",PT: SYFY LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/3a9e6e34457de740e6c6e47b502530ef.png" group-title="Canais Low",PT: DISNEY CHANNEL LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/a5c8eb8c31d9ebe32ef1f97bf2518f28.png" group-title="Canais Low",PT: DISNEY JUNIOR LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/ef5ef0a75c3e6410ed4828e61eaf3ebb.png" group-title="Canais Low",PT: HISTORIA LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/4385e0b8247d279964baa2c14098c007.png" group-title="Canais Low",PT: NATIONAL GEOGRAPHIC LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC WILD LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/c68f05d4e52f9374490fedf9571a8b1f.png" group-title="Canais Low",PT: NATIONAL GEOGRAPHIC WILD LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL LOW" tvg-logo="" group-title="Canais Low",PT: DISCOVERY CHANNEL LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: THE FOOD NETWORK LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="Canais Low",PT: THE FOOD NETWORK LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="Canais Low",PT: MTV LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC LOW" tvg-logo="http://ILUMINADO2020.LIVE:8080/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais Low",PT: TLC LOW
+http://ILUMINADO2020.LIVE:8080/live/TiaYamahaTele/VYYYD2WTr4/82539.m3u8
