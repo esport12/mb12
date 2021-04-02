@@ -1,181 +1,1119 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1" tvg-logo="http://files.rednetcontent.com/chlogo/rtp.png" group-title="Portugal",RTP 1
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1334.m3u8
-#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/rtp.png" group-title="Portugal",RTP 1 FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1339.m3u8
-#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP 2" tvg-logo="http://files.rednetcontent.com/chlogo/rtp.png" group-title="Portugal",RTP 2
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1335.m3u8
-#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/rtp.png" group-title="Portugal",RTP 2 FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1362.m3u8
-#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="RTP 3" tvg-logo="http://files.rednetcontent.com/chlogo/rtp.png" group-title="Portugal",RTP 3
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1336.m3u8
-#EXTINF:-1 tvg-id="RtpMadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://files.rednetcontent.com/chlogo/rtp_madeira.png" group-title="Portugal",RTP Madeira
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1337.m3u8
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="Globo" tvg-logo="http://files.rednetcontent.com/chlogo/Globo.png" group-title="Portugal",Globo
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1642.m3u8
-#EXTINF:-1 tvg-id="RtpAcores.pt" tvg-name="RTP Acores" tvg-logo="http://files.rednetcontent.com/chlogo/rtp_acores.png" group-title="Portugal",RTP Acores
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1340.m3u8
-#EXTINF:-1 tvg-id="Artv.pt" tvg-name="ARTV" tvg-logo="http://files.rednetcontent.com/chlogo/artv.png" group-title="Portugal",ARTV
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Premium" tvg-logo="http://files.rednetcontent.com/chlogo/global_premium.png" group-title="Portugal",Globo Premium
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1338.m3u8
-#EXTINF:-1 tvg-id="Porto.pt" tvg-name="Porto Canal" tvg-logo="http://files.rednetcontent.com/chlogo2/Brasil/portocanal.png" group-title="Portugal",Porto Canal
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1511.m3u8
-#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="TVI" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/TVI_logo_2017.png" group-title="Portugal",TVI
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1597.m3u8
-#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="TVI 24" tvg-logo="http://files.rednetcontent.com/chlogo/tvi24.png" group-title="Portugal",TVI 24
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1349.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficcao" tvg-logo="http://files.rednetcontent.com/chlogo/TVI_Ficcao_2016.png" group-title="Portugal",TVI Ficcao
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1363.m3u8
-#EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC" tvg-logo="http://files.rednetcontent.com/chlogo/sic.png" group-title="Portugal",SIC
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1352.m3u8
-#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SIC Noticias" tvg-logo="http://files.rednetcontent.com/chlogo/sic_noticias.png" group-title="Portugal",SIC Noticias
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1353.m3u8
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Cancao Nova" tvg-logo="http://files.rednetcontent.com/chlogo/Logotipo_da_TV_Cancao_Nova.png" group-title="Portugal",Cancao Nova
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1357.m3u8
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odesseia" tvg-logo="http://files.rednetcontent.com/chlogo/Odisseia_logo.png" group-title="Portugal",Odesseia
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Bola TV" tvg-logo="http://files.rednetcontent.com/chlogo/A_Bola_TV_logo.png" group-title="Portugal",A Bola TV
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1364.m3u8
-#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/Panda_Biggs_logo.png" group-title="Portugal",Biggs
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1608.m3u8
-#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment" tvg-logo="http://files.rednetcontent.com/chlogo/E!_Logo.png" group-title="Portugal",E! Entertainment
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1610.m3u8
-#EXTINF:-1 tvg-id="SicRadical.pt" tvg-name="SIC Radical" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sicradica.png" group-title="Portugal",SIC Radical
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1611.m3u8
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/canal-q.png" group-title="Portugal",Canal Q
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1612.m3u8
-#EXTINF:-1 tvg-id="SicMulher.pt" tvg-name="SIC Muler" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sicmuler.png" group-title="Portugal",SIC Muler
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1613.m3u8
-#EXTINF:-1 tvg-id="Cmtv.pt" tvg-name="CMTV" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/CM_TV_logo.png" group-title="Portugal",CMTV
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1223.m3u8
-#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="TVI Reality" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/Tvireality.png" group-title="Portugal",TVI Reality
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1840.m3u8
-#EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos TV" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/Kuriakos.png" group-title="Portugal",Kuriakos TV
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1842.m3u8
-#EXTINF:-1 tvg-id="TpaInternational.pt" tvg-name="TPA Internacional" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal",TPA Internacional
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/732.m3u8
-#EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="RTP Memoria" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/thumb_rtpMemoria01.png" group-title="Portugal",RTP Memoria
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinamc.png" group-title="Portugal Cinema",AMC FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" tvg-logo="http://files.rednetcontent.com/chlogo/Canal_Hollywood_HD.png" group-title="Portugal Cinema",Canal Hollywood
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCine TOP" tvg-logo="http://files.rednetcontent.com/chlogo/Cine+_logo_2011.png" group-title="Portugal Cinema",TVCine TOP
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCine TOP FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/tvcine-top-pt.png" group-title="Portugal Cinema",TVCine TOP FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCine EMOTION" tvg-logo="http://files.rednetcontent.com/chlogo/Cine+_logo_2011.png" group-title="Portugal Cinema",TVCine EMOTION
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCine EMOTION FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/tvcine-emotion-pt.png" group-title="Portugal Cinema",TVCine EMOTION FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCine ACTION HD" tvg-logo="http://files.rednetcontent.com/chlogo/Cine+_logo_2011.png" group-title="Portugal Cinema",TVCine ACTION HD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCine ACTION FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/tvcine-action-pt.png" group-title="Portugal Cinema",TVCine ACTION FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="http://files.rednetcontent.com/chlogo/syfy.png" group-title="Portugal Cinema",Syfy
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1354.m3u8
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC Portugal" tvg-logo="http://files.rednetcontent.com/chlogo/Amc_logo.png" group-title="Portugal",AMC Portugal
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/foxmovies.png" group-title="Portugal Cinema",Fox Movies
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/fox_comedy_pt.png" group-title="Portugal Cinema",FOX Comedy
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN Black FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/AXNMovies.png" group-title="Portugal Cinema",AXN Black FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1812.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Spanish/axnntvv.png" group-title="Portugal Cinema",AXN FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1813.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN White FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/AXNWhite.png" group-title="Portugal Cinema",AXN White FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood Portugal FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/canal_hollywood_pt.png" group-title="Portugal Cinema",Canal Hollywood Portugal FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1817.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="http://files.rednetcontent.com/chlogo/Osn-Fox-HD.png" group-title="Portugal Cinema",FOX FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Crime FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Balkans/fox_crime_it-600x150.png" group-title="Portugal Cinema",FOX Crime FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Spanish/Fox_life_it.png" group-title="Portugal Cinema",FOX Life FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1823.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOS Studios FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/NOS-Studios.png" group-title="Portugal Cinema",NOS Studios FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1825.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCine EDITION FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/tvcine-edition-pt.png" group-title="Portugal Cinema",TVCine EDITION FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1831.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/TVI_logo_2017.png" group-title="Portugal Cinema",TVI FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1834.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVSeries FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/tv_series.png" group-title="Portugal Cinema",TVSeries FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Record" tvg-logo="http://files.rednetcontent.com/chlogo/logo_recordtv.png" group-title="Portugal News",TV Record
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cazavizion" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Documentary",Cazavizion
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://files.rednetcontent.com/chlogo/Discovery.png" group-title="Portugal Documentary",Discovery Channel
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/24_kitchen_us.png" group-title="Portugal Documentary",24 Kitchen FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery FHD" tvg-logo="http://files.rednetcontent.com/chlogo/Discovery.png" group-title="Portugal Documentary",Discovery FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Documentary",ID Investigation Discovery FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1824.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Turkish/natgeo.png" group-title="Portugal Documentary",National Geographic FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1826.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel FHD" tvg-logo="http://files.rednetcontent.com/chlogo/Travel_Channel_Logo.png" group-title="Portugal Documentary",Travel Channel FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1836.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Afro Music" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/ausic221.png" group-title="Portugal Music",Afro Music
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Portugal" tvg-logo="http://files.rednetcontent.com/chlogo/MTV_Canada_logo.png" group-title="Portugal Music",MTV Portugal
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZAP Viva FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/zap_viva_ao.png" group-title="Portugal Music",ZAP Viva FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1837.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC Caras" tvg-logo="http://files.rednetcontent.com/chlogo/sic.png" group-title="Portugal Music",SIC Caras
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://files.rednetcontent.com/chlogo/Nick_jr.png" group-title="Portugal Kids",Nick Jr
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1607.m3u8
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 1
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1396.m3u8
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 2
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1355.m3u8
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 3
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1356.m3u8
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 4
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1348.m3u8
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 5
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1625.m3u8
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 1 FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1827.m3u8
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 2 FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1828.m3u8
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 3 FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1829.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/Brasil/BTV1.png" group-title="Portugal Sport",BTV 1 HD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1411.m3u8
-#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/LOGO-Kombat_Sport.png" group-title="Portugal Sport",Kombat Sport
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1669.m3u8
-#EXTINF:-1 tvg-id="PFC.pt" tvg-name="PFC" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/PFC.png" group-title="Portugal Sport",PFC
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1599.m3u8
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven1.png" group-title="Portugal Sport",Eleven Sports 1 HD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1676.m3u8
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="Eleven Sports 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="Portugal Sport",Eleven Sports 2 HD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1677.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="Eleven Sports 3" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven3.png" group-title="Portugal Sport",Eleven Sports 3
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1678.m3u8
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="Eleven Sports 4" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven4.png" group-title="Portugal Sport",Eleven Sports 4
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1679.m3u8
-#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="Eleven Sports 5" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/eleven5.png" group-title="Portugal Sport",Eleven Sports 5
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1680.m3u8
-#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="Eleven Sports 6" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/eleven6.png" group-title="Portugal Sport",Eleven Sports 6
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1681.m3u8
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",SPORT TV +
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1695.m3u8
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sportingtv1.png" group-title="Portugal Sport",Sporting TV
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/nbatv1.png" group-title="Portugal Sport",NBA
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Brasil/BTV1.png" group-title="Portugal Sport",BTV 1 FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1815.m3u8
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven1.png" group-title="Portugal Sport",Eleven Sports 1 FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1819.m3u8
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="Eleven Sports 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="Portugal Sport",Eleven Sports 2 FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1820.m3u8
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/canal11.png" group-title="Portugal Sport",Canal 11 FHD
-http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1816.m3u8
+#EXTINF:-1,A&E HD
+http://familytv.net:80/63982738884/8398289387/40074
+#EXTINF:-1,AGRO CANAL
+http://familytv.net:80/63982738884/8398289387/111096
+#EXTINF:-1,AL JAZEERA
+http://familytv.net:80/63982738884/8398289387/115747
+#EXTINF:-1,ALL SPORTS
+http://familytv.net:80/63982738884/8398289387/96646
+#EXTINF:-1,AMC HD
+http://familytv.net:80/63982738884/8398289387/40076
+#EXTINF:-1,ANIMAL PLANET 4K
+http://familytv.net:80/63982738884/8398289387/58401
+#EXTINF:-1,ANIMAL PLANET FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99064
+#EXTINF:-1,ANIMAL PLANET HD
+http://familytv.net:80/63982738884/8398289387/40003
+#EXTINF:-1,ANOS 2000
+http://familytv.net:80/63982738884/8398289387/76173
+#EXTINF:-1,ANOS 80
+http://familytv.net:80/63982738884/8398289387/76175
+#EXTINF:-1,ANOS 90
+http://familytv.net:80/63982738884/8398289387/76176
+#EXTINF:-1,AXN HD
+http://familytv.net:80/63982738884/8398289387/40078
+#EXTINF:-1,AXN HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99104
+#EXTINF:-1,AXÉ MUSIC
+http://familytv.net:80/63982738884/8398289387/76177
+#EXTINF:-1,BABYTV HD
+http://familytv.net:80/63982738884/8398289387/57195
+#EXTINF:-1,BAND RJ ¹
+http://familytv.net:80/63982738884/8398289387/39891
+#EXTINF:-1,BAND SP ¹
+http://familytv.net:80/63982738884/8398289387/39894
+#EXTINF:-1,BAND RS ¹
+http://familytv.net:80/63982738884/8398289387/39892
+#EXTINF:-1,BAND
+http://familytv.net:80/63982738884/8398289387/58395
+#EXTINF:-1,BAND BSB ¹
+http://familytv.net:80/63982738884/8398289387/39889
+#EXTINF:-1,BAND CAMPINAS ¹
+http://familytv.net:80/63982738884/8398289387/39890
+#EXTINF:-1,BAND NEWS HD
+http://familytv.net:80/63982738884/8398289387/57223
+#EXTINF:-1,SBT 4K
+http://familytv.net:80/63982738884/8398289387/58407
+#EXTINF:-1,SBT RJ ¹
+http://familytv.net:80/63982738884/8398289387/39900
+#EXTINF:-1,SBT SP
+http://familytv.net:80/63982738884/8398289387/99762
+#EXTINF:-1,SBT RS ¹
+http://familytv.net:80/63982738884/8398289387/39901
+#EXTINF:-1,SBT PARANA ¹
+http://familytv.net:80/63982738884/8398289387/39913
+#EXTINF:-1,SBT TV ALTEROSA ¹
+http://familytv.net:80/63982738884/8398289387/39911
+#EXTINF:-1,SBT TV SERRA DOURADA ¹
+http://familytv.net:80/63982738884/8398289387/39898
+#EXTINF:-1,TV ARATU HD SBT BAHIA
+http://familytv.net:80/63982738884/8398289387/129680
+#EXTINF:-1,BAND SPORTS FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99027
+#EXTINF:-1,BAND SPORTS HD
+http://familytv.net:80/63982738884/8398289387/40114
+#EXTINF:-1,BAND SPORTS HD*
+http://familytv.net:80/63982738884/8398289387/57148
+#EXTINF:-1,BAND TV GOIANIA ¹
+http://familytv.net:80/63982738884/8398289387/39896
+#EXTINF:-1,BBB 2021 (CAMERA PRINCIPAL)¹
+http://familytv.net:80/63982738884/8398289387/125829
+#EXTINF:-1,BBB 21 CAM PRINCIPAL³
+http://familytv.net:80/63982738884/8398289387/125796
+#EXTINF:-1,BBB 21 ACOMPANHE A CASA³
+http://familytv.net:80/63982738884/8398289387/125794
+#EXTINF:-1,BBB 21 ACOMPANHE A CASA EXTRA³
+http://familytv.net:80/63982738884/8398289387/125795
+#EXTINF:-1,BBB 2021 (CAMERA 11)¹
+http://familytv.net:80/63982738884/8398289387/125840
+#EXTINF:-1,BBB 2021 (CAMERA 2)¹
+http://familytv.net:80/63982738884/8398289387/125831
+#EXTINF:-1,BBB CAM 1 HD³
+http://familytv.net:80/63982738884/8398289387/125805
+#EXTINF:-1,BBB CAM 2 HD³
+http://familytv.net:80/63982738884/8398289387/125806
+#EXTINF:-1,BBB 2021 (CAMERA 3)¹
+http://familytv.net:80/63982738884/8398289387/125832
+#EXTINF:-1,BBB CAM 3 HD³
+http://familytv.net:80/63982738884/8398289387/125807
+#EXTINF:-1,BBB 2021 (CAMERA 4)¹
+http://familytv.net:80/63982738884/8398289387/125833
+#EXTINF:-1,BBB 2021 (CAMERA 5)¹
+http://familytv.net:80/63982738884/8398289387/125834
+#EXTINF:-1,BBB 2021 (CAMERA 6)¹
+http://familytv.net:80/63982738884/8398289387/125835
+#EXTINF:-1,BBB 2021 (CAMERA 7)¹
+http://familytv.net:80/63982738884/8398289387/125836
+#EXTINF:-1,BBB 2021 (CAMERA 8)¹
+http://familytv.net:80/63982738884/8398289387/125837
+#EXTINF:-1,BBB 2021 (CAMERA 9)¹
+http://familytv.net:80/63982738884/8398289387/125838
+#EXTINF:-1,BBB 2021 (MOSAICO)¹
+http://familytv.net:80/63982738884/8398289387/125830
+#EXTINF:-1,BBB 2021 (CAMERA 10)¹
+http://familytv.net:80/63982738884/8398289387/125839
+#EXTINF:-1,BBB 2 FHD
+http://familytv.net:80/63982738884/8398289387/125825
+#EXTINF:-1,BBB 21 CONFESSIONARIO³
+http://familytv.net:80/63982738884/8398289387/125797
+#EXTINF:-1,BBB 21 COZINHA XEPA³
+http://familytv.net:80/63982738884/8398289387/125798
+#EXTINF:-1,BBB 21 JARDIM³
+http://familytv.net:80/63982738884/8398289387/125799
+#EXTINF:-1,BBB 21 MOSAICO³
+http://familytv.net:80/63982738884/8398289387/125800
+#EXTINF:-1,BBB 21 PISCINA³
+http://familytv.net:80/63982738884/8398289387/125801
+#EXTINF:-1,BBB 21 QUARTO COLORIDO³
+http://familytv.net:80/63982738884/8398289387/125802
+#EXTINF:-1,BBB 21 QUARTO CORDEL³
+http://familytv.net:80/63982738884/8398289387/125803
+#EXTINF:-1,BBB 21 SALA DE ESTAR³
+http://familytv.net:80/63982738884/8398289387/125804
+#EXTINF:-1,BBB 3 HD
+http://familytv.net:80/63982738884/8398289387/125826
+#EXTINF:-1,BEIN SPORTS
+http://familytv.net:80/63982738884/8398289387/115753
+#EXTINF:-1,BIS HD
+http://familytv.net:80/63982738884/8398289387/40052
+#EXTINF:-1,BLOOMBERG PT *
+http://familytv.net:80/63982738884/8398289387/95846
+#EXTINF:-1,BLOOMBERG USA *
+http://familytv.net:80/63982738884/8398289387/95847
+#EXTINF:-1,Bons Tempos FM
+http://familytv.net:80/63982738884/8398289387/41523
+#EXTINF:-1,BOOMERANG HD
+http://familytv.net:80/63982738884/8398289387/57199
+#EXTINF:-1,Campeiro FM Cruzeiro Do Sul / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41536
+#EXTINF:-1,CANAL DO BOI
+http://familytv.net:80/63982738884/8398289387/111091
+#EXTINF:-1,CANAL RURAL
+http://familytv.net:80/63982738884/8398289387/111093
+#EXTINF:-1,CANAL SONY HD
+http://familytv.net:80/63982738884/8398289387/40082
+#EXTINF:-1,CARTOON NETWORK 4K
+http://familytv.net:80/63982738884/8398289387/58399
+#EXTINF:-1,CARTOON NETWORK HD
+http://familytv.net:80/63982738884/8398289387/40031
+#EXTINF:-1,CAÇA E PESCA
+http://familytv.net:80/63982738884/8398289387/115783
+#EXTINF:-1,CINE PIPOCA 1
+http://familytv.net:80/63982738884/8398289387/102736
+#EXTINF:-1,CINE PIPOCA 2
+http://familytv.net:80/63982738884/8398289387/102742
+#EXTINF:-1,CINE PIPOCA 3
+http://familytv.net:80/63982738884/8398289387/102743
+#EXTINF:-1,CINE PIPOCA 4
+http://familytv.net:80/63982738884/8398289387/102744
+#EXTINF:-1,CINE PIPOCA 5
+http://familytv.net:80/63982738884/8398289387/102745
+#EXTINF:-1,CINE SKY 01 HD
+http://familytv.net:80/63982738884/8398289387/102750
+#EXTINF:-1,CINE SKY 02 HD
+http://familytv.net:80/63982738884/8398289387/102751
+#EXTINF:-1,CINE SKY 03 HD
+http://familytv.net:80/63982738884/8398289387/102752
+#EXTINF:-1,CINE SKY 04 HD
+http://familytv.net:80/63982738884/8398289387/102753
+#EXTINF:-1,CINE SKY 05 HD
+http://familytv.net:80/63982738884/8398289387/102754
+#EXTINF:-1,CINE SKY 06 HD
+http://familytv.net:80/63982738884/8398289387/102755
+#EXTINF:-1,CINE SKY 07 HD
+http://familytv.net:80/63982738884/8398289387/102756
+#EXTINF:-1,CINE SKY HD 1
+http://familytv.net:80/63982738884/8398289387/67933
+#EXTINF:-1,CINE SKY HD 2
+http://familytv.net:80/63982738884/8398289387/67934
+#EXTINF:-1,CINE SKY HD 3
+http://familytv.net:80/63982738884/8398289387/67935
+#EXTINF:-1,CINE SKY HD 4
+http://familytv.net:80/63982738884/8398289387/67936
+#EXTINF:-1,CINE SKY HD 5
+http://familytv.net:80/63982738884/8398289387/67937
+#EXTINF:-1,CINEMAX HD
+http://familytv.net:80/63982738884/8398289387/40080
+#EXTINF:-1,CNN BRASIL HD
+http://familytv.net:80/63982738884/8398289387/39937
+#EXTINF:-1,COLETÂNEAS
+http://familytv.net:80/63982738884/8398289387/76178
+#EXTINF:-1,COMBATE 4K
+http://familytv.net:80/63982738884/8398289387/58400
+#EXTINF:-1,COMBATE FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99044
+#EXTINF:-1,COMBATE HD
+http://familytv.net:80/63982738884/8398289387/40116
+#EXTINF:-1,COMBATE HD*
+http://familytv.net:80/63982738884/8398289387/57149
+#EXTINF:-1,COMEDY CENTRAL HD
+http://familytv.net:80/63982738884/8398289387/40054
+#EXTINF:-1,CAMPEONATO CARIOCA 01 HD
+http://familytv.net:80/63982738884/8398289387/129942
+#EXTINF:-1,CAMPEONATO CARIOCA 02 HD
+http://familytv.net:80/63982738884/8398289387/129943
+#EXTINF:-1,CAMPEONATO CATARINENSE 1
+http://familytv.net:80/63982738884/8398289387/129676
+#EXTINF:-1,CAMPEONATO CATARINENSE 2
+http://familytv.net:80/63982738884/8398289387/129677
+#EXTINF:-1,CAMPEONATO CATARINENSE 3
+http://familytv.net:80/63982738884/8398289387/129678
+#EXTINF:-1,CAMPEONATO CATARINENSE 4
+http://familytv.net:80/63982738884/8398289387/129679
+#EXTINF:-1,CAMPEONATO CARIOCA Opçao 1+
+http://familytv.net:80/63982738884/8398289387/131282
+#EXTINF:-1,CAMPEONATO CARIOCA Opçao 2+
+http://familytv.net:80/63982738884/8398289387/131283
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 2)
+http://familytv.net:80/63982738884/8398289387/124147
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO1)
+http://familytv.net:80/63982738884/8398289387/124146
+#EXTINF:-1,COPA DO NORDESTE HD+
+http://familytv.net:80/63982738884/8398289387/131289
+#EXTINF:-1,Copa Nordeste 2 HD+
+http://familytv.net:80/63982738884/8398289387/131290
+#EXTINF:-1,Copa Nordeste 3 HD+
+http://familytv.net:80/63982738884/8398289387/131291
+#EXTINF:-1,Copa Nordeste 4 HD+
+http://familytv.net:80/63982738884/8398289387/131292
+#EXTINF:-1,Copa Nordeste 5 HD+
+http://familytv.net:80/63982738884/8398289387/131293
+#EXTINF:-1,Copa Nordeste 6 HD+
+http://familytv.net:80/63982738884/8398289387/131294
+#EXTINF:-1,CURTA! HD*
+http://familytv.net:80/63982738884/8398289387/57210
+#EXTINF:-1,TNT ESTADIO HD²
+http://familytv.net:80/63982738884/8398289387/131281
+#EXTINF:-1,ESTADIO TNT SPORTS Jogo 1
+http://familytv.net:80/63982738884/8398289387/131277
+#EXTINF:-1,ESTADIO TNT SPORTS Jogo 2
+http://familytv.net:80/63982738884/8398289387/131278
+#EXTINF:-1,ESTADIO TNT SPORTS Jogo 3
+http://familytv.net:80/63982738884/8398289387/131279
+#EXTINF:-1,ESTADIO TNT SPORTS Jogo 4
+http://familytv.net:80/63982738884/8398289387/131280
+#EXTINF:-1,TNT SPORTS 2
+http://familytv.net:80/63982738884/8398289387/125447
+#EXTINF:-1,TNT SPORTS 1
+http://familytv.net:80/63982738884/8398289387/125448
+#EXTINF:-1,DAZN 01 HD
+http://familytv.net:80/63982738884/8398289387/124202
+#EXTINF:-1,DAZN 01 SD
+http://familytv.net:80/63982738884/8398289387/124201
+#EXTINF:-1,DAZN 02 HD
+http://familytv.net:80/63982738884/8398289387/124203
+#EXTINF:-1,DAZN 03 HD
+http://familytv.net:80/63982738884/8398289387/124204
+#EXTINF:-1,DAZN 04 HD
+http://familytv.net:80/63982738884/8398289387/124205
+#EXTINF:-1,DIRECTV SPORTS + ARGENTINA
+http://familytv.net:80/63982738884/8398289387/115755
+#EXTINF:-1,DIRECTV SPORTS + COLOMBIA
+http://familytv.net:80/63982738884/8398289387/115756
+#EXTINF:-1,DIRECTV SPORTS 2 ARGENTINA
+http://familytv.net:80/63982738884/8398289387/115757
+#EXTINF:-1,DIRECTV SPORTS 2 PERU
+http://familytv.net:80/63982738884/8398289387/115758
+#EXTINF:-1,DIRECTV SPORTS ARGENTINA
+http://familytv.net:80/63982738884/8398289387/115759
+#EXTINF:-1,DIRECTV SPORTS COLOMBIA
+http://familytv.net:80/63982738884/8398289387/115760
+#EXTINF:-1,DIRECTV SPORTS EQUADOR
+http://familytv.net:80/63982738884/8398289387/115761
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://familytv.net:80/63982738884/8398289387/58413
+#EXTINF:-1,DISCOVERY CHANNEL FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99068
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://familytv.net:80/63982738884/8398289387/40005
+#EXTINF:-1,DISCOVERY HOME & HEALTH FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99067
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://familytv.net:80/63982738884/8398289387/40007
+#EXTINF:-1,DISCOVERY KIDS HD
+http://familytv.net:80/63982738884/8398289387/40033
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://familytv.net:80/63982738884/8398289387/40009
+#EXTINF:-1,DISCOVERY THEATER HD
+http://familytv.net:80/63982738884/8398289387/40011
+#EXTINF:-1,DISCOVERY TURBO HD
+http://familytv.net:80/63982738884/8398289387/40013
+#EXTINF:-1,DISCOVERY WORLD FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99062
+#EXTINF:-1,DISCOVERY WORLD HD
+http://familytv.net:80/63982738884/8398289387/40015
+#EXTINF:-1,DISNEY CHANNEL HD
+http://familytv.net:80/63982738884/8398289387/40035
+#EXTINF:-1,DISNEY JUNIOR HD
+http://familytv.net:80/63982738884/8398289387/40037
+#EXTINF:-1,DISNEY XD HD
+http://familytv.net:80/63982738884/8398289387/57197
+#EXTINF:-1,DOG TV HD
+http://familytv.net:80/63982738884/8398289387/99040
+#EXTINF:-1,DW ESPANHOL
+http://familytv.net:80/63982738884/8398289387/127301
+#EXTINF:-1,ESPN Brasil HD
+http://familytv.net:80/63982738884/8398289387/129949
+#EXTINF:-1,ESPN BRASIL HD+
+http://familytv.net:80/63982738884/8398289387/129950
+#EXTINF:-1,ESPN FHD H264
+http://familytv.net:80/63982738884/8398289387/129951
+#EXTINF:-1,ESPN HD
+http://familytv.net:80/63982738884/8398289387/129952
+#EXTINF:-1,ESPN HD+
+http://familytv.net:80/63982738884/8398289387/129953
+#EXTINF:-1,ESPN 2 FHD H264
+http://familytv.net:80/63982738884/8398289387/129954
+#EXTINF:-1,ESPN 2 HD
+http://familytv.net:80/63982738884/8398289387/129955
+#EXTINF:-1,ESPN 2 HD+
+http://familytv.net:80/63982738884/8398289387/129956
+#EXTINF:-1,ESPN EXTRA FHD H264
+http://familytv.net:80/63982738884/8398289387/129957
+#EXTINF:-1,ESPN EXTRA HD
+http://familytv.net:80/63982738884/8398289387/129958
+#EXTINF:-1,ESPN EXTRA HD+
+http://familytv.net:80/63982738884/8398289387/129959
+#EXTINF:-1,E! HD
+http://familytv.net:80/63982738884/8398289387/40056
+#EXTINF:-1,EI PLUS HD
+http://familytv.net:80/63982738884/8398289387/124179
+#EXTINF:-1,ELEVEN SPORT 1 HD
+http://familytv.net:80/63982738884/8398289387/115762
+#EXTINF:-1,ELEVEN SPORTS 2
+http://familytv.net:80/63982738884/8398289387/115763
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://familytv.net:80/63982738884/8398289387/115764
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD¹
+http://familytv.net:80/63982738884/8398289387/115179
+#EXTINF:-1,ESTEREO CLASE HONDURAS
+http://familytv.net:80/63982738884/8398289387/76179
+#EXTINF:-1,EUROSPORT 01 HD
+http://familytv.net:80/63982738884/8398289387/115765
+#EXTINF:-1,EUROSPORT 02 HD
+http://familytv.net:80/63982738884/8398289387/115766
+#EXTINF:-1,FISH TV HD
+http://familytv.net:80/63982738884/8398289387/57150
+#EXTINF:-1,FLASHBACKS
+http://familytv.net:80/63982738884/8398289387/76180
+#EXTINF:-1,FM O DIA 100,5
+http://familytv.net:80/63982738884/8398289387/76181
+#EXTINF:-1,FOOD NETWORK HD
+http://familytv.net:80/63982738884/8398289387/40058
+#EXTINF:-1,STAR CHANNEL HD
+http://familytv.net:80/63982738884/8398289387/40084
+#EXTINF:-1,STAR CHANNEL HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99102
+#EXTINF:-1,STAR LIFE HD
+http://familytv.net:80/63982738884/8398289387/57219
+#EXTINF:-1,FOX NEWS HD
+http://familytv.net:80/63982738884/8398289387/127299
+#EXTINF:-1,STAR HITS HD
+http://familytv.net:80/63982738884/8398289387/40086
+#EXTINF:-1,STAR HITS HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99106
+#EXTINF:-1,STAR HITS 2 HD
+http://familytv.net:80/63982738884/8398289387/40088
+#EXTINF:-1,STAR HITS 2 HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99108
+#EXTINF:-1,FOX SPORTS 4K
+http://familytv.net:80/63982738884/8398289387/58416
+#EXTINF:-1,FOX SPORTS FULLHD H264
+http://familytv.net:80/63982738884/8398289387/129987
+#EXTINF:-1,FOX SPORTS HD
+http://familytv.net:80/63982738884/8398289387/129986
+#EXTINF:-1,FOX SPORTS HD*
+http://familytv.net:80/63982738884/8398289387/57151
+#EXTINF:-1,FOX SPORTS 2 4K
+http://familytv.net:80/63982738884/8398289387/58415
+#EXTINF:-1,FOX SPORTS 2 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99032
+#EXTINF:-1,FOX SPORTS 2 HD
+http://familytv.net:80/63982738884/8398289387/57152
+#EXTINF:-1,FURACAO TV
+http://familytv.net:80/63982738884/8398289387/124182
+#EXTINF:-1,FX HD
+http://familytv.net:80/63982738884/8398289387/40090
+#EXTINF:-1,GAZETA
+http://familytv.net:80/63982738884/8398289387/58398
+#EXTINF:-1,GAZETA ¹ SP
+http://familytv.net:80/63982738884/8398289387/39895
+#EXTINF:-1,GLOBINHO
+http://familytv.net:80/63982738884/8398289387/42746
+#EXTINF:-1,GLOBO
+http://familytv.net:80/63982738884/8398289387/58394
+#EXTINF:-1,GLOBO BRASILIA HD¹
+http://familytv.net:80/63982738884/8398289387/115168
+#EXTINF:-1,GLOBO BRASILIA HD²
+http://familytv.net:80/63982738884/8398289387/115304
+#EXTINF:-1,GLOBO SP HD¹
+http://familytv.net:80/63982738884/8398289387/115174
+#EXTINF:-1,GLOBO SP HD+
+http://familytv.net:80/63982738884/8398289387/115166
+#EXTINF:-1,GLOBO SP HD²
+http://familytv.net:80/63982738884/8398289387/115251
+#EXTINF:-1,GLOBO RJ HD¹
+http://familytv.net:80/63982738884/8398289387/115172
+#EXTINF:-1,GLOBO RJ HD
+http://familytv.net:80/63982738884/8398289387/115231
+#EXTINF:-1,GLOBO RJ HD+
+http://familytv.net:80/63982738884/8398289387/115165
+#EXTINF:-1,RBS HD¹
+http://familytv.net:80/63982738884/8398289387/115175
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://familytv.net:80/63982738884/8398289387/115213
+#EXTINF:-1,GLOBO RBS SANTA MARIA HD
+http://familytv.net:80/63982738884/8398289387/115216
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://familytv.net:80/63982738884/8398289387/115218
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD
+http://familytv.net:80/63982738884/8398289387/115341
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO
+http://familytv.net:80/63982738884/8398289387/124282
+#EXTINF:-1,GLOBO EPTV SUL MINAS HD
+http://familytv.net:80/63982738884/8398289387/115315
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS
+http://familytv.net:80/63982738884/8398289387/128314
+#EXTINF:-1,GLOBO NSC JOINVILLE HD
+http://familytv.net:80/63982738884/8398289387/115206
+#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
+http://familytv.net:80/63982738884/8398289387/115209
+#EXTINF:-1,GLOBO RPC CURITIBA HD²
+http://familytv.net:80/63982738884/8398289387/115237
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD
+http://familytv.net:80/63982738884/8398289387/115239
+#EXTINF:-1,GLOBO RPC PARANAENSE HD
+http://familytv.net:80/63982738884/8398289387/115241
+#EXTINF:-1,GLOBO CENTRO AMÉRICA HD²
+http://familytv.net:80/63982738884/8398289387/115309
+#EXTINF:-1,GLOBO GAZETA SUL ALEGRE ES HD
+http://familytv.net:80/63982738884/8398289387/115317
+#EXTINF:-1,GLOBO INTER TV CABUGI
+http://familytv.net:80/63982738884/8398289387/124577
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://familytv.net:80/63982738884/8398289387/128315
+#EXTINF:-1,GLOBO INTERNACIONAL HD¹
+http://familytv.net:80/63982738884/8398289387/115171
+#EXTINF:-1,GLOBO MANAUS HD¹
+http://familytv.net:80/63982738884/8398289387/115192
+#EXTINF:-1,GLOBO MINAS HD¹
+http://familytv.net:80/63982738884/8398289387/115193
+#EXTINF:-1,GLOBO NACIONAL HD
+http://familytv.net:80/63982738884/8398289387/115196
+#EXTINF:-1,GLOBO NEWS HD
+http://familytv.net:80/63982738884/8398289387/39941
+#EXTINF:-1,GLOBO NORDESTE HD
+http://familytv.net:80/63982738884/8398289387/115199
+#EXTINF:-1,GLOBO NORDESTE HD+
+http://familytv.net:80/63982738884/8398289387/115164
+#EXTINF:-1,GLOBO PARAIBA HD¹
+http://familytv.net:80/63982738884/8398289387/115187
+#EXTINF:-1,GLOBO SERGIPE HD
+http://familytv.net:80/63982738884/8398289387/115173
+#EXTINF:-1,GLOBO SÃO JOSÉ DO RIO PRETO
+http://familytv.net:80/63982738884/8398289387/124283
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://familytv.net:80/63982738884/8398289387/127099
+#EXTINF:-1,GLOBO BAHIA HD (SALVADOR)¹
+http://familytv.net:80/63982738884/8398289387/115183
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://familytv.net:80/63982738884/8398289387/115261
+#EXTINF:-1,GLOBO TV BAHIA HD+
+http://familytv.net:80/63982738884/8398289387/115167
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://familytv.net:80/63982738884/8398289387/115278
+#EXTINF:-1,GLOBO TV MIRANTE MARANHÃO HD
+http://familytv.net:80/63982738884/8398289387/115282
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://familytv.net:80/63982738884/8398289387/128316
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://familytv.net:80/63982738884/8398289387/125571
+#EXTINF:-1,GLOBO VITORIA ES¹
+http://familytv.net:80/63982738884/8398289387/115169
+#EXTINF:-1,GLOBO VITORIA HD ES¹
+http://familytv.net:80/63982738884/8398289387/115181
+#EXTINF:-1,GLOOB HD
+http://familytv.net:80/63982738884/8398289387/40039
+#EXTINF:-1,GNT HD
+http://familytv.net:80/63982738884/8398289387/40061
+#EXTINF:-1,GOLF CHANNEL HD
+http://familytv.net:80/63982738884/8398289387/99043
+#EXTINF:-1,HBO
+http://familytv.net:80/63982738884/8398289387/115163
+#EXTINF:-1,HBO FAMILY FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99055
+#EXTINF:-1,HBO FAMILY HD
+http://familytv.net:80/63982738884/8398289387/39966
+#EXTINF:-1,HBO FAMILY HD*
+http://familytv.net:80/63982738884/8398289387/57142
+#EXTINF:-1,HBO FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99052
+#EXTINF:-1,HBO HD
+http://familytv.net:80/63982738884/8398289387/39967
+#EXTINF:-1,HBO HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99090
+#EXTINF:-1,HBO 2 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99053
+#EXTINF:-1,HBO 2 HD
+http://familytv.net:80/63982738884/8398289387/39965
+#EXTINF:-1,HBO MUNDI FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99057
+#EXTINF:-1,HBO MUNDI HD
+http://familytv.net:80/63982738884/8398289387/39970
+#EXTINF:-1,HBO MUNDI HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99096
+#EXTINF:-1,HBO PLUS FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99054
+#EXTINF:-1,HBO PLUS HD
+http://familytv.net:80/63982738884/8398289387/39968
+#EXTINF:-1,HBO PLUS HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99092
+#EXTINF:-1,HBO POP FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99059
+#EXTINF:-1,HBO POP HD
+http://familytv.net:80/63982738884/8398289387/39972
+#EXTINF:-1,HBO POP HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99098
+#EXTINF:-1,HBO SIGNATURE FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99056
+#EXTINF:-1,HBO SIGNATURE HD
+http://familytv.net:80/63982738884/8398289387/39969
+#EXTINF:-1,HBO SIGNATURE HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99094
+#EXTINF:-1,HBO XTREAM HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99100
+#EXTINF:-1,HBO XTREAME FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99058
+#EXTINF:-1,HBO XTREAME HD
+http://familytv.net:80/63982738884/8398289387/39971
+#EXTINF:-1,HISTORY FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99041
+#EXTINF:-1,HISTORY HD
+http://familytv.net:80/63982738884/8398289387/40017
+#EXTINF:-1,H2 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99066
+#EXTINF:-1,H2 HD
+http://familytv.net:80/63982738884/8398289387/40019
+#EXTINF:-1,HGTV HD
+http://familytv.net:80/63982738884/8398289387/40021
+#EXTINF:-1,HIP HOP FM
+http://familytv.net:80/63982738884/8398289387/76182
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://familytv.net:80/63982738884/8398289387/40023
+#EXTINF:-1,JOVEM PAN LOVE
+http://familytv.net:80/63982738884/8398289387/76183
+#EXTINF:-1,JOVEM PAN POA 90.7MHz
+http://familytv.net:80/63982738884/8398289387/76184
+#EXTINF:-1,KOMBAT SPORT
+http://familytv.net:80/63982738884/8398289387/115767
+#EXTINF:-1,LIFETIME HD
+http://familytv.net:80/63982738884/8398289387/40063
+#EXTINF:-1,LOADING TV
+http://familytv.net:80/63982738884/8398289387/109710
+#EXTINF:-1,LOVE NATURE
+http://familytv.net:80/63982738884/8398289387/40001
+#EXTINF:-1,MAIS GLOBOSAT
+http://familytv.net:80/63982738884/8398289387/100770
+#EXTINF:-1,MARIA ROSA 104.9 FM
+http://familytv.net:80/63982738884/8398289387/76185
+#EXTINF:-1,MEGAPIX 4K
+http://familytv.net:80/63982738884/8398289387/58403
+#EXTINF:-1,MEGAPIX HD
+http://familytv.net:80/63982738884/8398289387/40092
+#EXTINF:-1,MEIO NORTE FM
+http://familytv.net:80/63982738884/8398289387/76186
+#EXTINF:-1,MIX FM 106,3MHz
+http://familytv.net:80/63982738884/8398289387/76187
+#EXTINF:-1,MIX FM 2
+http://familytv.net:80/63982738884/8398289387/76188
+#EXTINF:-1,MLB NETWORK
+http://familytv.net:80/63982738884/8398289387/115769
+#EXTINF:-1,MOVISTAR GOLF - ESPANHA
+http://familytv.net:80/63982738884/8398289387/115770
+#EXTINF:-1,MTV HD
+http://familytv.net:80/63982738884/8398289387/40067
+#EXTINF:-1,MULTISHOW 4K
+http://familytv.net:80/63982738884/8398289387/58404
+#EXTINF:-1,MULTSHOW HD
+http://familytv.net:80/63982738884/8398289387/100771
+#EXTINF:-1,NATGEO FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99065
+#EXTINF:-1,NATGEO HD
+http://familytv.net:80/63982738884/8398289387/40025
+#EXTINF:-1,NATGEO KIDS HD
+http://familytv.net:80/63982738884/8398289387/40041
+#EXTINF:-1,NATGEO WILD FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99063
+#EXTINF:-1,NATGEO WILD HD
+http://familytv.net:80/63982738884/8398289387/40027
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K
+http://familytv.net:80/63982738884/8398289387/58405
+#EXTINF:-1,NBA TV HD
+http://familytv.net:80/63982738884/8398289387/115771
+#EXTINF:-1,NHK JAPÃO  HD
+http://familytv.net:80/63982738884/8398289387/99367
+#EXTINF:-1,NICK JR HD
+http://familytv.net:80/63982738884/8398289387/40045
+#EXTINF:-1,NICKELODEON HD
+http://familytv.net:80/63982738884/8398289387/40043
+#EXTINF:-1,Nova Rádio Cidade 105.9 FM Itapetininga / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41515
+#EXTINF:-1,NOVO TEMPO
+http://familytv.net:80/63982738884/8398289387/39863
+#EXTINF:-1,NSCTV FLORIANOPOLIS HD¹
+http://familytv.net:80/63982738884/8398289387/115194
+#EXTINF:-1,OFF HD
+http://familytv.net:80/63982738884/8398289387/40131
+#EXTINF:-1,OFF HD*
+http://familytv.net:80/63982738884/8398289387/57159
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://familytv.net:80/63982738884/8398289387/57188
+#EXTINF:-1,POLISHOP TV
+http://familytv.net:80/63982738884/8398289387/120443
+#EXTINF:-1,PREMIER CLUBE FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99034
+#EXTINF:-1,PREMIERE CLUBES HD
+http://familytv.net:80/63982738884/8398289387/40153
+#EXTINF:-1,PREMIERE 1 CLUBES HD²
+http://familytv.net:80/63982738884/8398289387/95614
+#EXTINF:-1,PREMIERE CLUBES
+http://familytv.net:80/63982738884/8398289387/58396
+#EXTINF:-1,PREMIERE 2 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99075
+#EXTINF:-1,PREMIERE 2 HD
+http://familytv.net:80/63982738884/8398289387/40147
+#EXTINF:-1,PREMIERE 2 HD²
+http://familytv.net:80/63982738884/8398289387/95618
+#EXTINF:-1,PREMIERE 2 UHD
+http://familytv.net:80/63982738884/8398289387/95617
+#EXTINF:-1,PREMIERE 3 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99074
+#EXTINF:-1,PREMIERE 3 HD
+http://familytv.net:80/63982738884/8398289387/40148
+#EXTINF:-1,PREMIERE 3 HD²
+http://familytv.net:80/63982738884/8398289387/95622
+#EXTINF:-1,PREMIERE 3 UHD
+http://familytv.net:80/63982738884/8398289387/95621
+#EXTINF:-1,PREMIERE 4 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99073
+#EXTINF:-1,PREMIERE 4 HD
+http://familytv.net:80/63982738884/8398289387/40149
+#EXTINF:-1,PREMIERE 4 HD²
+http://familytv.net:80/63982738884/8398289387/95626
+#EXTINF:-1,PREMIERE 5 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99072
+#EXTINF:-1,PREMIERE 5 HD
+http://familytv.net:80/63982738884/8398289387/40150
+#EXTINF:-1,PREMIERE 5 HD²
+http://familytv.net:80/63982738884/8398289387/95630
+#EXTINF:-1,PREMIERE 6 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99071
+#EXTINF:-1,PREMIERE 6 HD
+http://familytv.net:80/63982738884/8398289387/40151
+#EXTINF:-1,PREMIERE 7 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99070
+#EXTINF:-1,PREMIERE 7 HD
+http://familytv.net:80/63982738884/8398289387/40152
+#EXTINF:-1,PREMIERE 7 HD²
+http://familytv.net:80/63982738884/8398289387/95635
+#EXTINF:-1,PREMIERE 8 SD²
+http://familytv.net:80/63982738884/8398289387/95636
+#EXTINF:-1,RADIO ENERGIA 97 FM
+http://familytv.net:80/63982738884/8398289387/76189
+#EXTINF:-1,RADIO INDIE POP
+http://familytv.net:80/63982738884/8398289387/76190
+#EXTINF:-1,Radio Melodia Sertaneja Itapetininga / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41519
+#EXTINF:-1,RAI INTERNACIONAL HD
+http://familytv.net:80/63982738884/8398289387/127302
+#EXTINF:-1,RAI NEWS 24
+http://familytv.net:80/63982738884/8398289387/127300
+#EXTINF:-1,REAL MADRI TV
+http://familytv.net:80/63982738884/8398289387/115772
+#EXTINF:-1,REAL MADRI TV²
+http://familytv.net:80/63982738884/8398289387/115773
+#EXTINF:-1,RECORD BRASILIA HD¹
+http://familytv.net:80/63982738884/8398289387/124402
+#EXTINF:-1,RECORD BRASILIA HD¹
+http://familytv.net:80/63982738884/8398289387/100136
+#EXTINF:-1,RECORD RJ HD¹
+http://familytv.net:80/63982738884/8398289387/100143
+#EXTINF:-1,RECORDTV RJ HD³
+http://familytv.net:80/63982738884/8398289387/100145
+#EXTINF:-1,RECORD SP HD
+http://familytv.net:80/63982738884/8398289387/100138
+#EXTINF:-1,RECORD RS HD
+http://familytv.net:80/63982738884/8398289387/100141
+#EXTINF:-1,RECORD RS HD²
+http://familytv.net:80/63982738884/8398289387/100142
+#EXTINF:-1,RECORD BAHIA¹
+http://familytv.net:80/63982738884/8398289387/100156
+#EXTINF:-1,RECORD BELEM HD¹
+http://familytv.net:80/63982738884/8398289387/100148
+#EXTINF:-1,RECORD BH MINAS HD¹
+http://familytv.net:80/63982738884/8398289387/100152
+#EXTINF:-1,RECORD ITAPOAN - BAHIA¹
+http://familytv.net:80/63982738884/8398289387/124408
+#EXTINF:-1,RECORD MANAUS HD¹
+http://familytv.net:80/63982738884/8398289387/100155
+#EXTINF:-1,RECORD MINAS HD
+http://familytv.net:80/63982738884/8398289387/125765
+#EXTINF:-1,RECORD MINAS HD¹
+http://familytv.net:80/63982738884/8398289387/100150
+#EXTINF:-1,RECORD NEWS HD
+http://familytv.net:80/63982738884/8398289387/39936
+#EXTINF:-1,RECORD PARANA HD¹
+http://familytv.net:80/63982738884/8398289387/100154
+#EXTINF:-1,RECORD SANTA CATARINA HD¹
+http://familytv.net:80/63982738884/8398289387/100158
+#EXTINF:-1,RECORD SAO JOSE RIO PRETO HD¹
+http://familytv.net:80/63982738884/8398289387/124403
+#EXTINF:-1,RECORD SERGIPE - TV ATALAIA HD¹
+http://familytv.net:80/63982738884/8398289387/124404
+#EXTINF:-1,RECORD TV GOIANIA HD¹
+http://familytv.net:80/63982738884/8398289387/124401
+#EXTINF:-1,RECORD TV LITORAL HD SANTOS¹
+http://familytv.net:80/63982738884/8398289387/124405
+#EXTINF:-1,RECORDTV
+http://familytv.net:80/63982738884/8398289387/58397
+#EXTINF:-1,RED BULL TV
+http://familytv.net:80/63982738884/8398289387/115774
+#EXTINF:-1,REDE GOSPEL FULLHD
+http://familytv.net:80/63982738884/8398289387/39869
+#EXTINF:-1,REDE SUPER
+http://familytv.net:80/63982738884/8398289387/39868
+#EXTINF:-1,REDE TV 4K
+http://familytv.net:80/63982738884/8398289387/58406
+#EXTINF:-1,REDE TV HD
+http://familytv.net:80/63982738884/8398289387/39920
+#EXTINF:-1,REDE VIDA 
+http://familytv.net:80/63982738884/8398289387/39866
+#EXTINF:-1,RIT
+http://familytv.net:80/63982738884/8398289387/95052
+#EXTINF:-1,ROCK 'N ROLL
+http://familytv.net:80/63982738884/8398289387/76191
+#EXTINF:-1,Rádio Alto Uruguai 970 AM Três Passos / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41533
+#EXTINF:-1,Rádio Antena 1 103.7 FM Rio De Janeiro / RJ - Brasil
+http://familytv.net:80/63982738884/8398289387/41522
+#EXTINF:-1,Rádio Ativa 104.5 FM Itaqui / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41531
+#EXTINF:-1,Rádio Ativa de Itapetininga Itapetininga / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41518
+#EXTINF:-1,Rádio Bagual Blumenau / SC - Brasil
+http://familytv.net:80/63982738884/8398289387/41538
+#EXTINF:-1,Rádio Blau Nunes 97.9 FM Santa Barbara Do Sul / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41528
+#EXTINF:-1,Rádio Casa dos Caipiras Pardinho / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41525
+#EXTINF:-1,Rádio Central 87.9 FM Santiago / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41532
+#EXTINF:-1,Rádio Cidade Jaú 87.9 FM Jau / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41539
+#EXTINF:-1,Rádio Clube 89.9 FM Itapetininga / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41516
+#EXTINF:-1,Rádio Extreme - Brasil Jau / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41540
+#EXTINF:-1,Rádio Fandango Clássica 89.5 FM Cachoeira Do Sul / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41537
+#EXTINF:-1,Rádio Grenal 1020 AM 95.9 FM Porto Alegre / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41526
+#EXTINF:-1,Rádio Liberdade 970 AM Porto Alegre / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41530
+#EXTINF:-1,Rádio Liberdade 99.7 FM Capivari Do Sul / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41529
+#EXTINF:-1,Rádio Minuano 1410 AM Rio Grande / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41527
+#EXTINF:-1,Rádio Ouro Verde 105.5 FM Curitiba / PR - Brasil
+http://familytv.net:80/63982738884/8398289387/41542
+#EXTINF:-1,Rádio Panter FM Itapetininga / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41520
+#EXTINF:-1,Rádio Studio Souto - Axé
+http://familytv.net:80/63982738884/8398289387/41481
+#EXTINF:-1,Rádio Studio Souto - Boleros em Seresta
+http://familytv.net:80/63982738884/8398289387/41482
+#EXTINF:-1,Rádio Studio Souto - Brega Hits
+http://familytv.net:80/63982738884/8398289387/41483
+#EXTINF:-1,Rádio Studio Souto - Clube da Criança
+http://familytv.net:80/63982738884/8398289387/41484
+#EXTINF:-1,Rádio Studio Souto - Country
+http://familytv.net:80/63982738884/8398289387/41485
+#EXTINF:-1,Rádio Studio Souto - Discoteca 70s
+http://familytv.net:80/63982738884/8398289387/41486
+#EXTINF:-1,Rádio Studio Souto - Dubstep
+http://familytv.net:80/63982738884/8398289387/41487
+#EXTINF:-1,Rádio Studio Souto - Eurodance 90s
+http://familytv.net:80/63982738884/8398289387/41489
+#EXTINF:-1,Rádio Studio Souto - Forró
+http://familytv.net:80/63982738884/8398289387/41490
+#EXTINF:-1,Rádio Studio Souto - Gospel
+http://familytv.net:80/63982738884/8398289387/41491
+#EXTINF:-1,Rádio Studio Souto - Hip Hop
+http://familytv.net:80/63982738884/8398289387/41492
+#EXTINF:-1,Rádio Studio Souto - Historinha Infantil
+http://familytv.net:80/63982738884/8398289387/41493
+#EXTINF:-1,Rádio Studio Souto - Jovem Guarda
+http://familytv.net:80/63982738884/8398289387/41494
+#EXTINF:-1,Rádio Studio Souto - Love Songs
+http://familytv.net:80/63982738884/8398289387/41495
+#EXTINF:-1,Rádio Studio Souto - Megamix 80s
+http://familytv.net:80/63982738884/8398289387/41496
+#EXTINF:-1,Rádio Studio Souto - MPB Musicalidade
+http://familytv.net:80/63982738884/8398289387/41497
+#EXTINF:-1,Rádio Studio Souto - New Age
+http://familytv.net:80/63982738884/8398289387/41498
+#EXTINF:-1,Rádio Studio Souto - Pagode
+http://familytv.net:80/63982738884/8398289387/41499
+#EXTINF:-1,Rádio Studio Souto - Rap Nacional
+http://familytv.net:80/63982738884/8398289387/41500
+#EXTINF:-1,Rádio Studio Souto - Reggae
+http://familytv.net:80/63982738884/8398289387/41501
+#EXTINF:-1,Rádio Studio Souto - Rodeio
+http://familytv.net:80/63982738884/8398289387/41504
+#EXTINF:-1,Rádio Studio Souto - Saudade
+http://familytv.net:80/63982738884/8398289387/41505
+#EXTINF:-1,Rádio Studio Souto - Sertanejo Raizes
+http://familytv.net:80/63982738884/8398289387/41507
+#EXTINF:-1,Rádio Studio Souto - Sertanejo Universitário
+http://familytv.net:80/63982738884/8398289387/41508
+#EXTINF:-1,Rádio Studio Souto - Smooth Jazz
+http://familytv.net:80/63982738884/8398289387/41509
+#EXTINF:-1,Rádio Studio Souto - Studio do Amor
+http://familytv.net:80/63982738884/8398289387/41510
+#EXTINF:-1,Rádio Studio Souto - Techno
+http://familytv.net:80/63982738884/8398289387/41511
+#EXTINF:-1,Rádio Studio Souto - Tecnobrega
+http://familytv.net:80/63982738884/8398289387/41512
+#EXTINF:-1,Rádio Studio Souto - Top 40
+http://familytv.net:80/63982738884/8398289387/41513
+#EXTINF:-1,Rádio Studio Souto - Versão Brasileira
+http://familytv.net:80/63982738884/8398289387/41514
+#EXTINF:-1,Rádio T 99.9 FM Ponta Grossa / PR - Brasil
+http://familytv.net:80/63982738884/8398289387/41543
+#EXTINF:-1,Rádio Web Campeira FM Caxias Do Sul / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41535
+#EXTINF:-1,SERTANEJO 2
+http://familytv.net:80/63982738884/8398289387/76192
+#EXTINF:-1,SERTANEJO HITS
+http://familytv.net:80/63982738884/8398289387/76193
+#EXTINF:-1,SHOPTIME HD
+http://familytv.net:80/63982738884/8398289387/120442
+#EXTINF:-1,SMITHSONIAN HD
+http://familytv.net:80/63982738884/8398289387/40028
+#EXTINF:-1,SPACE 4K
+http://familytv.net:80/63982738884/8398289387/58408
+#EXTINF:-1,SPACE HD
+http://familytv.net:80/63982738884/8398289387/40096
+#EXTINF:-1,SPACE HD*
+http://familytv.net:80/63982738884/8398289387/57189
+#EXTINF:-1,SPORT TV + HD
+http://familytv.net:80/63982738884/8398289387/115775
+#EXTINF:-1,SPORT TV 1 HD
+http://familytv.net:80/63982738884/8398289387/115776
+#EXTINF:-1,SPORT TV 2 HD
+http://familytv.net:80/63982738884/8398289387/115777
+#EXTINF:-1,SPORT TV 3 HD
+http://familytv.net:80/63982738884/8398289387/115778
+#EXTINF:-1,SPORT TV 4 HD
+http://familytv.net:80/63982738884/8398289387/115779
+#EXTINF:-1,SPORT TV 5 HD
+http://familytv.net:80/63982738884/8398289387/115780
+#EXTINF:-1,SPORT TV NBA HD
+http://familytv.net:80/63982738884/8398289387/115781
+#EXTINF:-1,SPORTV FULLHD H264
+http://familytv.net:80/63982738884/8398289387/100785
+#EXTINF:-1,SPORTV HD
+http://familytv.net:80/63982738884/8398289387/40137
+#EXTINF:-1,SPORTV HD*
+http://familytv.net:80/63982738884/8398289387/57156
+#EXTINF:-1,SPORTV 2 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/100786
+#EXTINF:-1,SPORTV 2 HD
+http://familytv.net:80/63982738884/8398289387/40135
+#EXTINF:-1,SPORTV 2 HD*
+http://familytv.net:80/63982738884/8398289387/57157
+#EXTINF:-1,SPORTV 3 FULLHD H264
+http://familytv.net:80/63982738884/8398289387/100787
+#EXTINF:-1,SPORTV 3 HD
+http://familytv.net:80/63982738884/8398289387/40136
+#EXTINF:-1,SPORTV 3 HD*
+http://familytv.net:80/63982738884/8398289387/57158
+#EXTINF:-1,SPORTV 4K
+http://familytv.net:80/63982738884/8398289387/58409
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://familytv.net:80/63982738884/8398289387/40098
+#EXTINF:-1,SYFY HD
+http://familytv.net:80/63982738884/8398289387/40100
+#EXTINF:-1,TBS HD
+http://familytv.net:80/63982738884/8398289387/40102
+#EXTINF:-1,TCM HD
+http://familytv.net:80/63982738884/8398289387/57185
+#EXTINF:-1,TELECINE ACTION FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99047
+#EXTINF:-1,TELECINE ACTION HD
+http://familytv.net:80/63982738884/8398289387/39951
+#EXTINF:-1,TELECINE ACTION HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99082
+#EXTINF:-1,TELECINE FUN FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99050
+#EXTINF:-1,TELECINE FUN HD
+http://familytv.net:80/63982738884/8398289387/39953
+#EXTINF:-1,TELECINE FUN HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99086
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://familytv.net:80/63982738884/8398289387/115162
+#EXTINF:-1,TELECINE PIPOCA FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99049
+#EXTINF:-1,TELECINE PIPOCA HD
+http://familytv.net:80/63982738884/8398289387/39954
+#EXTINF:-1,TELECINE PIPOCA HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99078
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://familytv.net:80/63982738884/8398289387/58410
+#EXTINF:-1,TELECINE PREMIUM FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99046
+#EXTINF:-1,TELECINE PREMIUM HD
+http://familytv.net:80/63982738884/8398289387/39955
+#EXTINF:-1,TELECINE PREMIUM HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99080
+#EXTINF:-1,TELECINE TOUCH FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99048
+#EXTINF:-1,TELECINE TOUCH HD
+http://familytv.net:80/63982738884/8398289387/39956
+#EXTINF:-1,TELECINE TOUCH HD (LEGENDADO)
+http://familytv.net:80/63982738884/8398289387/99084
+#EXTINF:-1,TELECINE CULT FULLHD H264
+http://familytv.net:80/63982738884/8398289387/99051
+#EXTINF:-1,TELECINE CULT HD
+http://familytv.net:80/63982738884/8398289387/39952
+#EXTINF:-1,TELECINE CULT HD
+http://familytv.net:80/63982738884/8398289387/99088
+#EXTINF:-1,TERRA VIVA
+http://familytv.net:80/63982738884/8398289387/111094
+#EXTINF:-1,TLC HD
+http://familytv.net:80/63982738884/8398289387/57186
+#EXTINF:-1,TNT 4K
+http://familytv.net:80/63982738884/8398289387/58411
+#EXTINF:-1,TNT FULLHD H264
+http://familytv.net:80/63982738884/8398289387/129977
+#EXTINF:-1,TNT HD
+http://familytv.net:80/63982738884/8398289387/129985
+#EXTINF:-1,TNT SERIES 4K
+http://familytv.net:80/63982738884/8398289387/58412
+#EXTINF:-1,TNT SERIES HD
+http://familytv.net:80/63982738884/8398289387/40108
+#EXTINF:-1,TOONCAST HD
+http://familytv.net:80/63982738884/8398289387/57196
+#EXTINF:-1,TOROS TV
+http://familytv.net:80/63982738884/8398289387/115782
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://familytv.net:80/63982738884/8398289387/58503
+#EXTINF:-1,TRUTV
+http://familytv.net:80/63982738884/8398289387/99109
+#EXTINF:-1,TV CLUBE HD ( GLOBO PIAUI)¹
+http://familytv.net:80/63982738884/8398289387/115185
+#EXTINF:-1,TV CULTURA HD
+http://familytv.net:80/63982738884/8398289387/40750
+#EXTINF:-1,TV DIARIO HD
+http://familytv.net:80/63982738884/8398289387/93739
+#EXTINF:-1,TV EVAGILIZAR ES 
+http://familytv.net:80/63982738884/8398289387/39906
+#EXTINF:-1,TV GERMANA
+http://familytv.net:80/63982738884/8398289387/120740
+#EXTINF:-1,TV MIRANTE HD ( GLOBO MARANHAO)¹
+http://familytv.net:80/63982738884/8398289387/115190
+#EXTINF:-1,TV MONTANHA BRANCA
+http://familytv.net:80/63982738884/8398289387/127101
+#EXTINF:-1,TV MORENA PONTA PORA HD
+http://familytv.net:80/63982738884/8398289387/125689
+#EXTINF:-1,TV PAI ETERNO
+http://familytv.net:80/63982738884/8398289387/39865
+#EXTINF:-1,TV PARANAÍBA HD RECORD -UBERLANDIA-MG¹
+http://familytv.net:80/63982738884/8398289387/124406
+#EXTINF:-1,TV RA TIM BUM HD
+http://familytv.net:80/63982738884/8398289387/40046
+#EXTINF:-1,TV VANGUARDA HD (SAO JOSE DOS CAMPOS)
+http://familytv.net:80/63982738884/8398289387/124459
+#EXTINF:-1,TV VERDES MARES HD (GLOBO-FORTALEZA CE)¹
+http://familytv.net:80/63982738884/8398289387/115186
+#EXTINF:-1,TVB RECORD CAMPINAS HD¹
+http://familytv.net:80/63982738884/8398289387/124407
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://familytv.net:80/63982738884/8398289387/107276
+#EXTINF:-1,UNIVERSAL TV HD
+http://familytv.net:80/63982738884/8398289387/40110
+#EXTINF:-1,VH1 HD
+http://familytv.net:80/63982738884/8398289387/40071
+#EXTINF:-1,VIVA HD
+http://familytv.net:80/63982738884/8398289387/40072
+#EXTINF:-1,WARNER CHANNEL HD
+http://familytv.net:80/63982738884/8398289387/40112
+#EXTINF:-1,Webrádio Rotina Jau / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41541
+#EXTINF:-1,WOOHOO HD
+http://familytv.net:80/63982738884/8398289387/57160
+#EXTINF:-1,ZOOMOO HD
+http://familytv.net:80/63982738884/8398289387/57208
+#EXTINF:-1, Rádio Antena 1 94.7 FM São Paulo / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41521
+#EXTINF:-1, Rádio Cultura Caipira Caxias Do Sul / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41524
+#EXTINF:-1, Rádio Studio Souto - Electro House
+http://familytv.net:80/63982738884/8398289387/41488
+#EXTINF:-1, Rádio Studio Souto - Roberto Carlos
+http://familytv.net:80/63982738884/8398289387/41502
+#EXTINF:-1, Rádio Studio Souto - Rock Clássico
+http://familytv.net:80/63982738884/8398289387/41503
+#EXTINF:-1, Rádio Super Difusora 94.5 FM Itapetininga / SP - Brasil
+http://familytv.net:80/63982738884/8398289387/41517
+#EXTINF:-1, Rádio Top Campeira Santa Cruz Do Sul / RS - Brasil
+http://familytv.net:80/63982738884/8398289387/41534
+#EXTINF:-1,A BOLA TV HD
+http://familytv.net:80/63982738884/8398289387/115742
+#EXTINF:-1,ABU DHABI SPORTS 1 FHD
+http://familytv.net:80/63982738884/8398289387/115743
+#EXTINF:-1,ABU DHABI SPORTS 2 FHD
+http://familytv.net:80/63982738884/8398289387/115744
+#EXTINF:-1,ABU DHABI SPORTS 3 FHD
+http://familytv.net:80/63982738884/8398289387/115745
+#EXTINF:-1,ABU DHABI SPORTS 4 FHD
+http://familytv.net:80/63982738884/8398289387/115746
+#EXTINF:-1,AL KASS SPORTS 1 HD
+http://familytv.net:80/63982738884/8398289387/115748
+#EXTINF:-1,AL KASS SPORTS 2 HD
+http://familytv.net:80/63982738884/8398289387/115749
+#EXTINF:-1,AL KASS SPORTS 3 HD
+http://familytv.net:80/63982738884/8398289387/115750
+#EXTINF:-1,AL KASS SPORTS 4 HD
+http://familytv.net:80/63982738884/8398289387/115751
+#EXTINF:-1,AL KASS SPORTS 5 HD
+http://familytv.net:80/63982738884/8398289387/115752
+#EXTINF:-1,GLOBO INTERTV ALTO LITORAL HD²
+http://familytv.net:80/63982738884/8398289387/128751
+#EXTINF:-1,GLOBO INTERTV SERRA MAR HD²
+http://familytv.net:80/63982738884/8398289387/128752
+#EXTINF:-1,TV GOSPEL CEARÁ
+http://familytv.net:80/63982738884/8398289387/128756
+#EXTINF:-1,TV SERTÃO
+http://familytv.net:80/63982738884/8398289387/128757
+#EXTINF:-1,HBO XTREME 4K
+http://familytv.net:80/63982738884/8398289387/129595
+#EXTINF:-1,CONMEBOL TV HD (JOGO 1)
+http://familytv.net:80/63982738884/8398289387/131549
+#EXTINF:-1,CONMEBOL TV HD (JOGO 2)
+http://familytv.net:80/63982738884/8398289387/131550
+#EXTINF:-1,CONMEBOL TV HD (JOGO 3)
+http://familytv.net:80/63982738884/8398289387/131551
+#EXTINF:-1,TV JUSTIÇA
+http://familytv.net:80/63982738884/8398289387/131568
+#EXTINF:-1,REDE AMAZÔNICA PORTO VELHO HD
+http://familytv.net:80/63982738884/8398289387/131569
+#EXTINF:-1,GLOBO INTER TV DOS VALES
+http://familytv.net:80/63982738884/8398289387/131738
+#EXTINF:-1,TV CULTURA
+http://familytv.net:80/63982738884/8398289387/98296
+#EXTINF:-1,COPA DO NORDESTE 1 H265²
+http://familytv.net:80/63982738884/8398289387/132100
+#EXTINF:-1,COPA DO NORDESTE 1 HD²
+http://familytv.net:80/63982738884/8398289387/132101
+#EXTINF:-1,COPA DO NORDESTE 1 SD²
+http://familytv.net:80/63982738884/8398289387/132102
+#EXTINF:-1,COPA DO NORDESTE 2 H265²
+http://familytv.net:80/63982738884/8398289387/132103
+#EXTINF:-1,COPA DO NORDESTE 2 HD²
+http://familytv.net:80/63982738884/8398289387/132104
+#EXTINF:-1,COPA DO NORDESTE 2 SD²
+http://familytv.net:80/63982738884/8398289387/132105
+#EXTINF:-1,CAMPEONATO CARIOCA 1 H265²
+http://familytv.net:80/63982738884/8398289387/132106
+#EXTINF:-1,CAMPEONATO CARIOCA 1 HD²
+http://familytv.net:80/63982738884/8398289387/132107
+#EXTINF:-1,CAMPEONATO CARIOCA 1 SD²
+http://familytv.net:80/63982738884/8398289387/132108
+#EXTINF:-1,CAMPEONATO CARIOCA 2 H265²
+http://familytv.net:80/63982738884/8398289387/132109
+#EXTINF:-1,CAMPEONATO CARIOCA 2 HD²
+http://familytv.net:80/63982738884/8398289387/132110
+#EXTINF:-1,CAMPEONATO CARIOCA 2 SD²
+http://familytv.net:80/63982738884/8398289387/132111
+#EXTINF:-1,COPA DO NORDESTE HD 1*
+http://familytv.net:80/63982738884/8398289387/132112
+#EXTINF:-1,COPA DO NORDESTE HD 2*
+http://familytv.net:80/63982738884/8398289387/132113
+#EXTINF:-1,CAMPEONATO CATARINENSE HD*
+http://familytv.net:80/63982738884/8398289387/132114
+#EXTINF:-1,CAMPEONATO CARIOCA HD 1
+http://familytv.net:80/63982738884/8398289387/132115
+#EXTINF:-1,IPRB SAO CAETANO
+http://familytv.net:80/63982738884/8398289387/132116
+#EXTINF:-1,CONMEBOL TV 1 H265²
+http://familytv.net:80/63982738884/8398289387/132117
+#EXTINF:-1,CONMEBOL TV 1 HD²
+http://familytv.net:80/63982738884/8398289387/132118
+#EXTINF:-1,CONMEBOL TV 1 SD²
+http://familytv.net:80/63982738884/8398289387/132119
+#EXTINF:-1,CONMEBOL TV 2 H265²
+http://familytv.net:80/63982738884/8398289387/132120
+#EXTINF:-1,CONMEBOL TV 2 HD²
+http://familytv.net:80/63982738884/8398289387/132121
+#EXTINF:-1,CONMEBOL TV 2 SD²
+http://familytv.net:80/63982738884/8398289387/132122
+#EXTINF:-1,CONMEBOL TV 3 H265²
+http://familytv.net:80/63982738884/8398289387/132123
+#EXTINF:-1,CONMEBOL TV 3 HD²
+http://familytv.net:80/63982738884/8398289387/132124
+#EXTINF:-1,CONMEBOL TV 3 SD²
+http://familytv.net:80/63982738884/8398289387/132125
