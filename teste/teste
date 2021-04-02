@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====Brasil=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",A&E FULLHD
 #EXTINF:-1 tvg-id="0" tvg-name="TNT SPORTS 1" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 1
 http://familytv.net:80/live/63982738884/8398289387/125448.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="TNT SPORTS 2" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 2
