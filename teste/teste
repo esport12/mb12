@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1 tvg-id="583829e914e518e71ff7d2ffc546e3e6" tvg-name="PT: GLOBO" tvg-logo="https://www.micastv.pt/picons/images/pt/GLOBO.png" group-title="PT - HQ",PT: GLOBO
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/325.m3u8
-#EXTINF:-1 tvg-id="a0bs" tvg-name="PT: GLOBO NOW" tvg-logo="https://www.micastv.pt/picons/images/pt/GLOBO_NOW.png" group-title="PT - HQ",PT: GLOBO NOW
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/324.m3u8
 #EXTINF:-1 tvg-id="cd4b1b4e160794b64917032467100b20" tvg-name="PT: SPORT TV + HD" tvg-logo="https://www.micastv.pt/picons/images/pt/SPORT_TV_+_HD.png" group-title="PT - HQ",PT: SPORT TV + HD
 http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/263.m3u8
 #EXTINF:-1 tvg-id="59de279db1bac7d2c3f7480bff3eeb41" tvg-name="PT: SPORT TV 1 FULL HD" tvg-logo="http://ozi.pt:8080/images/xijuPQxlXFpIYZCHXsDtfMIwkwx9YrlC.png" group-title="PT - HQ",PT: SPORT TV 1 FULL HD
