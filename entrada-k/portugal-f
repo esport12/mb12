@@ -1,399 +1,81 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD" tvg-logo="" group-title="PORTUGAL",PT: RTP 1 HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58678.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: RTP 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 FHD" tvg-logo="" group-title="PORTUGAL",PT: RTP 3 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORES FHD" tvg-logo="" group-title="PORTUGAL",PT: RTP ACORES FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA FHD" tvg-logo="" group-title="PORTUGAL",PT: RTP AFRICA FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58682.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memoria FHD" tvg-logo="" group-title="PORTUGAL",PT: RTP Memoria FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: S+ HD" tvg-logo="" group-title="PORTUGAL",PT: S+ HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS FHD" tvg-logo="" group-title="PORTUGAL",PT: SIC CARAS FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="" group-title="PORTUGAL",PT: SIC FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K HD" tvg-logo="" group-title="PORTUGAL",PT: SIC K HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC KIDS FHD" tvg-logo="" group-title="PORTUGAL",PT: SIC KIDS FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58688.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher FHD" tvg-logo="" group-title="PORTUGAL",PT: SIC Mulher FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="" group-title="PORTUGAL",PT: SIC NOTICIAS FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="" group-title="PORTUGAL",PT: SIC RADICAL FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sky News" tvg-logo="" group-title="PORTUGAL",PT: Sky News
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV + FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58693.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV + HD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV + HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 2 FHD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 3 FHD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 3 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4 FHD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 4 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5 HD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 5 HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV NBA FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting HD" tvg-logo="" group-title="PORTUGAL",PT: Sporting HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="" group-title="PORTUGAL",PT: SYFY FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TCV" tvg-logo="" group-title="PORTUGAL",PT: TCV
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TIJI HD" tvg-logo="" group-title="PORTUGAL",PT: TIJI HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TLC FHD" tvg-logo="" group-title="PORTUGAL",PT: TLC FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="" group-title="PORTUGAL",PT: TOROS TV FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",PT: TPA INTERNACIONAL
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN" tvg-logo="" group-title="PORTUGAL",PT: TRACE URBAN
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Travel Channel FHD" tvg-logo="" group-title="PORTUGAL",PT: Travel Channel FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT Travel Channel FHD" tvg-logo="" group-title="PORTUGAL",PT Travel Channel FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV BNO" tvg-logo="" group-title="PORTUGAL",PT: TV BNO
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cancao Nova" tvg-logo="" group-title="PORTUGAL",PT: TV Cancao Nova
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Globo HD" tvg-logo="" group-title="PORTUGAL",PT: TV Globo HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Man" tvg-logo="" group-title="PORTUGAL",PT: TV Man
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV PAI ETERNO" tvg-logo="" group-title="PORTUGAL",PT: TV PAI ETERNO
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Record FHD" tvg-logo="" group-title="PORTUGAL",PT: TV Record FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58721.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV5 MONDE EUROPE" tvg-logo="" group-title="PORTUGAL",PT: TV5 MONDE EUROPE
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVC News" tvg-logo="" group-title="PORTUGAL",PT: TVC News
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58723.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action FHD" tvg-logo="" group-title="PORTUGAL",PT: TVCine Action FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58724.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition FHD" tvg-logo="" group-title="PORTUGAL",PT: TVCine Edition FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion FHD" tvg-logo="" group-title="PORTUGAL",PT: TVCine Emotion FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top FHD" tvg-logo="" group-title="PORTUGAL",PT: TVCine Top FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVE 24H" tvg-logo="" group-title="PORTUGAL",PT: TVE 24H
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVE Internacional" tvg-logo="" group-title="PORTUGAL",PT: TVE Internacional
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 FHD" tvg-logo="" group-title="PORTUGAL",PT: TVI 24 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="" group-title="PORTUGAL",PT: TVI FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO FHD" tvg-logo="" group-title="PORTUGAL",PT: TVI FICCAO FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: tvi Fisclo" tvg-logo="" group-title="PORTUGAL",PT: tvi Fisclo
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality FHD" tvg-logo="" group-title="PORTUGAL",PT: TVI Reality FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY MOSAICO" tvg-logo="" group-title="PORTUGAL",PT: TVI REALITY MOSAICO
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 HD" tvg-logo="" group-title="PORTUGAL",PT: VH1 HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT VH1 HD" tvg-logo="" group-title="PORTUGAL",PT VH1 HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: WWE NETWORK HD" tvg-logo="" group-title="PORTUGAL",PT: WWE NETWORK HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA FHD" tvg-logo="" group-title="PORTUGAL",PT: ZAP VIVA FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: 1+1" tvg-logo="" group-title="PORTUGAL",PT: 1+1
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: 11 FHD" tvg-logo="" group-title="PORTUGAL",PT: 11 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen FHD" tvg-logo="" group-title="PORTUGAL",PT: 24 Kitchen FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT 24 Kitchen FHD" tvg-logo="" group-title="PORTUGAL",PT 24 Kitchen FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA HD" tvg-logo="" group-title="PORTUGAL",PT: A BOLA HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",PT: AFRO MUSIC
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",PT AFRO MUSIC
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ALMA LUSA HD" tvg-logo="" group-title="PORTUGAL",PT: ALMA LUSA HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC FHD" tvg-logo="" group-title="PORTUGAL",PT: AMC FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AR TV HD" tvg-logo="" group-title="PORTUGAL",PT: AR TV HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN FHD" tvg-logo="" group-title="PORTUGAL",PT: AXN FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Movies FHD" tvg-logo="" group-title="PORTUGAL",PT: AXN Movies FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White FHD" tvg-logo="" group-title="PORTUGAL",PT: AXN White FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AZORES TV" tvg-logo="" group-title="PORTUGAL",PT: AZORES TV
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV FHD" tvg-logo="" group-title="PORTUGAL",PT: BABY TV FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT BABY TV FHD" tvg-logo="" group-title="PORTUGAL",PT BABY TV FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BBC ENTERTAINEMENT" tvg-logo="" group-title="PORTUGAL",PT: BBC ENTERTAINEMENT
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BBC World News FHD" tvg-logo="" group-title="PORTUGAL",PT: BBC World News FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV FHD" tvg-logo="" group-title="PORTUGAL",PT: Benfica TV FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS HD" tvg-logo="" group-title="PORTUGAL",PT: BIGGS HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE FHD" tvg-logo="" group-title="PORTUGAL",PT: BLAZE FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT A&E FHD" tvg-logo="" group-title="PORTUGAL",PT A&E FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Bloomberg HD" tvg-logo="" group-title="PORTUGAL",PT: Bloomberg HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BOOMERANG" tvg-logo="" group-title="PORTUGAL",PT: BOOMERANG
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="" group-title="PORTUGAL",PT: BTV FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO HD" tvg-logo="" group-title="PORTUGAL",PT: CAMPO PEQUENO HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58567.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 180" tvg-logo="" group-title="PORTUGAL",PT: CANAL 180
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL NOVA" tvg-logo="" group-title="PORTUGAL",PT: CANAL NOVA
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA HD" tvg-logo="" group-title="PORTUGAL",PT: CANAL PANDA HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Porto" tvg-logo="" group-title="PORTUGAL",PT: Canal Porto
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q FHD" tvg-logo="" group-title="PORTUGAL",PT: CANAL Q FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Ricos" tvg-logo="" group-title="PORTUGAL",PT: Canal Ricos
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoon Network FHD" tvg-logo="" group-title="PORTUGAL",PT: Cartoon Network FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT CARTOON NETWORK FHD" tvg-logo="" group-title="PORTUGAL",PT CARTOON NETWORK FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA HD" tvg-logo="" group-title="PORTUGAL",PT: CASA E COZINHA HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CASA Y PESCA HD" tvg-logo="" group-title="PORTUGAL",PT: CASA Y PESCA HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CBS REALITY FHD" tvg-logo="" group-title="PORTUGAL",PT: CBS REALITY FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CGTN" tvg-logo="" group-title="PORTUGAL",PT: CGTN
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Clubbing TV" tvg-logo="" group-title="PORTUGAL",PT: Clubbing TV
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58581.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CM TV FHD" tvg-logo="" group-title="PORTUGAL",PT: CM TV FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC FHD" tvg-logo="" group-title="PORTUGAL",PT: CNBC FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="" group-title="PORTUGAL",PT: CNN
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58584.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Crime+ Investigation HD" tvg-logo="" group-title="PORTUGAL",PT: Crime+ Investigation HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT Crime+ Investigation HD" tvg-logo="" group-title="PORTUGAL",PT Crime+ Investigation HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery Showcase HD" tvg-logo="" group-title="PORTUGAL",PT: Discovery Showcase HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT Discovery Channel FHD" tvg-logo="" group-title="PORTUGAL",PT Discovery Channel FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Channel FHD" tvg-logo="" group-title="PORTUGAL",PT: Disney Channel FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT Disney Channel FHD" tvg-logo="" group-title="PORTUGAL",PT Disney Channel FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Disney JUNIOR FHD" tvg-logo="" group-title="PORTUGAL",PT: Disney JUNIOR FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT Disney JUNIOR FHD" tvg-logo="" group-title="PORTUGAL",PT Disney JUNIOR FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: DOG FHD" tvg-logo="" group-title="PORTUGAL",PT: DOG FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: DW" tvg-logo="" group-title="PORTUGAL",PT: DW
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: E! FHD" tvg-logo="" group-title="PORTUGAL",PT: E! FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT E! HD" tvg-logo="" group-title="PORTUGAL",PT E! HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 3 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 4 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 5 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 6 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: euronews HD" tvg-logo="" group-title="PORTUGAL",PT: euronews HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT EUROSPORT 1 FHD" tvg-logo="" group-title="PORTUGAL",PT EUROSPORT 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT EUROSPORT 2 FHD" tvg-logo="" group-title="PORTUGAL",PT EUROSPORT 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV HD" tvg-logo="" group-title="PORTUGAL",PT: FASHION TV HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA HD" tvg-logo="" group-title="PORTUGAL",PT: FATIMA HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT BOX HD" tvg-logo="" group-title="PORTUGAL",PT: FIGHT BOX HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT FIGHT BOX HD" tvg-logo="" group-title="PORTUGAL",PT FIGHT BOX HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT Network HD" tvg-logo="" group-title="PORTUGAL",PT: FIGHT Network HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOOD NETWORK FHD" tvg-logo="" group-title="PORTUGAL",PT: FOOD NETWORK FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Comedy FHD" tvg-logo="" group-title="PORTUGAL",PT: FOX Comedy FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Crime FHD" tvg-logo="" group-title="PORTUGAL",PT: FOX Crime FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="" group-title="PORTUGAL",PT: FOX FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Life FHD" tvg-logo="" group-title="PORTUGAL",PT: FOX Life FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT FOX Life FHD" tvg-logo="" group-title="PORTUGAL",PT FOX Life FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Movies FHD" tvg-logo="" group-title="PORTUGAL",PT: FOX Movies FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX SPORTS" tvg-logo="" group-title="PORTUGAL",PT: FOX SPORTS
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: france 24" tvg-logo="" group-title="PORTUGAL",PT: france 24
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL HD" tvg-logo="" group-title="PORTUGAL",PT: FUEL HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: GALICIA FHD" tvg-logo="" group-title="PORTUGAL",PT: GALICIA FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58629.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Gametoon HD" tvg-logo="" group-title="PORTUGAL",PT: Gametoon HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: GINX HD" tvg-logo="" group-title="PORTUGAL",PT: GINX HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO BRAZIL" tvg-logo="" group-title="PORTUGAL",PT: GLOBO BRAZIL
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO FHD" tvg-logo="" group-title="PORTUGAL",PT: GLOBO FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO PORTUGAL HD" tvg-logo="" group-title="PORTUGAL",PT: GLOBO PORTUGAL HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58634.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: HBO HD" tvg-logo="" group-title="PORTUGAL",PT: HBO HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58635.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PORTUGAL",PT: HISTORIA
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT Historia" tvg-logo="" group-title="PORTUGAL",PT Historia
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood FHD" tvg-logo="" group-title="PORTUGAL",PT: Hollywood FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58638.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Investigation Discovery FHD" tvg-logo="" group-title="PORTUGAL",PT: Investigation Discovery FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT Investigation Discovery FHD" tvg-logo="" group-title="PORTUGAL",PT Investigation Discovery FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58640.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: JimJam FHD" tvg-logo="" group-title="PORTUGAL",PT: JimJam FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT JimJam FHD" tvg-logo="" group-title="PORTUGAL",PT JimJam FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT FHD" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS FHD" tvg-logo="" group-title="PORTUGAL",PT: KURIAKOS FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS KIDS HD" tvg-logo="" group-title="PORTUGAL",PT: KURIAKOS KIDS HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: LOCALVISAO HD" tvg-logo="" group-title="PORTUGAL",PT: LOCALVISAO HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Lolly Kids HD" tvg-logo="" group-title="PORTUGAL",PT: Lolly Kids HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MAS CHIC" tvg-logo="" group-title="PORTUGAL",PT: MAS CHIC
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP FHD" tvg-logo="" group-title="PORTUGAL",PT: MCM POP FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58649.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT MCM Pop" tvg-logo="" group-title="PORTUGAL",PT MCM Pop
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP" tvg-logo="" group-title="PORTUGAL",PT: MCM TOP
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT MCM TOP" tvg-logo="" group-title="PORTUGAL",PT MCM TOP
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58652.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Destaques" tvg-logo="" group-title="PORTUGAL",PT: MEO Destaques
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Videoclube" tvg-logo="" group-title="PORTUGAL",PT: MEO Videoclube
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MEZZO HD" tvg-logo="" group-title="PORTUGAL",PT: MEZZO HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58655.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION FHD" tvg-logo="" group-title="PORTUGAL",PT: MOTORVISION FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL" tvg-logo="" group-title="PORTUGAL",PT: MTV PORTUGAL
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO FHD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT NAT GEO FHD" tvg-logo="" group-title="PORTUGAL",PT NAT GEO FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58659.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO Wild FHD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO Wild FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT NAT GEO Wild FHD" tvg-logo="" group-title="PORTUGAL",PT NAT GEO Wild FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: NHK World" tvg-logo="" group-title="PORTUGAL",PT: NHK World
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Nick Junior FHD" tvg-logo="" group-title="PORTUGAL",PT: Nick Junior FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58663.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT Nick Junior FHD" tvg-logo="" group-title="PORTUGAL",PT Nick Junior FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58664.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: nickelodeon HD" tvg-logo="" group-title="PORTUGAL",PT: nickelodeon HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT nickelodeon FHD" tvg-logo="" group-title="PORTUGAL",PT nickelodeon FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Nicklelodeon HD" tvg-logo="" group-title="PORTUGAL",PT: Nicklelodeon HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIO FHD" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIO FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA FHD" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA BIGGS" tvg-logo="" group-title="PORTUGAL",PT: PANDA BIGGS
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL FHD" tvg-logo="" group-title="PORTUGAL",PT: PORTO CANAL FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: PTC 2" tvg-logo="" group-title="PORTUGAL",PT: PTC 2
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: QYOU" tvg-logo="" group-title="PORTUGAL",PT: QYOU
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV HD" tvg-logo="" group-title="PORTUGAL",PT: REAL MADRID TV HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Record News" tvg-logo="" group-title="PORTUGAL",PT: Record News
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Record TV FHD" tvg-logo="" group-title="PORTUGAL",PT: Record TV FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RED BULL TV" tvg-logo="" group-title="PORTUGAL",PT: RED BULL TV
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58677.m3u8
+#EXTINF:-1,PT : TVI FIC
+http://starshare.live:8080/live/arfat/arfat/1635.ts
+#EXTINF:-1,PT : TV RECORD
+http://starshare.live:8080/live/arfat/arfat/1636.ts
+#EXTINF:-1,PT : TV GALICIA
+http://starshare.live:8080/live/arfat/arfat/1637.ts
+#EXTINF:-1,PT : TRAVEL CHANNEL
+http://starshare.live:8080/live/arfat/arfat/1638.ts
+#EXTINF:-1,PT : TOROS TV
+http://starshare.live:8080/live/arfat/arfat/1639.ts
+#EXTINF:-1,PT : TLC
+http://starshare.live:8080/live/arfat/arfat/1640.ts
+#EXTINF:-1,PT : NICKELODEON
+http://starshare.live:8080/live/arfat/arfat/1641.ts
+#EXTINF:-1,PT : MTV PT
+http://starshare.live:8080/live/arfat/arfat/1642.ts
+#EXTINF:-1,PT-MCM POP
+http://starshare.live:8080/live/arfat/arfat/1643.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 3
+http://starshare.live:8080/live/arfat/arfat/1644.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 2
+http://starshare.live:8080/live/arfat/arfat/1645.ts
+#EXTINF:-1,PT-ELEVEN SPORTS 1
+http://starshare.live:8080/live/arfat/arfat/1646.ts
+#EXTINF:-1,PT-DISNEY JR
+http://starshare.live:8080/live/arfat/arfat/1647.ts
+#EXTINF:-1,PT : CARTOON NETWORK
+http://starshare.live:8080/live/arfat/arfat/1648.ts
+#EXTINF:-1,PT : CANAL PANDA
+http://starshare.live:8080/live/arfat/arfat/1649.ts
+#EXTINF:-1,PT : CANAL HISTORIA
+http://starshare.live:8080/live/arfat/arfat/1650.ts
+#EXTINF:-1,PT : CACAVISION
+http://starshare.live:8080/live/arfat/arfat/1651.ts
+#EXTINF:-1,PT : CACA E PESCA HD
+http://starshare.live:8080/live/arfat/arfat/1652.ts
+#EXTINF:-1,PT : Baby TV
+http://starshare.live:8080/live/arfat/arfat/1653.ts
+#EXTINF:-1,PT : AMC
+http://starshare.live:8080/live/arfat/arfat/1654.ts
+#EXTINF:-1,PT : TVI HD
+http://starshare.live:8080/live/arfat/arfat/1655.ts
+#EXTINF:-1,PT : TVI FICCAO
+http://starshare.live:8080/live/arfat/arfat/1656.ts
+#EXTINF:-1,PT : TVCINE 4 HD
+http://starshare.live:8080/live/arfat/arfat/1657.ts
+#EXTINF:-1,PT : TVCINE 3 HD
+http://starshare.live:8080/live/arfat/arfat/1658.ts
+#EXTINF:-1,PT : TVCINE 2 HD
+http://starshare.live:8080/live/arfat/arfat/1659.ts
+#EXTINF:-1,PT : TV SERIES
+http://starshare.live:8080/live/arfat/arfat/1660.ts
+#EXTINF:-1,PT : SPORTING TV
+http://starshare.live:8080/live/arfat/arfat/1661.ts
+#EXTINF:-1,PT : SIC RADICAL
+http://starshare.live:8080/live/arfat/arfat/1662.ts
+#EXTINF:-1,PT : SIC NOTICIAS
+http://starshare.live:8080/live/arfat/arfat/1663.ts
+#EXTINF:-1,PT : SIC MULHER
+http://starshare.live:8080/live/arfat/arfat/1664.ts
+#EXTINF:-1,PT : SIC HD
+http://starshare.live:8080/live/arfat/arfat/1665.ts
+#EXTINF:-1,PT : SIC CARAS HD
+http://starshare.live:8080/live/arfat/arfat/1666.ts
+#EXTINF:-1,PT : RTP MEMORIA
+http://starshare.live:8080/live/arfat/arfat/1667.ts
+#EXTINF:-1,PT : RTP MADEIRA
+http://starshare.live:8080/live/arfat/arfat/1668.ts
+#EXTINF:-1,PT : RTP AFRICA
+http://starshare.live:8080/live/arfat/arfat/1669.ts
+#EXTINF:-1,PT : RTP ACORES
+http://starshare.live:8080/live/arfat/arfat/1670.ts
+#EXTINF:-1,PT : RTP 3
+http://starshare.live:8080/live/arfat/arfat/1671.ts
+#EXTINF:-1,PT : RTP 2 HD
+http://starshare.live:8080/live/arfat/arfat/1672.ts
+#EXTINF:-1,PT : RTP 1 HD
+http://starshare.live:8080/live/arfat/arfat/1673.ts
