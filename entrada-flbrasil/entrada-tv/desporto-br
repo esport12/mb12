@@ -1,57 +1,315 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====BRASIL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="CANAIS: 4K",COMBATE 4K
-http://familytv.net:80/live/63982738884/8398289387/58400.m3u8
-#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE FULLHD" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="CANAIS: ESPORTES",COMBATE FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132154.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="CANAIS: 4K",FOX SPORTS 2 4K
-http://familytv.net:80/live/63982738884/8398289387/58415.m3u8
-#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX SPORTS 2 FULLHD" tvg-logo="https://i.pinimg.com/originals/80/da/81/80da81f404f838a714050d3f201ac7ba.png" group-title="CANAIS: ESPORTES",FOX SPORTS 2 FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132180.m3u8
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="CANAIS: 4K",FOX SPORTS 4K
-http://familytv.net:80/live/63982738884/8398289387/58416.m3u8
-#EXTINF:-1 tvg-id="Fox Sports FHD" tvg-name="FOX SPORTS FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="CANAIS: ESPORTES",FOX SPORTS FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132181.m3u8
-#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="PREMIERE 2 FULLHD" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132231.m3u8
-#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="PREMIERE 3 FULLHD" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132232.m3u8
-#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="PREMIERE 4 FULLHD" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 4 FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132233.m3u8
-#EXTINF:-1 tvg-id="Premiere 5 FHD" tvg-name="PREMIERE 5 FULLHD" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 5 FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132234.m3u8
-#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="PREMIERE 6 FULLHD" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 6 FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132235.m3u8
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 FULLHD" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132236.m3u8
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: 4K",PREMIERE CLUBES
-http://familytv.net:80/live/63982738884/8398289387/58396.m3u8
-#EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="PREMIERE CLUBES FULLHD" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132237.m3u8
-#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL FULL HD" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2016/11/logo_music01.png" group-title="CANAIS: VARIEDADES",PRIME BOX BRASIL FULL HD
-http://familytv.net:80/live/63982738884/8398289387/132238.m3u8
-#EXTINF:-1 tvg-id="Sportv 2 FHD" tvg-name="SPORTV 2 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV 2 FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132248.m3u8
-#EXTINF:-1 tvg-id="Sportv 3 FHD" tvg-name="SPORTV 3 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV 3 FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132249.m3u8
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS: 4K",SPORTV 4K
-http://familytv.net:80/live/63982738884/8398289387/58409.m3u8
-#EXTINF:-1 tvg-id="Sportv FHD" tvg-name="SPORTV FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV FULLHD
-http://familytv.net:80/live/63982738884/8398289387/132250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1 HD - 24H ONDEMAND" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/e4cd4e5bb2abd1bed1a56da2f3f44378.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO CATARINENSE 1 HD - 24H ONDEMAND
-http://familytv.net:80/live/63982738884/8398289387/135317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1 SD - 24H ONDEMAND" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/e4cd4e5bb2abd1bed1a56da2f3f44378.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO CATARINENSE 1 SD - 24H ONDEMAND
-http://familytv.net:80/live/63982738884/8398289387/135318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 1 HD - 24H ONDEMAND" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/f0b7a765845afc7c0562b2b1647ccab0.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO MINEIRO 1 HD - 24H ONDEMAND
-http://familytv.net:80/live/63982738884/8398289387/135327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 1 SD - 24H ONDEMAND" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/f0b7a765845afc7c0562b2b1647ccab0.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO MINEIRO 1 SD - 24H ONDEMAND
-http://familytv.net:80/live/63982738884/8398289387/135328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 1 HD - 24H ONDEMAND" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/c0f3e008057eb8411f3628e534168c53.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO SERGIPANO 1 HD - 24H ONDEMAND
-http://familytv.net:80/live/63982738884/8398289387/135337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 1 SD - 24H ONDEMAND" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/c0f3e008057eb8411f3628e534168c53.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO SERGIPANO 1 SD - 24H ONDEMAND
-http://familytv.net:80/live/63982738884/8398289387/135338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1 HD - 24H ONDEMAND" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/0392705c-936c-4b06-bcb1-2b39b5b0be10.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE 1 HD - 24H ONDEMAND
-http://familytv.net:80/live/63982738884/8398289387/135356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1 SD - 24H ONDEMAND" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/0392705c-936c-4b06-bcb1-2b39b5b0be10.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE 1 SD - 24H ONDEMAND
-http://familytv.net:80/live/63982738884/8398289387/135357.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN SD¹
+http://lista.lorddark.club:80/live/5247/5247/19204.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN SD
+http://lista.lorddark.club:80/live/5247/5247/510.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN HD¹
+http://lista.lorddark.club:80/live/5247/5247/19211.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN HD
+http://lista.lorddark.club:80/live/5247/5247/814.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN FHD¹
+http://lista.lorddark.club:80/live/5247/5247/19098.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN FHD
+http://lista.lorddark.club:80/live/5247/5247/989.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 SD¹
+http://lista.lorddark.club:80/live/5247/5247/19205.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 SD
+http://lista.lorddark.club:80/live/5247/5247/511.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 HD¹
+http://lista.lorddark.club:80/live/5247/5247/19206.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 HD
+http://lista.lorddark.club:80/live/5247/5247/812.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 FHD¹
+http://lista.lorddark.club:80/live/5247/5247/18996.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 FHD
+http://lista.lorddark.club:80/live/5247/5247/990.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil SD¹
+http://lista.lorddark.club:80/live/5247/5247/19207.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil SD
+http://lista.lorddark.club:80/live/5247/5247/512.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil HD¹
+http://lista.lorddark.club:80/live/5247/5247/19208.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil HD
+http://lista.lorddark.club:80/live/5247/5247/813.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil HD³
+http://lista.lorddark.club:80/live/5247/5247/1103.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil FHD¹
+http://lista.lorddark.club:80/live/5247/5247/19097.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil FHD
+http://lista.lorddark.club:80/live/5247/5247/991.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-extra.png" group-title="Esportes",ESPN Extra SD [1]
+http://lista.lorddark.club:80/live/5247/5247/19209.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-extra.png" group-title="Esportes",ESPN Extra HD [1]
+http://lista.lorddark.club:80/live/5247/5247/19210.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-extra.png" group-title="Esportes",ESPN Extra HD
+http://lista.lorddark.club:80/live/5247/5247/815.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD *" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-extra.png" group-title="Esportes",ESPN Extra HD *
+http://lista.lorddark.club:80/live/5247/5247/1104.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-extra.png" group-title="Esportes",ESPN Extra FHD [1]
+http://lista.lorddark.club:80/live/5247/5247/18997.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-extra.png" group-title="Esportes",ESPN Extra FHD
+http://lista.lorddark.club:80/live/5247/5247/988.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports SD
+http://lista.lorddark.club:80/live/5247/5247/487.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports SD¹
+http://lista.lorddark.club:80/live/5247/5247/19161.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports SD³
+http://lista.lorddark.club:80/live/5247/5247/201432.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports HD
+http://lista.lorddark.club:80/live/5247/5247/794.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports HD¹
+http://lista.lorddark.club:80/live/5247/5247/19162.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports HD²
+http://lista.lorddark.club:80/live/5247/5247/201433.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports HD³
+http://lista.lorddark.club:80/live/5247/5247/201434.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports FHD
+http://lista.lorddark.club:80/live/5247/5247/968.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports FHD¹
+http://lista.lorddark.club:80/live/5247/5247/18981.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports FHD²
+http://lista.lorddark.club:80/live/5247/5247/201435.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports SD
+http://lista.lorddark.club:80/live/5247/5247/518.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports SD¹
+http://lista.lorddark.club:80/live/5247/5247/19224.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports SD²
+http://lista.lorddark.club:80/live/5247/5247/201419.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports SD³
+http://lista.lorddark.club:80/live/5247/5247/201420.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports HD
+http://lista.lorddark.club:80/live/5247/5247/822.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports HD¹
+http://lista.lorddark.club:80/live/5247/5247/19225.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports HD²
+http://lista.lorddark.club:80/live/5247/5247/201421.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports HD³
+http://lista.lorddark.club:80/live/5247/5247/201422.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports FHD
+http://lista.lorddark.club:80/live/5247/5247/997.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports FHD¹
+http://lista.lorddark.club:80/live/5247/5247/19101.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports FHD²
+http://lista.lorddark.club:80/live/5247/5247/201423.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports FHD³
+http://lista.lorddark.club:80/live/5247/5247/201424.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 SD
+http://lista.lorddark.club:80/live/5247/5247/519.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 SD¹
+http://lista.lorddark.club:80/live/5247/5247/19226.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 SD³
+http://lista.lorddark.club:80/live/5247/5247/201425.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 HD
+http://lista.lorddark.club:80/live/5247/5247/821.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 HD¹
+http://lista.lorddark.club:80/live/5247/5247/19227.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 HD²
+http://lista.lorddark.club:80/live/5247/5247/201426.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 HD³
+http://lista.lorddark.club:80/live/5247/5247/201427.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fox-sports-2.png" group-title="Esportes",FOX Sports 2 FHD
+http://lista.lorddark.club:80/live/5247/5247/998.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 FHD¹
+http://lista.lorddark.club:80/live/5247/5247/19100.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 FHD²
+http://lista.lorddark.club:80/live/5247/5247/201428.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 FHD³
+http://lista.lorddark.club:80/live/5247/5247/201429.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV SD
+http://lista.lorddark.club:80/live/5247/5247/579.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV SD¹
+http://lista.lorddark.club:80/live/5247/5247/19322.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV SD²
+http://lista.lorddark.club:80/live/5247/5247/201413.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV SD³
+http://lista.lorddark.club:80/live/5247/5247/201414.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV HD
+http://lista.lorddark.club:80/live/5247/5247/201416.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV HD¹
+http://lista.lorddark.club:80/live/5247/5247/19327.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV HD²
+http://lista.lorddark.club:80/live/5247/5247/201415.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV HD³
+http://lista.lorddark.club:80/live/5247/5247/1140.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV FHD
+http://lista.lorddark.club:80/live/5247/5247/1038.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV FHD¹
+http://lista.lorddark.club:80/live/5247/5247/19116.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV FHD²
+http://lista.lorddark.club:80/live/5247/5247/201417.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV FHD³
+http://lista.lorddark.club:80/live/5247/5247/201418.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 SD
+http://lista.lorddark.club:80/live/5247/5247/580.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 SD¹
+http://lista.lorddark.club:80/live/5247/5247/19323.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 SD²
+http://lista.lorddark.club:80/live/5247/5247/201407.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 SD³
+http://lista.lorddark.club:80/live/5247/5247/201408.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 HD
+http://lista.lorddark.club:80/live/5247/5247/860.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 HD¹
+http://lista.lorddark.club:80/live/5247/5247/19324.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 HD²
+http://lista.lorddark.club:80/live/5247/5247/201409.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 HD³
+http://lista.lorddark.club:80/live/5247/5247/1141.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 FHD
+http://lista.lorddark.club:80/live/5247/5247/1036.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 FHD¹
+http://lista.lorddark.club:80/live/5247/5247/19114.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 FHD²
+http://lista.lorddark.club:80/live/5247/5247/201410.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 FHD³
+http://lista.lorddark.club:80/live/5247/5247/201411.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 SD
+http://lista.lorddark.club:80/live/5247/5247/581.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 SD¹
+http://lista.lorddark.club:80/live/5247/5247/19325.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 SD²
+http://lista.lorddark.club:80/live/5247/5247/201403.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 SD³
+http://lista.lorddark.club:80/live/5247/5247/201404.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 HD
+http://lista.lorddark.club:80/live/5247/5247/861.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 HD¹
+http://lista.lorddark.club:80/live/5247/5247/19326.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 HD²
+http://lista.lorddark.club:80/live/5247/5247/201405.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 HD³
+http://lista.lorddark.club:80/live/5247/5247/1142.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 FHD
+http://lista.lorddark.club:80/live/5247/5247/1037.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 FHD¹
+http://lista.lorddark.club:80/live/5247/5247/19115.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 FHD³
+http://lista.lorddark.club:80/live/5247/5247/201406.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate SD
+http://lista.lorddark.club:80/live/5247/5247/496.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate SD¹
+http://lista.lorddark.club:80/live/5247/5247/19176.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate SD²
+http://lista.lorddark.club:80/live/5247/5247/201398.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate SD³
+http://lista.lorddark.club:80/live/5247/5247/201399.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate HD
+http://lista.lorddark.club:80/live/5247/5247/799.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate HD¹
+http://lista.lorddark.club:80/live/5247/5247/19177.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate HD²
+http://lista.lorddark.club:80/live/5247/5247/201400.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate HD³
+http://lista.lorddark.club:80/live/5247/5247/1094.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate FHD
+http://lista.lorddark.club:80/live/5247/5247/975.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate FHD¹
+http://lista.lorddark.club:80/live/5247/5247/19094.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate FHD²
+http://lista.lorddark.club:80/live/5247/5247/201401.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate FHD³
+http://lista.lorddark.club:80/live/5247/5247/201402.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV SD
+http://lista.lorddark.club:80/live/5247/5247/514.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV SD¹
+http://lista.lorddark.club:80/live/5247/5247/19212.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV SD²
+http://lista.lorddark.club:80/live/5247/5247/201393.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV SD³
+http://lista.lorddark.club:80/live/5247/5247/201394.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV HD¹
+http://lista.lorddark.club:80/live/5247/5247/19213.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV HD³
+http://lista.lorddark.club:80/live/5247/5247/201395.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV FHD
+http://lista.lorddark.club:80/live/5247/5247/992.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV FHD¹
+http://lista.lorddark.club:80/live/5247/5247/18998.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV FHD²
+http://lista.lorddark.club:80/live/5247/5247/201396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Catarinense 02 [1]" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/catarinense.png" group-title="Esportes Especiais",Catarinense 02 [1]
+http://lista.lorddark.club:80/live/5247/5247/204108.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Carioca_2020_FERJ.jpg" group-title="Esportes Especiais",CARIOCA 1
+http://lista.lorddark.club:80/live/5247/5247/203962.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCA 1²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Carioca_2020_FERJ.jpg" group-title="Esportes Especiais",CARIOCA 1²
+http://lista.lorddark.club:80/live/5247/5247/204107.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Carioca_2020_FERJ.jpg" group-title="Esportes Especiais",CARIOCA 2
+http://lista.lorddark.club:80/live/5247/5247/203963.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCA 2²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Carioca_2020_FERJ.jpg" group-title="Esportes Especiais",CARIOCA 2²
+http://lista.lorddark.club:80/live/5247/5247/204106.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Carioca_2020_FERJ.jpg" group-title="Esportes Especiais",CARIOCA 3
+http://lista.lorddark.club:80/live/5247/5247/203964.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCA 3²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Carioca_2020_FERJ.jpg" group-title="Esportes Especiais",CARIOCA 3²
+http://lista.lorddark.club:80/live/5247/5247/204105.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 [1]" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/DAZN.png" group-title="Esportes Especiais",DAZN 1 [1]
+http://lista.lorddark.club:80/live/5247/5247/19558.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/DAZN.png" group-title="Esportes Especiais",DAZN 1 HD
+http://lista.lorddark.club:80/live/5247/5247/733.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 [1]" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/DAZN.png" group-title="Esportes Especiais",DAZN 2 [1]
+http://lista.lorddark.club:80/live/5247/5247/19559.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/DAZN.png" group-title="Esportes Especiais",DAZN 2 HD
+http://lista.lorddark.club:80/live/5247/5247/734.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 [1]" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/DAZN.png" group-title="Esportes Especiais",DAZN 3 [1]
+http://lista.lorddark.club:80/live/5247/5247/19577.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/DAZN.png" group-title="Esportes Especiais",DAZN 3 HD
+http://lista.lorddark.club:80/live/5247/5247/735.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 [1]" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/DAZN.png" group-title="Esportes Especiais",DAZN 4 [1]
+http://lista.lorddark.club:80/live/5247/5247/19578.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Brasil HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/DAZN.png" group-title="Esportes Especiais",DAZN Brasil HD³
+http://lista.lorddark.club:80/live/5247/5247/736.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 SD
+http://lista.lorddark.club:80/live/5247/5247/201450.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 SD³
+http://lista.lorddark.club:80/live/5247/5247/201458.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 SD
+http://lista.lorddark.club:80/live/5247/5247/201451.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 SD³
+http://lista.lorddark.club:80/live/5247/5247/201459.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 SD
+http://lista.lorddark.club:80/live/5247/5247/201452.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 SD³
+http://lista.lorddark.club:80/live/5247/5247/201460.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 SD " tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 SD 
+http://lista.lorddark.club:80/live/5247/5247/201453.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 HD
+http://lista.lorddark.club:80/live/5247/5247/201454.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 HD¹
+http://lista.lorddark.club:80/live/5247/5247/201437.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 HD²
+http://lista.lorddark.club:80/live/5247/5247/201442.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 HD
+http://lista.lorddark.club:80/live/5247/5247/201455.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 HD¹
+http://lista.lorddark.club:80/live/5247/5247/201438.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 HD²
+http://lista.lorddark.club:80/live/5247/5247/201443.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 HD¹
+http://lista.lorddark.club:80/live/5247/5247/201439.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 HD²
+http://lista.lorddark.club:80/live/5247/5247/201444.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 HD¹
+http://lista.lorddark.club:80/live/5247/5247/201440.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 HD²
+http://lista.lorddark.club:80/live/5247/5247/201445.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 FHD
+http://lista.lorddark.club:80/live/5247/5247/201456.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 FHD²
+http://lista.lorddark.club:80/live/5247/5247/201446.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 FHD³
+http://lista.lorddark.club:80/live/5247/5247/201462.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 FHD
+http://lista.lorddark.club:80/live/5247/5247/201457.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 FHD²
+http://lista.lorddark.club:80/live/5247/5247/201447.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 FHD³
+http://lista.lorddark.club:80/live/5247/5247/201463.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 FHD²
+http://lista.lorddark.club:80/live/5247/5247/201448.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 FHD³
+http://lista.lorddark.club:80/live/5247/5247/201464.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 FHD²
+http://lista.lorddark.club:80/live/5247/5247/201449.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 FHD³
+http://lista.lorddark.club:80/live/5247/5247/201465.ts
