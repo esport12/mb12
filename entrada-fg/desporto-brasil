@@ -2,350 +2,350 @@
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====BRASIL=====[/B][/COLOR]
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TV IDEAL SD¹" tvg-logo="http://cplay.top/2Qvjq" group-title="CANAIS | ABERTOS",TV IDEAL SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/71232.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/71232
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE MOSAICO FHD H264¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE MOSAICO FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/82060.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/82060
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE MOSAICO HD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE MOSAICO HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/82059.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/82059
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE 1 CLUBES FHD H265¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16162.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16162
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 CLUBES FHD H265 (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD H265 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76323.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76323
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 CLUBES FHD H264¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73512.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73512
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 CLUBES FHD H264 (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD H264 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76472.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76472
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE 1 CLUBES HD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14709.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14709
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 CLUBES HD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76228.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76228
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE 1 CLUBES SD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19276.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19276
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 CLUBES SD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76699.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76699
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD H265¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16161.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16161
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD H264 (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD H264 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/79370.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/79370
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 2 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14708.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14708
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 2 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76548.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76548
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 2 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19275.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19275
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 2 SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76738.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76738
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD H265¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16160.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16160
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD H264¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/82062.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/82062
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD H264 (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD H264 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/79369.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/79369
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 3 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14707.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14707
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 3 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76366.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76366
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 3 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19274.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19274
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 3 SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76694.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76694
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD H265¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16159.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16159
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 4 FHD H264¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/82063.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/82063
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD H264 (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD H264 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76471.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76471
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 4 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14706.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14706
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 4 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76367.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76367
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 4 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19273.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19273
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 4 SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76695.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76695
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD H265¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16158.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16158
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD H264¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/82064.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/82064
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FHD H264 (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD H264 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76470.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76470
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 5 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14705.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14705
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 5 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76368.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76368
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 5 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19272.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19272
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 5 SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76696.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76696
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD H265¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16157.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16157
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD H264¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/82065.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/82065
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 6 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14704.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14704
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 6 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76369.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76369
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 6 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19271.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19271
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 SD (A)" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 6 SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76697.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76697
 #EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 FHD H265¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16156.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16156
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD H264¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/82066.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/82066
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 7 HD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 7 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14703.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14703
 #EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 SD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 7 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19270.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19270
 #EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 SD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 8 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19269.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19269
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE 9 SD¹" tvg-logo="http://cplay.top/FuQYC" group-title="CANAIS | PREMIERE",PREMIERE 9 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/41727.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/41727
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H265¹" tvg-logo="http://cplay.top/SYw28" group-title="CANAIS | ESPORTE",COMBATE FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16122.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16122
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H265 (A)" tvg-logo="http://cplay.top/SYw28" group-title="CANAIS | ESPORTE",COMBATE FHD H265 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76258.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76258
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H264¹" tvg-logo="http://cplay.top/SYw28" group-title="CANAIS | ESPORTE",COMBATE FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/78638.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/78638
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="http://cplay.top/SYw28" group-title="CANAIS | ESPORTE",COMBATE HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14831.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14831
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD (A)" tvg-logo="http://cplay.top/SYw28" group-title="CANAIS | ESPORTE",COMBATE HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76190.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76190
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD¹" tvg-logo="http://cplay.top/SYw28" group-title="CANAIS | ESPORTE",COMBATE SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19207.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19207
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD (A)" tvg-logo="http://cplay.top/SYw28" group-title="CANAIS | ESPORTE",COMBATE SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76623.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76623
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H265¹" tvg-logo="http://cplay.top/tmvB1" group-title="CANAIS | ESPORTE",SPORTV FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16127.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16127
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H265 (A)" tvg-logo="http://cplay.top/tmvB1" group-title="CANAIS | ESPORTE",SPORTV FHD H265 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76332.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76332
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H264¹" tvg-logo="http://cplay.top/tmvB1" group-title="CANAIS | ESPORTE",SPORTV FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73513.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73513
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H264 (A)" tvg-logo="http://cplay.top/tmvB1" group-title="CANAIS | ESPORTE",SPORTV FHD H264 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/79366.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/79366
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD¹" tvg-logo="http://cplay.top/tmvB1" group-title="CANAIS | ESPORTE",SPORTV HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14678.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14678
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD (A)" tvg-logo="http://cplay.top/tmvB1" group-title="CANAIS | ESPORTE",SPORTV HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76232.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76232
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD¹" tvg-logo="http://cplay.top/tmvB1" group-title="CANAIS | ESPORTE",SPORTV SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19208.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19208
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD (A)" tvg-logo="http://cplay.top/tmvB1" group-title="CANAIS | ESPORTE",SPORTV SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76708.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76708
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H265¹" tvg-logo="http://cplay.top/JuaAt" group-title="CANAIS | ESPORTE",SPORTV 2 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16126.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16126
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H264¹" tvg-logo="http://cplay.top/JuaAt" group-title="CANAIS | ESPORTE",SPORTV 2 FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73514.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73514
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H264 (A)" tvg-logo="http://cplay.top/JuaAt" group-title="CANAIS | ESPORTE",SPORTV 2 FHD H264 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/79367.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/79367
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="http://cplay.top/JuaAt" group-title="CANAIS | ESPORTE",SPORTV 2 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14676.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14676
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD (A)" tvg-logo="http://cplay.top/JuaAt" group-title="CANAIS | ESPORTE",SPORTV 2 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76233.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76233
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD¹" tvg-logo="http://cplay.top/JuaAt" group-title="CANAIS | ESPORTE",SPORTV 2 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19209.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19209
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H265¹" tvg-logo="http://cplay.top/we0UE" group-title="CANAIS | ESPORTE",SPORTV 3 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16125.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16125
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H265 (A)" tvg-logo="http://cplay.top/we0UE" group-title="CANAIS | ESPORTE",SPORTV 3 FHD H265 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76331.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76331
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H264¹" tvg-logo="http://cplay.top/we0UE" group-title="CANAIS | ESPORTE",SPORTV 3 FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73515.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73515
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="http://cplay.top/we0UE" group-title="CANAIS | ESPORTE",SPORTV 3 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14674.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14674
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD (A)" tvg-logo="http://cplay.top/we0UE" group-title="CANAIS | ESPORTE",SPORTV 3 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76234.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76234
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="http://cplay.top/we0UE" group-title="CANAIS | ESPORTE",SPORTV 3 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/42540.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/42540
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD (A)" tvg-logo="http://cplay.top/we0UE" group-title="CANAIS | ESPORTE",SPORTV 3 SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76707.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76707
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD H265¹" tvg-logo="http://cplay.top/q6KPD" group-title="CANAIS | ESPORTE",ESPN FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/39141.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/39141
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD H264¹" tvg-logo="http://cplay.top/q6KPD" group-title="CANAIS | ESPORTE",ESPN FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73508.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73508
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD¹" tvg-logo="http://cplay.top/q6KPD" group-title="CANAIS | ESPORTE",ESPN HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14796.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14796
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD (A)" tvg-logo="http://cplay.top/q6KPD" group-title="CANAIS | ESPORTE",ESPN HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76200.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76200
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD¹" tvg-logo="http://cplay.top/q6KPD" group-title="CANAIS | ESPORTE",ESPN SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19212.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19212
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD H265¹" tvg-logo="http://cplay.top/vH5WL" group-title="CANAIS | ESPORTE",ESPN 2 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/39143.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/39143
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD H264¹" tvg-logo="http://cplay.top/vH5WL" group-title="CANAIS | ESPORTE",ESPN 2 FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73509.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73509
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD¹" tvg-logo="http://cplay.top/vH5WL" group-title="CANAIS | ESPORTE",ESPN 2 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/38425.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/38425
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD (A)" tvg-logo="http://cplay.top/vH5WL" group-title="CANAIS | ESPORTE",ESPN 2 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76201.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76201
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD¹" tvg-logo="http://cplay.top/vH5WL" group-title="CANAIS | ESPORTE",ESPN 2 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19213.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19213
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD (A)" tvg-logo="http://cplay.top/vH5WL" group-title="CANAIS | ESPORTE",ESPN 2 SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76640.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76640
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL FHD H265¹" tvg-logo="http://cplay.top/DLVnz" group-title="CANAIS | ESPORTE",ESPN BRASIL FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16121.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16121
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL FHD H264¹" tvg-logo="http://cplay.top/DLVnz" group-title="CANAIS | ESPORTE",ESPN BRASIL FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73506.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73506
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL HD¹" tvg-logo="http://cplay.top/DLVnz" group-title="CANAIS | ESPORTE",ESPN BRASIL HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14798.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14798
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL HD (A)" tvg-logo="http://cplay.top/DLVnz" group-title="CANAIS | ESPORTE",ESPN BRASIL HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76202.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76202
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL SD¹" tvg-logo="http://cplay.top/DLVnz" group-title="CANAIS | ESPORTE",ESPN BRASIL SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19206.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19206
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL SD (A)" tvg-logo="http://cplay.top/DLVnz" group-title="CANAIS | ESPORTE",ESPN BRASIL SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76638.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76638
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD H265¹" tvg-logo="http://cplay.top/JG00L" group-title="CANAIS | ESPORTE",ESPN EXTRA FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/39142.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/39142
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD H264¹" tvg-logo="http://cplay.top/JG00L" group-title="CANAIS | ESPORTE",ESPN EXTRA FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73507.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73507
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD¹" tvg-logo="http://cplay.top/JG00L" group-title="CANAIS | ESPORTE",ESPN EXTRA HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/20437.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/20437
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD (A)" tvg-logo="http://cplay.top/JG00L" group-title="CANAIS | ESPORTE",ESPN EXTRA HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76274.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76274
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD (A)" tvg-logo="http://cplay.top/JG00L" group-title="CANAIS | ESPORTE",ESPN EXTRA SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76639.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76639
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS FHD H265¹" tvg-logo="http://cplay.top/w1yaq" group-title="CANAIS | ESPORTE",FOX SPORTS FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16124.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16124
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS FHD H265 (A)" tvg-logo="http://cplay.top/w1yaq" group-title="CANAIS | ESPORTE",FOX SPORTS FHD H265 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76281.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76281
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS FHD H264¹" tvg-logo="http://cplay.top/w1yaq" group-title="CANAIS | ESPORTE",FOX SPORTS FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73511.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73511
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS FHD H264 (A)" tvg-logo="http://cplay.top/w1yaq" group-title="CANAIS | ESPORTE",FOX SPORTS FHD H264 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76478.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76478
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS HD¹" tvg-logo="http://cplay.top/w1yaq" group-title="CANAIS | ESPORTE",FOX SPORTS HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14777.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14777
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS HD (A)" tvg-logo="http://cplay.top/w1yaq" group-title="CANAIS | ESPORTE",FOX SPORTS HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76559.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76559
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS SD¹" tvg-logo="http://cplay.top/w1yaq" group-title="CANAIS | ESPORTE",FOX SPORTS SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19210.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19210
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FHD H265¹" tvg-logo="http://cplay.top/IxYTK" group-title="CANAIS | ESPORTE",FOX SPORTS 2 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/16123.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/16123
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FHD H264¹" tvg-logo="http://cplay.top/IxYTK" group-title="CANAIS | ESPORTE",FOX SPORTS 2 FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73510.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73510
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FHD H264 (A)" tvg-logo="http://cplay.top/IxYTK" group-title="CANAIS | ESPORTE",FOX SPORTS 2 FHD H264 (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/79374.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/79374
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD¹" tvg-logo="http://cplay.top/IxYTK" group-title="CANAIS | ESPORTE",FOX SPORTS 2 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14775.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14775
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD (A)" tvg-logo="http://cplay.top/IxYTK" group-title="CANAIS | ESPORTE",FOX SPORTS 2 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76207.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76207
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD¹" tvg-logo="https://i.imgur.com/NDrA2vP.png" group-title="CANAIS | ESPORTE",FOX SPORTS 2 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19211.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19211
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD H265¹" tvg-logo="http://cplay.top/539Fb" group-title="CANAIS | ESPORTE",BAND SPORTS FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/27106.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/27106
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD H264¹" tvg-logo="http://cplay.top/539Fb" group-title="CANAIS | ESPORTE",BAND SPORTS FHD H264¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/73505.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/73505
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://cplay.top/539Fb" group-title="CANAIS | ESPORTE",BAND SPORTS HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/14847.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/14847
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD (A)" tvg-logo="http://cplay.top/539Fb" group-title="CANAIS | ESPORTE",BAND SPORTS HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76185.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76185
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS SD¹" tvg-logo="http://cplay.top/539Fb" group-title="CANAIS | ESPORTE",BAND SPORTS SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/19205.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/19205
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS SD (A)" tvg-logo="http://cplay.top/539Fb" group-title="CANAIS | ESPORTE",BAND SPORTS SD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/76615.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/76615
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 FHD H265¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CARIOCA 1 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95999.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95999
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA FHD H265¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CARIOCA FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95991.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95991
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CARIOCA 1 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/98685.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/98685
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CARIOCA 1 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/96000.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/96000
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD (A)" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CARIOCA 1 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95993.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95993
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD (A)" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CARIOCA 2 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/98686.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/98686
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="CANAIS | SPORTS PAYPERVIEW",COPA DO NORDESTE 1 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/93077.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/93077
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1 HD(A)" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",COPA DO NORDESTE 1 HD(A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95761.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95761
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="CANAIS | SPORTS PAYPERVIEW",COPA DO NORDESTE 2 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/93078.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/93078
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD(A)" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",COPA DO NORDESTE 2 HD(A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95762.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95762
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="CANAIS | SPORTS PAYPERVIEW",COPA DO NORDESTE 3 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/93079.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/93079
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="CANAIS | SPORTS PAYPERVIEW",COPA DO NORDESTE 4 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/93080.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/93080
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="CANAIS | SPORTS PAYPERVIEW",COPA DO NORDESTE 5 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/93081.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/93081
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="CANAIS | SPORTS PAYPERVIEW",COPA DO NORDESTE 6 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/93082.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/93082
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1 HD¹" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CATARINENSE 1 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95157.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95157
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATERINENSE HD(A)" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CATERINENSE HD(A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95763.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95763
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 2 HD¹" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CATARINENSE 2 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95156.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95156
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3 HD¹" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CATARINENSE 3 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95158.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95158
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 4 HD¹" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO CATARINENSE 4 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95159.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95159
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 1 HD¹" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO SERGIPANO 1 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95003.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95003
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 2 HD¹" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",CAMPEONATO SERGIPANO 2 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95005.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95005
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 H265¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CONMEBOL TV 1 H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95163.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95163
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CONMEBOL TV 1 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95166.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95166
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CONMEBOL TV 1 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95160.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95160
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 H265¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CONMEBOL TV 2 H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95164.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95164
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CONMEBOL TV 2 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95167.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95167
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CONMEBOL TV 2 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95161.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95161
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 FHD H265¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CONMEBOL TV 3 FHD H265¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95165.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95165
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CONMEBOL TV 3 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95168.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95168
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 SD¹" tvg-logo="" group-title="CANAIS | SPORTS PAYPERVIEW",CONMEBOL TV 4 SD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/95162.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/95162
 #EXTINF:-1 tvg-id="" tvg-name="DAZN HD 1¹" tvg-logo="http://cplay.top/WINo7" group-title="CANAIS | SPORTS PAYPERVIEW",DAZN HD 1¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/38902.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/38902
 #EXTINF:-1 tvg-id="" tvg-name="DAZN HD (A)" tvg-logo="http://cplay.top/WINo7" group-title="CANAIS | SPORTS PAYPERVIEW",DAZN HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/90331.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/90331
 #EXTINF:-1 tvg-id="" tvg-name="DAZN HD 2¹" tvg-logo="http://cplay.top/WINo7" group-title="CANAIS | SPORTS PAYPERVIEW",DAZN HD 2¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/41721.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/41721
 #EXTINF:-1 tvg-id="" tvg-name="DAZN HD 3¹" tvg-logo="http://cplay.top/WINo7" group-title="CANAIS | SPORTS PAYPERVIEW",DAZN HD 3¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/38907.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/38907
 #EXTINF:-1 tvg-id="" tvg-name="DAZN HD 4¹" tvg-logo="http://cplay.top/WINo7" group-title="CANAIS | SPORTS PAYPERVIEW",DAZN HD 4¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/44307.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/44307
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD¹" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/78869.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/78869
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1 HD¹" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS 1 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/41596.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/41596
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD (A)" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/90325.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/90325
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2 HD¹" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS 2 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/41595.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/41595
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2 HD (A)" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS 2 HD (A)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/90326.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/90326
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD¹" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/41594.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/41594
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4 HD¹" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS 4 HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/41593.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/41593
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1 HLS (TESTE)" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS 1 HLS (TESTE)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/90344.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/90344
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2 HLS (TESTE)" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS 2 HLS (TESTE)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/90345.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/90345
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3 HLS (TESTE)" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS 3 HLS (TESTE)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/91500.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/91500
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4 HLS (TESTE)" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS 4 HLS (TESTE)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/92610.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/92610
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 5 HLS (TESTE)" tvg-logo="https://imgur.com/dVpkEbH" group-title="CANAIS | SPORTS PAYPERVIEW",ESTADIO TNT SPORTS 5 HLS (TESTE)
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/92611.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/92611
 #EXTINF:-1 tvg-id="" tvg-name="FUTEBOL HD¹" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",FUTEBOL HD¹
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/80070.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/80070
 #EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",FUTEBOL 2
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/80956.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/80956
 #EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 3" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",FUTEBOL 3
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/80957.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/80957
 #EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 4 " tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",FUTEBOL 4 
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/80958.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/80958
 #EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 5" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",FUTEBOL 5
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/80959.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/80959
 #EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 6" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",FUTEBOL 6
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/80960.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/80960
 #EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 7" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",FUTEBOL 7
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/82268.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/82268
 #EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 8" tvg-logo="http://cplay.top/futebol" group-title="CANAIS | SPORTS PAYPERVIEW",FUTEBOL 8
-http://3769.srvsh.xyz:80/live/andrecarvalho12/86891489ac/91824.ts
+http://3769.srvsh.xyz:80/andrecarvalho12/86891489ac/91824
