@@ -2,1289 +2,1307 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====BRASIL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1,TELECINE ACTION SD
-http://vipeiptv.com:25461/genesio123/genesio123/855992
-#EXTINF:-1,TC ACTION SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/855993
-#EXTINF:-1,TELECINE ACTION HD
-http://vipeiptv.com:25461/genesio123/genesio123/855994
-#EXTINF:-1,TC ACTION HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/855995
-#EXTINF:-1,TC ACTION FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/855997
-#EXTINF:-1,TELECINE CULT SD
-http://vipeiptv.com:25461/genesio123/genesio123/855998
-#EXTINF:-1,TC CULT SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/855999
-#EXTINF:-1,TELECINE CULT HD
-http://vipeiptv.com:25461/genesio123/genesio123/856000
-#EXTINF:-1,TC CULT HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856001
-#EXTINF:-1,TELECINE FUN SD
-http://vipeiptv.com:25461/genesio123/genesio123/856004
-#EXTINF:-1,TC FUN SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856005
-#EXTINF:-1,TELECINE FUN HD
-http://vipeiptv.com:25461/genesio123/genesio123/856006
-#EXTINF:-1,TC FUN HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856007
-#EXTINF:-1,TC FUN FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856009
-#EXTINF:-1,TELECINE PIPOCA SD
-http://vipeiptv.com:25461/genesio123/genesio123/856010
-#EXTINF:-1,TC PIPOCA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856011
-#EXTINF:-1,TELECINE PIPOCA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856012
-#EXTINF:-1,TC PIPOCA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856013
-#EXTINF:-1,TELECINE PREMIUM SD
-http://vipeiptv.com:25461/genesio123/genesio123/856016
-#EXTINF:-1,TC PREMIUM SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856017
-#EXTINF:-1,TELECINE PREMIUM HD
-http://vipeiptv.com:25461/genesio123/genesio123/856018
-#EXTINF:-1,TC PREMIUM HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856019
-#EXTINF:-1,TELECINE TOUCH SD
-http://vipeiptv.com:25461/genesio123/genesio123/856022
-#EXTINF:-1,TC TOUCH SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856023
-#EXTINF:-1,TELECINE TOUCH HD
-http://vipeiptv.com:25461/genesio123/genesio123/856024
-#EXTINF:-1,TC TOUCH HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856025
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://vipeiptv.com:25461/genesio123/genesio123/856038
-#EXTINF:-1,DISCOVERY CHANNEL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856039
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://vipeiptv.com:25461/genesio123/genesio123/856040
-#EXTINF:-1,DISCOVERY CHANNEL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856041
-#EXTINF:-1,DISCOVERY SCIENCE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856044
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://vipeiptv.com:25461/genesio123/genesio123/856045
-#EXTINF:-1,DISCOVERY SCIENCE HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856046
-#EXTINF:-1,DISCOVERY THEATHER SD
-http://vipeiptv.com:25461/genesio123/genesio123/856049
-#EXTINF:-1,DISCOVERY THEATHER SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856050
-#EXTINF:-1,DISCOVERY THEATHER HD
-http://vipeiptv.com:25461/genesio123/genesio123/856051
-#EXTINF:-1,DISCOVERY THEATHER HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856052
-#EXTINF:-1,DISCOVERY TURBO SD
-http://vipeiptv.com:25461/genesio123/genesio123/856055
-#EXTINF:-1,DISCOVERY TURBO SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856056
-#EXTINF:-1,DISCOVERY TURBO HD
-http://vipeiptv.com:25461/genesio123/genesio123/856057
-#EXTINF:-1,DISCOVERY TURBO HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856058
-#EXTINF:-1,DISCOVERY WORLD SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856061
-#EXTINF:-1,DISCOVERY WORLD HD
-http://vipeiptv.com:25461/genesio123/genesio123/856062
-#EXTINF:-1,DISCOVERY WORLD HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856063
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD
-http://vipeiptv.com:25461/genesio123/genesio123/856066
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856067
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD
-http://vipeiptv.com:25461/genesio123/genesio123/856068
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856069
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-http://vipeiptv.com:25461/genesio123/genesio123/856071
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856072
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://vipeiptv.com:25461/genesio123/genesio123/856073
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856074
-#EXTINF:-1,A&E SD
-http://vipeiptv.com:25461/genesio123/genesio123/856077
-#EXTINF:-1,A&E HD
-http://vipeiptv.com:25461/genesio123/genesio123/856078
-#EXTINF:-1,AMC SD
-http://vipeiptv.com:25461/genesio123/genesio123/856080
-#EXTINF:-1,AMC HD
-http://vipeiptv.com:25461/genesio123/genesio123/856081
-#EXTINF:-1,AXN SD
-http://vipeiptv.com:25461/genesio123/genesio123/856083
-#EXTINF:-1,AXN SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856084
-#EXTINF:-1,AXN HD
-http://vipeiptv.com:25461/genesio123/genesio123/856085
-#EXTINF:-1,AXN HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856086
-#EXTINF:-1,ARTE 1 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856089
-#EXTINF:-1,ARTE 1 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856090
-#EXTINF:-1,ARTE 1 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856091
-#EXTINF:-1,CINEMAX SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856093
-#EXTINF:-1,CINEMAX HD
-http://vipeiptv.com:25461/genesio123/genesio123/856094
-#EXTINF:-1,CINEMAX HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856095
-#EXTINF:-1,CINEMAX FHD
-http://vipeiptv.com:25461/genesio123/genesio123/856096
-#EXTINF:-1,FOX HD
-http://vipeiptv.com:25461/genesio123/genesio123/856100
-#EXTINF:-1,FOX HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856101
-#EXTINF:-1,FOX PREMIUM 1 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856103
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856104
-#EXTINF:-1,FOX PREMIUM 1 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856105
-#EXTINF:-1,FOX PREMIUM 1 FHD
-http://vipeiptv.com:25461/genesio123/genesio123/856106
-#EXTINF:-1,FOX PREMIUM 2 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856108
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856109
-#EXTINF:-1,FOX PREMIUM 2 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856110
-#EXTINF:-1,FX SD
-http://vipeiptv.com:25461/genesio123/genesio123/856113
-#EXTINF:-1,FX SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856114
-#EXTINF:-1,FX HD
-http://vipeiptv.com:25461/genesio123/genesio123/856115
-#EXTINF:-1,FX HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856116
-#EXTINF:-1,MEGAPIX SD
-http://vipeiptv.com:25461/genesio123/genesio123/856119
-#EXTINF:-1,MEGAPIX SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856120
-#EXTINF:-1,MEGAPIX HD
-http://vipeiptv.com:25461/genesio123/genesio123/856121
-#EXTINF:-1,MEGAPIX HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856122
-#EXTINF:-1,PARAMOUNT
-http://vipeiptv.com:25461/genesio123/genesio123/856125
-#EXTINF:-1,PARAMOUNT SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856126
-#EXTINF:-1,PARAMOUNT HD
-http://vipeiptv.com:25461/genesio123/genesio123/856127
-#EXTINF:-1,PARAMOUNT CHANNEL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856128
-#EXTINF:-1,PRIME BOX BRASIL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856130
-#EXTINF:-1,PRIME BOX BRASIL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856131
-#EXTINF:-1,SPACE SD
-http://vipeiptv.com:25461/genesio123/genesio123/856133
-#EXTINF:-1,SPACE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856134
-#EXTINF:-1,SPACE HD
-http://vipeiptv.com:25461/genesio123/genesio123/856135
-#EXTINF:-1,SPACE HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856136
-#EXTINF:-1,STUDIO UNIVERSAL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856139
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://vipeiptv.com:25461/genesio123/genesio123/856140
-#EXTINF:-1,STUDIO UNIVERSAL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856141
-#EXTINF:-1,SONY SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856143
-#EXTINF:-1,SONY HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856144
-#EXTINF:-1,SYFY SD
-http://vipeiptv.com:25461/genesio123/genesio123/856146
-#EXTINF:-1,SYFY SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856147
-#EXTINF:-1,SYFY HD
-http://vipeiptv.com:25461/genesio123/genesio123/856148
-#EXTINF:-1,SYFY HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856149
-#EXTINF:-1,TBS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856151
-#EXTINF:-1,TBS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856152
-#EXTINF:-1,TCM SD
-http://vipeiptv.com:25461/genesio123/genesio123/856154
-#EXTINF:-1,TCM SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856155
-#EXTINF:-1,TCM HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856156
-#EXTINF:-1,TCM FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856157
-#EXTINF:-1,TLC SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856158
-#EXTINF:-1,TLC HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856159
-#EXTINF:-1,TNT SD
-http://vipeiptv.com:25461/genesio123/genesio123/856161
-#EXTINF:-1,TNT SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856162
-#EXTINF:-1,TNT HD
-http://vipeiptv.com:25461/genesio123/genesio123/856163
-#EXTINF:-1,TNT HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856164
-#EXTINF:-1,TNT SÉRIES SD
-http://vipeiptv.com:25461/genesio123/genesio123/856167
-#EXTINF:-1,TNT SERIES SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856168
-#EXTINF:-1,TNT SÉRIES HD
-http://vipeiptv.com:25461/genesio123/genesio123/856169
-#EXTINF:-1,TNT SERIES HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856170
-#EXTINF:-1,UNIVERSAL TV SD
-http://vipeiptv.com:25461/genesio123/genesio123/856172
-#EXTINF:-1,UNIVERSAL CHANNEL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856173
-#EXTINF:-1,UNIVERSAL TV HD
-http://vipeiptv.com:25461/genesio123/genesio123/856174
-#EXTINF:-1,UNIVERSAL CHANNEL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856175
-#EXTINF:-1,WARNER CHANNEL SD
-http://vipeiptv.com:25461/genesio123/genesio123/856177
-#EXTINF:-1,WARNER CHANNEL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856178
-#EXTINF:-1,WARNER CHANNEL HD
-http://vipeiptv.com:25461/genesio123/genesio123/856179
-#EXTINF:-1,WARNER CHANNEL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856180
-#EXTINF:-1,BAND SPORTS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856182
-#EXTINF:-1,BAND SPORTS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856183
-#EXTINF:-1,BAND SPORTS HD
-http://vipeiptv.com:25461/genesio123/genesio123/856184
-#EXTINF:-1,BAND SPORTS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856185
-#EXTINF:-1,COMBATE SD
-http://vipeiptv.com:25461/genesio123/genesio123/856187
-#EXTINF:-1,COMBATE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856188
-#EXTINF:-1,COMBATE HD
-http://vipeiptv.com:25461/genesio123/genesio123/856189
-#EXTINF:-1,COMBATE HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856190
-#EXTINF:-1,COMBATE FHD
-http://vipeiptv.com:25461/genesio123/genesio123/856191
-#EXTINF:-1,ESPORTE INTERATIVO 1 HD (EVENTOS)
-http://vipeiptv.com:25461/genesio123/genesio123/856216
-#EXTINF:-1,ESPORTE INTERATIVO 2 HD (EVENTOS)
-http://vipeiptv.com:25461/genesio123/genesio123/856217
-#EXTINF:-1,REDBULL TV HD
-http://vipeiptv.com:25461/genesio123/genesio123/856229
-#EXTINF:-1,SPORTV SD
-http://vipeiptv.com:25461/genesio123/genesio123/856230
-#EXTINF:-1,SPORTV SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856231
-#EXTINF:-1,SPORTV HD
-http://vipeiptv.com:25461/genesio123/genesio123/856232
-#EXTINF:-1,SPORTV HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856233
-#EXTINF:-1,SPORTV 2 SD
-http://vipeiptv.com:25461/genesio123/genesio123/856236
-#EXTINF:-1,SPORTV 2 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856237
-#EXTINF:-1,SPORTV 2 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856238
-#EXTINF:-1,SPORTV 2 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856239
-#EXTINF:-1,SPORTV 3 SD
-http://vipeiptv.com:25461/genesio123/genesio123/856242
-#EXTINF:-1,SPORTV 3 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856243
-#EXTINF:-1,SPORTV 3 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856244
-#EXTINF:-1,SPORTV 3 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856245
-#EXTINF:-1,PREMIERE CLUBES SD
-http://vipeiptv.com:25461/genesio123/genesio123/856247
-#EXTINF:-1,PREMIERE CLUBES SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856248
-#EXTINF:-1,PREMIERE CLUBES HD
-http://vipeiptv.com:25461/genesio123/genesio123/856249
-#EXTINF:-1,PREMIERE CLUBES HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856250
-#EXTINF:-1,PREMIERE 2 SD
-http://vipeiptv.com:25461/genesio123/genesio123/856253
-#EXTINF:-1,PREMIERE 2 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856254
-#EXTINF:-1,PREMIERE 2 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856255
-#EXTINF:-1,PREMIERE 2 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856256
-#EXTINF:-1,PREMIERE 2 FHD
-http://vipeiptv.com:25461/genesio123/genesio123/856257
-#EXTINF:-1,PREMIERE 3 SD
-http://vipeiptv.com:25461/genesio123/genesio123/856259
-#EXTINF:-1,PREMIERE 3 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856260
-#EXTINF:-1,PREMIERE 3 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856261
-#EXTINF:-1,PREMIERE 3 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856262
-#EXTINF:-1,PREMIERE 3 FHD
-http://vipeiptv.com:25461/genesio123/genesio123/856263
-#EXTINF:-1,PREMIERE 4 SD
-http://vipeiptv.com:25461/genesio123/genesio123/856265
-#EXTINF:-1,PREMIERE 4 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856266
-#EXTINF:-1,PREMIERE 4 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856267
-#EXTINF:-1,PREMIERE 4 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856268
-#EXTINF:-1,PREMIERE 5 SD
-http://vipeiptv.com:25461/genesio123/genesio123/856270
-#EXTINF:-1,PREMIERE 5 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856271
-#EXTINF:-1,PREMIERE 5 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856272
-#EXTINF:-1,PREMIERE 5 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856273
-#EXTINF:-1,PREMIERE 6 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856275
-#EXTINF:-1,PREMIERE 6 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856276
-#EXTINF:-1,PREMIERE 6 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856277
-#EXTINF:-1,PREMIERE 7 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856279
-#EXTINF:-1,PREMIERE 7 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856280
-#EXTINF:-1,PREMIERE 7 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856281
-#EXTINF:-1,ANIMAL PLANET SD
-http://vipeiptv.com:25461/genesio123/genesio123/856283
-#EXTINF:-1,ANIMAL PLANET SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856284
-#EXTINF:-1,ANIMAL PLANET HD
-http://vipeiptv.com:25461/genesio123/genesio123/856285
-#EXTINF:-1,ANIMAL PLANET HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856286
-#EXTINF:-1,HGTV SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856289
-#EXTINF:-1,HGTV HD
-http://vipeiptv.com:25461/genesio123/genesio123/856290
-#EXTINF:-1,HGTV HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856291
-#EXTINF:-1,HISTORY SD
-http://vipeiptv.com:25461/genesio123/genesio123/856293
-#EXTINF:-1,HISTORY SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856294
-#EXTINF:-1,HISTORY HD
-http://vipeiptv.com:25461/genesio123/genesio123/856295
-#EXTINF:-1,HISTORY HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856296
-#EXTINF:-1,H2 SD
-http://vipeiptv.com:25461/genesio123/genesio123/856298
-#EXTINF:-1,H2 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856299
-#EXTINF:-1,H2 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856300
-#EXTINF:-1,H2 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856301
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://vipeiptv.com:25461/genesio123/genesio123/856303
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856304
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://vipeiptv.com:25461/genesio123/genesio123/856305
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856306
-#EXTINF:-1,NATGEO WILD SD
-http://vipeiptv.com:25461/genesio123/genesio123/856308
-#EXTINF:-1,NATGEO WILD SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856309
-#EXTINF:-1,NATGEO WILD HD
-http://vipeiptv.com:25461/genesio123/genesio123/856310
-#EXTINF:-1,NATGEO WILD HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856311
-#EXTINF:-1,HBO SD
-http://vipeiptv.com:25461/genesio123/genesio123/856313
-#EXTINF:-1,HBO SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856314
-#EXTINF:-1,HBO HD
-http://vipeiptv.com:25461/genesio123/genesio123/856315
-#EXTINF:-1,HBO HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856316
-#EXTINF:-1,HBO 2 SD
-http://vipeiptv.com:25461/genesio123/genesio123/856319
-#EXTINF:-1,HBO 2 SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856320
-#EXTINF:-1,HBO 2 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856321
-#EXTINF:-1,HBO 2 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856322
-#EXTINF:-1,HBO 2 FHD
-http://vipeiptv.com:25461/genesio123/genesio123/856323
-#EXTINF:-1,HBO FAMILY SD
-http://vipeiptv.com:25461/genesio123/genesio123/856325
-#EXTINF:-1,HBO FAMILY SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856326
-#EXTINF:-1,HBO FAMILY HD
-http://vipeiptv.com:25461/genesio123/genesio123/856327
-#EXTINF:-1,HBO FAMILY HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856328
-#EXTINF:-1,HBO MUNDI SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856331
-#EXTINF:-1,HBO MUNDI HD
-http://vipeiptv.com:25461/genesio123/genesio123/856332
-#EXTINF:-1,HBO MUNDI HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856333
-#EXTINF:-1,HBO MUNDI FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856335
-#EXTINF:-1,HBO PLUS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856336
-#EXTINF:-1,HBO PLUS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856337
-#EXTINF:-1,HBO POP SD
-http://vipeiptv.com:25461/genesio123/genesio123/856339
-#EXTINF:-1,HBO POP SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856340
-#EXTINF:-1,HBO POP HD
-http://vipeiptv.com:25461/genesio123/genesio123/856341
-#EXTINF:-1,HBO POP HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856342
-#EXTINF:-1,HBO SIGNATURE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856344
-#EXTINF:-1,HBO SIGNATURE HD
-http://vipeiptv.com:25461/genesio123/genesio123/856345
-#EXTINF:-1,HBO SIGNATURE HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856346
-#EXTINF:-1,HBO XTREME SD
-http://vipeiptv.com:25461/genesio123/genesio123/856349
-#EXTINF:-1,HBO XTREME SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856350
-#EXTINF:-1,HBO XTREME HD
-http://vipeiptv.com:25461/genesio123/genesio123/856351
-#EXTINF:-1,HBO XTREME HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856352
-#EXTINF:-1,HBO+ SD
-http://vipeiptv.com:25461/genesio123/genesio123/856355
-#EXTINF:-1,HBO+ HD
-http://vipeiptv.com:25461/genesio123/genesio123/856356
-#EXTINF:-1,GLOBO AMAZÔNICA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856358
-#EXTINF:-1,GLOBO CENTRO AMERICA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856359
-#EXTINF:-1,GLOBO CENTRO AMERICA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856360
-#EXTINF:-1,GLOBO BAHIA SD
-http://vipeiptv.com:25461/genesio123/genesio123/856362
-#EXTINF:-1,GLOBO TV BAHIA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856363
-#EXTINF:-1,GLOBO BAHIA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856364
-#EXTINF:-1,GLOBO TV BAHIA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856365
-#EXTINF:-1,GLOBO TV BELEM SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856367
-#EXTINF:-1,GLOBO TV BELEM HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856368
-#EXTINF:-1,GLOBO BRASÍLIA SD
-http://vipeiptv.com:25461/genesio123/genesio123/856370
-#EXTINF:-1,GLOBO TV BRASILIA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856371
-#EXTINF:-1,GLOBO BRASÍLIA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856372
-#EXTINF:-1,GLOBO BRASILIA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856373
-#EXTINF:-1,GLOBO CUAIBÁ SD
-http://vipeiptv.com:25461/genesio123/genesio123/856375
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856376
-#EXTINF:-1,Globo EPTV CAMPINAS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856377
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://vipeiptv.com:25461/genesio123/genesio123/856378
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856379
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
-http://vipeiptv.com:25461/genesio123/genesio123/856381
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856382
-#EXTINF:-1,GLOBO EPTV SÃO CARLOS
-http://vipeiptv.com:25461/genesio123/genesio123/856383
-#EXTINF:-1,GLOBO FORTALEZA SD
-http://vipeiptv.com:25461/genesio123/genesio123/856384
-#EXTINF:-1,GLOBO FORTALEZA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856385
-#EXTINF:-1,GLOBO GOIÂNIA - TV ANHANGUERA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856386
-#EXTINF:-1,GLOBO INTER TV CABUGI HD
-http://vipeiptv.com:25461/genesio123/genesio123/856387
-#EXTINF:-1,GLOBO MINAS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856388
-#EXTINF:-1,Globo Minas SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856389
-#EXTINF:-1,GLOBO MINAS HD
-http://vipeiptv.com:25461/genesio123/genesio123/856390
-#EXTINF:-1,Globo Minas HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856391
-#EXTINF:-1,GLOBO NEWS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856393
-#EXTINF:-1,GLOBO NEWS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856394
-#EXTINF:-1,GLOBO NEWS HD
-http://vipeiptv.com:25461/genesio123/genesio123/856395
-#EXTINF:-1,GLOBO NEWS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856396
-#EXTINF:-1,GLOBO TV MIRANTE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856399
-#EXTINF:-1,GLOBO TV MIRANTE HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856400
-#EXTINF:-1,GLOBO NORDESTE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856402
-#EXTINF:-1,GLOBO NORDESTE HD
-http://vipeiptv.com:25461/genesio123/genesio123/856403
-#EXTINF:-1,GLOBO NORDESTE HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856404
-#EXTINF:-1,GLOBO NSC BLUMENAU HD
-http://vipeiptv.com:25461/genesio123/genesio123/856406
-#EXTINF:-1,GLOBO NSC JOINVILLE HD
-http://vipeiptv.com:25461/genesio123/genesio123/856407
-#EXTINF:-1,GLOBO NSC TV HD
-http://vipeiptv.com:25461/genesio123/genesio123/856408
-#EXTINF:-1,GLOBO RBS TV POA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856409
-#EXTINF:-1,GLOBO RBS TV POA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856410
-#EXTINF:-1,GLOBO RBS TV POA FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856411
-#EXTINF:-1,GLOBO RPC PARANAENSE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856414
-#EXTINF:-1,GLOBO RPC PARANAENSE HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856415
-#EXTINF:-1,GLOBO RJ SD
-http://vipeiptv.com:25461/genesio123/genesio123/856417
-#EXTINF:-1,Globo RJ SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856418
-#EXTINF:-1,GLOBO RJ HD
-http://vipeiptv.com:25461/genesio123/genesio123/856419
-#EXTINF:-1,Globo RJ HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856420
-#EXTINF:-1,GLOBO RPC CURITIBA SD
-http://vipeiptv.com:25461/genesio123/genesio123/856423
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856424
-#EXTINF:-1,GLOBO RPC MARINGÁ HD
-http://vipeiptv.com:25461/genesio123/genesio123/856425
-#EXTINF:-1,GLOBO SP SDD
-http://vipeiptv.com:25461/genesio123/genesio123/856426
-#EXTINF:-1,GLOBO SP SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856427
-#EXTINF:-1,GLOBO SP HD
-http://vipeiptv.com:25461/genesio123/genesio123/856428
-#EXTINF:-1,GLOBO SP HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856429
-#EXTINF:-1,GLOBO TV MORENA SD
-http://vipeiptv.com:25461/genesio123/genesio123/856431
-#EXTINF:-1,GLOBO TV MORENA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856432
-#EXTINF:-1,GLOBO TV MORENA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856433
-#EXTINF:-1,GLOBO TV TEM BAURU HD
-http://vipeiptv.com:25461/genesio123/genesio123/856434
-#EXTINF:-1,GLOBO TV MORENA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856435
-#EXTINF:-1,GLOBO TV TEM SJRP
-http://vipeiptv.com:25461/genesio123/genesio123/856438
-#EXTINF:-1,GLOBO TV TEM SOROCABA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856439
-#EXTINF:-1,GLOBO TV TRIBUNA
-http://vipeiptv.com:25461/genesio123/genesio123/856440
-#EXTINF:-1,GLOBO TV VANGUARDA SJC
-http://vipeiptv.com:25461/genesio123/genesio123/856441
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856442
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856443
-#EXTINF:-1,GLOBO INTER TV CABUGI SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856445
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856446
-#EXTINF:-1,GLOBO NSC FLORIANOPOLIS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856448
-#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856449
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856451
-#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD ALT#
-http://vipeiptv.com:25461/genesio123/genesio123/856452
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856453
-#EXTINF:-1,GLOBO TV ANHANGUERA  SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856454
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIÃNIA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856455
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856456
-#EXTINF:-1,GLOBO TV TEM BAURU SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856457
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856458
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856459
-#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSE DOS CAMPOS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856460
-#EXTINF:-1,GLOBO TV VERDES MARES SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856461
-#EXTINF:-1,GLOBO TV VERDES MARES HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856462
-#EXTINF:-1,GLOBOTV ANHANGUERA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856464
-#EXTINF:-1,INTER TV DOS VALES SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856466
-#EXTINF:-1,INTER TV DOS VALES FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856467
-#EXTINF:-1,INTER TV GRANDE MINAS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856468
-#EXTINF:-1,NSC TV BLUMENAU SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856469
-#EXTINF:-1,NSC TV BLUMENAU FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856470
-#EXTINF:-1,TV GAZETA ALAGOAS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856471
-#EXTINF:-1,TV GAZETA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856474
-#EXTINF:-1,TV GAZETA SUL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856475
-#EXTINF:-1,TV RIO SUL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856476
-#EXTINF:-1,TV SANTA CRUZ SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856477
-#EXTINF:-1,TV SERGIPE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856479
-#EXTINF:-1,TV SERGIPE FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856480
-#EXTINF:-1,TV TEM BAURU HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856481
-#EXTINF:-1,BAND NEWS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856483
-#EXTINF:-1,BAND NEWS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856484
-#EXTINF:-1,BAND NEWS HD
-http://vipeiptv.com:25461/genesio123/genesio123/856485
-#EXTINF:-1,BAND NEWS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856486
-#EXTINF:-1,CNN BRASIL SD
-http://vipeiptv.com:25461/genesio123/genesio123/856488
-#EXTINF:-1,CNN BRASIL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856489
-#EXTINF:-1,CNN BRASIL HD
-http://vipeiptv.com:25461/genesio123/genesio123/856490
-#EXTINF:-1,CNN BRASIL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856491
-#EXTINF:-1,CNN BRASIL FHD
-http://vipeiptv.com:25461/genesio123/genesio123/856492
-#EXTINF:-1,CNN BRASIL FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856493
-#EXTINF:-1,CNN INTERNACIONAL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856497
-#EXTINF:-1,CNN INTERNACIONAL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856498
-#EXTINF:-1,RECORD NEWS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856503
-#EXTINF:-1,RECORD NEWS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856504
-#EXTINF:-1,RECORD NEWS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856505
-#EXTINF:-1,RECORD NEWS FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856506
-#EXTINF:-1,BAND SD
-http://vipeiptv.com:25461/genesio123/genesio123/856507
-#EXTINF:-1,BAND SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856508
-#EXTINF:-1,BAND HD
-http://vipeiptv.com:25461/genesio123/genesio123/856509
-#EXTINF:-1,BAND HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856510
-#EXTINF:-1,BAND FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856511
-#EXTINF:-1,CANAL BRASIL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856512
-#EXTINF:-1,CANAL BRASIL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856513
-#EXTINF:-1,CANAL BRASIL FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856514
-#EXTINF:-1,RECORD SD
-http://vipeiptv.com:25461/genesio123/genesio123/856515
-#EXTINF:-1,RECORD SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856516
-#EXTINF:-1,RECORD HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856517
-#EXTINF:-1,Record FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856518
-#EXTINF:-1,RECORD BH HD
-http://vipeiptv.com:25461/genesio123/genesio123/856519
-#EXTINF:-1,Record BH HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856520
-#EXTINF:-1,RECORD DF HD
-http://vipeiptv.com:25461/genesio123/genesio123/856521
-#EXTINF:-1,RECORD RS HD
-http://vipeiptv.com:25461/genesio123/genesio123/856522
-#EXTINF:-1,RECORD SP HD
-http://vipeiptv.com:25461/genesio123/genesio123/856523
-#EXTINF:-1,REDE VIDA
-http://vipeiptv.com:25461/genesio123/genesio123/856524
-#EXTINF:-1,REDETV!
-http://vipeiptv.com:25461/genesio123/genesio123/856525
-#EXTINF:-1,RIT
-http://vipeiptv.com:25461/genesio123/genesio123/856526
-#EXTINF:-1,SBT SD
-http://vipeiptv.com:25461/genesio123/genesio123/856527
-#EXTINF:-1,SBT SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856528
-#EXTINF:-1,SBT HD
-http://vipeiptv.com:25461/genesio123/genesio123/856529
-#EXTINF:-1,SBT HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856530
-#EXTINF:-1,RECORD BA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856532
-#EXTINF:-1,RECORD BELEM
-http://vipeiptv.com:25461/genesio123/genesio123/856533
-#EXTINF:-1,RECORD DF HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856534
-#EXTINF:-1,RECORD GO HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856536
-#EXTINF:-1,RECORD MINAS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856537
-#EXTINF:-1,RECORD MINAS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856538
-#EXTINF:-1,RECORD RJ HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856540
-#EXTINF:-1,RECORD RS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856541
-#EXTINF:-1,RECORD RS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856542
-#EXTINF:-1,RECORD SP HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856543
-#EXTINF:-1,REDE TV SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856548
-#EXTINF:-1,REDE TV HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856549
-#EXTINF:-1,TV DIARIO SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856551
-#EXTINF:-1,TV DIARIO HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856552
-#EXTINF:-1,TV CÂMARA
-http://vipeiptv.com:25461/genesio123/genesio123/856554
-#EXTINF:-1,TVE
-http://vipeiptv.com:25461/genesio123/genesio123/856555
-#EXTINF:-1,BABY TV SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856577
-#EXTINF:-1,BABY HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856578
-#EXTINF:-1,BOOMERANG
-http://vipeiptv.com:25461/genesio123/genesio123/856580
-#EXTINF:-1,BOOMERANG SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856581
-#EXTINF:-1,BOOMERANG HD
-http://vipeiptv.com:25461/genesio123/genesio123/856582
-#EXTINF:-1,BOOMERANG HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856583
-#EXTINF:-1,BOOMERANG FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856584
-#EXTINF:-1,CARTOON NETWORK SD
-http://vipeiptv.com:25461/genesio123/genesio123/856585
-#EXTINF:-1,CARTOON NETWORK SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856586
-#EXTINF:-1,CARTOON NETWORK HD
-http://vipeiptv.com:25461/genesio123/genesio123/856587
-#EXTINF:-1,CARTOON NETWORK HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856588
-#EXTINF:-1,DISCOVERY KIDS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856590
-#EXTINF:-1,DISCOVERY KIDS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856591
-#EXTINF:-1,DISCOVERY KIDS HD
-http://vipeiptv.com:25461/genesio123/genesio123/856592
-#EXTINF:-1,DISCOVERY KIDS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856593
-#EXTINF:-1,DISNEY CHANNEL SD
-http://vipeiptv.com:25461/genesio123/genesio123/856595
-#EXTINF:-1,DISNEY CHANNEL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856596
-#EXTINF:-1,DISNEY CHANNEL HD
-http://vipeiptv.com:25461/genesio123/genesio123/856597
-#EXTINF:-1,DISNEY CHANNEL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856598
-#EXTINF:-1,DISNEY JUNIOR SD
-http://vipeiptv.com:25461/genesio123/genesio123/856600
-#EXTINF:-1,DISNEY JUNIOR SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856601
-#EXTINF:-1,DISNEY JUNIOR HD
-http://vipeiptv.com:25461/genesio123/genesio123/856602
-#EXTINF:-1,DISNEY JR HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856603
-#EXTINF:-1,DISNEY XD SD
-http://vipeiptv.com:25461/genesio123/genesio123/856605
-#EXTINF:-1,DISNEY XD SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856606
-#EXTINF:-1,DISNEY XD HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856607
-#EXTINF:-1,GLOOB SD
-http://vipeiptv.com:25461/genesio123/genesio123/856609
-#EXTINF:-1,GLOOB SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856610
-#EXTINF:-1,GLOOB HD
-http://vipeiptv.com:25461/genesio123/genesio123/856611
-#EXTINF:-1,GLOOB HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856612
-#EXTINF:-1,NATGEO KIDS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856617
-#EXTINF:-1,NATGEO KIDS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856618
-#EXTINF:-1,NICK JR. SD
-http://vipeiptv.com:25461/genesio123/genesio123/856620
-#EXTINF:-1,NICK JR SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856621
-#EXTINF:-1,NICK JR. HD
-http://vipeiptv.com:25461/genesio123/genesio123/856622
-#EXTINF:-1,NICK JR HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856623
-#EXTINF:-1,NICKELODEON SD
-http://vipeiptv.com:25461/genesio123/genesio123/856625
-#EXTINF:-1,NICKELODEON SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856626
-#EXTINF:-1,NICKELODEON HD
-http://vipeiptv.com:25461/genesio123/genesio123/856627
-#EXTINF:-1,NICKELODEON HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856628
-#EXTINF:-1,PLAY KIDS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856630
-#EXTINF:-1,TOONCAST SD
-http://vipeiptv.com:25461/genesio123/genesio123/856631
-#EXTINF:-1,TOONCAST SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856632
-#EXTINF:-1,TOONCAST HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856633
-#EXTINF:-1,TV RÁ-TIM-BUM SSD
-http://vipeiptv.com:25461/genesio123/genesio123/856635
-#EXTINF:-1,TV RA TIM BUM SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856636
-#EXTINF:-1,TV RA TIM BUM HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856637
-#EXTINF:-1,ZOOMOO
-http://vipeiptv.com:25461/genesio123/genesio123/856639
-#EXTINF:-1,BIS SD
-http://vipeiptv.com:25461/genesio123/genesio123/856640
-#EXTINF:-1,BIS SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856641
-#EXTINF:-1,BIS HD
-http://vipeiptv.com:25461/genesio123/genesio123/856642
-#EXTINF:-1,BIS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856643
-#EXTINF:-1,CURTA! SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856649
-#EXTINF:-1,CURTA! HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856650
-#EXTINF:-1,CURTA! FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856651
-#EXTINF:-1,CANAL BRASIL HD
-http://vipeiptv.com:25461/genesio123/genesio123/856652
-#EXTINF:-1,CANAL SONY SD
-http://vipeiptv.com:25461/genesio123/genesio123/856653
-#EXTINF:-1,CANAL SONY HD
-http://vipeiptv.com:25461/genesio123/genesio123/856654
-#EXTINF:-1,CANÇÃO NOVA SD
-http://vipeiptv.com:25461/genesio123/genesio123/856655
-#EXTINF:-1,CANÇÃO NOVA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856656
-#EXTINF:-1,COMEDY CENTRAL SD
-http://vipeiptv.com:25461/genesio123/genesio123/856657
-#EXTINF:-1,COMEDY CENTRAL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856658
-#EXTINF:-1,COMEDY CENTRAL HD
-http://vipeiptv.com:25461/genesio123/genesio123/856659
-#EXTINF:-1,COMEDY CENTRAL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856660
-#EXTINF:-1,E! SD
-http://vipeiptv.com:25461/genesio123/genesio123/856663
-#EXTINF:-1,E! HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856664
-#EXTINF:-1,E! HD
-http://vipeiptv.com:25461/genesio123/genesio123/856665
-#EXTINF:-1,FISH TV SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856668
-#EXTINF:-1,FISH TV HD
-http://vipeiptv.com:25461/genesio123/genesio123/856669
-#EXTINF:-1,FISH TV HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856670
-#EXTINF:-1,FOOD NETWORK SD
-http://vipeiptv.com:25461/genesio123/genesio123/856672
-#EXTINF:-1,FOOD NETWORK SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856673
-#EXTINF:-1,FOOD NETWORK HD
-http://vipeiptv.com:25461/genesio123/genesio123/856674
-#EXTINF:-1,FOOD NETWORK HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856675
-#EXTINF:-1,FOOD NETWORK FHD
-http://vipeiptv.com:25461/genesio123/genesio123/856676
-#EXTINF:-1,FOX LIFE SD
-http://vipeiptv.com:25461/genesio123/genesio123/856678
-#EXTINF:-1,FOX LIFE SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856679
-#EXTINF:-1,FOX LIFE HD
-http://vipeiptv.com:25461/genesio123/genesio123/856680
-#EXTINF:-1,FOX LIFE HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856681
-#EXTINF:-1,FUTURA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856684
-#EXTINF:-1,GNT SD
-http://vipeiptv.com:25461/genesio123/genesio123/856685
-#EXTINF:-1,GNT SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856686
-#EXTINF:-1,GNT HD
-http://vipeiptv.com:25461/genesio123/genesio123/856687
-#EXTINF:-1,GNT HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856688
-#EXTINF:-1,LIFETIME SD
-http://vipeiptv.com:25461/genesio123/genesio123/856691
-#EXTINF:-1,LIFETIME SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856692
-#EXTINF:-1,LIFETIME HD
-http://vipeiptv.com:25461/genesio123/genesio123/856693
-#EXTINF:-1,LIFETIME HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856694
-#EXTINF:-1,MAIS GLOBOSAT SD
-http://vipeiptv.com:25461/genesio123/genesio123/856696
-#EXTINF:-1,MAIS GLOBOSAT SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856697
-#EXTINF:-1,MAIS GLOBOSAT HD
-http://vipeiptv.com:25461/genesio123/genesio123/856698
-#EXTINF:-1,MAIS GLOBOSAT HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856699
-#EXTINF:-1,MTV SD
-http://vipeiptv.com:25461/genesio123/genesio123/856701
-#EXTINF:-1,MTV SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856702
-#EXTINF:-1,MTV HD
-http://vipeiptv.com:25461/genesio123/genesio123/856703
-#EXTINF:-1,MTV HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856704
-#EXTINF:-1,MULTISHOW SD
-http://vipeiptv.com:25461/genesio123/genesio123/856706
-#EXTINF:-1,MULTISHOW SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856707
-#EXTINF:-1,MULTISHOW HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856708
-#EXTINF:-1,MULTISHOW HD
-http://vipeiptv.com:25461/genesio123/genesio123/856709
-#EXTINF:-1,MUSIC BOX BRASIL SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856711
-#EXTINF:-1,MUSIC BOX BRASIL HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856712
-#EXTINF:-1,OFF SD
-http://vipeiptv.com:25461/genesio123/genesio123/856714
-#EXTINF:-1,OFF SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856715
-#EXTINF:-1,OFF HD
-http://vipeiptv.com:25461/genesio123/genesio123/856716
-#EXTINF:-1,OFF HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856717
-#EXTINF:-1,PLAY TV SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856719
-#EXTINF:-1,PLAY TV HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856720
-#EXTINF:-1,WOOHOO SD
-http://vipeiptv.com:25461/genesio123/genesio123/856732
-#EXTINF:-1,WOOHOO HD
-http://vipeiptv.com:25461/genesio123/genesio123/856734
-#EXTINF:-1,VIVA SD
-http://vipeiptv.com:25461/genesio123/genesio123/856736
-#EXTINF:-1,VIVA SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856737
-#EXTINF:-1,VIVA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856738
-#EXTINF:-1,VIVA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856739
-#EXTINF:-1,WOOHOO SD
-http://vipeiptv.com:25461/genesio123/genesio123/856741
-#EXTINF:-1,WOHOO SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856742
-#EXTINF:-1,WOOHOO HD
-http://vipeiptv.com:25461/genesio123/genesio123/856743
-#EXTINF:-1,TV CABO BRANCO HD
-http://vipeiptv.com:25461/genesio123/genesio123/856807
-#EXTINF:-1,TV CABO BRANCO SD
-http://vipeiptv.com:25461/genesio123/genesio123/856808
-#EXTINF:-1,Big Brother Brasil HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856818
-#EXTINF:-1,Big Brother Brasil SD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856819
-#EXTINF:-1,Big Brother Brasil HD
-http://vipeiptv.com:25461/genesio123/genesio123/856820
-#EXTINF:-1,Big Brother Brasil SD
-http://vipeiptv.com:25461/genesio123/genesio123/856821
-#EXTINF:-1,CANÇÃO NOVA
-http://vipeiptv.com:25461/genesio123/genesio123/856822
-#EXTINF:-1,CANÇÃO NOVA ²
-http://vipeiptv.com:25461/genesio123/genesio123/856823
-#EXTINF:-1,CANÇÃO NOVA  HD
-http://vipeiptv.com:25461/genesio123/genesio123/856824
-#EXTINF:-1,CANÇÃO NOVA SD
-http://vipeiptv.com:25461/genesio123/genesio123/856825
-#EXTINF:-1,NOVO TEMPO ²
-http://vipeiptv.com:25461/genesio123/genesio123/856826
-#EXTINF:-1,NOVO TEMPO HD ²
-http://vipeiptv.com:25461/genesio123/genesio123/856827
-#EXTINF:-1,PAI ETERNO SD
-http://vipeiptv.com:25461/genesio123/genesio123/856828
-#EXTINF:-1,REDE VIDA
-http://vipeiptv.com:25461/genesio123/genesio123/856829
-#EXTINF:-1,TV APARECIDA  SD
-http://vipeiptv.com:25461/genesio123/genesio123/856830
-#EXTINF:-1,TV APARECIDA ²
-http://vipeiptv.com:25461/genesio123/genesio123/856831
-#EXTINF:-1,TV APARECIDA HD
-http://vipeiptv.com:25461/genesio123/genesio123/856832
-#EXTINF:-1,TV EVANGELIZAR ES ²
-http://vipeiptv.com:25461/genesio123/genesio123/856833
-#EXTINF:-1,TV NOVO TEMPO  SD
-http://vipeiptv.com:25461/genesio123/genesio123/856834
-#EXTINF:-1,Conmebol TV 3 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856843
-#EXTINF:-1,SBT RS HD
-http://vipeiptv.com:25461/genesio123/genesio123/856845
-#EXTINF:-1,CONMEBOL TV SD (JOGO 1)
-http://vipeiptv.com:25461/genesio123/genesio123/856853
-#EXTINF:-1,CONMEBOL TV SD (JOGO 3)
-http://vipeiptv.com:25461/genesio123/genesio123/856855
-#EXTINF:-1,CONMEBOL TV SD (JOGO 4)
-http://vipeiptv.com:25461/genesio123/genesio123/856856
-#EXTINF:-1,CONMEBOL TV FHD (JOGO 1)
-http://vipeiptv.com:25461/genesio123/genesio123/856857
-#EXTINF:-1,CONMEBOL TV FHD (JOGO 2)
-http://vipeiptv.com:25461/genesio123/genesio123/856858
-#EXTINF:-1,CONMEBOL TV HD (JOGO 2)
-http://vipeiptv.com:25461/genesio123/genesio123/856860
-#EXTINF:-1,CONMEBOL TV FHD (JOGO 3)
-http://vipeiptv.com:25461/genesio123/genesio123/856861
-#EXTINF:-1,CONMEBOL TV HD ALT (JOGO 3)
-http://vipeiptv.com:25461/genesio123/genesio123/856862
-#EXTINF:-1,DAZN SD
-http://vipeiptv.com:25461/genesio123/genesio123/856967
-#EXTINF:-1,DAZN 1 HD
-http://vipeiptv.com:25461/genesio123/genesio123/856968
-#EXTINF:-1,DAZN 01 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856969
-#EXTINF:-1,DAZN 03 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856970
-#EXTINF:-1,DAZN 04 HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856971
-#EXTINF:-1,Ei Plus HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856972
-#EXTINF:-1,MOSAICO PREMIERE FHD H264 ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856973
-#EXTINF:-1,MOSAICO PREMIERE HD  ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856974
-#EXTINF:-1,LIGA FUTSAL 2020
-http://vipeiptv.com:25461/genesio123/genesio123/856975
-#EXTINF:-1,FURACAO TV
-http://vipeiptv.com:25461/genesio123/genesio123/856976
-#EXTINF:-1,FUTEBOL HD
-http://vipeiptv.com:25461/genesio123/genesio123/856977
-#EXTINF:-1,GOLF CHANNEL HD
-http://vipeiptv.com:25461/genesio123/genesio123/856978
-#EXTINF:-1,GOLF CHANNEL FHD H264
-http://vipeiptv.com:25461/genesio123/genesio123/856979
-#EXTINF:-1,GLOBO VITORIA ES ALT
-http://vipeiptv.com:25461/genesio123/genesio123/856999
-#EXTINF:-1,GLOBO VITORIA HD ES ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857000
-#EXTINF:-1,GLOBO VITORIA ES. FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857001
-#EXTINF:-1,Globo Internacional HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857002
-#EXTINF:-1,Globo Sergipe - Tv Sergipe HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857003
-#EXTINF:-1,RBS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857004
-#EXTINF:-1,RBS CAXIAS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857005
-#EXTINF:-1,RBS CAXIAS FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857006
-#EXTINF:-1,RBS PELOTAS FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857007
-#EXTINF:-1,RBS PELOTAS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857008
-#EXTINF:-1,RPC FOZ DO IGUAÇU FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857009
-#EXTINF:-1,TV VANGUARDA FHD (SAO JOSE DOS CAMPOS ) ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857010
-#EXTINF:-1,RBSTV STA MARIA ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857011
-#EXTINF:-1,EPTV Sao Carlos ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857012
-#EXTINF:-1,Globo Manaus HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857013
-#EXTINF:-1,EPTV RIBEIRAO PRETO HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857014
-#EXTINF:-1,RPC FOZ DO IGUAÇU HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857015
-#EXTINF:-1,TV CLUBE HD ( GLOBO PIAUI) ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857016
-#EXTINF:-1,TV Asa branca HD (Globo-Caruaru - PE) ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857017
-#EXTINF:-1,Globo Paraiba HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857018
-#EXTINF:-1,TV Tem Sao Jose do Rio Preto ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857019
-#EXTINF:-1,TV Santa Cruz TV Bahia HD -GLOBO- ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857020
-#EXTINF:-1,TV Subae (globo bahia HD) ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857021
-#EXTINF:-1,RECORD BRASILIA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857022
-#EXTINF:-1,SBT ES FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857023
-#EXTINF:-1,RECORD SAO JOSE RIO PRETO HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857024
-#EXTINF:-1,RECORD SERGIPE - TV ATALAIA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857025
-#EXTINF:-1,RECORD TV LITORAL HD Santos ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857026
-#EXTINF:-1,SBT BSB HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857027
-#EXTINF:-1,SBT RS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857028
-#EXTINF:-1,SBT SERGIPE -Tv APERIPER HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857029
-#EXTINF:-1,TV ARATU HD SBT BAHIA ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857030
-#EXTINF:-1,TV CABRALIA HD BAHIA RECORD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857031
-#EXTINF:-1,TV PARANAÍBA HD RECORD -UBERLANDIA-MG ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857032
-#EXTINF:-1,SBT - ES  ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857033
-#EXTINF:-1,SBT ES HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857034
-#EXTINF:-1,TV VITORIA ES ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857035
-#EXTINF:-1,TV VITORIA ES FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857036
-#EXTINF:-1,TV VITORIA ES HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857037
-#EXTINF:-1,TVB RECORD CAMPINAS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857038
-#EXTINF:-1,NSC TV SANTA CATARINA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857039
-#EXTINF:-1,RECORD TV SANTA CATARINA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857040
-#EXTINF:-1,TV ALTEROSA HD [SBT MG] ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857041
-#EXTINF:-1,TV TAROBA HD [BAND PARANA] ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857042
-#EXTINF:-1,SBT PARANA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857043
-#EXTINF:-1,RECORD TV PARANA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857044
-#EXTINF:-1,INTERTV CABO FRIO HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857045
-#EXTINF:-1,TV LIBERAL HD (BELEM) ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857046
-#EXTINF:-1,SBT-MG-TV ALTEROSA FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857047
-#EXTINF:-1,SBT RJ HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857048
-#EXTINF:-1,SBT RJ FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857049
-#EXTINF:-1,RECORD MANAUS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857050
-#EXTINF:-1,TV CAPIXABA HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857051
-#EXTINF:-1,RECORD ITAPOAN - BAHIA ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857052
-#EXTINF:-1,CNT ES FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857053
-#EXTINF:-1,CNT ES HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857054
-#EXTINF:-1,CNT ES ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857055
-#EXTINF:-1,TV CULTURA ES FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857056
-#EXTINF:-1,TV CULTURA ES HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857057
-#EXTINF:-1,TV CULTURA ES ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857058
-#EXTINF:-1,BAND BAHIA ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857059
-#EXTINF:-1,BAND RJ FHD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857060
-#EXTINF:-1,BAND BSB HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857061
-#EXTINF:-1,BAND CAMPINAS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857062
-#EXTINF:-1,BAND RJ HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857063
-#EXTINF:-1,BAND RS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857064
-#EXTINF:-1,BAND SERGIPE HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857065
-#EXTINF:-1,BAND SP HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857066
-#EXTINF:-1,RECORD BH MINAS HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857067
-#EXTINF:-1,GAZETA HD SP ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857068
-#EXTINF:-1,TV SENADO ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857069
-#EXTINF:-1,TV CAMARA ALT
-http://vipeiptv.com:25461/genesio123/genesio123/857070
-#EXTINF:-1,Conmebol TV 1 HD
-http://vipeiptv.com:25461/genesio123/genesio123/857189
-#EXTINF:-1,Conmebol TV 2 HD
-http://vipeiptv.com:25461/genesio123/genesio123/857190
-#EXTINF:-1,Conmebol TV 4 HD
-http://vipeiptv.com:25461/genesio123/genesio123/857191
-#EXTINF:-1,Esporte Interativo HD 3
-http://vipeiptv.com:25461/genesio123/genesio123/860471
-#EXTINF:-1,Esporte Interativo HD 2
-http://vipeiptv.com:25461/genesio123/genesio123/860472
-#EXTINF:-1,Esporte Interativo HD
-http://vipeiptv.com:25461/genesio123/genesio123/860473
-#EXTINF:-1,Esporte Interativo HD (Multijogos)
-http://vipeiptv.com:25461/genesio123/genesio123/860474
-#EXTINF:-1,Esporte Interativo HD 2 ALT
-http://vipeiptv.com:25461/genesio123/genesio123/860476
-#EXTINF:-1,Esporte Interativo HD 1 ALT
-http://vipeiptv.com:25461/genesio123/genesio123/860477
-#EXTINF:-1,Esporte Interativo HD ALT
-http://vipeiptv.com:25461/genesio123/genesio123/860478
-#EXTINF:-1,Esporte Interativo HD ALT (Multijogos)
-http://vipeiptv.com:25461/genesio123/genesio123/860479
-#EXTINF:-1,EI PLUS HD
-http://vipeiptv.com:25461/genesio123/genesio123/860480
-#EXTINF:-1,Ei Max Jogo 1
-http://vipeiptv.com:25461/genesio123/genesio123/860481
-#EXTINF:-1,Ei Max Jogos02
-http://vipeiptv.com:25461/genesio123/genesio123/860482
-#EXTINF:-1,Ei Max Jogos03
-http://vipeiptv.com:25461/genesio123/genesio123/860483
-#EXTINF:-1,Ei Max Jogos04
-http://vipeiptv.com:25461/genesio123/genesio123/860484
-#EXTINF:-1,Ei MaxJogo 1 ALT
-http://vipeiptv.com:25461/genesio123/genesio123/860485
-#EXTINF:-1,Ei MaxJogos02 ALT
-http://vipeiptv.com:25461/genesio123/genesio123/860486
-#EXTINF:-1,Ei MaxJogos03 ALT
-http://vipeiptv.com:25461/genesio123/genesio123/860487
-#EXTINF:-1,Ei MaxJogos04 ALT
-http://vipeiptv.com:25461/genesio123/genesio123/860488
-#EXTINF:-1,FB JOGO 2
-http://vipeiptv.com:25461/genesio123/genesio123/863563
-#EXTINF:-1,FB JOGO 1 ALT
-http://vipeiptv.com:25461/genesio123/genesio123/863564
-#EXTINF:-1,FB JOGO 2 ALT
-http://vipeiptv.com:25461/genesio123/genesio123/863565
-#EXTINF:-1,FB JOGO 1
-http://vipeiptv.com:25461/genesio123/genesio123/863566
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD ¹" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31205
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E H.265 ¹" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES",A&E H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71278
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD ²" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88529
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD ¹" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58954
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD ²" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES",A&E SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4396
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD ¹" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES",A&E SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58270
+#EXTINF:-1 tvg-id="-EsportesEspeciais" tvg-name="ABU DABI SPORTS 1 HD ²" tvg-logo="https://i.imgur.com/pNltc3m.png" group-title="CANAIS | PAY-PER VIEW",ABU DABI SPORTS 1 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97885
+#EXTINF:-1 tvg-id="-EsportesEspeciais" tvg-name="ABU DABI SPORTS 2 HD ²" tvg-logo="https://i.imgur.com/i7fvmXg.png" group-title="CANAIS | PAY-PER VIEW",ABU DABI SPORTS 2 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97886
+#EXTINF:-1 tvg-id="-EsportesEspeciais" tvg-name="ABU DABI SPORTS 3 HD ²" tvg-logo="https://i.imgur.com/Rs8oWLX.png" group-title="CANAIS | PAY-PER VIEW",ABU DABI SPORTS 3 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97887
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="AGRO CANAL HD ¹" tvg-logo="https://i.imgur.com/2dSEHdt.png" group-title="CANAIS | ABERTOS",AGRO CANAL HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96862
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ALEXANDRE PIRES 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",ALEXANDRE PIRES 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88476
+#EXTINF:-1 tvg-id="LiveEI" tvg-name="ALL SPORTS HD  ¹" tvg-logo="https://i.imgur.com/n1pxJ7H.png" group-title="CANAIS | PAY-PER VIEW",ALL SPORTS HD  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19235
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD ¹" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/9529
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC H.265 ¹" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="CANAIS | FILMES E SÉRIES",AMC H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71277
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD ¹" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58955
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD ²" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="CANAIS | FILMES E SÉRIES",AMC SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19396
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD ¹" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="CANAIS | FILMES E SÉRIES",AMC SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57785
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K ¹" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | 4K",ANIMAL PLANET 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58915
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD ²" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31198
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD ¹" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/60848
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET H.265 ²" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98905
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD ¹" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58962
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD ²" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4364
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD ¹" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58256
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD ¹" tvg-logo="https://i.imgur.com/cFpIh3Z.png" group-title="CANAIS | VARIEDADES E MUSICAS",ARTE 1 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43972
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 H.265 ²" tvg-logo="https://i.imgur.com/cFpIh3Z.png" group-title="CANAIS | VARIEDADES E MUSICAS",ARTE 1 H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98904
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD ²" tvg-logo="https://i.imgur.com/cFpIh3Z.png" group-title="CANAIS | VARIEDADES E MUSICAS",ARTE 1 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4395
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD ²" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31210
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD ¹" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/8926
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD ²" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES",AXN HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/364
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD ¹" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES",AXN HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58956
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD ²" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES",AXN SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4296
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD ¹" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES",AXN SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58271
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV FHD ²" tvg-logo="https://i.imgur.com/pMlWvSe.png" group-title="CANAIS | INFANTIL",BABY TV FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/91727
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD ²" tvg-logo="https://i.imgur.com/pMlWvSe.png" group-title="CANAIS | INFANTIL",BABY TV SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4412
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND 4K ¹" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | 4K",BAND 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58886
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD ¹" tvg-logo="https://i.imgur.com/fNKWE0B.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/8927
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD ¹" tvg-logo="https://i.imgur.com/fNKWE0B.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31175
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD ²" tvg-logo="https://i.imgur.com/fNKWE0B.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/8002
+#EXTINF:-1 tvg-id="Bloomberg.br" tvg-name="BLOOMBERG CHANNEL HD ²" tvg-logo="https://i.imgur.com/25a3R3a.png" group-title="CANAIS | NOTÍCIAS",BLOOMBERG CHANNEL HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/100834
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RBA BELÉM HD ²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | ABERTOS",BAND RBA BELÉM HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90393
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RBA BELÉM SD ²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | ABERTOS",BAND RBA BELÉM SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90394
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD  ¹" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6325
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD ²" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31174
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD  ¹" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/417
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD ²" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4336
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD ¹" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58279
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES FHD ¹" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | ABERTOS",BANDEIRANTES FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6279
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES HD ²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | ABERTOS",BANDEIRANTES HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19227
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES HD ¹" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | ABERTOS",BANDEIRANTES HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55087
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES SD ¹" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | ABERTOS",BANDEIRANTES SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/14040
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES SP FHD ²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | ABERTOS",BANDEIRANTES SP FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43491
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES SP HD ²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | ABERTOS",BANDEIRANTES SP HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4197
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BELO 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",BELO 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88474
+#EXTINF:-1 tvg-id="BBB21 - CASA 1" tvg-name="BIG BROTHER BRASIL 21 FHD - ACOMPANHE A CASA ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 FHD - ACOMPANHE A CASA ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97891
+#EXTINF:-1 tvg-id="BBB21 - CASA 1" tvg-name="BIG BROTHER BRASIL 21 HD - ACOMPANHE A CASA ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 HD - ACOMPANHE A CASA ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97892
+#EXTINF:-1 tvg-id="BBB21 - CASA 1" tvg-name="BIG BROTHER BRASIL 21 HD - ACOMPANHE A CASA ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 HD - ACOMPANHE A CASA ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97517
+#EXTINF:-1 tvg-id="BBB21 - CAM MOSAICO" tvg-name="BIG BROTHER BRASIL 21 FHD - CAM MOSAICO  ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 FHD - CAM MOSAICO  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98065
+#EXTINF:-1 tvg-id="BBB21 - CAM MOSAICO" tvg-name="BIG BROTHER BRASIL 21 HD - CAM MOSAICO  ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 HD - CAM MOSAICO  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98066
+#EXTINF:-1 tvg-id="BBB21 - CAM MOSAICO" tvg-name="BIG BROTHER BRASIL 21 SD - CAM MOSAICO ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 SD - CAM MOSAICO ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97516
+#EXTINF:-1 tvg-id="BBB21 - CAM MOSAICO" tvg-name="BIG BROTHER BRASIL 21 SD - CAM MOSAICO ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 SD - CAM MOSAICO ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98643
+#EXTINF:-1 tvg-id="BBB21 - CAM 1" tvg-name="BIG BROTHER BRASIL 21 CAM 01 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 01 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97978
+#EXTINF:-1 tvg-id="BBB21 - CAM 1" tvg-name="BIG BROTHER BRASIL 21 CAM 01 ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 01 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98634
+#EXTINF:-1 tvg-id="BBB21 - CAM 2" tvg-name="BIG BROTHER BRASIL 21 CAM 02 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 02 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97979
+#EXTINF:-1 tvg-id="BBB21 - CAM 2" tvg-name="BIG BROTHER BRASIL 21 CAM 02 ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 02 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98635
+#EXTINF:-1 tvg-id="BBB21 - CAM 3" tvg-name="BIG BROTHER BRASIL 21 CAM 03 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 03 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97980
+#EXTINF:-1 tvg-id="BBB21 - CAM 3" tvg-name="BIG BROTHER BRASIL 21 CAM 03 ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 03 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98636
+#EXTINF:-1 tvg-id="BBB21 - CAM 4" tvg-name="BIG BROTHER BRASIL 21 CAM 04 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 04 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97981
+#EXTINF:-1 tvg-id="BBB21 - CAM 4" tvg-name="BIG BROTHER BRASIL 21 CAM 04 ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 04 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98637
+#EXTINF:-1 tvg-id="BBB21 - CAM 5" tvg-name="BIG BROTHER BRASIL 21 CAM 05 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 05 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97982
+#EXTINF:-1 tvg-id="BBB21 - CAM 5" tvg-name="BIG BROTHER BRASIL 21 CAM 05 ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 05 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98638
+#EXTINF:-1 tvg-id="BBB21 - CAM 6" tvg-name="BIG BROTHER BRASIL 21 CAM 06 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 06 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97983
+#EXTINF:-1 tvg-id="BBB21 - CAM 6" tvg-name="BIG BROTHER BRASIL 21 CAM 06 ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 06 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98639
+#EXTINF:-1 tvg-id="BBB21 - CAM 7" tvg-name="BIG BROTHER BRASIL 21 CAM 07 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 07 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97984
+#EXTINF:-1 tvg-id="BBB21 - CAM 7" tvg-name="BIG BROTHER BRASIL 21 CAM 07 ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 07 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98640
+#EXTINF:-1 tvg-id="BBB21 - CAM 8" tvg-name="BIG BROTHER BRASIL 21 CAM 08 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 08 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97985
+#EXTINF:-1 tvg-id="BBB21 - CAM 8" tvg-name="BIG BROTHER BRASIL 21 CAM 08 ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 08 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98641
+#EXTINF:-1 tvg-id="BBB21 - CAM 9" tvg-name="BIG BROTHER BRASIL 21 CAM 09 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 09 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97986
+#EXTINF:-1 tvg-id="BBB21 - CAM 9" tvg-name="BIG BROTHER BRASIL 21 CAM 09 ¹" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 09 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98642
+#EXTINF:-1 tvg-id="BBB21 - CAM 10" tvg-name="BIG BROTHER BRASIL 21 CAM 10 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 10 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97987
+#EXTINF:-1 tvg-id="BBB21 - CAM 11" tvg-name="BIG BROTHER BRASIL 21 CAM 11 ²" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 21",BIG BROTHER BRASIL 21 CAM 11 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97988
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD ²" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES E MUSICAS",BIS FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57481
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD ¹" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES E MUSICAS",BIS FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/70988
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD ²" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES E MUSICAS",BIS HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43489
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD ²" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES E MUSICAS",BIS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4393
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD ¹" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES E MUSICAS",BIS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58253
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD ²" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIL",BOOMERANG FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31173
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD ¹" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIL",BOOMERANG FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31900
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD ¹" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIL",BOOMERANG HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/32799
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD ²" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIL",BOOMERANG SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4410
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD ¹" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIL",BOOMERANG SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58806
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BRUNO E MARRONE 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",BRUNO E MARRONE 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88473
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CABARÉ 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",CABARÉ 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90694
+#EXTINF:-1 tvg-id="-EsportesEspeciais" tvg-name="CAMPEONATO CARIOCA 01 HD ²" tvg-logo="https://i.imgur.com/5hvfUru.png" group-title="CANAIS | PAY-PER VIEW",CAMPEONATO CARIOCA 01 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98820
+#EXTINF:-1 tvg-id="-EsportesEspeciais" tvg-name="CAMPEONATO CARIOCA 01 SD ²" tvg-logo="https://i.imgur.com/5hvfUru.png" group-title="CANAIS | PAY-PER VIEW",CAMPEONATO CARIOCA 01 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98819
+#EXTINF:-1 tvg-id="-EsportesEspeciais" tvg-name="CAMPEONATO CARIOCA 02 HD ²" tvg-logo="https://i.imgur.com/5hvfUru.png" group-title="CANAIS | PAY-PER VIEW",CAMPEONATO CARIOCA 02 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98822
+#EXTINF:-1 tvg-id="-EsportesEspeciais" tvg-name="CAMPEONATO CARIOCA 02 SD ²" tvg-logo="https://i.imgur.com/5hvfUru.png" group-title="CANAIS | PAY-PER VIEW",CAMPEONATO CARIOCA 02 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98821
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD ²" tvg-logo="https://i.imgur.com/NSXe1ED.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43487
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD ¹" tvg-logo="https://i.imgur.com/NSXe1ED.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/17344
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD ²" tvg-logo="https://i.imgur.com/NSXe1ED.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71424
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD ²" tvg-logo="https://i.imgur.com/NSXe1ED.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7895
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD ¹" tvg-logo="https://i.imgur.com/NSXe1ED.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58259
+#EXTINF:-1 tvg-id="Especial24h.br" tvg-name="CANAL LOADING FHD ¹" tvg-logo="https://i.imgur.com/ttjesxS.png" group-title="CANAIS | ABERTOS",CANAL LOADING FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97284
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD ²" tvg-logo="https://i.imgur.com/HILKKUT.png" group-title="CANAIS | VARIEDADES E MUSICAS",CANAL OFF FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31180
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD ¹" tvg-logo="https://i.imgur.com/HILKKUT.png" group-title="CANAIS | VARIEDADES E MUSICAS",CANAL OFF FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57483
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF H.265 ¹" tvg-logo="https://i.imgur.com/HILKKUT.png" group-title="CANAIS | VARIEDADES E MUSICAS",CANAL OFF H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71297
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD ²" tvg-logo="https://i.imgur.com/HILKKUT.png" group-title="CANAIS | VARIEDADES E MUSICAS",CANAL OFF HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7943
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD ¹" tvg-logo="https://i.imgur.com/HILKKUT.png" group-title="CANAIS | VARIEDADES E MUSICAS",CANAL OFF SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7942
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL SD ²" tvg-logo="https://i.imgur.com/dRlvm4f.png" group-title="CANAIS | ABERTOS",CANAL RURAL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96774
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL SD ¹" tvg-logo="https://i.imgur.com/dRlvm4f.png" group-title="CANAIS | ABERTOS",CANAL RURAL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96773
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD ²" tvg-logo="https://i.imgur.com/NWjfPlD.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31230
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD ¹" tvg-logo="https://i.imgur.com/NWjfPlD.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43977
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY H.265 ²" tvg-logo="https://i.imgur.com/NWjfPlD.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96771
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY H.265 ¹" tvg-logo="https://i.imgur.com/NWjfPlD.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71279
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD ¹" tvg-logo="https://i.imgur.com/NWjfPlD.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58957
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD ALTER" tvg-logo="https://i.imgur.com/NWjfPlD.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY SD ALTER
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96772
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD ²" tvg-logo="https://i.imgur.com/NWjfPlD.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7912
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD ¹" tvg-logo="https://i.imgur.com/NWjfPlD.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/314
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇAO NOVA SD ²" tvg-logo="https://i.imgur.com/pkttYOs.png" group-title="CANAIS | RELIGIOSOS",CANÇAO NOVA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58272
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇAO NOVA SD ¹" tvg-logo="https://i.imgur.com/pkttYOs.png" group-title="CANAIS | RELIGIOSOS",CANÇAO NOVA SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55084
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA FHD ²" tvg-logo="https://i.imgur.com/pkttYOs.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/44890
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK 4K ¹" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | 4K",CARTOON NETWORK 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/59412
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD ²" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43488
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD ¹" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6395
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD ¹" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31229
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD ¹" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/549
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD ¹" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58807
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY LIGA DA JUSTIÇA HD ²" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY LIGA DA JUSTIÇA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/101209
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 01 HD ²" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 01 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96865
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 01 HD ¹" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 01 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88285
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 02 HD ²" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 02 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96866
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 02 HD ¹" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 02 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88286
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 03 HD ²" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 03 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96867
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 03 HD ¹" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 03 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88287
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 04 HD ²" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 04 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96868
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 04 HD ¹" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 04 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88288
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 05 HD " tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 05 HD 
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88289
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 05 HD ²" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 05 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96869
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 06 HD " tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 06 HD 
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88290
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 07 HD" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 07 HD
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88291
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 08 HD ¹" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 08 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93209
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 09 HD ¹" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 09 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93210
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 10 HD ¹" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CANAIS | CINE SKY",CINE SKY 10 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93211
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD ²" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31194
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD ¹" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45239
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD ¹" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58959
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD ²" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4277
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD ¹" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58276
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD ¹" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71360
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD ²" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71376
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD ¹" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71391
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD ¹" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/100881
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD ²" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71377
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL SD ²" tvg-logo="https://i.imgur.com/2gjugkH.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71258
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD ¹" tvg-logo="https://i.imgur.com/2gjugkH.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71257
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE 4K ¹" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | 4K",COMBATE 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58876
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE H.265 ¹" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",COMBATE H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71265
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD ¹" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",COMBATE FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6324
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD ²" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",COMBATE HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43485
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD ¹" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",COMBATE HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45199
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD ²" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",COMBATE SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7904
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD ²" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES E MUSICAS",COMEDY CENTRAL FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6307
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL H.265 ²" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES E MUSICAS",COMEDY CENTRAL H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98612
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL H.265 ¹" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES E MUSICAS",COMEDY CENTRAL H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71280
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD ¹" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES E MUSICAS",COMEDY CENTRAL HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71371
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD ²" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES E MUSICAS",COMEDY CENTRAL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7931
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD ¹" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES E MUSICAS",COMEDY CENTRAL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58258
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1 4K ¹" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 1 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96699
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1 FHD ²" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 1 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95996
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1 FHD ¹" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 1 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95992
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1 HD ¹" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 1 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96697
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1 SD ²" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 1 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96698
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL TV 2 FHD ²" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 2 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95997
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL TV 2 FHD ¹" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 2 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95993
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL TV 2 HD ¹" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 2 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96700
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL TV 2 SD ²" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 2 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96701
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3 FHD ²" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 3 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95998
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3 FHD ¹" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 3 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95994
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3 HD ¹" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 3 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96702
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3 SD ²" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 3 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96703
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4 FHD ²" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 4 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95999
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4 FHD ¹" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 4 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95995
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4 HD ¹" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 4 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96704
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4 SD ²" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 4 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96705
+#EXTINF:-1 tvg-id="EliteCatarinense.br" tvg-name="COPA CATARINENSE 1 HD ²" tvg-logo="https://i.imgur.com/SSjJvOF.png" group-title="CANAIS | PAY-PER VIEW",COPA CATARINENSE 1 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98595
+#EXTINF:-1 tvg-id="EliteCatarinense.br" tvg-name="COPA CATARINENSE 1 SD ²" tvg-logo="https://i.imgur.com/SSjJvOF.png" group-title="CANAIS | PAY-PER VIEW",COPA CATARINENSE 1 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98594
+#EXTINF:-1 tvg-id="EliteCatarinense.br" tvg-name="COPA CATARINENSE 2 HD ²" tvg-logo="https://i.imgur.com/SSjJvOF.png" group-title="CANAIS | PAY-PER VIEW",COPA CATARINENSE 2 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98597
+#EXTINF:-1 tvg-id="EliteCatarinense.br" tvg-name="COPA CATARINENSE 2 SD ²" tvg-logo="https://i.imgur.com/SSjJvOF.png" group-title="CANAIS | PAY-PER VIEW",COPA CATARINENSE 2 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98596
+#EXTINF:-1 tvg-id="EliteCatarinense.br" tvg-name="COPA CATARINENSE 3 HD ²" tvg-logo="https://i.imgur.com/SSjJvOF.png" group-title="CANAIS | PAY-PER VIEW",COPA CATARINENSE 3 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98599
+#EXTINF:-1 tvg-id="EliteCatarinense.br" tvg-name="COPA CATARINENSE 3 SD ² " tvg-logo="https://i.imgur.com/SSjJvOF.png" group-title="CANAIS | PAY-PER VIEW",COPA CATARINENSE 3 SD ² 
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98598
+#EXTINF:-1 tvg-id="EliteCatarinense.br" tvg-name="COPA CATARINENSE 4 HD ²" tvg-logo="https://i.imgur.com/SSjJvOF.png" group-title="CANAIS | PAY-PER VIEW",COPA CATARINENSE 4 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98601
+#EXTINF:-1 tvg-id="EliteCatarinense.br" tvg-name="COPA CATARINENSE 4 SD ²" tvg-logo="https://i.imgur.com/SSjJvOF.png" group-title="CANAIS | PAY-PER VIEW",COPA CATARINENSE 4 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98600
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 1 HD ²" tvg-logo="https://i.imgur.com/3sbetgU.png" group-title="CANAIS | PAY-PER VIEW",COPA DO NORDESTE 1 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98589
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 1 SD ²" tvg-logo="https://i.imgur.com/3sbetgU.png" group-title="CANAIS | PAY-PER VIEW",COPA DO NORDESTE 1 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98588
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 HD ²" tvg-logo="https://i.imgur.com/3sbetgU.png" group-title="CANAIS | PAY-PER VIEW",COPA DO NORDESTE 2 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98591
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 SD ²" tvg-logo="https://i.imgur.com/3sbetgU.png" group-title="CANAIS | PAY-PER VIEW",COPA DO NORDESTE 2 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98590
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 3 HD ²" tvg-logo="https://i.imgur.com/3sbetgU.png" group-title="CANAIS | PAY-PER VIEW",COPA DO NORDESTE 3 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98593
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 3 SD ²" tvg-logo="https://i.imgur.com/3sbetgU.png" group-title="CANAIS | PAY-PER VIEW",COPA DO NORDESTE 3 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98592
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA FHD ¹" tvg-logo="https://i.imgur.com/siI6PCU.png" group-title="CANAIS | ABERTOS",CULTURA FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19232
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA HD ¹" tvg-logo="https://i.imgur.com/siI6PCU.png" group-title="CANAIS | ABERTOS",CULTURA HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55091
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA PARÁ HD ¹" tvg-logo="https://i.imgur.com/Zkek3EF.png" group-title="CANAIS | ABERTOS",CULTURA PARÁ HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96696
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA SD ²" tvg-logo="https://i.imgur.com/70mHKtn.png" group-title="CANAIS | VARIEDADES E MUSICAS",CURTA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4391
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 1 FHD ²" tvg-logo="https://i.imgur.com/KKV1QQT.png" group-title="CANAIS | PAY-PER VIEW",DAZN 1 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97225
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 1 HD ¹" tvg-logo="https://i.imgur.com/KKV1QQT.png" group-title="CANAIS | PAY-PER VIEW",DAZN 1 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95815
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 1 SD ²" tvg-logo="https://i.imgur.com/KKV1QQT.png" group-title="CANAIS | PAY-PER VIEW",DAZN 1 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97227
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 2 FHD ²" tvg-logo="https://i.imgur.com/KKV1QQT.png" group-title="CANAIS | PAY-PER VIEW",DAZN 2 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97361
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 2 HD ²" tvg-logo="https://i.imgur.com/KKV1QQT.png" group-title="CANAIS | PAY-PER VIEW",DAZN 2 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97362
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 2 SD ³" tvg-logo="https://i.imgur.com/KKV1QQT.png" group-title="CANAIS | PAY-PER VIEW",DAZN 2 SD ³
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97363
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 4K ¹" tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="CANAIS | 4K",DISCOVERY CHANNEL 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58901
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD ¹" tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55008
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL H.265 ¹" tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71281
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD ²" tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43481
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD ²" tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4360
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD ¹" tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58423
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD ²" tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/92860
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD ¹" tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58422
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD ²" tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/92861
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD ¹" tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58964
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD ²" tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4354
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD ¹" tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58424
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD ²" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31177
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD ¹" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31901
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD ¹" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/547
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD ²" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/5614
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD ¹" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58425
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD ²" tvg-logo="https://i.imgur.com/qfSk26c.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57476
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD ¹" tvg-logo="https://i.imgur.com/qfSk26c.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31236
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD ¹" tvg-logo="https://i.imgur.com/qfSk26c.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58965
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD ¹" tvg-logo="https://i.imgur.com/qfSk26c.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/434
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD ²" tvg-logo="https://i.imgur.com/u9qBXCA.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31200
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD ¹" tvg-logo="https://i.imgur.com/u9qBXCA.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45238
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD ¹" tvg-logo="https://i.imgur.com/u9qBXCA.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58966
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD ²" tvg-logo="https://i.imgur.com/u9qBXCA.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/431
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD ²" tvg-logo="https://i.imgur.com/oGCwSJ8.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31171
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD ²" tvg-logo="https://i.imgur.com/oGCwSJ8.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43480
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD ¹" tvg-logo="https://i.imgur.com/oGCwSJ8.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6297
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD ¹" tvg-logo="https://i.imgur.com/oGCwSJ8.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/430
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD ¹" tvg-logo="https://i.imgur.com/UuglX1m.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45237
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD ¹" tvg-logo="https://i.imgur.com/UuglX1m.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58967
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD ²" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43479
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD ¹" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/33525
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD ¹" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/545
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD ²" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7725
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD ¹" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58808
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD ²" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIL",DISNEY JUNIOR FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43477
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD ²" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIL",DISNEY JUNIOR HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43476
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD ¹" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIL",DISNEY JUNIOR HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/32814
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD ²" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIL",DISNEY JUNIOR SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7724
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD ¹" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIL",DISNEY JUNIOR SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58255
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD ²" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIL",DISNEY XD FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43475
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD ¹" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIL",DISNEY XD FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/33524
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD ²" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIL",DISNEY XD HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43474
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD ¹" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIL",DISNEY XD HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/541
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD ²" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIL",DISNEY XD SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7723
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DOG TV FHD ¹" tvg-logo="https://i.imgur.com/Z3n0DAW.png" group-title="CANAIS | VARIEDADES E MUSICAS",DOG TV FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58881
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DOG TV HD ¹" tvg-logo="https://i.imgur.com/Z3n0DAW.png" group-title="CANAIS | VARIEDADES E MUSICAS",DOG TV HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58880
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT H.265 ¹" tvg-logo="https://i.imgur.com/pjmu4r2.png" group-title="CANAIS | VARIEDADES E MUSICAS",E! ENTERTAINMENT H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71282
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT HD ²" tvg-logo="https://i.imgur.com/pjmu4r2.png" group-title="CANAIS | VARIEDADES E MUSICAS",E! ENTERTAINMENT HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71334
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT SD ²" tvg-logo="https://i.imgur.com/pjmu4r2.png" group-title="CANAIS | VARIEDADES E MUSICAS",E! ENTERTAINMENT SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71333
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT SD ²" tvg-logo="https://i.imgur.com/pjmu4r2.png" group-title="CANAIS | VARIEDADES E MUSICAS",E! ENTERTAINMENT SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7945
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD ²" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97242
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD ¹" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97241
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD ²" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPORTES",ESPN 2 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97244
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD ¹" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPORTES",ESPN 2 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97243
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD ²" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPORTES",ESPN 2 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97246
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD ¹" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPORTES",ESPN 2 SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97245
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 4K ¹" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | 4K",ESPN 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93741
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD ¹" tvg-logo="https://i.imgur.com/2psLwZX.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97253
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD ²" tvg-logo="https://i.imgur.com/2psLwZX.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97254
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD ¹" tvg-logo="https://i.imgur.com/2psLwZX.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97255
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD ²" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97258
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD ¹" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97257
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA H.265 ²" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="CANAIS | ESPORTES",ESPN EXTRA H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98906
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD ²" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97259
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD ²" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97261
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD ¹" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97260
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN FHD ²" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPORTES",ESPN FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97247
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD ²" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPORTES",ESPN HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97249
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD ¹" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPORTES",ESPN HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97248
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD ²" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPORTES",ESPN SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97251
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD ¹" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPORTES",ESPN SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97252
+#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESTÁDIO TNT SPORTS 1  HD ¹" tvg-logo="https://i.imgur.com/cm5h3s7.png" group-title="CANAIS | PAY-PER VIEW",ESTÁDIO TNT SPORTS 1  HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/101211
+#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name=" ESTÁDIO TNT SPORTS 2 HD ¹" tvg-logo="https://i.imgur.com/cm5h3s7.png" group-title="CANAIS | PAY-PER VIEW", ESTÁDIO TNT SPORTS 2 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/101212
+#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESTÁDIO TNT SPORTS 1 HD ²" tvg-logo="https://i.imgur.com/cm5h3s7.png" group-title="CANAIS | PAY-PER VIEW",ESTÁDIO TNT SPORTS 1 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97228
+#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESTÁDIO TNT SPORTS 2 HD ²" tvg-logo="https://i.imgur.com/cm5h3s7.png" group-title="CANAIS | PAY-PER VIEW",ESTÁDIO TNT SPORTS 2 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97230
+#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESTÁDIO TNT SPORTS 3 HD ²" tvg-logo="https://i.imgur.com/cm5h3s7.png" group-title="CANAIS | PAY-PER VIEW",ESTÁDIO TNT SPORTS 3 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97232
+#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESTÁDIO TNT SPORTS 1 SD ²" tvg-logo="https://i.imgur.com/cm5h3s7.png" group-title="CANAIS | PAY-PER VIEW",ESTÁDIO TNT SPORTS 1 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97229
+#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESTÁDIO TNT SPORTS 2 SD ²" tvg-logo="https://i.imgur.com/cm5h3s7.png" group-title="CANAIS | PAY-PER VIEW",ESTÁDIO TNT SPORTS 2 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97231
+#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESTÁDIO TNT SPORTS 3 SD ²" tvg-logo="https://i.imgur.com/cm5h3s7.png" group-title="CANAIS | PAY-PER VIEW",ESTÁDIO TNT SPORTS 3 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97233
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION FHD ¹" tvg-logo="https://i.imgur.com/pu4h3m9.png" group-title="CANAIS | VARIEDADES E MUSICAS",FASHION FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45225
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="FELIPE ARAUJO 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",FELIPE ARAUJO 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90692
+#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM & ARTS FHD ²" tvg-logo="https://i.imgur.com/MG6tdJQ.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57711
+#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM & ARTS FHD ¹" tvg-logo="https://i.imgur.com/MG6tdJQ.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45226
+#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM & ARTS SD ¹" tvg-logo="https://i.imgur.com/MG6tdJQ.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58810
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD ¹" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="CANAIS | VARIEDADES E MUSICAS",FISH TV HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45244
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD ²" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="CANAIS | VARIEDADES E MUSICAS",FISH TV SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7946
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD ²" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES E MUSICAS",FOOD NETWORK FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86153
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK H.265 ¹" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES E MUSICAS",FOOD NETWORK H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71284
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD ¹" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES E MUSICAS",FOOD NETWORK HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86152
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD ²" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES E MUSICAS",FOOD NETWORK SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7947
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD ¹" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES E MUSICAS",FOOD NETWORK SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58811
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 4K ¹" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | 4K",FOX SPORTS 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58904
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS H.265 ¹" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | ESPORTES",FOX SPORTS H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71264
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD ²" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43464
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD ¹" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96575
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD  ¹" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19202
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD ²" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96319
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD ²" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96320
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD ¹" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/400
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K ¹" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | 4K",FOX SPORTS 2 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/59414
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD ²" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6321
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD ¹" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31249
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD ¹" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/399
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD ²" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/398
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD ²" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES",FX FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31227
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD ¹" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES",FX FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45236
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX H.265 ¹" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES",FX H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71285
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD ¹" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES",FX HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/346
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD ¹" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES",FX SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58262
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA 4K ¹" tvg-logo="https://i.imgur.com/0Idjy8Y.png" group-title="CANAIS | 4K",GAZETA 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93743
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RJ H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88310
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD  ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ FHD  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/17391
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95270
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/17392
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD ² " tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ HD ² 
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95271
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95272
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55057
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | 4K",GLOBO SP 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58885
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO SP FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71236
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO SP H.265 ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO SP H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71286
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO SP HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71237
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO SP HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/527
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO SP SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58884
+#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="GLOBO AMAZONAS HD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO AMAZONAS HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71234
+#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="GLOBO AMAZONAS SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO AMAZONAS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55058
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO BAHIA H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BAHIA H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88313
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO BAHIA HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BAHIA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71235
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO BAHIA HD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BAHIA HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/94918
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO BAHIA SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BAHIA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/94919
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO BAHIA SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BAHIA SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55054
+#EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="GLOBO BELO HORIZONTE FHD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BELO HORIZONTE FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97288
+#EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="GLOBO BELO HORIZONTE HD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BELO HORIZONTE HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97289
+#EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="GLOBO BELO HORIZONTE SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BELO HORIZONTE SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97290
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO BOA VISTA HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BOA VISTA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86967
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7516
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43459
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19368
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7515
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO CEARÁ HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO CEARÁ HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71196
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO CEARÁ SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO CEARÁ SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96855
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO CENTRO AMERICA CUIABÁ SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO CENTRO AMERICA CUIABÁ SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95568
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO CENTRO AMÉRICA CUIABÁ HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO CENTRO AMÉRICA CUIABÁ HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95567
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO CENTRO AMÉRICA CUIABÁ SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO CENTRO AMÉRICA CUIABÁ SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55053
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO EPTV CAMPINAS FHD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86968
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO EPTV CAMPINAS H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88302
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86969
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7502
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19367
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86973
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55060
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO EPTV SAO JOSÉ DOS CAMPOS SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SAO JOSÉ DOS CAMPOS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55050
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO EPTV SUL MINAS H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SUL MINAS H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88303
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SÃO CARLOS SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SÃO CARLOS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43769
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="GLOBO FLOARIANOPOLIS HD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO FLOARIANOPOLIS HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86584
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO FLORIANOPOLIS FHD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO FLORIANOPOLIS FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86586
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO FLORIANOPOLIS HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO FLORIANOPOLIS HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86585
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO FLORIANOPOLIS SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO FLORIANOPOLIS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71247
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO FORTALEZA FHD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO FORTALEZA FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96856
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO FORTALEZA SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO FORTALEZA SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96857
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO GAZETA SUL ALEGRE ES HD²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO GAZETA SUL ALEGRE ES HD²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96649
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO GAZETA SUL ALEGRE ES SD²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO GAZETA SUL ALEGRE ES SD²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96648
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO GOIANIA HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO GOIANIA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71254
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO GOIANIA SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO GOIANIA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71194
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO INTER TV CABUGI SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV CABUGI SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43770
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO INTER TV DOS VALES H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV DOS VALES H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88304
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO INTER TV GRANDE MINAS H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV GRANDE MINAS H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88305
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO INTER TV SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55063
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO MATO GROSSO HD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO MATO GROSSO HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86975
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO MINAS HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO MINAS HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19347
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD ²" tvg-logo="https://i.imgur.com/j0FNDRP.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71409
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD ¹" tvg-logo="https://i.imgur.com/j0FNDRP.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55028
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS H.265 ²" tvg-logo="https://i.imgur.com/j0FNDRP.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71287
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD ²" tvg-logo="https://i.imgur.com/j0FNDRP.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/557
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD ¹" tvg-logo="https://i.imgur.com/j0FNDRP.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/17342
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD ²" tvg-logo="https://i.imgur.com/j0FNDRP.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71411
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD ¹" tvg-logo="https://i.imgur.com/j0FNDRP.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71410
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO NORDESTE  H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE  H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88306
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO NORDESTE FHD  ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE FHD  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43828
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO NORDESTE HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7509
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO NORDESTE SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55059
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO NSC BLUMENAL H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC BLUMENAL H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88307
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO NSC FLORIANOPOLIS H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC FLORIANOPOLIS H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88308
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO NSC TV BLUMENAU SC SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV BLUMENAU SC SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/16403
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO NSC TV JOINVILE SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV JOINVILE SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55029
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO PORTO VELHO HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO PORTO VELHO HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71255
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RBS SANTA CRUZ FHD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS SANTA CRUZ FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/87631
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RBS TV PORTO ALEGRE SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PORTO ALEGRE SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19359
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RBS TV POÁ H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV POÁ H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88309
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RECIFE HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RECIFE HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/87373
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RECIFE SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RECIFE SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71253
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RIO GRANDE DO SUL SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RIO GRANDE DO SUL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71240
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RPC CURITIBA FHD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86970
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RPC CURITIBA H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88311
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RPC CURITIBA HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86971
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RPC CURITIBA HD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43771
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RPC CURITIBA SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86972
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO RPC CURITIBA SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55056
+#EXTINF:-1 tvg-id="RPCMaringa" tvg-name="GLOBO RPC MARINGÁ HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC MARINGÁ HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90390
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RPC PARANAVAI HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC PARANAVAI HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97815
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO SÃO JOSÉ DO RIO PRETO SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO SÃO JOSÉ DO RIO PRETO SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90389
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ANHANGUERA GOIANIA H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88312
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GLOBO TV CABO BRANCO HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CABO BRANCO HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/98230
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV CENTRO AMERICA CUIABA H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CENTRO AMERICA CUIABA H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88314
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV GAZETA AL FHD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA AL FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71314
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV GAZETA AL H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA AL H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88315
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA SUL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/92781
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV LIBERAL FHD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV LIBERAL FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71351
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV LIBERAL H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV LIBERAL H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88301
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV LIBERAL HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV LIBERAL HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71228
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV LIBERAL SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV LIBERAL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55052
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV MIRANTE FHD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97285
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV MIRANTE H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88316
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV MIRANTE HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97286
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV MIRANTE SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97287
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV MORENA FHD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MORENA FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71245
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV MORENA H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MORENA H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88317
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV RIO SUL SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV RIO SUL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/87158
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV SANTA CRUZ H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SANTA CRUZ H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88318
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV SERGIPE FHD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SERGIPE FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86142
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV SERGIPE H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SERGIPE H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88319
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV TEM ANHANGUERA SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM ANHANGUERA SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55055
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV TEM BAURU SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM BAURU SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19353
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV TEM BAURU SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM BAURU SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55051
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO TV TEM SOROCABA SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM SOROCABA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93200
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO TV TEM SOROCABA SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM SOROCABA SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93199
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV TEM VANGUARDA S.J DOS CAMPOS SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM VANGUARDA S.J DOS CAMPOS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19351
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TRIBUNA SANTOS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55045
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TRIBUNA SANTOS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55062
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV VERDE MARES HD  ¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDE MARES HD  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19233
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV VERDES MARES H.265 ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88320
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV VERDES MARES SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19350
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO VITORÍA HD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO VITORÍA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97283
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO VITORÍA SD ²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | REDE GLOBO",GLOBO VITORÍA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/97282
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD ²" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="CANAIS | INFANTIL",GLOOB FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31181
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD ¹" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="CANAIS | INFANTIL",GLOOB FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31902
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD ²" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="CANAIS | INFANTIL",GLOOB HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43453
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD ¹" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="CANAIS | INFANTIL",GLOOB HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/32813
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD ²" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="CANAIS | INFANTIL",GLOOB SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/2816
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD ¹" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="CANAIS | INFANTIL",GLOOB SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58773
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD ²" tvg-logo="https://i.imgur.com/2sSd68z.png" group-title="CANAIS | INFANTIL",GLOOBINHO FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55129
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD ²" tvg-logo="https://i.imgur.com/2sSd68z.png" group-title="CANAIS | INFANTIL",GLOOBINHO HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43452
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD ²" tvg-logo="https://i.imgur.com/2sSd68z.png" group-title="CANAIS | INFANTIL",GLOOBINHO SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/91726
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD ¹" tvg-logo="https://i.imgur.com/L7GdoPr.png" group-title="CANAIS | VARIEDADES E MUSICAS",GNT FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55009
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD ²" tvg-logo="https://i.imgur.com/L7GdoPr.png" group-title="CANAIS | VARIEDADES E MUSICAS",GNT HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43451
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD ¹" tvg-logo="https://i.imgur.com/L7GdoPr.png" group-title="CANAIS | VARIEDADES E MUSICAS",GNT SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58426
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GUSTAVO LIMA 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",GUSTAVO LIMA 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90693
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD ²" tvg-logo="https://i.imgur.com/ANMLrfe.png" group-title="CANAIS | HBO",HBO 2 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31204
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD ¹" tvg-logo="https://i.imgur.com/ANMLrfe.png" group-title="CANAIS | HBO",HBO 2 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6356
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD ¹" tvg-logo="https://i.imgur.com/ANMLrfe.png" group-title="CANAIS | HBO",HBO 2 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/342
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD ¹" tvg-logo="https://i.imgur.com/ANMLrfe.png" group-title="CANAIS | HBO",HBO 2 SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58427
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K " tvg-logo="https://i.imgur.com/Xsy08Sy.png" group-title="CANAIS | 4K",HBO 4K 
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71232
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD ²" tvg-logo="https://i.imgur.com/A4J0RL4.png" group-title="CANAIS | HBO",HBO FAMILY FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31165
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD ¹" tvg-logo="https://i.imgur.com/A4J0RL4.png" group-title="CANAIS | HBO",HBO FAMILY FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55094
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD ¹" tvg-logo="https://i.imgur.com/A4J0RL4.png" group-title="CANAIS | HBO",HBO FAMILY HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/340
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD ²" tvg-logo="https://i.imgur.com/A4J0RL4.png" group-title="CANAIS | HBO",HBO FAMILY SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4281
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD ¹" tvg-logo="https://i.imgur.com/A4J0RL4.png" group-title="CANAIS | HBO",HBO FAMILY SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/339
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD ¹" tvg-logo="https://i.imgur.com/Xsy08Sy.png" group-title="CANAIS | HBO",HBO FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31164
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO H.265 ¹" tvg-logo="https://i.imgur.com/Xsy08Sy.png" group-title="CANAIS | HBO",HBO H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71289
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD ²" tvg-logo="https://i.imgur.com/Xsy08Sy.png" group-title="CANAIS | HBO",HBO HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/2757
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD ¹" tvg-logo="https://i.imgur.com/Xsy08Sy.png" group-title="CANAIS | HBO",HBO HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/344
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD ¹" tvg-logo="https://i.imgur.com/zETPYiW.png" group-title="CANAIS | HBO",HBO MUNDI FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31185
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI H.265 ²" tvg-logo="https://i.imgur.com/zETPYiW.png" group-title="CANAIS | HBO",HBO MUNDI H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71293
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD ²" tvg-logo="https://i.imgur.com/zETPYiW.png" group-title="CANAIS | HBO",HBO MUNDI HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55090
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD ²" tvg-logo="https://i.imgur.com/zETPYiW.png" group-title="CANAIS | HBO",HBO MUNDI SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57784
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD ¹" tvg-logo="https://i.imgur.com/QXsnEUC.png" group-title="CANAIS | HBO",HBO PLUS FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6548
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS H.265 ¹" tvg-logo="https://i.imgur.com/QXsnEUC.png" group-title="CANAIS | HBO",HBO PLUS H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71288
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD ¹" tvg-logo="https://i.imgur.com/QXsnEUC.png" group-title="CANAIS | HBO",HBO PLUS HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19195
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD ²" tvg-logo="https://i.imgur.com/QXsnEUC.png" group-title="CANAIS | HBO",HBO PLUS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58428
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP FHD ²" tvg-logo="https://i.imgur.com/Qd3eRC3.png" group-title="CANAIS | HBO",HBO POP FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71231
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP FHD ¹" tvg-logo="https://i.imgur.com/Qd3eRC3.png" group-title="CANAIS | HBO",HBO POP FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6360
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP H.265 ¹" tvg-logo="https://i.imgur.com/Qd3eRC3.png" group-title="CANAIS | HBO",HBO POP H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71299
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP HD ²" tvg-logo="https://i.imgur.com/Qd3eRC3.png" group-title="CANAIS | HBO",HBO POP HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/324
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP SD ²" tvg-logo="https://i.imgur.com/Qd3eRC3.png" group-title="CANAIS | HBO",HBO POP SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7917
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD ¹" tvg-logo="https://i.imgur.com/Xsy08Sy.png" group-title="CANAIS | HBO",HBO SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58774
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD ¹" tvg-logo="https://i.imgur.com/jYmTr52.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45235
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD ¹" tvg-logo="https://i.imgur.com/jYmTr52.png" group-title="CANAIS | HBO",HBO SIGNATURE HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/59608
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD ¹" tvg-logo="https://i.imgur.com/jYmTr52.png" group-title="CANAIS | HBO",HBO SIGNATURE SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/333
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME 4K ¹" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | 4K",HBO XTREME 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93744
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H.265 ¹" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CANAIS | HBO",HBO XTREME FHD H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71294
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD ²" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | HBO",HBO XTREME FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31186
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD ¹" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | HBO",HBO XTREME FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71230
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD ²" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | HBO",HBO XTREME HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/328
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD ¹" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | HBO",HBO XTREME HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/14047
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD ²" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | HBO",HBO XTREME SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7914
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD ¹" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | HBO",HBO XTREME SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58814
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV H.265 ¹" tvg-logo="https://i.imgur.com/LQryo2I.png" group-title="CANAIS | VARIEDADES E MUSICAS",HGTV H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71290
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD ²" tvg-logo="https://i.imgur.com/LQryo2I.png" group-title="CANAIS | VARIEDADES E MUSICAS",HGTV HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95592
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD¹" tvg-logo="https://i.imgur.com/LQryo2I.png" group-title="CANAIS | VARIEDADES E MUSICAS",HGTV HD¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95591
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL H.265 ¹" tvg-logo="https://i.imgur.com/z7U68Vh.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71291
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL FHD ¹" tvg-logo="https://i.imgur.com/rnFN35w.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31245
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL FHD ²" tvg-logo="https://i.imgur.com/rnFN35w.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/30857
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD ¹" tvg-logo="https://i.imgur.com/rnFN35w.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/30856
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD ¹" tvg-logo="https://i.imgur.com/rnFN35w.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58257
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY CHANNEL 2 FHD ²" tvg-logo="https://i.imgur.com/rn97sHI.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL 2 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31193
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY CHANNEL 2 HD ¹" tvg-logo="https://i.imgur.com/rn97sHI.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL 2 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/423
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY CHANNEL 2 SD ¹" tvg-logo="https://i.imgur.com/rn97sHI.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL 2 SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/422
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY CHANNEL 2 SD ²" tvg-logo="https://i.imgur.com/rn97sHI.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL 2 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4344
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY SD ²" tvg-logo="https://i.imgur.com/vFrfd16.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇAO DISCOVERY SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4358
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY FHD ²" tvg-logo="https://i.imgur.com/vFrfd16.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31224
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY FHD ¹" tvg-logo="https://i.imgur.com/vFrfd16.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/8943
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY H.265 ¹" tvg-logo="https://i.imgur.com/vFrfd16.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71292
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD ¹" tvg-logo="https://i.imgur.com/vFrfd16.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/591
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD ²" tvg-logo="https://i.imgur.com/vFrfd16.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/590
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="JOELMA 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",JOELMA 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88478
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="JORGE E MATHEUS 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",JORGE E MATHEUS 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90695
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LEONARDO 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",LEONARDO 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90698
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD ¹" tvg-logo="https://i.imgur.com/2yvAE2U.png" group-title="CANAIS | VARIEDADES E MUSICAS",LIFETIME FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43976
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD ¹" tvg-logo="https://i.imgur.com/2yvAE2U.png" group-title="CANAIS | VARIEDADES E MUSICAS",LIFETIME HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58960
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD ²" tvg-logo="https://i.imgur.com/2yvAE2U.png" group-title="CANAIS | VARIEDADES E MUSICAS",LIFETIME SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4272
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD ¹" tvg-logo="https://i.imgur.com/2yvAE2U.png" group-title="CANAIS | VARIEDADES E MUSICAS",LIFETIME SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58813
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MAIARA E MARAISA 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",MAIARA E MARAISA 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90696
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD ¹" tvg-logo="https://i.imgur.com/DEz1Ctu.png" group-title="CANAIS | VARIEDADES E MUSICAS",MAIS GLOBOSAT FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71199
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD ¹" tvg-logo="https://i.imgur.com/DEz1Ctu.png" group-title="CANAIS | VARIEDADES E MUSICAS",MAIS GLOBOSAT FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57482
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD ¹" tvg-logo="https://i.imgur.com/DEz1Ctu.png" group-title="CANAIS | VARIEDADES E MUSICAS",MAIS GLOBOSAT SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7950
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD ¹" tvg-logo="https://i.imgur.com/DEz1Ctu.png" group-title="CANAIS | VARIEDADES E MUSICAS",MAIS GLOBOSAT SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58805
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MARÍLIA MENDONÇA 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",MARÍLIA MENDONÇA 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88475
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="MEGA HITS VH1 FHD ¹" tvg-logo="https://i.imgur.com/KLxne9q.png" group-title="CANAIS | VARIEDADES E MUSICAS",MEGA HITS VH1 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45227
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="MEGA HITS VH1 SD ²" tvg-logo="https://i.imgur.com/KLxne9q.png" group-title="CANAIS | VARIEDADES E MUSICAS",MEGA HITS VH1 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/449
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX 4K ¹" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="CANAIS | 4K",MEGAPIX 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/59413
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD ¹" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6354
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD ¹" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/322
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD ²" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7918
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD ¹" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58278
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD ¹" tvg-logo="https://i.imgur.com/9WI5b5a.png" group-title="CANAIS | VARIEDADES E MUSICAS",MTV HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43974
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD ¹" tvg-logo="https://i.imgur.com/9WI5b5a.png" group-title="CANAIS | VARIEDADES E MUSICAS",MTV LIVE FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/8946
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD ¹" tvg-logo="https://i.imgur.com/9WI5b5a.png" group-title="CANAIS | VARIEDADES E MUSICAS",MTV LIVE HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43975
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD ¹" tvg-logo="https://i.imgur.com/9WI5b5a.png" group-title="CANAIS | VARIEDADES E MUSICAS",MTV LIVE SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/14048
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD ²" tvg-logo="https://i.imgur.com/9WI5b5a.png" group-title="CANAIS | VARIEDADES E MUSICAS",MTV SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7955
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW 4K ¹" tvg-logo="https://i.imgur.com/kYAhoVs.png" group-title="CANAIS | 4K",MULTISHOW 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58951
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD ²" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title="CANAIS | VARIEDADES E MUSICAS",MULTISHOW FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71242
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD  ¹" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title="CANAIS | VARIEDADES E MUSICAS",MULTISHOW HD  ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/456
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD ²" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title="CANAIS | VARIEDADES E MUSICAS",MULTISHOW HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7703
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD ²" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title="CANAIS | VARIEDADES E MUSICAS",MULTISHOW SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19570
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD ¹" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title="CANAIS | VARIEDADES E MUSICAS",MULTISHOW SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58775
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD ¹" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title="CANAIS | VARIEDADES E MUSICAS",MULTISHOW SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45234
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL FHD ¹" tvg-logo="https://i.imgur.com/9tdjqZL.png" group-title="CANAIS | VARIEDADES E MUSICAS",MUSIC BOX BRASIL FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/101756
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX  BRASIL SD ²" tvg-logo="https://i.imgur.com/9tdjqZL.png" group-title="CANAIS | VARIEDADES E MUSICAS",MUSIC BOX  BRASIL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/59617
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRASIL SD ¹" tvg-logo="https://i.imgur.com/9tdjqZL.png" group-title="CANAIS | VARIEDADES E MUSICAS",MUSIC BOX BRASIL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58815
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MÚSICA ANOS 80 ²" tvg-logo="https://i.imgur.com/YjEeIRR.png" group-title="CANAIS | MÚSICAS E RÁDIOS",MÚSICA ANOS 80 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/70954
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS FHD ¹" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="CANAIS | INFANTIL",NATGEO KIDS FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/8945
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD ¹" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="CANAIS | INFANTIL",NATGEO KIDS HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19196
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD ²" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="CANAIS | INFANTIL",NATGEO KIDS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4397
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD ¹" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="CANAIS | INFANTIL",NATGEO KIDS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/14049
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD ¹" tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43971
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD ¹" tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/421
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD ²" tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19572
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD ¹" tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58816
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC 4K ¹" tvg-logo="https://i.imgur.com/OoSUJAN.png" group-title="CANAIS | 4K",NATIONAL GEOGRAPHIC 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/59411
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD ²" tvg-logo="https://i.imgur.com/OoSUJAN.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6296
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD ²" tvg-logo="https://i.imgur.com/OoSUJAN.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31223
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD ¹" tvg-logo="https://i.imgur.com/OoSUJAN.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/419
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD ²" tvg-logo="https://i.imgur.com/OoSUJAN.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7933
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="NATIRUTS 24H HD ²" tvg-logo="https://i.imgur.com/LemoKF5.png" group-title="CANAIS | SHOWS 24H",NATIRUTS 24H HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/88477
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK WORLD JAPAN HD ¹" tvg-logo="https://i.imgur.com/criqKfE.png" group-title="CANAIS | VARIEDADES E MUSICAS",NHK WORLD JAPAN HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90490
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK WORLD JAPAN SD ²" tvg-logo="https://i.imgur.com/criqKfE.png" group-title="CANAIS | VARIEDADES E MUSICAS",NHK WORLD JAPAN SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90491
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK WORLD JAPAN SD ¹" tvg-logo="https://i.imgur.com/criqKfE.png" group-title="CANAIS | VARIEDADES E MUSICAS",NHK WORLD JAPAN SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90492
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD ¹" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="CANAIS | INFANTIL",NICK JR FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6550
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD ¹" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="CANAIS | INFANTIL",NICK JR HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/33526
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD ²" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="CANAIS | INFANTIL",NICK JR SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58818
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD ¹" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="CANAIS | INFANTIL",NICKELODEON FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/31899
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD ²" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="CANAIS | INFANTIL",NICKELODEON HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/535
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD ²" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="CANAIS | INFANTIL",NICKELODEON SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/5613
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="NOVO TEMPO SD ¹" tvg-logo="https://i.imgur.com/um69IFM.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/44894
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT  CHANNEL FHD ¹" tvg-logo="https://i.imgur.com/kueRjeD.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT  CHANNEL FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43973
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD ¹" tvg-logo="https://i.imgur.com/kueRjeD.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/318
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL SD ²" tvg-logo="https://i.imgur.com/kueRjeD.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/59610
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL SD ¹" tvg-logo="https://i.imgur.com/kueRjeD.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58716
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD ²" tvg-logo="https://i.imgur.com/b1UWdf9.png" group-title="CANAIS | VARIEDADES E MUSICAS",PLAY TV SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19337
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD ¹" tvg-logo="https://i.imgur.com/b1UWdf9.png" group-title="CANAIS | VARIEDADES E MUSICAS",PLAY TV SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58263
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | 4K",PREMIERE CLUBES 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58902
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES H.265 ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES H.265 ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71300
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES H.265 ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES H.265 ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93654
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/95854
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6320
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/96607
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7699
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/59607
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4312
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/392
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6319
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/393
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4326
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43346
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6318
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7697
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/391
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19392
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/390
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43345
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/6317
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7696
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/389
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4322
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58817
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43344
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/32816
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/32815
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19393
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43343
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/32818
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/32817
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/384
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/55007
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD ²" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4433
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD ¹" tvg-logo="https://i.imgur.com/yducC78.png" group-title="CANAIS | PREMIERE",PREMIERE 8 SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58820
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD ¹" tvg-logo="https://i.imgur.com/Eo4o7Fi.png" group-title="CANAIS | VARIEDADES E MUSICAS",PRIME BOX BRASIL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58277
+#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI ITÁLIA SD ¹" tvg-logo="https://i.imgur.com/543uzgB.png" group-title="CANAIS | ESPORTES",RAI ITÁLIA SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93664
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD 4K ¹" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | 4K",RECORD 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58912
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BAHIA FHD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD BAHIA FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86154
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BAHIA HD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD BAHIA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71260
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BAHIA SD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD BAHIA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86155
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BELÉM HD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD BELÉM HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86157
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BELÉM SD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD BELÉM SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86156
+#EXTINF:-1 tvg-id="Recorddf.br" tvg-name="RECORD BRASILIA HD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD BRASILIA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43440
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA SD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD BRASILIA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43777
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD FHD ¹" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43433
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD GOIAS SD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD GOIAS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43775
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD HD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43432
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD HD ¹" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19193
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MANAUS HD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD MANAUS HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/86158
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD ²" tvg-logo="https://i.imgur.com/hrXjbRA.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/552
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD ²" tvg-logo="https://i.imgur.com/hrXjbRA.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/19533
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD ¹" tvg-logo="https://i.imgur.com/hrXjbRA.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43436
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PARANA HD ¹" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD PARANA HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71201
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ HD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD RJ HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71200
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ SD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD RJ SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/93215
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD RS HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43434
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS SD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD RS SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43773
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD SP HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/7690
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD SP SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/12119
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD ¹" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD SP SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57715
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV CIDADE CEARÁ FHD ²" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="CANAIS | ABERTOS",RECORD TV CIDADE CEARÁ FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/90677
+#EXTINF:-1 tvg-id="Especial24h.br" tvg-name="REDE GOSPEL SD ¹" tvg-logo="https://i.imgur.com/UdlreuS.png" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/45233
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV 4K ¹" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="CANAIS | 4K",REDE TV 4K ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58913
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD ²" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="CANAIS | ABERTOS",REDE TV FHD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/43721
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD ¹" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="CANAIS | ABERTOS",REDE TV FHD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/71202
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD ²" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="CANAIS | ABERTOS",REDE TV HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/30670
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD ¹" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="CANAIS | ABERTOS",REDE TV HD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4161
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD ²" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="CANAIS | ABERTOS",REDE TV SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/4160
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD ²" tvg-logo="https://i.imgur.com/HrSlLxR.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57709
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD ²" tvg-logo="https://i.imgur.com/HrSlLxR.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD ²
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/57708
+#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT GOSPEL SD ¹" tvg-logo="https://i.imgur.com/0H7e2NZ.png" group-title="CANAIS | RELIGIOSOS",RIT GOSPEL SD ¹
+http://receita.xyz:2082/Hfic275825/Wjcnvis375929/58875
