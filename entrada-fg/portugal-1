@@ -2,334 +2,334 @@
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="------PORTUGAL-------" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",------PORTUGAL-------
-http://listamy.com:8080/live/Berto/Berto/393363.ts
+http://listamy.com:8080/Berto/Berto/393363
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: RTP 1 FHD
-http://listamy.com:8080/live/Berto/Berto/393364.ts
+http://listamy.com:8080/Berto/Berto/393364
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: RTP 1
-http://listamy.com:8080/live/Berto/Berto/393365.ts
+http://listamy.com:8080/Berto/Berto/393365
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: RTP 2 FHD
-http://listamy.com:8080/live/Berto/Berto/393366.ts
+http://listamy.com:8080/Berto/Berto/393366
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: RTP 2
-http://listamy.com:8080/live/Berto/Berto/393367.ts
+http://listamy.com:8080/Berto/Berto/393367
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC FHD
-http://listamy.com:8080/live/Berto/Berto/393368.ts
+http://listamy.com:8080/Berto/Berto/393368
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC
-http://listamy.com:8080/live/Berto/Berto/393369.ts
+http://listamy.com:8080/Berto/Berto/393369
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TVI FHD
-http://listamy.com:8080/live/Berto/Berto/393370.ts
+http://listamy.com:8080/Berto/Berto/393370
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TVI
-http://listamy.com:8080/live/Berto/Berto/393371.ts
+http://listamy.com:8080/Berto/Berto/393371
 #EXTINF:-1 tvg-id="" tvg-name="PT: CMTV FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CMTV FHD
-http://listamy.com:8080/live/Berto/Berto/393372.ts
+http://listamy.com:8080/Berto/Berto/393372
 #EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CMTV
-http://listamy.com:8080/live/Berto/Berto/393373.ts
+http://listamy.com:8080/Berto/Berto/393373
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TVI 24 FHD
-http://listamy.com:8080/live/Berto/Berto/393374.ts
+http://listamy.com:8080/Berto/Berto/393374
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TVI 24
-http://listamy.com:8080/live/Berto/Berto/393375.ts
+http://listamy.com:8080/Berto/Berto/393375
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC NOTICIAS FHD
-http://listamy.com:8080/live/Berto/Berto/393376.ts
+http://listamy.com:8080/Berto/Berto/393376
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC NOTICIAS
-http://listamy.com:8080/live/Berto/Berto/393377.ts
+http://listamy.com:8080/Berto/Berto/393377
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: RTP 3
-http://listamy.com:8080/live/Berto/Berto/393378.ts
+http://listamy.com:8080/Berto/Berto/393378
 #EXTINF:-1 tvg-id="" tvg-name="PT: Porto Canal FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Porto Canal FHD
-http://listamy.com:8080/live/Berto/Berto/393379.ts
+http://listamy.com:8080/Berto/Berto/393379
 #EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: PORTO CANAL
-http://listamy.com:8080/live/Berto/Berto/393380.ts
+http://listamy.com:8080/Berto/Berto/393380
 #EXTINF:-1 tvg-id="" tvg-name="PT: A Bola TV FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: A Bola TV FHD
-http://listamy.com:8080/live/Berto/Berto/393381.ts
+http://listamy.com:8080/Berto/Berto/393381
 #EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: A BOLA TV
-http://listamy.com:8080/live/Berto/Berto/393382.ts
+http://listamy.com:8080/Berto/Berto/393382
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TVI FICCAO
-http://listamy.com:8080/live/Berto/Berto/393383.ts
+http://listamy.com:8080/Berto/Berto/393383
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TVI Reality FHD
-http://listamy.com:8080/live/Berto/Berto/393384.ts
+http://listamy.com:8080/Berto/Berto/393384
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TVI REALITY
-http://listamy.com:8080/live/Berto/Berto/393385.ts
+http://listamy.com:8080/Berto/Berto/393385
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC MULHER FHD
-http://listamy.com:8080/live/Berto/Berto/393386.ts
+http://listamy.com:8080/Berto/Berto/393386
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC CARAS
-http://listamy.com:8080/live/Berto/Berto/393387.ts
+http://listamy.com:8080/Berto/Berto/393387
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC MULHER
-http://listamy.com:8080/live/Berto/Berto/393388.ts
+http://listamy.com:8080/Berto/Berto/393388
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC RADICAL FHD
-http://listamy.com:8080/live/Berto/Berto/393389.ts
+http://listamy.com:8080/Berto/Berto/393389
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC RADICAL
-http://listamy.com:8080/live/Berto/Berto/393390.ts
+http://listamy.com:8080/Berto/Berto/393390
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORES" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: RTP ACORES
-http://listamy.com:8080/live/Berto/Berto/393391.ts
+http://listamy.com:8080/Berto/Berto/393391
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: RTP MADEIRA
-http://listamy.com:8080/live/Berto/Berto/393392.ts
+http://listamy.com:8080/Berto/Berto/393392
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: RTP MEMORIA
-http://listamy.com:8080/live/Berto/Berto/393393.ts
+http://listamy.com:8080/Berto/Berto/393393
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: RTP AFRICA
-http://listamy.com:8080/live/Berto/Berto/393394.ts
+http://listamy.com:8080/Berto/Berto/393394
 #EXTINF:-1 tvg-id="" tvg-name="PT: Casa e Cozinha HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Casa e Cozinha HD
-http://listamy.com:8080/live/Berto/Berto/393395.ts
+http://listamy.com:8080/Berto/Berto/393395
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CANAL Q
-http://listamy.com:8080/live/Berto/Berto/393396.ts
+http://listamy.com:8080/Berto/Berto/393396
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV RECORD
-http://listamy.com:8080/live/Berto/Berto/393397.ts
+http://listamy.com:8080/Berto/Berto/393397
 #EXTINF:-1 tvg-id="" tvg-name="PT: Globo FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Globo FHD
-http://listamy.com:8080/live/Berto/Berto/393398.ts
+http://listamy.com:8080/Berto/Berto/393398
 #EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: GLOBO
-http://listamy.com:8080/live/Berto/Berto/393399.ts
+http://listamy.com:8080/Berto/Berto/393399
 #EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NOW" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: GLOBO NOW
-http://listamy.com:8080/live/Berto/Berto/393400.ts
+http://listamy.com:8080/Berto/Berto/393400
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CANAL PANDA
-http://listamy.com:8080/live/Berto/Berto/393401.ts
+http://listamy.com:8080/Berto/Berto/393401
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: DISNEY CHANNEL
-http://listamy.com:8080/live/Berto/Berto/393402.ts
+http://listamy.com:8080/Berto/Berto/393402
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: DISNEY JUNIOR
-http://listamy.com:8080/live/Berto/Berto/393403.ts
+http://listamy.com:8080/Berto/Berto/393403
 #EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: NICKELODEON
-http://listamy.com:8080/live/Berto/Berto/393404.ts
+http://listamy.com:8080/Berto/Berto/393404
 #EXTINF:-1 tvg-id="" tvg-name="PT: NICK JR" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: NICK JR
-http://listamy.com:8080/live/Berto/Berto/393405.ts
+http://listamy.com:8080/Berto/Berto/393405
 #EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CARTOON NETWORK
-http://listamy.com:8080/live/Berto/Berto/393406.ts
+http://listamy.com:8080/Berto/Berto/393406
 #EXTINF:-1 tvg-id="" tvg-name="PT: canção nova" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: canção nova
-http://listamy.com:8080/live/Berto/Berto/393407.ts
+http://listamy.com:8080/Berto/Berto/393407
 #EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: BABY TV
-http://listamy.com:8080/live/Berto/Berto/393408.ts
+http://listamy.com:8080/Berto/Berto/393408
 #EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: JIM JAM
-http://listamy.com:8080/live/Berto/Berto/393409.ts
+http://listamy.com:8080/Berto/Berto/393409
 #EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: BIGGS
-http://listamy.com:8080/live/Berto/Berto/393410.ts
+http://listamy.com:8080/Berto/Berto/393410
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC K" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SIC K
-http://listamy.com:8080/live/Berto/Berto/393411.ts
+http://listamy.com:8080/Berto/Berto/393411
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE TOP FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV CINE TOP FHD
-http://listamy.com:8080/live/Berto/Berto/393412.ts
+http://listamy.com:8080/Berto/Berto/393412
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE TOP" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV CINE TOP
-http://listamy.com:8080/live/Berto/Berto/393413.ts
+http://listamy.com:8080/Berto/Berto/393413
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EDITION FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV CINE EDITION FHD
-http://listamy.com:8080/live/Berto/Berto/393414.ts
+http://listamy.com:8080/Berto/Berto/393414
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EDITION" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV CINE EDITION
-http://listamy.com:8080/live/Berto/Berto/393415.ts
+http://listamy.com:8080/Berto/Berto/393415
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EMOTION FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV CINE EMOTION FHD
-http://listamy.com:8080/live/Berto/Berto/393416.ts
+http://listamy.com:8080/Berto/Berto/393416
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EMOTION" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV CINE EMOTION
-http://listamy.com:8080/live/Berto/Berto/393417.ts
+http://listamy.com:8080/Berto/Berto/393417
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV CINE ACTION FHD
-http://listamy.com:8080/live/Berto/Berto/393418.ts
+http://listamy.com:8080/Berto/Berto/393418
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV CINE ACTION
-http://listamy.com:8080/live/Berto/Berto/393419.ts
+http://listamy.com:8080/Berto/Berto/393419
 #EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: NOS STUDIOS FHD
-http://listamy.com:8080/live/Berto/Berto/393420.ts
+http://listamy.com:8080/Berto/Berto/393420
 #EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: HOLLYWOOD FHD
-http://listamy.com:8080/live/Berto/Berto/393421.ts
+http://listamy.com:8080/Berto/Berto/393421
 #EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: HOLLYWOOD
-http://listamy.com:8080/live/Berto/Berto/393422.ts
+http://listamy.com:8080/Berto/Berto/393422
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: AXN HD
-http://listamy.com:8080/live/Berto/Berto/393423.ts
+http://listamy.com:8080/Berto/Berto/393423
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: AXN
-http://listamy.com:8080/live/Berto/Berto/393424.ts
+http://listamy.com:8080/Berto/Berto/393424
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: AXN WHITE HD
-http://listamy.com:8080/live/Berto/Berto/393425.ts
+http://listamy.com:8080/Berto/Berto/393425
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: AXN WHITE
-http://listamy.com:8080/live/Berto/Berto/393426.ts
+http://listamy.com:8080/Berto/Berto/393426
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: AXN MOVIES FHD
-http://listamy.com:8080/live/Berto/Berto/393427.ts
+http://listamy.com:8080/Berto/Berto/393427
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: AXN MOVIES
-http://listamy.com:8080/live/Berto/Berto/393428.ts
+http://listamy.com:8080/Berto/Berto/393428
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX
-http://listamy.com:8080/live/Berto/Berto/393429.ts
+http://listamy.com:8080/Berto/Berto/393429
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX FHD
-http://listamy.com:8080/live/Berto/Berto/393430.ts
+http://listamy.com:8080/Berto/Berto/393430
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX MOVIES FHD
-http://listamy.com:8080/live/Berto/Berto/393431.ts
+http://listamy.com:8080/Berto/Berto/393431
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX MOVIES
-http://listamy.com:8080/live/Berto/Berto/393432.ts
+http://listamy.com:8080/Berto/Berto/393432
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX CRIME FHD
-http://listamy.com:8080/live/Berto/Berto/393433.ts
+http://listamy.com:8080/Berto/Berto/393433
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX COMEDY FHD
-http://listamy.com:8080/live/Berto/Berto/393434.ts
+http://listamy.com:8080/Berto/Berto/393434
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX COMEDY
-http://listamy.com:8080/live/Berto/Berto/393435.ts
+http://listamy.com:8080/Berto/Berto/393435
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX LIFE FHD
-http://listamy.com:8080/live/Berto/Berto/393436.ts
+http://listamy.com:8080/Berto/Berto/393436
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX LIFE
-http://listamy.com:8080/live/Berto/Berto/393437.ts
+http://listamy.com:8080/Berto/Berto/393437
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CINEMUNDO FHD
-http://listamy.com:8080/live/Berto/Berto/393438.ts
+http://listamy.com:8080/Berto/Berto/393438
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CINEMUNDO
-http://listamy.com:8080/live/Berto/Berto/393439.ts
+http://listamy.com:8080/Berto/Berto/393439
 #EXTINF:-1 tvg-id="" tvg-name="PT: SYFY HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SYFY HD
-http://listamy.com:8080/live/Berto/Berto/393440.ts
+http://listamy.com:8080/Berto/Berto/393440
 #EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SYFY
-http://listamy.com:8080/live/Berto/Berto/393441.ts
+http://listamy.com:8080/Berto/Berto/393441
 #EXTINF:-1 tvg-id="" tvg-name="PT: AMC FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: AMC FHD
-http://listamy.com:8080/live/Berto/Berto/393442.ts
+http://listamy.com:8080/Berto/Berto/393442
 #EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: AMC
-http://listamy.com:8080/live/Berto/Berto/393443.ts
+http://listamy.com:8080/Berto/Berto/393443
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CANAL 11 FHD
-http://listamy.com:8080/live/Berto/Berto/393444.ts
+http://listamy.com:8080/Berto/Berto/393444
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV NBA
-http://listamy.com:8080/live/Berto/Berto/393445.ts
+http://listamy.com:8080/Berto/Berto/393445
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV + FHD
-http://listamy.com:8080/live/Berto/Berto/393446.ts
+http://listamy.com:8080/Berto/Berto/393446
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV+
-http://listamy.com:8080/live/Berto/Berto/393447.ts
+http://listamy.com:8080/Berto/Berto/393447
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV +
-http://listamy.com:8080/live/Berto/Berto/393448.ts
+http://listamy.com:8080/Berto/Berto/393448
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 1 FHD
-http://listamy.com:8080/live/Berto/Berto/393449.ts
+http://listamy.com:8080/Berto/Berto/393449
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 1 HD
-http://listamy.com:8080/live/Berto/Berto/393450.ts
+http://listamy.com:8080/Berto/Berto/393450
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 1
-http://listamy.com:8080/live/Berto/Berto/393451.ts
+http://listamy.com:8080/Berto/Berto/393451
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 2 FHD
-http://listamy.com:8080/live/Berto/Berto/393452.ts
+http://listamy.com:8080/Berto/Berto/393452
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 2 HD
-http://listamy.com:8080/live/Berto/Berto/393453.ts
+http://listamy.com:8080/Berto/Berto/393453
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 2
-http://listamy.com:8080/live/Berto/Berto/393454.ts
+http://listamy.com:8080/Berto/Berto/393454
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 3 FHD
-http://listamy.com:8080/live/Berto/Berto/393455.ts
+http://listamy.com:8080/Berto/Berto/393455
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 3 SD
-http://listamy.com:8080/live/Berto/Berto/393456.ts
+http://listamy.com:8080/Berto/Berto/393456
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 4 HD
-http://listamy.com:8080/live/Berto/Berto/393457.ts
+http://listamy.com:8080/Berto/Berto/393457
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 4
-http://listamy.com:8080/live/Berto/Berto/393458.ts
+http://listamy.com:8080/Berto/Berto/393458
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 5 HD
-http://listamy.com:8080/live/Berto/Berto/393459.ts
+http://listamy.com:8080/Berto/Berto/393459
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORT TV 5
-http://listamy.com:8080/live/Berto/Berto/393460.ts
+http://listamy.com:8080/Berto/Berto/393460
 #EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: BTV HD
-http://listamy.com:8080/live/Berto/Berto/393461.ts
+http://listamy.com:8080/Berto/Berto/393461
 #EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: BTV 1 FHD
-http://listamy.com:8080/live/Berto/Berto/393462.ts
+http://listamy.com:8080/Berto/Berto/393462
 #EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: BTV 1
-http://listamy.com:8080/live/Berto/Berto/393463.ts
+http://listamy.com:8080/Berto/Berto/393463
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 1 FHD
-http://listamy.com:8080/live/Berto/Berto/393464.ts
+http://listamy.com:8080/Berto/Berto/393464
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 1 HD
-http://listamy.com:8080/live/Berto/Berto/393465.ts
+http://listamy.com:8080/Berto/Berto/393465
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 1 SD
-http://listamy.com:8080/live/Berto/Berto/393466.ts
+http://listamy.com:8080/Berto/Berto/393466
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 2 FHD
-http://listamy.com:8080/live/Berto/Berto/393467.ts
+http://listamy.com:8080/Berto/Berto/393467
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 2 HD
-http://listamy.com:8080/live/Berto/Berto/393468.ts
+http://listamy.com:8080/Berto/Berto/393468
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 3 FHD
-http://listamy.com:8080/live/Berto/Berto/393469.ts
+http://listamy.com:8080/Berto/Berto/393469
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 3 HD
-http://listamy.com:8080/live/Berto/Berto/393470.ts
+http://listamy.com:8080/Berto/Berto/393470
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 4 FHD
-http://listamy.com:8080/live/Berto/Berto/393471.ts
+http://listamy.com:8080/Berto/Berto/393471
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 4 HD
-http://listamy.com:8080/live/Berto/Berto/393472.ts
+http://listamy.com:8080/Berto/Berto/393472
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 5 HD
-http://listamy.com:8080/live/Berto/Berto/393473.ts
+http://listamy.com:8080/Berto/Berto/393473
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ELEVEN SPORTS 6 HD
-http://listamy.com:8080/live/Berto/Berto/393474.ts
+http://listamy.com:8080/Berto/Berto/393474
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sporting Tv FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Sporting Tv FHD
-http://listamy.com:8080/live/Berto/Berto/393475.ts
+http://listamy.com:8080/Berto/Berto/393475
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: SPORTING TV
-http://listamy.com:8080/live/Berto/Berto/393476.ts
+http://listamy.com:8080/Berto/Berto/393476
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: EUROSPORT 1 FHD
-http://listamy.com:8080/live/Berto/Berto/393477.ts
+http://listamy.com:8080/Berto/Berto/393477
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: EUROSPORT 1
-http://listamy.com:8080/live/Berto/Berto/393478.ts
+http://listamy.com:8080/Berto/Berto/393478
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: EUROSPORT 2
-http://listamy.com:8080/live/Berto/Berto/393479.ts
+http://listamy.com:8080/Berto/Berto/393479
 #EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: PFC
-http://listamy.com:8080/live/Berto/Berto/393480.ts
+http://listamy.com:8080/Berto/Berto/393480
 #EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: KOMBAT SPORT
-http://listamy.com:8080/live/Berto/Berto/393481.ts
+http://listamy.com:8080/Berto/Berto/393481
 #EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: MOTORVISION
-http://listamy.com:8080/live/Berto/Berto/393482.ts
+http://listamy.com:8080/Berto/Berto/393482
 #EXTINF:-1 tvg-id="" tvg-name="PT: Fuel TV FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Fuel TV FHD
-http://listamy.com:8080/live/Berto/Berto/393483.ts
+http://listamy.com:8080/Berto/Berto/393483
 #EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FUEL TV
-http://listamy.com:8080/live/Berto/Berto/393484.ts
+http://listamy.com:8080/Berto/Berto/393484
 #EXTINF:-1 tvg-id="" tvg-name="PT: CACA E PESCA" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CACA E PESCA
-http://listamy.com:8080/live/Berto/Berto/393485.ts
+http://listamy.com:8080/Berto/Berto/393485
 #EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CACAVISION
-http://listamy.com:8080/live/Berto/Berto/393486.ts
+http://listamy.com:8080/Berto/Berto/393486
 #EXTINF:-1 tvg-id="" tvg-name="PT: FTV" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FTV
-http://listamy.com:8080/live/Berto/Berto/393487.ts
+http://listamy.com:8080/Berto/Berto/393487
 #EXTINF:-1 tvg-id="" tvg-name="PT: Ginx" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Ginx
-http://listamy.com:8080/live/Berto/Berto/393488.ts
+http://listamy.com:8080/Berto/Berto/393488
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TOROS TV
-http://listamy.com:8080/live/Berto/Berto/393489.ts
+http://listamy.com:8080/Berto/Berto/393489
 #EXTINF:-1 tvg-id="" tvg-name="PT: CRIME+INVESTIGATION" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CRIME+INVESTIGATION
-http://listamy.com:8080/live/Berto/Berto/393490.ts
+http://listamy.com:8080/Berto/Berto/393490
 #EXTINF:-1 tvg-id="" tvg-name="PT: E! Entertainement FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: E! Entertainement FHD
-http://listamy.com:8080/live/Berto/Berto/393491.ts
+http://listamy.com:8080/Berto/Berto/393491
 #EXTINF:-1 tvg-id="" tvg-name="PT: E! ENTERTAINEMENT" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: E! ENTERTAINEMENT
-http://listamy.com:8080/live/Berto/Berto/393492.ts
+http://listamy.com:8080/Berto/Berto/393492
 #EXTINF:-1 tvg-id="" tvg-name="PT: TLC" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TLC
-http://listamy.com:8080/live/Berto/Berto/393493.ts
+http://listamy.com:8080/Berto/Berto/393493
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: DISCOVERY FHD
-http://listamy.com:8080/live/Berto/Berto/393494.ts
+http://listamy.com:8080/Berto/Berto/393494
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: DISCOVERY CHANNEL
-http://listamy.com:8080/live/Berto/Berto/393495.ts
+http://listamy.com:8080/Berto/Berto/393495
 #EXTINF:-1 tvg-id="" tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ID INVESTIGATION DISCOVERY
-http://listamy.com:8080/live/Berto/Berto/393496.ts
+http://listamy.com:8080/Berto/Berto/393496
 #EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: NATIONAL GEOGRAPHIC FHD
-http://listamy.com:8080/live/Berto/Berto/393497.ts
+http://listamy.com:8080/Berto/Berto/393497
 #EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: National Geographic
-http://listamy.com:8080/live/Berto/Berto/393498.ts
+http://listamy.com:8080/Berto/Berto/393498
 #EXTINF:-1 tvg-id="" tvg-name="PT: Nat Geo Wild HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Nat Geo Wild HD
-http://listamy.com:8080/live/Berto/Berto/393499.ts
+http://listamy.com:8080/Berto/Berto/393499
 #EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: NATIONAL GEOGRAPHIC WILD
-http://listamy.com:8080/live/Berto/Berto/393500.ts
+http://listamy.com:8080/Berto/Berto/393500
 #EXTINF:-1 tvg-id="" tvg-name="PT: CBS REALITY" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CBS REALITY
-http://listamy.com:8080/live/Berto/Berto/393501.ts
+http://listamy.com:8080/Berto/Berto/393501
 #EXTINF:-1 tvg-id="" tvg-name="PT: BBC ENTERTAINEMENT" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: BBC ENTERTAINEMENT
-http://listamy.com:8080/live/Berto/Berto/393502.ts
+http://listamy.com:8080/Berto/Berto/393502
 #EXTINF:-1 tvg-id="" tvg-name="PT: BBC WORLD NEWS" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: BBC WORLD NEWS
-http://listamy.com:8080/live/Berto/Berto/393503.ts
+http://listamy.com:8080/Berto/Berto/393503
 #EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: 24 KITCHEN FHD
-http://listamy.com:8080/live/Berto/Berto/393504.ts
+http://listamy.com:8080/Berto/Berto/393504
 #EXTINF:-1 tvg-id="" tvg-name="PT: Food Network" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Food Network
-http://listamy.com:8080/live/Berto/Berto/393505.ts
+http://listamy.com:8080/Berto/Berto/393505
 #EXTINF:-1 tvg-id="" tvg-name="PT: Blaze FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Blaze FHD
-http://listamy.com:8080/live/Berto/Berto/393506.ts
+http://listamy.com:8080/Berto/Berto/393506
 #EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: BLAZE
-http://listamy.com:8080/live/Berto/Berto/393507.ts
+http://listamy.com:8080/Berto/Berto/393507
 #EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CNN
-http://listamy.com:8080/live/Berto/Berto/393508.ts
+http://listamy.com:8080/Berto/Berto/393508
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX News" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: FOX News
-http://listamy.com:8080/live/Berto/Berto/393509.ts
+http://listamy.com:8080/Berto/Berto/393509
 #EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: EURONEWS
-http://listamy.com:8080/live/Berto/Berto/393510.ts
+http://listamy.com:8080/Berto/Berto/393510
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROCHANNEL" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: EUROCHANNEL
-http://listamy.com:8080/live/Berto/Berto/393511.ts
+http://listamy.com:8080/Berto/Berto/393511
 #EXTINF:-1 tvg-id="" tvg-name="PT: ARTV" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ARTV
-http://listamy.com:8080/live/Berto/Berto/393512.ts
+http://listamy.com:8080/Berto/Berto/393512
 #EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: HISTORIA
-http://listamy.com:8080/live/Berto/Berto/393513.ts
+http://listamy.com:8080/Berto/Berto/393513
 #EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Odisseia FHD
-http://listamy.com:8080/live/Berto/Berto/393514.ts
+http://listamy.com:8080/Berto/Berto/393514
 #EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: ODISSEIA
-http://listamy.com:8080/live/Berto/Berto/393515.ts
+http://listamy.com:8080/Berto/Berto/393515
 #EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TRAVEL CHANNEL FHD
-http://listamy.com:8080/live/Berto/Berto/393516.ts
+http://listamy.com:8080/Berto/Berto/393516
 #EXTINF:-1 tvg-id="" tvg-name="PT - TVE INTERNACIONAL" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT - TVE INTERNACIONAL
-http://listamy.com:8080/live/Berto/Berto/393517.ts
+http://listamy.com:8080/Berto/Berto/393517
 #EXTINF:-1 tvg-id="" tvg-name="PT: Deutche Welle" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: Deutche Welle
-http://listamy.com:8080/live/Berto/Berto/393518.ts
+http://listamy.com:8080/Berto/Berto/393518
 #EXTINF:-1 tvg-id="" tvg-name="PT: CNBC" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: CNBC
-http://listamy.com:8080/live/Berto/Berto/393519.ts
+http://listamy.com:8080/Berto/Berto/393519
 #EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: AFRO MUSIC
-http://listamy.com:8080/live/Berto/Berto/393520.ts
+http://listamy.com:8080/Berto/Berto/393520
 #EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: MCM POP
-http://listamy.com:8080/live/Berto/Berto/393521.ts
+http://listamy.com:8080/Berto/Berto/393521
 #EXTINF:-1 tvg-id="" tvg-name="PT: MTV FHD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: MTV FHD
-http://listamy.com:8080/live/Berto/Berto/393522.ts
+http://listamy.com:8080/Berto/Berto/393522
 #EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: MTV PORTUGAL
-http://listamy.com:8080/live/Berto/Berto/393523.ts
+http://listamy.com:8080/Berto/Berto/393523
 #EXTINF:-1 tvg-id="" tvg-name="PT: MEZZO" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: MEZZO
-http://listamy.com:8080/live/Berto/Berto/393524.ts
+http://listamy.com:8080/Berto/Berto/393524
 #EXTINF:-1 tvg-id="" tvg-name="PT: TRACE TOCA" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TRACE TOCA
-http://listamy.com:8080/live/Berto/Berto/393525.ts
+http://listamy.com:8080/Berto/Berto/393525
 #EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TRACE URBAN
-http://listamy.com:8080/live/Berto/Berto/393526.ts
+http://listamy.com:8080/Berto/Berto/393526
 #EXTINF:-1 tvg-id="" tvg-name="PT: VH1" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: VH1
-http://listamy.com:8080/live/Berto/Berto/393527.ts
+http://listamy.com:8080/Berto/Berto/393527
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV Galicia HD" tvg-logo="" group-title="▂ ▄ ▅ ▆☆ PORTUGAL☆▆ ▅ ▄ ▂ ▁",PT: TV Galicia HD
-http://listamy.com:8080/live/Berto/Berto/393528.ts
+http://listamy.com:8080/Berto/Berto/393528
