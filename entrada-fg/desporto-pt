@@ -1,95 +1,65 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1 tvg-id="cd4b1b4e160794b64917032467100b20" tvg-name="PT: SPORT TV + HD" tvg-logo="https://www.micastv.pt/picons/images/pt/SPORT_TV_+_HD.png" group-title="PT - HQ",PT: SPORT TV + HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/263.m3u8
-#EXTINF:-1 tvg-id="59de279db1bac7d2c3f7480bff3eeb41" tvg-name="PT: SPORT TV 1 FULL HD" tvg-logo="http://ozi.pt:8080/images/xijuPQxlXFpIYZCHXsDtfMIwkwx9YrlC.png" group-title="PT - HQ",PT: SPORT TV 1 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/257.m3u8
-#EXTINF:-1 tvg-id="59de279db1bac7d2c3f7480bff3eeb41" tvg-name="PT: SPORT TV 1 FULL HD CLIENTES MEO" tvg-logo="http://ozi.pt:8080/images/xijuPQxlXFpIYZCHXsDtfMIwkwx9YrlC.png" group-title="PT - HQ",PT: SPORT TV 1 FULL HD CLIENTES MEO
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/2424.m3u8
-#EXTINF:-1 tvg-id="59de279db1bac7d2c3f7480bff3eeb41" tvg-name="PT: SPORT TV 1 FULL HD TESTE MOBILE" tvg-logo="" group-title="PT - HQ",PT: SPORT TV 1 FULL HD TESTE MOBILE
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/2051.m3u8
-#EXTINF:-1 tvg-id="fe1a3943044bcea6c85b24e3e0493fca" tvg-name="PT: SPORT TV 2 FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/SPORT_TV_2_HD.png" group-title="PT - HQ",PT: SPORT TV 2 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/254.m3u8
-#EXTINF:-1 tvg-id="fe1a3943044bcea6c85b24e3e0493fca" tvg-name="PT: SPORT TV 2 FULL HD CLIENTES MEO" tvg-logo="https://www.micastv.pt/picons/images/pt/SPORT_TV_2_HD.png" group-title="PT - HQ",PT: SPORT TV 2 FULL HD CLIENTES MEO
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/2440.m3u8
-#EXTINF:-1 tvg-id="a7f8a93eaf48ae4d5c403935c47f6999" tvg-name="PT: SPORT TV 3 FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/SPORT_TV_3_HD.png" group-title="PT - HQ",PT: SPORT TV 3 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/251.m3u8
-#EXTINF:-1 tvg-id="040bafd9832c7f15bffc67ac02b8c068" tvg-name="PT: SPORT TV 4 FULL  HD" tvg-logo="https://www.micastv.pt/picons/images/pt/SPORT_TV_4_HD.png" group-title="PT - HQ",PT: SPORT TV 4 FULL  HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/248.m3u8
-#EXTINF:-1 tvg-id="a0av" tvg-name="PT: SPORT TV 5 FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/SPORT_TV_5_HD.png" group-title="PT - HQ",PT: SPORT TV 5 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/245.m3u8
-#EXTINF:-1 tvg-id="dafdf16e074571f4a302459e8b79dd08" tvg-name="PT: SPORT TV NBA FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/NBA_TV_HD.png" group-title="PT - HQ",PT: SPORT TV NBA FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/262.m3u8
-#EXTINF:-1 tvg-id="48f7df3dbaa50a1776a83d1add620214" tvg-name="PT: SPORTING TV HD" tvg-logo="https://www.micastv.pt/picons/images/pt/SPORTING_TV_HD.png" group-title="PT - HQ",PT: SPORTING TV HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/219.m3u8
-#EXTINF:-1 tvg-id="049ebf1dc3a8072310c622a7211d4fa4" tvg-name="PT: BTV 1 FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/BTV_HD.png" group-title="PT - HQ",PT: BTV 1 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/242.m3u8
-#EXTINF:-1 tvg-id="049ebf1dc3a8072310c622a7211d4fa4" tvg-name="PT: BTV FULL HD CLIENTES MEO" tvg-logo="https://www.micastv.pt/picons/images/pt/BTV_HD.png" group-title="PT - HQ",PT: BTV FULL HD CLIENTES MEO
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/2423.m3u8
-#EXTINF:-1 tvg-id="049ebf1dc3a8072310c622a7211d4fa4" tvg-name="PT: BTV TESTE TLM" tvg-logo="https://www.micastv.pt/picons/images/pt/BTV_HD.png" group-title="PT - HQ",PT: BTV TESTE TLM
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/2037.m3u8
-#EXTINF:-1 tvg-id="e2c020f4b2e9e185f4a858ac3ed1ab0d" tvg-name="PT: ELEVEN SPORTS 1 FULL  HD" tvg-logo="https://www.micastv.pt/picons/images/pt/ELEVEN_SPORTS.png" group-title="PT - HQ",PT: ELEVEN SPORTS 1 FULL  HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/238.m3u8
-#EXTINF:-1 tvg-id="e2c020f4b2e9e185f4a858ac3ed1ab0d" tvg-name="PT: ELEVEN SPORTS 1 FULL HD TESTE TLM" tvg-logo="" group-title="PT - HQ",PT: ELEVEN SPORTS 1 FULL HD TESTE TLM
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/2060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - ELEVEN SPORTS 1" tvg-logo="" group-title="PT - LW",PTLW - ELEVEN SPORTS 1
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1754.m3u8
-#EXTINF:-1 tvg-id="a098" tvg-name="PT: ELEVEN SPORTS 2 FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/ELEVEN_SPORTS_2.png" group-title="PT - HQ",PT: ELEVEN SPORTS 2 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/234.m3u8
-#EXTINF:-1 tvg-id="59306d5f0db98f911e91d9f60892d51d" tvg-name="PT: ELEVENs SPORT 2 FULL HD TESTE TLM" tvg-logo="" group-title="PT - HQ",PT: ELEVENs SPORT 2 FULL HD TESTE TLM
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/2061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - ELEVEN SPORTS 2" tvg-logo="" group-title="PT - LW",PTLW - ELEVEN SPORTS 2
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1755.m3u8
-#EXTINF:-1 tvg-id="fbe72880fd29779b09ff9955297644b1" tvg-name="PT: ELEVEN SPORTS 3 FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/ELEVEN_SPORTS_3.png" group-title="PT - HQ",PT: ELEVEN SPORTS 3 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - ELEVEN SPORTS 3" tvg-logo="" group-title="PT - LW",PTLW - ELEVEN SPORTS 3
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1756.m3u8
-#EXTINF:-1 tvg-id="a09n" tvg-name="PT: ELEVEN SPORTS 4 FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/ELEVEN_SPORTS_4.png" group-title="PT - HQ",PT: ELEVEN SPORTS 4 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - ELEVEN SPORTS 4" tvg-logo="" group-title="PT - LW",PTLW - ELEVEN SPORTS 4
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1757.m3u8
-#EXTINF:-1 tvg-id="a09o" tvg-name="PT: ELEVEN SPORTS 5 FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/ELEVEN_SPORTS_5.png" group-title="PT - HQ",PT: ELEVEN SPORTS 5 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - ELEVEN SPORTS 5" tvg-logo="" group-title="PT - LW",PTLW - ELEVEN SPORTS 5
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1758.m3u8
-#EXTINF:-1 tvg-id="ec6ee32b8185e2208a1a69449fd3cf4e" tvg-name="PT: ELEVEN SPORTS 6 FULL HD" tvg-logo="https://www.micastv.pt/picons/images/pt/ELEVEN_SPORTS_6.png" group-title="PT - HQ",PT: ELEVEN SPORTS 6 FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - ELEVEN SPORTS 6" tvg-logo="" group-title="PT - LW",PTLW - ELEVEN SPORTS 6
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1759.m3u8
-#EXTINF:-1 tvg-id="0af41e0586192a5b159bf4d2d4828707" tvg-name="PT: Canal 11 HD" tvg-logo="https://www.micastv.pt/picons/images/pt/canal11.png" group-title="PT - HQ",PT: Canal 11 HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1314.m3u8
-#EXTINF:-1 tvg-id="a0bo" tvg-name="PT: A BOLA TV" tvg-logo="https://www.micastv.pt/picons/images/pt/A_BOLA_TV.png" group-title="PT - HQ",PT: A BOLA TV
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - CANAL 11" tvg-logo="" group-title="PT - LW",PTLW - CANAL 11
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - A BOLA TV" tvg-logo="" group-title="PT - LW",PTLW - A BOLA TV
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1741.m3u8
-#EXTINF:-1 tvg-id="a02z" tvg-name="PTLW - SPORT TV +" tvg-logo="" group-title="PT - LW",PTLW - SPORT TV +
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1785.m3u8
-#EXTINF:-1 tvg-id="59de279db1bac7d2c3f7480bff3eeb41" tvg-name="PTLW - SPORT TV 1" tvg-logo="" group-title="PT - LW",PTLW - SPORT TV 1
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - SPORT TV 2" tvg-logo="" group-title="PT - LW",PTLW - SPORT TV 2
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - SPORT TV 3" tvg-logo="" group-title="PT - LW",PTLW - SPORT TV 3
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - SPORT TV 4" tvg-logo="" group-title="PT - LW",PTLW - SPORT TV 4
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - SPORT TV 5" tvg-logo="" group-title="PT - LW",PTLW - SPORT TV 5
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - SPORT TV NBA" tvg-logo="" group-title="PT - LW",PTLW - SPORT TV NBA
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - SPORT TV - MOSAICO FULL HD" tvg-logo="" group-title="PT - LW",PTLW - SPORT TV - MOSAICO FULL HD
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - BTV" tvg-logo="" group-title="PT - LW",PTLW - BTV
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - Sporting TV" tvg-logo="" group-title="PT - LW",PTLW - Sporting TV
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - MOTORVISION" tvg-logo="" group-title="PT - LW",PTLW - MOTORVISION
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - Kombat Sport" tvg-logo="" group-title="PT - LW",PTLW - Kombat Sport
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - Eurosport 2" tvg-logo="" group-title="PT - LW",PTLW - Eurosport 2
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTLW - EUROSPORT 1" tvg-logo="" group-title="PT - LW",PTLW - EUROSPORT 1
-http://ozi.pt:8080/live/KMTvNeJVSk/61iL91i500/1760.m3u8
+#EXTINF:-1,PT| BTV 1 HD
+http://pn.tvott.info:80/0174263561/8759368659/81664
+#EXTINF:-1,PT| A BOLA TV
+http://pn.tvott.info:80/0174263561/8759368659/81663
+#EXTINF:-1,PT| KOMBAT SPORT
+http://pn.tvott.info:80/0174263561/8759368659/81662
+#EXTINF:-1,PT| SPORTING TV
+http://pn.tvott.info:80/0174263561/8759368659/81661
+#EXTINF:-1,PT| FUEL TV
+http://pn.tvott.info:80/0174263561/8759368659/81660
+#EXTINF:-1,PT| EUROSPORT 1 HD
+http://pn.tvott.info:80/0174263561/8759368659/81659
+#EXTINF:-1,PT| EUROSPORT 1
+http://pn.tvott.info:80/0174263561/8759368659/81658
+#EXTINF:-1,PT| EUROSPORT 2
+http://pn.tvott.info:80/0174263561/8759368659/81657
+#EXTINF:-1,PT| PFC
+http://pn.tvott.info:80/0174263561/8759368659/81656
+#EXTINF:-1,PT| CMTV
+http://pn.tvott.info:80/0174263561/8759368659/81655
+#EXTINF:-1,PT| TOROS TV
+http://pn.tvott.info:80/0174263561/8759368659/81654
+#EXTINF:-1,PT| SPORT TV
+http://pn.tvott.info:80/0174263561/8759368659/81653
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://pn.tvott.info:80/0174263561/8759368659/81652
+#EXTINF:-1,PT| SPORT TV 1 HD NOS
+http://pn.tvott.info:80/0174263561/8759368659/81651
+#EXTINF:-1,PT| SPORT TV 1
+http://pn.tvott.info:80/0174263561/8759368659/81650
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://pn.tvott.info:80/0174263561/8759368659/81649
+#EXTINF:-1,PT| SPORT TV 2
+http://pn.tvott.info:80/0174263561/8759368659/81648
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://pn.tvott.info:80/0174263561/8759368659/81647
+#EXTINF:-1,PT| SPORT TV 3
+http://pn.tvott.info:80/0174263561/8759368659/81646
+#EXTINF:-1,PT| SPORT TV 4
+http://pn.tvott.info:80/0174263561/8759368659/81645
+#EXTINF:-1,PT| SPORT TV 5
+http://pn.tvott.info:80/0174263561/8759368659/81644
+#EXTINF:-1,PT| NBA TV
+http://pn.tvott.info:80/0174263561/8759368659/81643
+#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
+http://pn.tvott.info:80/0174263561/8759368659/81642
+#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
+http://pn.tvott.info:80/0174263561/8759368659/81641
+#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
+http://pn.tvott.info:80/0174263561/8759368659/81640
+#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
+http://pn.tvott.info:80/0174263561/8759368659/81639
+#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
+http://pn.tvott.info:80/0174263561/8759368659/81638
+#EXTINF:-1,PT| ELEVEN SPORTS 6 HD
+http://pn.tvott.info:80/0174263561/8759368659/81637
+#EXTINF:-1,PT| MOTORVISION
+http://pn.tvott.info:80/0174263561/8759368659/81636
+#EXTINF:-1,PT| REAL MADRID TV
+http://pn.tvott.info:80/0174263561/8759368659/81635
+#EXTINF:-1,PT| CANAL 11
+http://pn.tvott.info:80/0174263561/8759368659/81634
