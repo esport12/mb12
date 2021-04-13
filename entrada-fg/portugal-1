@@ -1,353 +1,443 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,PT: RTP 1 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1404
-#EXTINF:-1,PT: RTP 2 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1406
-#EXTINF:-1,PT: RTP 3 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1418
-#EXTINF:-1,PT: RTP ACORES FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/2055
-#EXTINF:-1,PT: RTP AFRICA FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1424
-#EXTINF:-1,PT: RTP INTERNACIONAL
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278418
-#EXTINF:-1,PT: RTP Memoria FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1425
-#EXTINF:-1,PT: S+ HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/198681
-#EXTINF:-1,PT: SIC CARAS FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/5910
-#EXTINF:-1,PT: SIC FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1408
-#EXTINF:-1,PT: SIC K HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/4021
-#EXTINF:-1,PT: SIC KIDS FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1443
-#EXTINF:-1,PT: SIC Mulher FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1427
-#EXTINF:-1,PT: SIC NOTICIAS FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1416
-#EXTINF:-1,PT: SIC RADICAL FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1429
-#EXTINF:-1,PT: Sky News
-http://skylogic.site:8080/esterichannel50con/36cb6c13/6100
-#EXTINF:-1,PT: SPORT TV + FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1481
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1483
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1486
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1489
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1492
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1495
-#EXTINF:-1,PT: SPORT TV NBA FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/2051
-#EXTINF:-1,PT: Sporting HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1519
-#EXTINF:-1,PT: SYFY FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1475
-#EXTINF:-1,PT: TCV
-http://skylogic.site:8080/esterichannel50con/36cb6c13/264640
-#EXTINF:-1,PT: TIJI HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/197616
-#EXTINF:-1,PT: TLC FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1479
-#EXTINF:-1,PT: TOROS TV FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1523
-#EXTINF:-1,PT: TPA
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278687
-#EXTINF:-1,PT: TPA INTERNACIONAL
-http://skylogic.site:8080/esterichannel50con/36cb6c13/187605
-#EXTINF:-1,PT: TRACE TOCA
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278560
-#EXTINF:-1,PT: TRACE URBAN
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1537
-#EXTINF:-1,PT: Travel Channel FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1529
-#EXTINF:-1,PT: TV BNO
-http://skylogic.site:8080/esterichannel50con/36cb6c13/197873
-#EXTINF:-1,PT: TV Cancao Nova
-http://skylogic.site:8080/esterichannel50con/36cb6c13/8007
-#EXTINF:-1,PT: TV Globo HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1432
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278652
-#EXTINF:-1,PT: TV Man
-http://skylogic.site:8080/esterichannel50con/36cb6c13/166324
-#EXTINF:-1,PT: TV PAI ETERNO
-http://skylogic.site:8080/esterichannel50con/36cb6c13/197869
-#EXTINF:-1,PT: TV Record FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1431
-#EXTINF:-1,PT: TV5 MONDE EUROPE
-http://skylogic.site:8080/esterichannel50con/36cb6c13/146307
-#EXTINF:-1,PT: TVC News
-http://skylogic.site:8080/esterichannel50con/36cb6c13/151883
-#EXTINF:-1,PT: TVCine Action FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1452
-#EXTINF:-1,PT: TVCINE EDITIOMN HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278654
-#EXTINF:-1,PT: TVCine Edition FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/82254
-#EXTINF:-1,PT: TVCine Emotion FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1448
-#EXTINF:-1,PT: TVCine Top FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1446
-#EXTINF:-1,PT: TVCine+ HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278686
-#EXTINF:-1,PT: TVE 24H
-http://skylogic.site:8080/esterichannel50con/36cb6c13/28853
-#EXTINF:-1,PT: TVE Internacional
-http://skylogic.site:8080/esterichannel50con/36cb6c13/5943
-#EXTINF:-1,PT: TVI 24 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1414
-#EXTINF:-1,PT: TVI FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1410
-#EXTINF:-1,PT: TVI FICCAO FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1421
-#EXTINF:-1,PT: tvi Fisclo
-http://skylogic.site:8080/esterichannel50con/36cb6c13/200802
-#EXTINF:-1,PT: TVI Reality FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1423
-#EXTINF:-1,PT: TVI REALITY MOSAICO
-http://skylogic.site:8080/esterichannel50con/36cb6c13/162154
-#EXTINF:-1,PT: VH1 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1533
-#EXTINF:-1,PT: WWE NETWORK HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/198737
-#EXTINF:-1,PT: ZAP VIVA FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/2067
-#EXTINF:-1,PT: 1+1
-http://skylogic.site:8080/esterichannel50con/36cb6c13/187601
-#EXTINF:-1,PT: 11 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1480
-#EXTINF:-1,PT: 24 Kitchen FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/2025
-#EXTINF:-1,PT: A BOLA HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1420
-#EXTINF:-1,PT: AFRO MUSIC
-http://skylogic.site:8080/esterichannel50con/36cb6c13/151775
-#EXTINF:-1,PT: ALMA LUSA HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/264642
-#EXTINF:-1,PT: AMC FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1473
-#EXTINF:-1,PT: AR TV HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/9629
-#EXTINF:-1,PT: AXN Black
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278653
-#EXTINF:-1,PT: AXN FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1469
-#EXTINF:-1,PT: AXN Movies FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1471
-#EXTINF:-1,PT: AXN White FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1467
-#EXTINF:-1,PT: AZORES TV
-http://skylogic.site:8080/esterichannel50con/36cb6c13/227045
-#EXTINF:-1,PT: BABY TV FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1441
-#EXTINF:-1,PT: BBC ENTERTAINEMENT
-http://skylogic.site:8080/esterichannel50con/36cb6c13/5937
-#EXTINF:-1,PT: BBC World News FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/11972
-#EXTINF:-1,PT: Benfica TV FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1497
-#EXTINF:-1,PT: BIGGS HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1439
-#EXTINF:-1,PT: BLAZE FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/3996
-#EXTINF:-1,PT: Bloomberg HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/5933
-#EXTINF:-1,PT: BOOMERANG
-http://skylogic.site:8080/esterichannel50con/36cb6c13/24529
-#EXTINF:-1,PT: BTV FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/8042
-#EXTINF:-1,PT: CAMPO PEQUENO HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/28029
-#EXTINF:-1,PT: CANAL 180
-http://skylogic.site:8080/esterichannel50con/36cb6c13/146057
-#EXTINF:-1,PT: CANAL NOVA
-http://skylogic.site:8080/esterichannel50con/36cb6c13/9700
-#EXTINF:-1,PT: CANAL PANDA HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1438
-#EXTINF:-1,PT: Canal Porto
-http://skylogic.site:8080/esterichannel50con/36cb6c13/53940
-#EXTINF:-1,PT: CANAL Q FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1430
-#EXTINF:-1,PT: Canal Ricos
-http://skylogic.site:8080/esterichannel50con/36cb6c13/197868
-#EXTINF:-1,PT: Cartoon Network FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1440
-#EXTINF:-1,PT: CASA E COZINHA HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/6097
-#EXTINF:-1,PT: CASA Y PESCA HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1524
-#EXTINF:-1,PT: CBC Reality
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278437
-#EXTINF:-1,PT: CBS REALITY FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1528
-#EXTINF:-1,PT: CGTN
-http://skylogic.site:8080/esterichannel50con/36cb6c13/162161
-#EXTINF:-1,PT: CINEMUNDO FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1477
-#EXTINF:-1,PT: Clubbing TV
-http://skylogic.site:8080/esterichannel50con/36cb6c13/11018
-#EXTINF:-1,PT: CM TV FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1412
-#EXTINF:-1,PT: CNBC FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/8038
-#EXTINF:-1,PT: CNN
-http://skylogic.site:8080/esterichannel50con/36cb6c13/9703
-#EXTINF:-1,PT: Crime+ Investigation HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/5928
-#EXTINF:-1,PT: Discovery Channel FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278435
-#EXTINF:-1,PT: Discovery Showcase HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1527
-#EXTINF:-1,PT: Disney Channel FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1434
-#EXTINF:-1,PT: Disney JUNIOR FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1435
-#EXTINF:-1,PT: DOG FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/9699
-#EXTINF:-1,PT: DW
-http://skylogic.site:8080/esterichannel50con/36cb6c13/146060
-#EXTINF:-1,PT: E! FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1526
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1499
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1503
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1506
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1509
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1512
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1515
-#EXTINF:-1,PT: ESTUDOS EM CASA
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278688
-#EXTINF:-1,PT: euronews HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/4007
-#EXTINF:-1,PT: EUROSPORT 1 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1517
-#EXTINF:-1,PT: EUROSPORT 2 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1518
-#EXTINF:-1,PT: FASHION TV HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/2656
-#EXTINF:-1,PT: FATIMA HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/53924
-#EXTINF:-1,PT: FIGHT BOX HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/151882
-#EXTINF:-1,PT: FIGHT Network HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/9650
-#EXTINF:-1,PT: FOOD NETWORK FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/2044
-#EXTINF:-1,PT: FOX Comedy FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1465
-#EXTINF:-1,PT: FOX Crime FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1463
-#EXTINF:-1,PT: FOX FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1461
-#EXTINF:-1,PT: FOX Life FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1459
-#EXTINF:-1,PT: FOX Movies FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1457
-#EXTINF:-1,PT: FOX News HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278445
-#EXTINF:-1,PT: FOX SPORTS
-http://skylogic.site:8080/esterichannel50con/36cb6c13/40345
-#EXTINF:-1,PT: france 24
-http://skylogic.site:8080/esterichannel50con/36cb6c13/11019
-#EXTINF:-1,PT: FUEL HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1521
-#EXTINF:-1,PT: GALICIA FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/8028
-#EXTINF:-1,PT: Gametoon HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/265257
-#EXTINF:-1,PT: GINX HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/15913
-#EXTINF:-1,PT: GLOBO BRAZIL
-http://skylogic.site:8080/esterichannel50con/36cb6c13/173449
-#EXTINF:-1,PT: GLOBO FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1433
-#EXTINF:-1,PT: GLOBO PORTUGAL HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/5915
-#EXTINF:-1,PT: HBO HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/24515
-#EXTINF:-1,PT: HISTORIA
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1525
-#EXTINF:-1,PT: Hollywood FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1455
-#EXTINF:-1,PT: Investigation Discovery FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/5914
-#EXTINF:-1,PT: JimJam FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1442
-#EXTINF:-1,PT: KOMBAT SPORT FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1520
-#EXTINF:-1,PT: KURIAKOS FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/9697
-#EXTINF:-1,PT: KURIAKOS KIDS HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/10828
-#EXTINF:-1,PT: LOCALVISAO HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/10335
-#EXTINF:-1,PT: Lolly Kids HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/265254
-#EXTINF:-1,PT: MAS CHIC
-http://skylogic.site:8080/esterichannel50con/36cb6c13/11421
-#EXTINF:-1,PT: MCM POP FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/8027
-#EXTINF:-1,PT: MCM TOP
-http://skylogic.site:8080/esterichannel50con/36cb6c13/272483
-#EXTINF:-1,PT: MEO Destaques
-http://skylogic.site:8080/esterichannel50con/36cb6c13/265256
-#EXTINF:-1,PT: MEO Videoclube
-http://skylogic.site:8080/esterichannel50con/36cb6c13/265255
-#EXTINF:-1,PT: MEZZO HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/8022
-#EXTINF:-1,PT: MOTORVISION FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/4012
-#EXTINF:-1,PT: MTV PORTUGAL
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1534
-#EXTINF:-1,PT: NAT GEO FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1530
-#EXTINF:-1,PT: NAT GEO Wild FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1531
-#EXTINF:-1,PT: NETFLIX FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/24517
-#EXTINF:-1,PT: NHK World
-http://skylogic.site:8080/esterichannel50con/36cb6c13/81971
-#EXTINF:-1,PT: Nick Junior FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/9693
-#EXTINF:-1,PT: nickelodeon HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1436
-#EXTINF:-1,PT: Nicklelodeon HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278392
-#EXTINF:-1,PT: NOS STUDIO FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1454
-#EXTINF:-1,PT: ODISSEIA FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1532
-#EXTINF:-1,PT: OPTO SIC HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/264644
-#EXTINF:-1,PT: PANDA BIGGS
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278401
-#EXTINF:-1,PT: PORTO CANAL FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/1419
-#EXTINF:-1,PT: PTC 2
-http://skylogic.site:8080/esterichannel50con/36cb6c13/71264
-#EXTINF:-1,PT: QYOU
-http://skylogic.site:8080/esterichannel50con/36cb6c13/146066
-#EXTINF:-1,PT: REAL MADRID TV HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/9653
-#EXTINF:-1,PT: Record News
-http://skylogic.site:8080/esterichannel50con/36cb6c13/10988
-#EXTINF:-1,PT: Record TV FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/13295
-#EXTINF:-1,PT: RED BULL TV
-http://skylogic.site:8080/esterichannel50con/36cb6c13/13305
-
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/xTtnTRjg/RTP-1-HD.png" group-title="Portugal",RTP 1 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288627.m3u8
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="https://i.postimg.cc/rFzF4xtj/RTP-1.png" group-title="Portugal",RTP 1
+http://markfour.xyz:8080/live/Chavier/Chavier/288628.m3u8
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/RVqwXgYn/RTP-2-HD.png" group-title="Portugal",RTP 2 ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288629.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/DfY39zxY/SIC-HD.png" group-title="Portugal",SIC ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288630.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://i.postimg.cc/Hnn8vL6C/SIC.png" group-title="Portugal",SIC
+http://markfour.xyz:8080/live/Chavier/Chavier/288631.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/6q45G4HT/TVI.png" group-title="Portugal",TVI ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288632.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://i.postimg.cc/6q45G4HT/TVI.png" group-title="Portugal",TVI
+http://markfour.xyz:8080/live/Chavier/Chavier/288633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ INFORMACAO ▆ ▅ ▄ ▂" tvg-logo="https://figueirotv.com/wp-content/uploads/2014/07/logo.png" group-title="Portugal",▂ ▄ ▅ ▆ INFORMACAO ▆ ▅ ▄ ▂
+http://markfour.xyz:8080/live/Chavier/Chavier/288634.m3u8
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC NOTICIAS ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/wMnP77Pq/SIC-NOTICIAS-HD.png" group-title="Portugal",SIC NOTICIAS ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288635.m3u8
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC NOTICIAS" tvg-logo="https://i.postimg.cc/J7ZKbV4R/SIC-NOTICIAS.png" group-title="Portugal",SIC NOTICIAS
+http://markfour.xyz:8080/live/Chavier/Chavier/288636.m3u8
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/8z4JGWxV/TVI-24.png" group-title="Portugal",TVI 24 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288637.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/bYSYggKy/CMTV-HD.png" group-title="Portugal",CMTV ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288638.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://i.postimg.cc/Lsy4Cb9X/CMTV.png" group-title="Portugal",CMTV
+http://markfour.xyz:8080/live/Chavier/Chavier/288639.m3u8
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="https://i.postimg.cc/Hss1Ky0M/RTP-3.png" group-title="Portugal",RTP 3
+http://markfour.xyz:8080/live/Chavier/Chavier/288640.m3u8
+#EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-name="RTP MEMORIA" tvg-logo="https://i.postimg.cc/wBYfKKKr/RTP-MEMORIA.png" group-title="Portugal",RTP MEMORIA
+http://markfour.xyz:8080/live/Chavier/Chavier/288641.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.postimg.cc/XYR9Zjw5/CNN.png" group-title="Portugal",CNN
+http://markfour.xyz:8080/live/Chavier/Chavier/288642.m3u8
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://i.postimg.cc/c4jnjxkz/EURONEWS.png" group-title="Portugal",EURONEWS
+http://markfour.xyz:8080/live/Chavier/Chavier/288643.m3u8
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://i.postimg.cc/fbQ0zHNj/RECORD-NEWS.png" group-title="Portugal",RECORD NEWS
+http://markfour.xyz:8080/live/Chavier/Chavier/288644.m3u8
+#EXTINF:-1 tvg-id="ARTV" tvg-name="ARTV" tvg-logo="https://i.postimg.cc/BbzXdppF/AR-TV.png" group-title="Portugal",ARTV
+http://markfour.xyz:8080/live/Chavier/Chavier/288645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ ENTRETENIMENTO ▆ ▅ ▄ ▂" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhS_PHpXD4n5Q1IFL0uagRK8tCad6HCSUUJ9_X63g=s900-c-k-c0x00ffffff-no-rj" group-title="Portugal",▂ ▄ ▅ ▆ ENTRETENIMENTO ▆ ▅ ▄ ▂
+http://markfour.xyz:8080/live/Chavier/Chavier/288646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OPTO SIC" tvg-logo="https://images.impresa.pt/sic/2020-11-20-logo-opto_roxo-sem-fundo.png" group-title="Portugal",OPTO SIC
+http://markfour.xyz:8080/live/Chavier/Chavier/288647.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC RADICAL" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="Portugal",SIC RADICAL
+http://markfour.xyz:8080/live/Chavier/Chavier/288648.m3u8
+#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC MULHER" tvg-logo="https://i.postimg.cc/RhYMS66z/SIC-MULHER-HD.png" group-title="Portugal",SIC MULHER
+http://markfour.xyz:8080/live/Chavier/Chavier/288649.m3u8
+#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="SIC CARAS" tvg-logo="https://i.postimg.cc/3RJ72C2T/SIC-CARAS.png" group-title="Portugal",SIC CARAS
+http://markfour.xyz:8080/live/Chavier/Chavier/288650.m3u8
+#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI FICCAO" tvg-logo="https://i.postimg.cc/tJFJMVFw/TVI-FIC-O.png" group-title="Portugal",TVI FICCAO
+http://markfour.xyz:8080/live/Chavier/Chavier/288651.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY" tvg-logo="https://i.postimg.cc/Zq0RhQrr/TVI-REALITY.png" group-title="Portugal",TVI REALITY
+http://markfour.xyz:8080/live/Chavier/Chavier/288652.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY MOSAICO" tvg-name="TVI REALITY MOSAICO" tvg-logo="https://i.postimg.cc/3rqNrLj4/TVI-REALITY-MOSAICO.png" group-title="Portugal",TVI REALITY MOSAICO
+http://markfour.xyz:8080/live/Chavier/Chavier/288653.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 1" tvg-name="TVI REALITY CAMARA 1" tvg-logo="https://i.postimg.cc/6pp6dPbD/TVI-REALITY-CAMARA-1.png" group-title="Portugal",TVI REALITY CAMARA 1
+http://markfour.xyz:8080/live/Chavier/Chavier/288654.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 2" tvg-name="TVI REALITY CAMARA 2" tvg-logo="https://i.postimg.cc/x8N0b2Gk/TVI-REALITY-CAMARA-2.png" group-title="Portugal",TVI REALITY CAMARA 2
+http://markfour.xyz:8080/live/Chavier/Chavier/288655.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 3" tvg-name="TVI REALITY CAMARA 3" tvg-logo="https://i.postimg.cc/L6f1cKd6/TVI-REALITY-CAMARA-3.png" group-title="Portugal",TVI REALITY CAMARA 3
+http://markfour.xyz:8080/live/Chavier/Chavier/288656.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 4" tvg-name="TVI REALITY CAMARA 4" tvg-logo="https://i.postimg.cc/0y0JNY2T/TVI-REALITY-CAMARA-4.png" group-title="Portugal",TVI REALITY CAMARA 4
+http://markfour.xyz:8080/live/Chavier/Chavier/288657.m3u8
+#EXTINF:-1 tvg-id="CASA E COZINHA" tvg-name="CASA E COZINHA ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/KvFG8dkY/casaecozinhahd.png" group-title="Portugal",CASA E COZINHA ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288658.m3u8
+#EXTINF:-1 tvg-id="24 KITCHEN" tvg-name="24 KITCHEN ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/sDwrD1Cn/24-KITCHEN-HD.png" group-title="Portugal",24 KITCHEN ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288659.m3u8
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://i.postimg.cc/rsjvmZ3d/FOOD-NETWORK-HD.png" group-title="Portugal",FOOD NETWORK
+http://markfour.xyz:8080/live/Chavier/Chavier/288660.m3u8
+#EXTINF:-1 tvg-id="CANAL Q" tvg-name="CANAL Q" tvg-logo="https://i.postimg.cc/d1mfHSqW/CANAL-Q.png" group-title="Portugal",CANAL Q
+http://markfour.xyz:8080/live/Chavier/Chavier/288661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ DESPORTO ▆ ▅ ▄ ▂" tvg-logo="https://img2.gratispng.com/20180718/ltb/kisspng-logo-sport-brand-font-reebook-5b4fb7fcef23b9.8548709715319511009795.jpg" group-title="Portugal",▂ ▄ ▅ ▆ DESPORTO ▆ ▅ ▄ ▂
+http://markfour.xyz:8080/live/Chavier/Chavier/288662.m3u8
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="SPORT TV + ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/Twz6B8ZR/SPORT-TV-HD.png" group-title="Portugal",SPORT TV + ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288663.m3u8
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="SPORT TV +" tvg-logo="https://i.postimg.cc/632KH6bj/SPORT-TV.png" group-title="Portugal",SPORT TV +
+http://markfour.xyz:8080/live/Chavier/Chavier/288664.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 4k" tvg-logo="https://i.postimg.cc/P5PSvLCR/SPORT-TV-1-HD.png" group-title="Portugal",SPORT TV 1 4k
+http://markfour.xyz:8080/live/Chavier/Chavier/288665.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1  ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/P5PSvLCR/SPORT-TV-1-HD.png" group-title="Portugal",SPORT TV 1  ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288666.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ" tvg-logo="https://i.postimg.cc/P5PSvLCR/SPORT-TV-1-HD.png" group-title="Portugal",SPORT TV 1 ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288667.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 extra" tvg-logo="https://i.postimg.cc/cJvPW976/SPORT-TV-1.png" group-title="Portugal",SPORT TV 1 extra
+http://markfour.xyz:8080/live/Chavier/Chavier/288668.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="Portugal",SPORT TV 1
+http://markfour.xyz:8080/live/Chavier/Chavier/288669.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2  4K" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="Portugal",SPORT TV 2  4K
+http://markfour.xyz:8080/live/Chavier/Chavier/288670.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="Portugal",SPORT TV 2 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288671.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="Portugal",SPORT TV 2 ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288672.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="Portugal",SPORT TV 2
+http://markfour.xyz:8080/live/Chavier/Chavier/288673.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/MKVjXq58/SPORT-TV-3-HD.png" group-title="Portugal",SPORT TV 3 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288674.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://i.postimg.cc/MKVjXq58/SPORT-TV-3-HD.png" group-title="Portugal",SPORT TV 3 ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288675.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.postimg.cc/Kjgxqcjc/SPORT-TV-3.png" group-title="Portugal",SPORT TV 3
+http://markfour.xyz:8080/live/Chavier/Chavier/288676.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/NFhjw2W2/SPORT-TV-4-HD.png" group-title="Portugal",SPORT TV 4 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288677.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://i.postimg.cc/NFhjw2W2/SPORT-TV-4-HD.png" group-title="Portugal",SPORT TV 4 ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288678.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="https://i.postimg.cc/DyPytZ5m/SPORT-TV-4.png" group-title="Portugal",SPORT TV 4
+http://markfour.xyz:8080/live/Chavier/Chavier/288679.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/1znS550G/SPORT-TV-5-HD.png" group-title="Portugal",SPORT TV 5 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288680.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://i.postimg.cc/1znS550G/SPORT-TV-5-HD.png" group-title="Portugal",SPORT TV 5 ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288681.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5" tvg-logo="https://i.postimg.cc/ZqCbBLmy/SPORT-TV-5.png" group-title="Portugal",SPORT TV 5
+http://markfour.xyz:8080/live/Chavier/Chavier/288682.m3u8
+#EXTINF:-1 tvg-id="SPORT TV NBA HD" tvg-name="SPORT TV NBA ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="Portugal",SPORT TV NBA ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288683.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1  4K" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="Portugal",ELEVEN SPORTS 1  4K
+http://markfour.xyz:8080/live/Chavier/Chavier/288684.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="Portugal",ELEVEN SPORTS 1 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288685.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1 ᴴᴰ" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="Portugal",ELEVEN SPORTS 1 ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288686.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="Portugal",ELEVEN SPORTS 1
+http://markfour.xyz:8080/live/Chavier/Chavier/288687.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2  4K" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="Portugal",ELEVEN SPORTS 2  4K
+http://markfour.xyz:8080/live/Chavier/Chavier/288688.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="Portugal",ELEVEN SPORTS 2 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288689.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="Portugal",ELEVEN SPORTS 2 ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288690.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="Portugal",ELEVEN SPORTS 2
+http://markfour.xyz:8080/live/Chavier/Chavier/288691.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="Portugal",ELEVEN SPORTS 3 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288692.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="Portugal",ELEVEN SPORTS 3
+http://markfour.xyz:8080/live/Chavier/Chavier/288693.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="ELEVEN SPORTS 4 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="Portugal",ELEVEN SPORTS 4 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288694.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="Portugal",ELEVEN SPORTS 4
+http://markfour.xyz:8080/live/Chavier/Chavier/288695.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="ELEVEN SPORTS 5 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="Portugal",ELEVEN SPORTS 5 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288696.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="Portugal",ELEVEN SPORTS 5
+http://markfour.xyz:8080/live/Chavier/Chavier/288697.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://i.postimg.cc/C16BWK4W/ELEVEN-SPORTS-6.png" group-title="Portugal",ELEVEN SPORTS 6
+http://markfour.xyz:8080/live/Chavier/Chavier/288698.m3u8
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/fRznG0xX/1-0-1-83-B-47-36-FFFF0000-0-0-0.png" group-title="Portugal",CANAL 11 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288699.m3u8
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11" tvg-logo="https://i.postimg.cc/fRznG0xX/1-0-1-83-B-47-36-FFFF0000-0-0-0.png" group-title="Portugal",CANAL 11
+http://markfour.xyz:8080/live/Chavier/Chavier/288700.m3u8
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A BOLA TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/Cx1rCCGv/A-BOLA-TV.png" group-title="Portugal",A BOLA TV ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288701.m3u8
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A BOLA" tvg-logo="https://i.postimg.cc/Cx1rCCGv/A-BOLA-TV.png" group-title="Portugal",A BOLA
+http://markfour.xyz:8080/live/Chavier/Chavier/288702.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV   ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/RVkQbgsv/BTV-HD.png" group-title="Portugal",BTV   ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288703.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV  ᴴᴰ" tvg-logo="https://i.postimg.cc/RVkQbgsv/BTV-HD.png" group-title="Portugal",BTV  ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288704.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://i.postimg.cc/GtNJRKbJ/BTV.png" group-title="Portugal",BTV
+http://markfour.xyz:8080/live/Chavier/Chavier/288705.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV 4k" tvg-logo="https://i.postimg.cc/GtNJRKbJ/BTV.png" group-title="Portugal",BTV 4k
+http://markfour.xyz:8080/live/Chavier/Chavier/288706.m3u8
+#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PORTO CANAL ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/NMyR4Vh8/PORTO-CANAL-HD.png" group-title="Portugal",PORTO CANAL ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288707.m3u8
+#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PORTO CANAL" tvg-logo="https://i.postimg.cc/7h2MxRmP/PORTO-CANAL.png" group-title="Portugal",PORTO CANAL
+http://markfour.xyz:8080/live/Chavier/Chavier/288708.m3u8
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="SPORTING TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/kgFV7scN/SPORTING-TV-HD.png" group-title="Portugal",SPORTING TV ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288709.m3u8
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="SPORTING TV" tvg-logo="https://i.postimg.cc/x8wk1Fh5/SPORTING-TV.png" group-title="Portugal",SPORTING TV
+http://markfour.xyz:8080/live/Chavier/Chavier/288710.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/rpgn5Rgb/EUROSPORT-1-HD.png" group-title="Portugal",EUROSPORT 1 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288711.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-logo="https://i.postimg.cc/htW5nBfC/EUROSPORT-1.png" group-title="Portugal",EUROSPORT 1
+http://markfour.xyz:8080/live/Chavier/Chavier/288712.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="Eurosport 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/HWJmsTkH/EUROSPORT-2.png" group-title="Portugal",Eurosport 2 ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288713.m3u8
+#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="CACAVISION" tvg-logo="https://i.postimg.cc/DwnRshnS/CA-AVISION.png" group-title="Portugal",CACAVISION
+http://markfour.xyz:8080/live/Chavier/Chavier/288714.m3u8
+#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="CACA E PESCA" tvg-logo="https://i.postimg.cc/NM9nYf7z/CACA-E-PESCA.png" group-title="Portugal",CACA E PESCA
+http://markfour.xyz:8080/live/Chavier/Chavier/288715.m3u8
+#EXTINF:-1 tvg-id="TOROS TV" tvg-name="TOROS TV" tvg-logo="https://i.postimg.cc/k5D1FXZg/TOROS.png" group-title="Portugal",TOROS TV
+http://markfour.xyz:8080/live/Chavier/Chavier/288716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/5tcYpsKQ/redbull.png" group-title="Portugal",REDBULL TV ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288717.m3u8
+#EXTINF:-1 tvg-id="FIGHT NETWORK" tvg-name="FIGHT NETWORK ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/2yd28qq2/FIGHT-NETWORK.png" group-title="Portugal",FIGHT NETWORK ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288718.m3u8
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="https://i.postimg.cc/Y0xzBJVP/KOMBAT-SPORT.png" group-title="Portugal",KOMBAT SPORT
+http://markfour.xyz:8080/live/Chavier/Chavier/288719.m3u8
+#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="MOTORVISION" tvg-logo="https://i.postimg.cc/8PtmKgLJ/MOTORVISION.png" group-title="Portugal",MOTORVISION
+http://markfour.xyz:8080/live/Chavier/Chavier/288720.m3u8
+#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://i.postimg.cc/3xqChjS3/FUEL-TV.png" group-title="Portugal",FUEL TV
+http://markfour.xyz:8080/live/Chavier/Chavier/288721.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="https://i.postimg.cc/T1Tn0twJ/PFC.png" group-title="Portugal",PFC
+http://markfour.xyz:8080/live/Chavier/Chavier/288722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ TV FILMES ▆ ▅ ▄ ▂" tvg-logo="data:image/jpeg;base64,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" group-title="Portugal",▂ ▄ ▅ ▆ TV FILMES ▆ ▅ ▄ ▂
+http://markfour.xyz:8080/live/Chavier/Chavier/288723.m3u8
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="NOS STUDIOS ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/G3Qx2dHr/medium-studios.jpg" group-title="Portugal",NOS STUDIOS ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288724.m3u8
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOP ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/9FJm1fW2/Tv-Cine-Top.png" group-title="Portugal",TVCINE TOP ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288725.m3u8
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOP" tvg-logo="https://i.postimg.cc/qRmNkNNT/Tv-Cine-Top-HD.png" group-title="Portugal",TVCINE TOP
+http://markfour.xyz:8080/live/Chavier/Chavier/288726.m3u8
+#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="TVCINE EDITION ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/KYYgQVXq/Tv-Cine-Edition.png" group-title="Portugal",TVCINE EDITION ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288727.m3u8
+#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="TVCINE EDITION" tvg-logo="https://i.postimg.cc/LXVzj4hC/Tv-Cine-Edition.png" group-title="Portugal",TVCINE EDITION
+http://markfour.xyz:8080/live/Chavier/Chavier/288728.m3u8
+#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCINE EMOTION ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/QxYJ6Mmv/Tv-Cine-Emotion-HD.png" group-title="Portugal",TVCINE EMOTION ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288729.m3u8
+#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCINE EMOTION" tvg-logo="https://i.postimg.cc/m2wDqwy0/Tv-Cine-Emotion.png" group-title="Portugal",TVCINE EMOTION
+http://markfour.xyz:8080/live/Chavier/Chavier/288730.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="TVCINE ACTION ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/qMpSmXRh/Tv-Cine-Action-v2.png" group-title="Portugal",TVCINE ACTION ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288731.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="TVCINE ACTION" tvg-logo="https://i.postimg.cc/0ymPtzxN/Tv-Cine-Action.png" group-title="Portugal",TVCINE ACTION
+http://markfour.xyz:8080/live/Chavier/Chavier/288732.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/7LTcrZNQ/HOLLYWOOD-HD.png" group-title="Portugal",HOLLYWOOD ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288733.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD" tvg-logo="https://i.postimg.cc/gJ8f82X6/HOLLYWOOD.png" group-title="Portugal",HOLLYWOOD
+http://markfour.xyz:8080/live/Chavier/Chavier/288734.m3u8
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN MOVIES ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/4dtq0WVt/AXN-Movies-Sem-Logo.png" group-title="Portugal",AXN MOVIES ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288735.m3u8
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN MOVIES" tvg-logo="https://i.postimg.cc/4dtq0WVt/AXN-Movies-Sem-Logo.png" group-title="Portugal",AXN MOVIES
+http://markfour.xyz:8080/live/Chavier/Chavier/288736.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX MOVIES ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/xTcfx2qb/FOX-MOVIES-HD.png" group-title="Portugal",FOX MOVIES ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288737.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX MOVIES" tvg-logo="https://i.postimg.cc/QNYYbLRP/FOX.png" group-title="Portugal",FOX MOVIES
+http://markfour.xyz:8080/live/Chavier/Chavier/288738.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.postimg.cc/288K8wwW/AMC.png" group-title="Portugal",AMC
+http://markfour.xyz:8080/live/Chavier/Chavier/288739.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="CINEMUNDO ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/QdKSHnWF/CINEMUNDO-HD.png" group-title="Portugal",CINEMUNDO ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288740.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="CINEMUNDO" tvg-logo="https://i.postimg.cc/dtx4QKDM/CINE-MUNDO.png" group-title="Portugal",CINEMUNDO
+http://markfour.xyz:8080/live/Chavier/Chavier/288741.m3u8
+#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-name="EUROCHANNEL" tvg-logo="https://i.postimg.cc/SNBCtQJK/EUROCHANNEL.png" group-title="Portugal",EUROCHANNEL
+http://markfour.xyz:8080/live/Chavier/Chavier/288742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ TV SERIES ▆ ▅ ▄ ▂" tvg-logo="https://1.bp.blogspot.com/-Imo1tXpleSs/U2rY8uzqXuI/AAAAAAAAK3s/7f42CQuPs5U/s1600/free_desktop_wallpaper_logo_tv_series_1024x768.gif" group-title="Portugal",▂ ▄ ▅ ▆ TV SERIES ▆ ▅ ▄ ▂
+http://markfour.xyz:8080/live/Chavier/Chavier/288743.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/pXVzcptX/AXN-HD.png" group-title="Portugal",AXN ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288744.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="Portugal",AXN
+http://markfour.xyz:8080/live/Chavier/Chavier/288745.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="AXN WHITE ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/4x5MkKYL/AXN-WHITE-HD.png" group-title="Portugal",AXN WHITE ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288746.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="AXN WHITE" tvg-logo="https://i.postimg.cc/HWyhWvJ7/AXN-WHITE.png" group-title="Portugal",AXN WHITE
+http://markfour.xyz:8080/live/Chavier/Chavier/288747.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/VLV6mN2R/FOX-HD.png" group-title="Portugal",FOX ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288748.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://i.postimg.cc/C5Hx6dbD/FOX.png" group-title="Portugal",FOX
+http://markfour.xyz:8080/live/Chavier/Chavier/288749.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/DyjW0641/FOX-LIFE.png" group-title="Portugal",FOX LIFE ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288750.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="https://i.postimg.cc/DyjW0641/FOX-LIFE.png" group-title="Portugal",FOX LIFE
+http://markfour.xyz:8080/live/Chavier/Chavier/288751.m3u8
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="FOX CRIME ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/vBc2R3nX/FOX-CRIME.png" group-title="Portugal",FOX CRIME ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288752.m3u8
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="FOX CRIME" tvg-logo="https://i.postimg.cc/vBc2R3nX/FOX-CRIME.png" group-title="Portugal",FOX CRIME
+http://markfour.xyz:8080/live/Chavier/Chavier/288753.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="FOX COMEDY ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/PJC4cxB7/FOX-COMEDY.png" group-title="Portugal",FOX COMEDY ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288754.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="FOX COMEDY" tvg-logo="https://i.postimg.cc/PJC4cxB7/FOX-COMEDY.png" group-title="Portugal",FOX COMEDY
+http://markfour.xyz:8080/live/Chavier/Chavier/288755.m3u8
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://i.postimg.cc/C5WBtJM2/SYFY.png" group-title="Portugal",SYFY
+http://markfour.xyz:8080/live/Chavier/Chavier/288756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ INFANTIL ▆ ▅ ▄ ▂" tvg-logo="https://previews.123rf.com/images/julioaldana/julioaldana1711/julioaldana171100023/89838116-zona-infantil-zona-de-ni%C3%B1os-texto-en-espa%C3%B1ol-ilustraci%C3%B3n-de-signo-de-vector-.jpg" group-title="Portugal",▂ ▄ ▅ ▆ INFANTIL ▆ ▅ ▄ ▂
+http://markfour.xyz:8080/live/Chavier/Chavier/288757.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.postimg.cc/rpnP4twm/DISNEY-JUNIOR.png" group-title="Portugal",DISNEY CHANNEL
+http://markfour.xyz:8080/live/Chavier/Chavier/288758.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.postimg.cc/0QkBM0sh/DISNEY-CHANNEL.png" group-title="Portugal",DISNEY JUNIOR
+http://markfour.xyz:8080/live/Chavier/Chavier/288759.m3u8
+#EXTINF:-1 tvg-id="BIGGS" tvg-name="PANDA BIGGS" tvg-logo="https://i.postimg.cc/9fyg0NqW/BIGGS.png" group-title="Portugal",PANDA BIGGS
+http://markfour.xyz:8080/live/Chavier/Chavier/288760.m3u8
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA" tvg-logo="https://i.postimg.cc/SRp7YyCR/CANAL-PANDA.png" group-title="Portugal",CANAL PANDA
+http://markfour.xyz:8080/live/Chavier/Chavier/288761.m3u8
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="https://i.postimg.cc/9QdjSNp2/SIC-K-HD.png" group-title="Portugal",SIC K
+http://markfour.xyz:8080/live/Chavier/Chavier/288762.m3u8
+#EXTINF:-1 tvg-id="JIM JAM" tvg-name="JIM JAM" tvg-logo="https://i.postimg.cc/fTDfwRMg/JIM-JAM.png" group-title="Portugal",JIM JAM
+http://markfour.xyz:8080/live/Chavier/Chavier/288763.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.postimg.cc/FzZcf0hC/NICKELODEON.png" group-title="Portugal",NICKELODEON
+http://markfour.xyz:8080/live/Chavier/Chavier/288764.m3u8
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR." tvg-logo="https://i.postimg.cc/65MntVjy/NICK-JR.png" group-title="Portugal",NICK JR.
+http://markfour.xyz:8080/live/Chavier/Chavier/288765.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/2SzYFhrF/CARTOON-NETWORK.png" group-title="Portugal",CARTOON NETWORK
+http://markfour.xyz:8080/live/Chavier/Chavier/288766.m3u8
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.postimg.cc/NFksB4QF/BABY-TV.png" group-title="Portugal",BABY TV
+http://markfour.xyz:8080/live/Chavier/Chavier/288767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ MUSICA ▆ ▅ ▄ ▂" tvg-logo="https://i.postimg.cc/zGJHYvYD/musi.jpg" group-title="Portugal",▂ ▄ ▅ ▆ MUSICA ▆ ▅ ▄ ▂
+http://markfour.xyz:8080/live/Chavier/Chavier/288768.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV Live ᴴᴰ" tvg-logo="https://i.postimg.cc/mrf5yGYx/MTV-LIVE-HD.png" group-title="Portugal",MTV Live ᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288769.m3u8
+#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="MTV PORTUGAL" tvg-logo="https://i.postimg.cc/QxzPV7Vd/MTV-PORTUGAL.png" group-title="Portugal",MTV PORTUGAL
+http://markfour.xyz:8080/live/Chavier/Chavier/288770.m3u8
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM POP" tvg-logo="https://i.postimg.cc/4xbzjkCR/MCM-POP.png" group-title="Portugal",MCM POP
+http://markfour.xyz:8080/live/Chavier/Chavier/288771.m3u8
+#EXTINF:-1 tvg-id="AFRO MUSIC" tvg-name="AFRO MUSIC" tvg-logo="https://i.imgur.com/YdHGyWn.png" group-title="Portugal",AFRO MUSIC
+http://markfour.xyz:8080/live/Chavier/Chavier/288772.m3u8
+#EXTINF:-1 tvg-id="TRACE TOCA" tvg-name="TRACE TOCA" tvg-logo="https://i.imgur.com/hmCOuYV.png" group-title="Portugal",TRACE TOCA
+http://markfour.xyz:8080/live/Chavier/Chavier/288773.m3u8
+#EXTINF:-1 tvg-id="TRACE URBAN" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="Portugal",TRACE URBAN
+http://markfour.xyz:8080/live/Chavier/Chavier/288774.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH 1" tvg-logo="https://i.imgur.com/Nn30UkT.png" group-title="Portugal",VH 1
+http://markfour.xyz:8080/live/Chavier/Chavier/288775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ DOCUMENTARIOS ▆ ▅ ▄ ▂" tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png" group-title="Portugal",▂ ▄ ▅ ▆ DOCUMENTARIOS ▆ ▅ ▄ ▂
+http://markfour.xyz:8080/live/Chavier/Chavier/288776.m3u8
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="TRAVEL CHANNEL" tvg-logo="https://i.postimg.cc/fW099sH1/TRAVEL-CHANNEL.png" group-title="Portugal",TRAVEL CHANNEL
+http://markfour.xyz:8080/live/Chavier/Chavier/288777.m3u8
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NAT GEO" tvg-logo="https://i.postimg.cc/WbwcWDWr/NATIONAL-GEOGRAPHIC.png" group-title="Portugal",NAT GEO
+http://markfour.xyz:8080/live/Chavier/Chavier/288778.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.postimg.cc/7LYHM1qf/NAT-GEO-WILD.png" group-title="Portugal",NAT GEO WILD
+http://markfour.xyz:8080/live/Chavier/Chavier/288779.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.postimg.cc/SKvFzX7T/DISCOVERY-CHANNEL.png" group-title="Portugal",DISCOVERY CHANNEL
+http://markfour.xyz:8080/live/Chavier/Chavier/288780.m3u8
+#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="ODISSEIA" tvg-logo="https://i.postimg.cc/cL1CXGmx/ODISSEIA.png" group-title="Portugal",ODISSEIA
+http://markfour.xyz:8080/live/Chavier/Chavier/288781.m3u8
+#EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="HISTORIA" tvg-logo="https://i.imgur.com/0BsQiWg.png" group-title="Portugal",HISTORIA
+http://markfour.xyz:8080/live/Chavier/Chavier/288782.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.postimg.cc/Kvwp5mFL/TLC.png" group-title="Portugal",TLC
+http://markfour.xyz:8080/live/Chavier/Chavier/288783.m3u8
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-name="E! ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/Zq7wCmfC/E-ENTRETAINMENT.png" group-title="Portugal",E! ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288784.m3u8
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://i.postimg.cc/GhFzvG70/BLAZE.png" group-title="Portugal",BLAZE
+http://markfour.xyz:8080/live/Chavier/Chavier/288785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FATIMA TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/cCmgLxmz/Fatima-tv-2.jpg" group-title="Portugal",FATIMA TV ᶠᴴᴰ
+http://markfour.xyz:8080/live/Chavier/Chavier/288786.m3u8
+#EXTINF:-1 tvg-id="CANÇÃO NOVA TV" tvg-name="CANCAO NOVA" tvg-logo="https://i.postimg.cc/DywmcK52/CAN-O-NOVA.png" group-title="Portugal",CANCAO NOVA
+http://markfour.xyz:8080/live/Chavier/Chavier/288787.m3u8
+#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-name="KURIAKOS TV" tvg-logo="https://i.postimg.cc/kG1JHBw7/KURIAKOS-TV.png" group-title="Portugal",KURIAKOS TV
+http://markfour.xyz:8080/live/Chavier/Chavier/288788.m3u8
+#EXTINF:-1 tvg-id="CBS REALITY" tvg-name="CBS REALITY" tvg-logo="https://i.postimg.cc/2SdJjPRZ/CBS-REALITY.png" group-title="Portugal",CBS REALITY
+http://markfour.xyz:8080/live/Chavier/Chavier/288789.m3u8
+#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY" tvg-name="ID INVESTIGATION" tvg-logo="" group-title="Portugal",ID INVESTIGATION
+http://markfour.xyz:8080/live/Chavier/Chavier/288790.m3u8
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.postimg.cc/3J27pfQK/CRIME-INVESTIGATION.png" group-title="Portugal",CRIME INVESTIGATION
+http://markfour.xyz:8080/live/Chavier/Chavier/288791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ INTERNACIONAL ▆ ▅ ▄ ▂" tvg-logo="https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2016/12/relinter-rrr.jpg" group-title="Portugal",▂ ▄ ▅ ▆ INTERNACIONAL ▆ ▅ ▄ ▂
+http://markfour.xyz:8080/live/Chavier/Chavier/288792.m3u8
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/aZP2nIU.png" group-title="Portugal",GLOBO
+http://markfour.xyz:8080/live/Chavier/Chavier/288793.m3u8
+#EXTINF:-1 tvg-id="GLOBO NOW" tvg-name="GLOBO NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Globo_Now_logo_2018.png" group-title="Portugal",GLOBO NOW
+http://markfour.xyz:8080/live/Chavier/Chavier/288794.m3u8
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="TV RECORD" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="Portugal",TV RECORD
+http://markfour.xyz:8080/live/Chavier/Chavier/288795.m3u8
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP MADEIRA" tvg-logo="https://i.postimg.cc/gjKX0ZrR/RTP-MADEIRA.png" group-title="Portugal",RTP MADEIRA
+http://markfour.xyz:8080/live/Chavier/Chavier/288796.m3u8
+#EXTINF:-1 tvg-id="RTP AÇORES" tvg-name="RTP ACORES" tvg-logo="https://i.postimg.cc/wTT3V37f/RTP-A-ORES.png" group-title="Portugal",RTP ACORES
+http://markfour.xyz:8080/live/Chavier/Chavier/288797.m3u8
+#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="RTP AFRICA" tvg-logo="https://i.postimg.cc/TwJYjXGv/RTP-AFRICA.png" group-title="Portugal",RTP AFRICA
+http://markfour.xyz:8080/live/Chavier/Chavier/288798.m3u8
+#EXTINF:-1 tvg-id="TV5 MONDE" tvg-name="TV5 MONDE" tvg-logo="https://i.postimg.cc/zXwZ3LTv/TV5-MONDE.png" group-title="Portugal",TV5 MONDE
+http://markfour.xyz:8080/live/Chavier/Chavier/288799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZORES TV" tvg-logo="https://i.postimg.cc/gJN9G63w/azores.png" group-title="Portugal",AZORES TV
+http://markfour.xyz:8080/live/Chavier/Chavier/288800.m3u8
+#EXTINF:-1 tvg-id="ZAPVIVA" tvg-name="ZAP VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="Portugal",ZAP VIVA
+http://markfour.xyz:8080/live/Chavier/Chavier/288801.m3u8
+#EXTINF:-1 tvg-id="TPA INTERNACIONAL" tvg-name="TPA INTERNACIONAL" tvg-logo="https://i.imgur.com/Pqg5ViF.png" group-title="Portugal",TPA INTERNACIONAL
+http://markfour.xyz:8080/live/Chavier/Chavier/288802.m3u8
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1 [low]" tvg-logo="https://3.bp.blogspot.com/-Y7dOGFU-Ks8/WB3MLKpKGpI/AAAAAAAAFR0/M2q_TAhPXhI0cPc6Cshp6VqmfBTuMMIuwCLcB/s1600/RTP%2B1.png" group-title="Portugal LOW",RTP 1 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287395.m3u8
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2 [low]" tvg-logo="https://1.bp.blogspot.com/-VBfZaw8u6Yw/WKjYLII3rbI/AAAAAAAAFq0/eZFYhK6uKSAX1_xmtl5UNwDdtAaWKtkgACLcB/s1600/RTP%2B2.png" group-title="Portugal LOW",RTP 2 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287396.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC [low]" tvg-logo="https://2.bp.blogspot.com/-uKGI5OZFlWw/TljSobuNL1I/AAAAAAAAAkA/T6tvJUNdAoc/s1600/SIC.png" group-title="Portugal LOW",SIC [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287397.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI [low]" tvg-logo="https://2.bp.blogspot.com/-dReNu8WPljk/WKte3PskyZI/AAAAAAAAFrk/mF0U5J62n6w3dyg5WI8PocRCko_MEf7KgCLcB/s1600/TVI.png" group-title="Portugal LOW",TVI [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287398.m3u8
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC Noticias [low]" tvg-logo="https://4.bp.blogspot.com/-BPWLCfUsfAs/WDrqHd6Tn4I/AAAAAAAAFew/SrNwwE1zeUA0gBJYHMvpkO-AhUH9t7PSwCLcB/s1600/SIC%2BNot%25C3%25ADcias.png" group-title="Portugal LOW",SIC Noticias [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287399.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV [low]" tvg-logo="https://3.bp.blogspot.com/-yIZhvI7rTus/WDrqBgtZxEI/AAAAAAAAFbA/OzMWgsQg6Aw_gJac9mhCyi6C3Naf-XmwQCLcB/s1600/CM%2BTV.png" group-title="Portugal LOW",CMTV [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287400.m3u8
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24 [low]" tvg-logo="https://2.bp.blogspot.com/-oDvKtdAIrFc/WB3ML41ca_I/AAAAAAAAFSY/J1yJFaw1bYU7GObZrK0O0xdRkZguZfJLgCLcB/s1600/TVI%2B24.png" group-title="Portugal LOW",TVI 24 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287401.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY [low]" tvg-logo="https://3.bp.blogspot.com/-a1LgTR7B-ws/WB3MMdbuCZI/AAAAAAAAFSo/EBpwlAUkgC49OIKcJY4OeTd6kdRgtk92ACLcB/s1600/TVI%2BReality.png" group-title="Portugal LOW",TVI REALITY [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287402.m3u8
+#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC Mulher [low]" tvg-logo="https://i.imgur.com/YPMnEq4.png" group-title="Portugal LOW",SIC Mulher [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287403.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC Radical  [low]" tvg-logo="https://2.bp.blogspot.com/-d9da1RzOwkM/WDtdeVrGYWI/AAAAAAAAFkQ/OxZYUvVTuXoyN0gw7t40I6ooMlxv4u-LwCLcB/s1600/SIC%2BRadical.png" group-title="Portugal LOW",SIC Radical  [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287404.m3u8
+#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI Ficcao [low]" tvg-logo="https://3.bp.blogspot.com/-BJpwkp5F5Js/WB3MMLpyelI/AAAAAAAAFSc/EboXo-xSwQEQmxgZGXDpYEwiwsLt4BaygCLcB/s1600/TVI%2BFic%25C3%25A7%25C3%25A3o%2Blogo.png" group-title="Portugal LOW",TVI Ficcao [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287405.m3u8
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11 [low]" tvg-logo="https://i.imgur.com/MKjJicE.png" group-title="Portugal LOW",Canal 11 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287406.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV [low]" tvg-logo="https://1.bp.blogspot.com/-mQtJyMSVEF4/WDrqBfCiEcI/AAAAAAAAFa4/ikjnsHEOBzUntEZgLDKzxqe6TNbiv3BBgCLcB/s1600/BTV.png" group-title="Portugal LOW",BTV [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287407.m3u8
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="Sport TV+ [low]" tvg-logo="https://1.bp.blogspot.com/-PY9akbvo-9Q/WDrqJjn2dqI/AAAAAAAAFgQ/meTIg6J8yHgIcqQq9bpg0JfT0l_61Az8gCLcB/s1600/Sport%2BTV.png" group-title="Portugal LOW",Sport TV+ [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287408.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="Sport TV 1 [low]" tvg-logo="https://3.bp.blogspot.com/-xqY7GYpVweo/WDrqIDycL_I/AAAAAAAAFfM/IZXPij6_QSYmJvXrrAgt5JayrY0SF0nzwCLcB/s1600/Sport%2BTV%2B1.png" group-title="Portugal LOW",Sport TV 1 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287409.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="Sport TV 2 [low]" tvg-logo="https://3.bp.blogspot.com/-lwk8vd3ck2c/WDrqIah-P0I/AAAAAAAAFfc/xl6fLhpEGUUTQ0f7YlHP94LT2Zl_DTvGgCLcB/s1600/Sport%2BTV%2B2.png" group-title="Portugal LOW",Sport TV 2 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287410.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="Sport TV 3 [low]" tvg-logo="https://1.bp.blogspot.com/-IMuQcn3oBRA/WDrqIk5DU5I/AAAAAAAAFfs/1Nd9AYsn3YU0gBs9tNfMRGS6MUKK3kqlACLcB/s1600/Sport%2BTV%2B3.png" group-title="Portugal LOW",Sport TV 3 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287411.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="Sport TV 4 [low]" tvg-logo="https://2.bp.blogspot.com/-Is2uknTYbGQ/WDrqJCFQ-cI/AAAAAAAAFf8/IU1yLJyyExMoSeEg0q07RpgjiPGT7xjCgCLcB/s1600/Sport%2BTV%2B4.png" group-title="Portugal LOW",Sport TV 4 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287412.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="Sport TV 5 [low]" tvg-logo="" group-title="Portugal LOW",Sport TV 5 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287413.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="Eleven Sports 1 [low]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="Portugal LOW",Eleven Sports 1 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287414.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Eleven Sports 2 [low]" tvg-logo="http://apps.iptv.lu/images/channel/original/553.png" group-title="Portugal LOW",Eleven Sports 2 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287415.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="Eleven Sports 3 [low]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ElevenSports_3.png" group-title="Portugal LOW",Eleven Sports 3 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287416.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="Eleven Sports 4 [low]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="Portugal LOW",Eleven Sports 4 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287417.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="Eleven Sports 5 [low]" tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Portugal LOW",Eleven Sports 5 [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287418.m3u8
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A BOLA TV [low]" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="Portugal LOW",A BOLA TV [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287419.m3u8
+#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PORTO CANAL [low]" tvg-logo="https://2.bp.blogspot.com/-dWNRMWROVig/WB8teBVMcLI/AAAAAAAAFV0/OLjZpFdAf5su5dCSH40NYMVGfEfi80aCQCLcB/s1600/Porto%2BCanal.png" group-title="Portugal LOW",PORTO CANAL [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287420.m3u8
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="PT: TVCine Top [low]" tvg-logo="https://3.bp.blogspot.com/-oTWpUz7wlJw/WDrqKTRRdzI/AAAAAAAAFg4/vnlijsfgiYYklxzUs6u_5aHYIB5UbdEYwCLcB/s1600/TVC%2B1.png" group-title="Portugal LOW",PT: TVCine Top [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287421.m3u8
+#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="TVCine Edition [low]" tvg-logo="https://4.bp.blogspot.com/-qONDVf5z7Jw/WDrqKzWDZNI/AAAAAAAAFhI/jbjkQZfhoLAanKf2V3o0IbAY3ouLRleNACLcB/s1600/TVC%2B2.png" group-title="Portugal LOW",TVCine Edition [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287422.m3u8
+#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCine Emotion [low]" tvg-logo="https://4.bp.blogspot.com/-p3imAkTBwws/WDrqLDbxMrI/AAAAAAAAFhY/3PDHxAetD9sbi49spAVvBEkst_E-klj4gCLcB/s1600/TVC%2B3.png" group-title="Portugal LOW",TVCine Emotion [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287423.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="PT: TVCine Action [low]" tvg-logo="https://2.bp.blogspot.com/-1-tyU19493s/WDrqLUw9TOI/AAAAAAAAFho/QSjNXve6MPgpGjiU2MXM6tBCXMoEcP1IwCLcB/s1600/TVC%2B4.png" group-title="Portugal LOW",PT: TVCine Action [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287424.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="PT: Hollywood [low]" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="Portugal LOW",PT: Hollywood [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287425.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN [low]" tvg-logo="https://3.bp.blogspot.com/-zpEr55Lzwlg/WB8tbSddskI/AAAAAAAAFUA/HDG64eBmlqgbuvTtZvEIvGWOkZYfd1zVQCLcB/s1600/AXN.PNG" group-title="Portugal LOW",AXN [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287426.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="AXN White [low]" tvg-logo="https://4.bp.blogspot.com/-_2PPLA8uGp4/WB8tbCXlBKI/AAAAAAAAFT4/Wud0MVTvK5843gByTq3QETnwW8oZS45ZgCLcB/s1600/AXN%2BWhite.png" group-title="Portugal LOW",AXN White [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287427.m3u8
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN MOVIES [low]" tvg-logo="https://2.bp.blogspot.com/-D7cgAR10puU/WB8tbIECYzI/AAAAAAAAFTw/R6xsbk5h94Iy2-ZdUWd80to7-LNiHBjFgCLcB/s1600/AXN%2BBlack.png" group-title="Portugal LOW",AXN MOVIES [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287428.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo [low]" tvg-logo="https://3.bp.blogspot.com/-tkCyQv2RtAc/VSene6nLQtI/AAAAAAAAEx8/FLegKRckKmY/s1600/Cinemundo.png" group-title="Portugal LOW",Cinemundo [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287429.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="Fox Movies [low]" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="Portugal LOW",Fox Movies [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287430.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="Fox Life [low]" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="Portugal LOW",Fox Life [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287431.m3u8
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="Fox Crime [low]" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="Portugal LOW",Fox Crime [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287432.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="FOX COMEDY [low]" tvg-logo="https://1.bp.blogspot.com/-Y72eTexPjIE/WB8tc1bqy3I/AAAAAAAAFVI/FAxaGEK9-rMfPLrqXApuBelMNdcUHWUagCLcB/s1600/FOX%2BComedy.png" group-title="Portugal LOW",FOX COMEDY [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287433.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox [low]" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOX.png" group-title="Portugal LOW",Fox [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287434.m3u8
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY [low]" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="Portugal LOW",SYFY [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287435.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL [low]" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="Portugal LOW",DISNEY CHANNEL [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287436.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR [low]" tvg-logo="https://i.imgur.com/F46x3PV.png" group-title="Portugal LOW",DISNEY JUNIOR [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287437.m3u8
+#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="MTV [low]" tvg-logo="https://4.bp.blogspot.com/--rbGria_Nts/TljSYy15-kI/AAAAAAAAAgY/XL9OdPzHTBY/s1600/MTV.png" group-title="Portugal LOW",MTV [low]
+http://markfour.xyz:8080/live/Chavier/Chavier/287438.m3u8
