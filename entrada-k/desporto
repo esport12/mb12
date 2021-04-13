@@ -1,65 +1,111 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV + FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58693.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV + HD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV + HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 2 FHD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 3 FHD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 3 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4 FHD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 4 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5 HD" tvg-logo="" group-title="PORTUGAL",PT SPORT TV 5 HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV NBA FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting HD" tvg-logo="" group-title="PORTUGAL",PT: Sporting HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 3 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 4 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 5 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 6 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: euronews HD" tvg-logo="" group-title="PORTUGAL",PT: euronews HD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT EUROSPORT 1 FHD" tvg-logo="" group-title="PORTUGAL",PT EUROSPORT 1 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT EUROSPORT 2 FHD" tvg-logo="" group-title="PORTUGAL",PT EUROSPORT 2 FHD
-http://panelvip1.com:8080/live/okanozbek/zhYxBbK7mU/58613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT : LIGA N0S 1 ( Só hora de Jogos )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Liga_NOS_logo.png/764px-Liga_NOS_logo.png" group-title="PORTUGAL",PT : LIGA N0S 1 ( Só hora de Jogos )
+http://omni.hopto.org:8080/live/Raul/1234/64842.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : LIGA N0S 2 ( Só hora de Jogos )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Liga_NOS_logo.png/764px-Liga_NOS_logo.png" group-title="PORTUGAL",PT : LIGA N0S 2 ( Só hora de Jogos )
+http://omni.hopto.org:8080/live/Raul/1234/64852.ts
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="PT : CANAL 11 " tvg-logo="https://i.postimg.cc/Cx4WNsMC/image.png" group-title="PORTUGAL",PT : CANAL 11 
+http://omni.hopto.org:8080/live/Raul/1234/666.ts
+#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="PT : CANAL 11 ᴴᴰ" tvg-logo="https://i.postimg.cc/Cx4WNsMC/image.png" group-title="PORTUGAL",PT : CANAL 11 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/667.ts
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="PT : $P0RT TV +" tvg-logo="https://i.postimg.cc/0QGFbDf0/Sport_TV.png" group-title="PORTUGAL",PT : $P0RT TV +
+http://omni.hopto.org:8080/live/Raul/1234/655.ts
+#EXTINF:-1 tvg-id="SPORT TV+ HD" tvg-name="PT : $P0RT TV + ᴴᴰ" tvg-logo="https://i.postimg.cc/0QGFbDf0/Sport_TV.png" group-title="PORTUGAL",PT : $P0RT TV + ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/656.ts
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT : $P0RT TV 1" tvg-logo="https://i.postimg.cc/jSW1yGc5/Sport-TV-1.png" group-title="PORTUGAL",PT : $P0RT TV 1
+http://omni.hopto.org:8080/live/Raul/1234/651.ts
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="PT : $P0RT TV 1 ᴴᴰ" tvg-logo="https://i.postimg.cc/jSW1yGc5/Sport_TV_1.png" group-title="PORTUGAL",PT : $P0RT TV 1 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/62818.ts
+#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="PT : $P0RT TV 1 ᴴᴰ EXTRA" tvg-logo="https://i.postimg.cc/jSW1yGc5/Sport_TV_1.png" group-title="PORTUGAL",PT : $P0RT TV 1 ᴴᴰ EXTRA
+http://omni.hopto.org:8080/live/Raul/1234/19250.ts
+#EXTINF:-1 tvg-id="SPORT TV 1 LOW" tvg-name="PT : $P0RT TV 1 HEVC 265" tvg-logo="https://i.postimg.cc/jSW1yGc5/Sport_TV_1.png" group-title="PORTUGAL",PT : $P0RT TV 1 HEVC 265
+http://omni.hopto.org:8080/live/Raul/1234/35392.ts
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT : $P0RT TV 2" tvg-logo="https://i.postimg.cc/W4gfHgQc/Sport_TV_2.png" group-title="PORTUGAL",PT : $P0RT TV 2
+http://omni.hopto.org:8080/live/Raul/1234/647.ts
+#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="PT : $P0RT TV 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/W4gfHgQc/Sport_TV_2.png" group-title="PORTUGAL",PT : $P0RT TV 2 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/648.ts
+#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="PT : $P0RT TV 2 HEVC 265" tvg-logo="https://i.postimg.cc/W4gfHgQc/Sport_TV_2.png" group-title="PORTUGAL",PT : $P0RT TV 2 HEVC 265
+http://omni.hopto.org:8080/live/Raul/1234/19251.ts
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT : $P0RT TV 3" tvg-logo="https://i.postimg.cc/QCx4CPVj/Sport-TV-3.png" group-title="PORTUGAL",PT : $P0RT TV 3
+http://omni.hopto.org:8080/live/Raul/1234/643.ts
+#EXTINF:-1 tvg-id="SPORT TV 3 HD" tvg-name="PT : $P0RT TV 3 ᴴᴰ " tvg-logo="https://i.postimg.cc/vBySFDsg/Sport-TV-3-Full-HD.png" group-title="PORTUGAL",PT : $P0RT TV 3 ᴴᴰ 
+http://omni.hopto.org:8080/live/Raul/1234/645.ts
+#EXTINF:-1 tvg-id="SPORT TV 3 HD" tvg-name="PT : $P0RT TV 3 HEVC 265" tvg-logo="https://i.postimg.cc/vBySFDsg/Sport_TV_3_Full_HD.png" group-title="PORTUGAL",PT : $P0RT TV 3 HEVC 265
+http://omni.hopto.org:8080/live/Raul/1234/60897.ts
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="PT : $P0RT TV 4 " tvg-logo="https://i.postimg.cc/kXGYdkkc/Sport-TV-4.png" group-title="PORTUGAL",PT : $P0RT TV 4 
+http://omni.hopto.org:8080/live/Raul/1234/639.ts
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="PT : $P0RT TV 4 ᴴᴰ" tvg-logo="https://i.postimg.cc/76NtxDHB/Sport-TV-4-HD.png" group-title="PORTUGAL",PT : $P0RT TV 4 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/641.ts
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="PT : $P0RT TV 4 HEVC 265" tvg-logo="https://i.postimg.cc/76NtxDHB/Sport_TV_4_HD.png" group-title="PORTUGAL",PT : $P0RT TV 4 HEVC 265
+http://omni.hopto.org:8080/live/Raul/1234/60898.ts
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="PT : $P0RT TV 5" tvg-logo="https://i.postimg.cc/5Nr79sJM/Sport-TV-5.png" group-title="PORTUGAL",PT : $P0RT TV 5
+http://omni.hopto.org:8080/live/Raul/1234/635.ts
+#EXTINF:-1 tvg-id="SPORT TV 5 HD" tvg-name="PT : $P0RT TV 5 ᴴᴰ" tvg-logo="https://i.postimg.cc/qqbm3LCy/Sport-TV-5-HD.png" group-title="PORTUGAL",PT : $P0RT TV 5 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/636.ts
+#EXTINF:-1 tvg-id="SPORT TV 5 HD" tvg-name="PT : $P0RT TV 5 HEVC 265" tvg-logo="https://i.postimg.cc/qqbm3LCy/Sport_TV_5_HD.png" group-title="PORTUGAL",PT : $P0RT TV 5 HEVC 265
+http://omni.hopto.org:8080/live/Raul/1234/60899.ts
+#EXTINF:-1 tvg-id="SPORT TV NBA" tvg-name="PT : $P0RT TV NBA" tvg-logo="https://i.postimg.cc/9Q8bKG3x/SPORTV_NBA.jpg" group-title="PORTUGAL",PT : $P0RT TV NBA
+http://omni.hopto.org:8080/live/Raul/1234/632.ts
+#EXTINF:-1 tvg-id="SPORT TV NBA HD" tvg-name="PT : $P0RT TV NBA ᴴᴰ" tvg-logo="https://i.postimg.cc/9Q8bKG3x/SPORTV_NBA.jpg" group-title="PORTUGAL",PT : $P0RT TV NBA ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/633.ts
+#EXTINF:-1 tvg-id="BTV" tvg-name="PT : BENFICA TV" tvg-logo="https://i.postimg.cc/9F0ZMVXD/BTV.png" group-title="PORTUGAL",PT : BENFICA TV
+http://omni.hopto.org:8080/live/Raul/1234/660.ts
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="PT : BENFICA TV ᴴᴰ" tvg-logo="https://i.postimg.cc/9F0ZMVXD/BTV.png" group-title="PORTUGAL",PT : BENFICA TV ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/2450.ts
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="PT : BENFICA TV ᴴᴰ EXTRA" tvg-logo="https://i.postimg.cc/9F0ZMVXD/BTV.png" group-title="PORTUGAL",PT : BENFICA TV ᴴᴰ EXTRA
+http://omni.hopto.org:8080/live/Raul/1234/19239.ts
+#EXTINF:-1 tvg-id="BTV LOW" tvg-name="PT : BENFICA TV HEVC 265" tvg-logo="https://i.postimg.cc/9F0ZMVXD/BTV.png" group-title="PORTUGAL",PT : BENFICA TV HEVC 265
+http://omni.hopto.org:8080/live/Raul/1234/35391.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="PT : ELEVEN SPORTS 1" tvg-logo="https://i.postimg.cc/NG6Dfmmj/eleven_sports_1.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 1
+http://omni.hopto.org:8080/live/Raul/1234/628.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 HD" tvg-name="PT : ELEVEN SPORTS 1 ᴴᴰ" tvg-logo="https://i.postimg.cc/NG6Dfmmj/eleven_sports_1.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 1 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/629.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="PT : ELEVEN SPORTS 2" tvg-logo="https://i.postimg.cc/VsgtVRXn/eleven_sports_2.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 2
+http://omni.hopto.org:8080/live/Raul/1234/624.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 HD" tvg-name="PT : ELEVEN SPORTS 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/VsgtVRXn/eleven_sports_2.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 2 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/625.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="PT : ELEVEN SPORTS 3" tvg-logo="https://i.postimg.cc/xTdmDzP7/Eleven_Sports_3.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 3
+http://omni.hopto.org:8080/live/Raul/1234/620.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="PT : ELEVEN SPORTS 3 ᴴᴰ" tvg-logo="https://i.postimg.cc/xTdmDzP7/Eleven_Sports_3.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 3 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/621.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="PT : ELEVEN SPORTS 4" tvg-logo="https://i.postimg.cc/TYHDR37P/eleven_sports_4.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 4
+http://omni.hopto.org:8080/live/Raul/1234/616.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="PT : ELEVEN SPORTS 4 ᴴᴰ" tvg-logo="https://i.postimg.cc/TYHDR37P/eleven_sports_4.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 4 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/617.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="PT : ELEVEN SPORTS 5" tvg-logo="https://i.postimg.cc/PJQQ3nTw/eleven_sports_5.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 5
+http://omni.hopto.org:8080/live/Raul/1234/612.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="PT : ELEVEN SPORTS 5 ᴴᴰ" tvg-logo="https://i.postimg.cc/PJQQ3nTw/eleven_sports_5.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 5 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/613.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="PT : ELEVEN SPORTS 6" tvg-logo="https://i.postimg.cc/TYT9y1Jq/eleven_sports_6.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 6
+http://omni.hopto.org:8080/live/Raul/1234/608.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="PT : ELEVEN SPORTS 6 ᴴᴰ" tvg-logo="https://i.postimg.cc/TYT9y1Jq/eleven_sports_6.png" group-title="PORTUGAL",PT : ELEVEN SPORTS 6 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/609.ts
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="PT : SPORTING TV" tvg-logo="https://i.postimg.cc/NGpCSgPF/Sporting_TV.png" group-title="PORTUGAL",PT : SPORTING TV
+http://omni.hopto.org:8080/live/Raul/1234/658.ts
+#EXTINF:-1 tvg-id="SPORTING TV HD" tvg-name="PT : SPORTING TV ᴴᴰ" tvg-logo="https://i.postimg.cc/NGpCSgPF/Sporting_TV.png" group-title="PORTUGAL",PT : SPORTING TV ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/659.ts
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="PT : A BOLA TV" tvg-logo="https://i.postimg.cc/qM1wbjq3/A-Bola-TV.png" group-title="PORTUGAL",PT : A BOLA TV
+http://omni.hopto.org:8080/live/Raul/1234/663.ts
+#EXTINF:-1 tvg-id="A BOLA HD" tvg-name="PT : A BOLA TV ᴴᴰ" tvg-logo="https://i.postimg.cc/qM1wbjq3/A-Bola-TV.png" group-title="PORTUGAL",PT : A BOLA TV ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/664.ts
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="PT : EUROSPORT 1" tvg-logo="https://i.postimg.cc/5tVXwMJq/Eurosport-1.png" group-title="PORTUGAL",PT : EUROSPORT 1
+http://omni.hopto.org:8080/live/Raul/1234/604.ts
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="PT : EUROSPORT 1 ᴴᴰ" tvg-logo="https://i.postimg.cc/5tVXwMJq/Eurosport-1.png" group-title="PORTUGAL",PT : EUROSPORT 1 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/605.ts
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="PT : EUROSPORT 2" tvg-logo="https://i.postimg.cc/5y6yx451/Eurosport-2.png" group-title="PORTUGAL",PT : EUROSPORT 2
+http://omni.hopto.org:8080/live/Raul/1234/601.ts
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="PT : EUROSPORT 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/5y6yx451/Eurosport-2.png" group-title="PORTUGAL",PT : EUROSPORT 2 ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/602.ts
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="PT : KOMBAT SPORT" tvg-logo="https://i.postimg.cc/bdfhKp3m/Kombat_Sports.png" group-title="PORTUGAL",PT : KOMBAT SPORT
+http://omni.hopto.org:8080/live/Raul/1234/598.ts
+#EXTINF:-1 tvg-id="PFC" tvg-name="PT : PFC" tvg-logo="https://i.postimg.cc/4ygG0X8B/PFC_HD.png" group-title="PORTUGAL",PT : PFC
+http://omni.hopto.org:8080/live/Raul/1234/1506.ts
+#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="PT : CACA E PESCA" tvg-logo="https://i.postimg.cc/bvct3txn/Ca-a-e-Pesca.png" group-title="PORTUGAL",PT : CACA E PESCA
+http://omni.hopto.org:8080/live/Raul/1234/592.ts
+#EXTINF:-1 tvg-id="CAÇA E PESCA HD" tvg-name="PT : CACA E PESCA ᴴᴰ" tvg-logo="https://i.postimg.cc/bvct3txn/Ca-a-e-Pesca.png" group-title="PORTUGAL",PT : CACA E PESCA ᴴᴰ
+http://omni.hopto.org:8080/live/Raul/1234/593.ts
+#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="PT : CACAVISION" tvg-logo="https://i.postimg.cc/ZRJyhzDK/Ca-avision.png" group-title="PORTUGAL",PT : CACAVISION
+http://omni.hopto.org:8080/live/Raul/1234/595.ts
+#EXTINF:-1 tvg-id="TOROS TV" tvg-name="PT : TOROS TV" tvg-logo="https://i.postimg.cc/xdD6Mqqx/Toros-TV.png" group-title="PORTUGAL",PT : TOROS TV
+http://omni.hopto.org:8080/live/Raul/1234/596.ts
