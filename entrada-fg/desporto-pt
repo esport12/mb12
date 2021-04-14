@@ -1,125 +1,137 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆ DESPORTO ▆ ▅ ▄ ▂" tvg-logo="https://img2.gratispng.com/20180718/ltb/kisspng-logo-sport-brand-font-reebook-5b4fb7fcef23b9.8548709715319511009795.jpg" group-title="Portugal",▂ ▄ ▅ ▆ DESPORTO ▆ ▅ ▄ ▂
-http://markfour.xyz:8080/live/Chavier/Chavier/288662.m3u8
-#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="SPORT TV + ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/Twz6B8ZR/SPORT-TV-HD.png" group-title="Portugal",SPORT TV + ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288663.m3u8
-#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="SPORT TV +" tvg-logo="https://i.postimg.cc/632KH6bj/SPORT-TV.png" group-title="Portugal",SPORT TV +
-http://markfour.xyz:8080/live/Chavier/Chavier/288664.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 4k" tvg-logo="https://i.postimg.cc/P5PSvLCR/SPORT-TV-1-HD.png" group-title="Portugal",SPORT TV 1 4k
-http://markfour.xyz:8080/live/Chavier/Chavier/288665.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1  ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/P5PSvLCR/SPORT-TV-1-HD.png" group-title="Portugal",SPORT TV 1  ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288666.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ" tvg-logo="https://i.postimg.cc/P5PSvLCR/SPORT-TV-1-HD.png" group-title="Portugal",SPORT TV 1 ᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288667.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 extra" tvg-logo="https://i.postimg.cc/cJvPW976/SPORT-TV-1.png" group-title="Portugal",SPORT TV 1 extra
-http://markfour.xyz:8080/live/Chavier/Chavier/288668.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="Portugal",SPORT TV 1
-http://markfour.xyz:8080/live/Chavier/Chavier/288669.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2  4K" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="Portugal",SPORT TV 2  4K
-http://markfour.xyz:8080/live/Chavier/Chavier/288670.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="Portugal",SPORT TV 2 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288671.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="Portugal",SPORT TV 2 ᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288672.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="Portugal",SPORT TV 2
-http://markfour.xyz:8080/live/Chavier/Chavier/288673.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/MKVjXq58/SPORT-TV-3-HD.png" group-title="Portugal",SPORT TV 3 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288674.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://i.postimg.cc/MKVjXq58/SPORT-TV-3-HD.png" group-title="Portugal",SPORT TV 3 ᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288675.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.postimg.cc/Kjgxqcjc/SPORT-TV-3.png" group-title="Portugal",SPORT TV 3
-http://markfour.xyz:8080/live/Chavier/Chavier/288676.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/NFhjw2W2/SPORT-TV-4-HD.png" group-title="Portugal",SPORT TV 4 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288677.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://i.postimg.cc/NFhjw2W2/SPORT-TV-4-HD.png" group-title="Portugal",SPORT TV 4 ᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288678.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="https://i.postimg.cc/DyPytZ5m/SPORT-TV-4.png" group-title="Portugal",SPORT TV 4
-http://markfour.xyz:8080/live/Chavier/Chavier/288679.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/1znS550G/SPORT-TV-5-HD.png" group-title="Portugal",SPORT TV 5 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288680.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://i.postimg.cc/1znS550G/SPORT-TV-5-HD.png" group-title="Portugal",SPORT TV 5 ᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288681.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5" tvg-logo="https://i.postimg.cc/ZqCbBLmy/SPORT-TV-5.png" group-title="Portugal",SPORT TV 5
-http://markfour.xyz:8080/live/Chavier/Chavier/288682.m3u8
-#EXTINF:-1 tvg-id="SPORT TV NBA HD" tvg-name="SPORT TV NBA ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="Portugal",SPORT TV NBA ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288683.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1  4K" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="Portugal",ELEVEN SPORTS 1  4K
-http://markfour.xyz:8080/live/Chavier/Chavier/288684.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="Portugal",ELEVEN SPORTS 1 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288685.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1 ᴴᴰ" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="Portugal",ELEVEN SPORTS 1 ᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288686.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="Portugal",ELEVEN SPORTS 1
-http://markfour.xyz:8080/live/Chavier/Chavier/288687.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2  4K" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="Portugal",ELEVEN SPORTS 2  4K
-http://markfour.xyz:8080/live/Chavier/Chavier/288688.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="Portugal",ELEVEN SPORTS 2 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288689.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="Portugal",ELEVEN SPORTS 2 ᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288690.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="Portugal",ELEVEN SPORTS 2
-http://markfour.xyz:8080/live/Chavier/Chavier/288691.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="Portugal",ELEVEN SPORTS 3 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288692.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="Portugal",ELEVEN SPORTS 3
-http://markfour.xyz:8080/live/Chavier/Chavier/288693.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="ELEVEN SPORTS 4 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="Portugal",ELEVEN SPORTS 4 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288694.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="Portugal",ELEVEN SPORTS 4
-http://markfour.xyz:8080/live/Chavier/Chavier/288695.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="ELEVEN SPORTS 5 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="Portugal",ELEVEN SPORTS 5 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288696.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="Portugal",ELEVEN SPORTS 5
-http://markfour.xyz:8080/live/Chavier/Chavier/288697.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://i.postimg.cc/C16BWK4W/ELEVEN-SPORTS-6.png" group-title="Portugal",ELEVEN SPORTS 6
-http://markfour.xyz:8080/live/Chavier/Chavier/288698.m3u8
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/fRznG0xX/1-0-1-83-B-47-36-FFFF0000-0-0-0.png" group-title="Portugal",CANAL 11 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288699.m3u8
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11" tvg-logo="https://i.postimg.cc/fRznG0xX/1-0-1-83-B-47-36-FFFF0000-0-0-0.png" group-title="Portugal",CANAL 11
-http://markfour.xyz:8080/live/Chavier/Chavier/288700.m3u8
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="A BOLA TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/Cx1rCCGv/A-BOLA-TV.png" group-title="Portugal",A BOLA TV ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288701.m3u8
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="A BOLA" tvg-logo="https://i.postimg.cc/Cx1rCCGv/A-BOLA-TV.png" group-title="Portugal",A BOLA
-http://markfour.xyz:8080/live/Chavier/Chavier/288702.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV   ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/RVkQbgsv/BTV-HD.png" group-title="Portugal",BTV   ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288703.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV  ᴴᴰ" tvg-logo="https://i.postimg.cc/RVkQbgsv/BTV-HD.png" group-title="Portugal",BTV  ᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288704.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://i.postimg.cc/GtNJRKbJ/BTV.png" group-title="Portugal",BTV
-http://markfour.xyz:8080/live/Chavier/Chavier/288705.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV 4k" tvg-logo="https://i.postimg.cc/GtNJRKbJ/BTV.png" group-title="Portugal",BTV 4k
-http://markfour.xyz:8080/live/Chavier/Chavier/288706.m3u8
-#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PORTO CANAL ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/NMyR4Vh8/PORTO-CANAL-HD.png" group-title="Portugal",PORTO CANAL ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288707.m3u8
-#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PORTO CANAL" tvg-logo="https://i.postimg.cc/7h2MxRmP/PORTO-CANAL.png" group-title="Portugal",PORTO CANAL
-http://markfour.xyz:8080/live/Chavier/Chavier/288708.m3u8
-#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="SPORTING TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/kgFV7scN/SPORTING-TV-HD.png" group-title="Portugal",SPORTING TV ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288709.m3u8
-#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="SPORTING TV" tvg-logo="https://i.postimg.cc/x8wk1Fh5/SPORTING-TV.png" group-title="Portugal",SPORTING TV
-http://markfour.xyz:8080/live/Chavier/Chavier/288710.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/rpgn5Rgb/EUROSPORT-1-HD.png" group-title="Portugal",EUROSPORT 1 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288711.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-logo="https://i.postimg.cc/htW5nBfC/EUROSPORT-1.png" group-title="Portugal",EUROSPORT 1
-http://markfour.xyz:8080/live/Chavier/Chavier/288712.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="Eurosport 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/HWJmsTkH/EUROSPORT-2.png" group-title="Portugal",Eurosport 2 ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288713.m3u8
-#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="CACAVISION" tvg-logo="https://i.postimg.cc/DwnRshnS/CA-AVISION.png" group-title="Portugal",CACAVISION
-http://markfour.xyz:8080/live/Chavier/Chavier/288714.m3u8
-#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="CACA E PESCA" tvg-logo="https://i.postimg.cc/NM9nYf7z/CACA-E-PESCA.png" group-title="Portugal",CACA E PESCA
-http://markfour.xyz:8080/live/Chavier/Chavier/288715.m3u8
-#EXTINF:-1 tvg-id="TOROS TV" tvg-name="TOROS TV" tvg-logo="https://i.postimg.cc/k5D1FXZg/TOROS.png" group-title="Portugal",TOROS TV
-http://markfour.xyz:8080/live/Chavier/Chavier/288716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/5tcYpsKQ/redbull.png" group-title="Portugal",REDBULL TV ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288717.m3u8
-#EXTINF:-1 tvg-id="FIGHT NETWORK" tvg-name="FIGHT NETWORK ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/2yd28qq2/FIGHT-NETWORK.png" group-title="Portugal",FIGHT NETWORK ᶠᴴᴰ
-http://markfour.xyz:8080/live/Chavier/Chavier/288718.m3u8
-#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="https://i.postimg.cc/Y0xzBJVP/KOMBAT-SPORT.png" group-title="Portugal",KOMBAT SPORT
-http://markfour.xyz:8080/live/Chavier/Chavier/288719.m3u8
-#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="MOTORVISION" tvg-logo="https://i.postimg.cc/8PtmKgLJ/MOTORVISION.png" group-title="Portugal",MOTORVISION
-http://markfour.xyz:8080/live/Chavier/Chavier/288720.m3u8
-#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://i.postimg.cc/3xqChjS3/FUEL-TV.png" group-title="Portugal",FUEL TV
-http://markfour.xyz:8080/live/Chavier/Chavier/288721.m3u8
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="https://i.postimg.cc/T1Tn0twJ/PFC.png" group-title="Portugal",PFC
-http://markfour.xyz:8080/live/Chavier/Chavier/288722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""-----DESPORTO-----"" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.N77EAKedXCBHHD1mRKfrlgHaE7&pid=Api&P=0&w=260&h=174" group-title="PORTUGAL","-----DESPORTO-----"
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64774.m3u8
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="PT: CANAL 11 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CANAL11HD.png" group-title="PORTUGAL",PT: CANAL 11 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64775.m3u8
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="PT: CANAL 11 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CANAL11HD.png" group-title="PORTUGAL",PT: CANAL 11 ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64941.m3u8
+#EXTINF:-1 tvg-id="SPORTVyuKJ+" tvg-name="PT: 5P0R7 7V + ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTVMAIS.png" group-title="PORTUGAL",PT: 5P0R7 7V + ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64981.m3u8
+#EXTINF:-1 tvg-id="Sport TV mais (PT)" tvg-name="PT: 5P0R7 7V + ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTVMAIS.png" group-title="PORTUGAL",PT: 5P0R7 7V + ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64946.m3u8
+#EXTINF:-1 tvg-id="Sport TV mais (PT)" tvg-name="PT: 5P0R7 7V + ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTVMAIS.png" group-title="PORTUGAL",PT: 5P0R7 7V + ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64983.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="PT: 5P0R7 7V 1 SD ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_1.png" group-title="PORTUGAL",PT: 5P0R7 7V 1 SD ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64984.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="PT: 5P0R7 7V 1 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_1HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 1 ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64986.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="PT: 5P0R7 7V 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_1HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 1 ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64947.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="PT: 5P0R7 7V 1 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_1HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 1 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64988.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="PT: 5P0R7 7V 1 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_1HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 1 ᶠʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64948.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="PT: 5P0R7 7V 1 4K ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_1HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 1 4K ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64949.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="PT: 5P0R7 7V 2 SD ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_3.png" group-title="PORTUGAL",PT: 5P0R7 7V 2 SD ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64991.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="PT: 5P0R7 7V 2 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_2HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 2 ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64992.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="PT: 5P0R7 7V 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_2HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 2 ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64950.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="PT: 5P0R7 7V 2 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_2HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 2 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64994.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="PT: 5P0R7 7V 2 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_2HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 2 ᶠʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64951.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="PT: 5P0R7 7V 3 SD ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_3HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 3 SD ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64996.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="PT: 5P0R7 7V 3 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_3HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 3 ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64997.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="PT: 5P0R7 7V 3 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_3HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 3 ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64953.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="PT: 5P0R7 7V 3 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_3HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 3 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64999.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="PT: 5P0R7 7V 3 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_3HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 3 ᶠʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/67199.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="PT: 5P0R7 7V 4 SD ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_4.png" group-title="PORTUGAL",PT: 5P0R7 7V 4 SD ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65000.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="PT: 5P0R7 7V 4 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_4HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 4 ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64954.m3u8
+#EXTINF:-1 tvg-id="SPORT.TVHG 4 FULL HD" tvg-name="PT: 5P0R7 7V 4 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_4HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 4 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64998.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="PT: 5P0R7 7V 5 SD ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_5.png" group-title="PORTUGAL",PT: 5P0R7 7V 5 SD ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64995.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="PT: 5P0R7 7V 5 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_5HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 5 ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64955.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="PT: 5P0R7 7V 5 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_5HD.png" group-title="PORTUGAL",PT: 5P0R7 7V 5 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64993.m3u8
+#EXTINF:-1 tvg-id="SPORTVnba" tvg-name="PT: 5P0R7 7V NBA" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NBATVHD.png" group-title="PORTUGAL",PT: 5P0R7 7V NBA
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64776.m3u8
+#EXTINF:-1 tvg-id="SPORTVnba" tvg-name="PT: 5P0R7 7V NBA ʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NBATVHD.png" group-title="PORTUGAL",PT: 5P0R7 7V NBA ʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64777.m3u8
+#EXTINF:-1 tvg-id="Sport TV mais (PT)" tvg-name="PT: 5P0R7 7V NBA ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NBATVHD.png" group-title="PORTUGAL",PT: 5P0R7 7V NBA ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64945.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="PT: 11 5P0R7 1 SD ᴿ " tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos1.png" group-title="PORTUGAL",PT: 11 5P0R7 1 SD ᴿ 
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64990.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="PT:11 5P0R7 1 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos1.png" group-title="PORTUGAL",PT:11 5P0R7 1 ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64989.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="PT: 11 5P0R7 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos1.png" group-title="PORTUGAL",PT: 11 5P0R7 1 ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64957.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="PT: 11 5P0R7 1 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos1.png" group-title="PORTUGAL",PT: 11 5P0R7 1 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64987.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="PT: 11 5P0R7 1 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos1.png" group-title="PORTUGAL",PT: 11 5P0R7 1 ᶠʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64958.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: 11 5P0R7 2 SD ᴿ " tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos2.png" group-title="PORTUGAL",PT: 11 5P0R7 2 SD ᴿ 
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64985.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: 11 5P0R7 2 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos2.png" group-title="PORTUGAL",PT: 11 5P0R7 2 ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64982.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: 11 5P0R7 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos2.png" group-title="PORTUGAL",PT: 11 5P0R7 2 ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64960.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: 11 5P0R7 2 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos2.png" group-title="PORTUGAL",PT: 11 5P0R7 2 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64779.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: 11 5P0R7 2 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos2.png" group-title="PORTUGAL",PT: 11 5P0R7 2 ᶠʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64961.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="PT: 11 5P0R7 3 SD ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP3HD.png" group-title="PORTUGAL",PT: 11 5P0R7 3 SD ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64780.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="PT: 11 5P0R7 3 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP3HD.png" group-title="PORTUGAL",PT: 11 5P0R7 3 ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65090.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="PT: 11 5P0R7 3 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP3HD.png" group-title="PORTUGAL",PT: 11 5P0R7 3 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65091.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="PT: 11 5P0R7 3  ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP3HD.png" group-title="PORTUGAL",PT: 11 5P0R7 3  ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64963.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="PT: 11 5P0R7 4 SD ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP4HD.png" group-title="PORTUGAL",PT: 11 5P0R7 4 SD ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 11 5P0R7 4 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP4HD.png" group-title="PORTUGAL",PT: 11 5P0R7 4 ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 11 5P0R7 4 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP4HD.png" group-title="PORTUGAL",PT: 11 5P0R7 4 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 11 5P0R7 5 SD" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP5HD.png" group-title="PORTUGAL",PT: 11 5P0R7 5 SD
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 11 5P0R7 5 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP5HD.png" group-title="PORTUGAL",PT: 11 5P0R7 5 ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65095.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-name="PT: 11 5P0R7 5 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP5HD.png" group-title="PORTUGAL",PT: 11 5P0R7 5 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64781.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 6" tvg-name="PT: 11 5P0R7 6 SD ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP6HD.png" group-title="PORTUGAL",PT: 11 5P0R7 6 SD ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 11 5P0R7 6 ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP6HD.png" group-title="PORTUGAL",PT: 11 5P0R7 6 ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 11 5P0R7 6 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP6HD.png" group-title="PORTUGAL",PT: 11 5P0R7 6 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65098.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: B3NF1C4 7V SD ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BENFICATV1.png" group-title="PORTUGAL",PT: B3NF1C4 7V SD ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65001.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: B3NF1C4 7V ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BENFICATV1HD.png" group-title="PORTUGAL",PT: B3NF1C4 7V ᴴᴰ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65002.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: B3NF1C4 7V ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BENFICATV1HD.png" group-title="PORTUGAL",PT: B3NF1C4 7V ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64942.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: B3NF1C4 7V ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BENFICATV1HD.png" group-title="PORTUGAL",PT: B3NF1C4 7V ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64783.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: B3NF1C4 7V ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BENFICATV1HD.png" group-title="PORTUGAL",PT: B3NF1C4 7V ᶠʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64943.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: B3NF1C4 7V 4K ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/BENFICATV1HD.png" group-title="PORTUGAL",PT: B3NF1C4 7V 4K ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64944.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="PT: SPORTING TV ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPORTINGTV.png" group-title="PORTUGAL",PT: SPORTING TV ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65003.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="PT: SPORTING TV ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPORTINGTV.png" group-title="PORTUGAL",PT: SPORTING TV ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/65004.m3u8
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="PT: EUROSPORT 1 ᴿ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="PORTUGAL",PT: EUROSPORT 1 ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64784.m3u8
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="PT: EUROSPORT 1 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/EUROS.png" group-title="PORTUGAL",PT: EUROSPORT 1 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64785.m3u8
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="PT: EUROSPORT 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/EUROS.png" group-title="PORTUGAL",PT: EUROSPORT 1 ʰᵈ ᴴ²⁶⁵
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64964.m3u8
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="PT: EUROSPORT 2 ᴿ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/EUROS2.png" group-title="PORTUGAL",PT: EUROSPORT 2 ᴿ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64786.m3u8
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="PT: EUROSPORT 2 ᶠʰᵈ" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/EUROS2.png" group-title="PORTUGAL",PT: EUROSPORT 2 ᶠʰᵈ
+http://vod123.site:8080/live/joaquim1234/joaquim1234/64787.m3u8
