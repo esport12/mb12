@@ -12,7 +12,7 @@
 <thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
 ]]> </listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>http://yakisobamix.click:2082/get.php?username=gabriel123&password=gabriel321&type=m3u_plus&output=m3u8</page>
+<page>http://nbrasil.biz:80//get.php?username=italo&password=italo123&type=m3u_plus&output=m3u8</page>
 <referer> https://google.com</referer>
 <x-forward> </x-forward>
 <agent>VLC/3.0.0-git</agent>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste1[/I][/B][/COLOR]</title>
+<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste2[/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name> makelist </name>
@@ -35,7 +35,7 @@
 <thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
 ]]> </listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>http://yakisobamix.click:2082/get.php?username=gabriel123&password=gabriel321&type=m3u_plus&output=m3u8</page>
+<page>http://nbrasil.biz:80//get.php?username=italo&password=italo123&type=m3u_plus&output=m3u8</page>
 <referer> https://google.com</referer>
 <x-forward> </x-forward>
 <agent>VLC/3.0.0-git</agent>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste1[/I][/B][/COLOR]</title>
+<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste3[/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name> makelist </name>
@@ -58,7 +58,7 @@
 <thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
 ]]> </listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>http://yakisobamix.click:2082/get.php?username=gabriel123&password=gabriel321&type=m3u_plus&output=m3u8</page>
+<page>http://nbrasil.biz:80//get.php?username=italo&password=italo123&type=m3u_plus&output=m3u8</page>
 <referer> https://google.com</referer>
 <x-forward> </x-forward>
 <agent>VLC/3.0.0-git</agent>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste1[/I][/B][/COLOR]</title>
+<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste4[/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name> makelist </name>
@@ -81,7 +81,7 @@
 <thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
 ]]> </listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>http://yakisobamix.click:2082/get.php?username=gabriel123&password=gabriel321&type=m3u_plus&output=m3u8</page>
+<page>http://nbrasil.biz:80//get.php?username=italo&password=italo123&type=m3u_plus&output=m3u8</page>
 <referer> https://google.com</referer>
 <x-forward> </x-forward>
 <agent>VLC/3.0.0-git</agent>
@@ -94,7 +94,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste1[/I][/B][/COLOR]</title>
+<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste5[/I][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name> makelist </name>
@@ -104,7 +104,7 @@
 <thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
 ]]> </listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>http://yakisobamix.click:2082/get.php?username=gabriel123&password=gabriel321&type=m3u_plus&output=m3u8</page>
+<page>http://nbrasil.biz:80//get.php?username=italo&password=italo123&type=m3u_plus&output=m3u8</page>
 <referer> https://google.com</referer>
 <x-forward> </x-forward>
 <agent>VLC/3.0.0-git</agent>
