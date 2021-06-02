@@ -11,8 +11,8 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
 <thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
 ]]> </listrepeat>
-<expres>#EXTINF:.*,(.*?)\n.*(http.*ts)</expres>
-<page>http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u_plus</page>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u)</expres>
+<page>http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u</page>
 <referer> https://google.com</referer>
 <x-forward> </x-forward>
 <agent>VLC/3.0.0-git</agent>
