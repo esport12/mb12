@@ -1,97 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste1[/I][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name> makelist </name>
-<listrepeat> <! [CDATA [
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
-<thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
-]]> </listrepeat>
-<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>http://nbrasil.biz:80//get.php?username=italo&password=italo123&type=m3u_plus&output=m3u8</page>
-<referer> https://google.com</referer>
-<x-forward> </x-forward>
-<agent>VLC/3.0.0-git</agent>
-</regex>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]') <expres>
-<page> </page>
-</regex>
-</item>
 
-
-<item>
-<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste1[/I][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name> makelist </name>
-<listrepeat> <! [CDATA [
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
-<thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
-]]> </listrepeat>
-<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>http://nbrasil.biz:80//get.php?username=italo&password=italo123&type=m3u_plus&output=m3u8</page>
-<referer> https://google.com</referer>
-<x-forward> </x-forward>
-<agent>VLC/3.0.0-git</agent>
-</regex>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]') <expres>
-<page> </page>
-</regex>
-</item>
-
-
-<item>
-<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste1[/I][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name> makelist </name>
-<listrepeat> <! [CDATA [
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
-<thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
-]]> </listrepeat>
-<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>http://nbrasil.biz:80//get.php?username=italo&password=italo123&type=m3u_plus&output=m3u8</page>
-<referer> https://google.com</referer>
-<x-forward> </x-forward>
-<agent>VLC/3.0.0-git</agent>
-</regex>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]') <expres>
-<page> </page>
-</regex>
-</item>
-
-
-<item>
-<title>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv teste1[/I][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name> makelist </name>
-<listrepeat> <! [CDATA [
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
-<thumbnail>https://i.imgur.com/C9KxmjF.jpg</thumbnail>
-]]> </listrepeat>
-<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>http://nbrasil.biz:80//get.php?username=italo&password=italo123&type=m3u_plus&output=m3u8</page>
-<referer> https://google.com</referer>
-<x-forward> </x-forward>
-<agent>VLC/3.0.0-git</agent>
-</regex>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]') <expres>
-<page> </page>
-</regex>
-</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+<channels>
+<channel>
+<name>[COLOR yellow][B][COLOR lime]»»Flashbrasil[/COLOR] Brasil tv [/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+<externallink>====AZJM723AXWFMD3LMH2BGSJJCGSFMSD54WS5FJ34CGZJMI34CGWZMO33IGSFMPZYGGXUMDLYAXZROBTLCGZ5MFT3CGUNMFD3MWX4F2B4IH2BN</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
